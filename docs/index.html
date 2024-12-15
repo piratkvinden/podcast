@@ -177,7 +177,7 @@ async function fetchDataAndPreloadIcon() {
     const urls = [
       'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
       'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
-      'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/r8dio.json',
+      'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/r8dio.json',
       'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
     ];
 
@@ -703,7 +703,7 @@ async function filterPodcasts(searchText) {
       description: content,
       url: program_url,
       image,
-      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/r8dio/${slug}.rss`
+      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
     })),
     ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
       text: title,
