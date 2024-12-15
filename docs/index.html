@@ -175,10 +175,10 @@ document.addEventListener('DOMContentLoaded', () => {
 async function fetchDataAndPreloadIcon() {
   try {
     const urls = [
-      'https://raw.githubusercontent.com/piratkvinden/podcast/DR/main/docs/drlyd.json',
-      'https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/docs/podimo.json',
-      'https://raw.githubusercontent.com/piratkvinden/r8dio/main/docs/oversigtAfsnit.json',
-      'https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/docs/oversigt.json',
+      'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
+      'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
+      'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/r8dio.json',
+      'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
     ];
 
     [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData] = await Promise.all(urls.map(fetchData));
