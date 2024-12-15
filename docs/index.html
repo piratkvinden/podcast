@@ -687,7 +687,7 @@ async function filterPodcasts(searchText) {
       description,
       url: program_url,
       image,
-      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/DR{program_url.split('/').pop()}.rss`
+      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/DRLyd/${program_url.split('/').pop()}.rss`
     })),
     ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
       text: title,
