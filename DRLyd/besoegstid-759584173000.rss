@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Besøgstid</title>
+    <link>https://www.dr.dk/lyd/p1/besoegstid-759584173000</link>
+    <description>Værten i Besøgstid er et kendt navn fra kulturens verden, gæsten er Karen Secher og redaktionen bag Besøgstid har til hvert besøg forberedt en samling overraskelser og medbringer nogle brikker - mere eller mindre velkendte - til det puslespil, der udgør et menneske.</description>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66ffe448fd6dd215a9a9bbd4.jpg"/>
+    <item>
+      <title>Henrik Norbrandt</title>
+      <description>Værten i Besøgstid er Henrik Nordbrandt, gæsten er Karen Secher og redaktionen bag Besøgstid har til hvert besøg forberedt en samling overraskelser og medbringer nogle brikker - mere eller mindre velkendte - til det puslespil, der udgør et menneske. 
+(Sendt første gang 5. december 2012).</description>
+      <duration>00:56:27</duration>
+      <pubDate>Tue, 31 Jan 2023 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/besoegstid/besoegstid-2012/besoegstid-henrik-norbrandt-11131211049</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63d90478e639f731c2ec5550/5434fa8ed9a5318129610e7f9c59e6cd02fa7d5f376b7ed0576e542e7095796d" length="81305947" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Johnny Madsen</title>
+      <description>Værten i Besøgstid er Johnny Madsen, gæsten er Karen Secher og redaktionen bag Besøgstid har til hvert besøg forberedt en samling overraskelser og medbringer nogle brikker - mere eller mindre velkendte - til det puslespil, der udgør et menneske. 
+(Sendes også i morgen 20.03 
+og fredag 1.03).</description>
+      <duration>00:56:54</duration>
+      <pubDate>Tue, 05 Nov 2024 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/besoegstid/besoegstid-2010/besoegstid-johnny-madsen-11131011133</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6729f3f3693631af7a4f82de/3022e71c53aef500ded8a475ec6192d455f07382529c8f183ce7697154cfd035" length="0" type="audio/x-m4a"/>
+    </item>
+  </channel>
+</rss>
