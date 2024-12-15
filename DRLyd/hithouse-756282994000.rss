@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Hithouse</title>
+    <link>https://www.dr.dk/lyd/p5/hithouse-756282994000</link>
+    <description>Musik og historier fra 
+pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2e32eb75d19480fa5d33d.jpg"/>
+    <item>
+      <title>Fredag 13. dec. 2024</title>
+      <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <duration>00:55:00</duration>
+      <pubDate>Fri, 13 Dec 2024 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423505</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3df1797e57dfefe9a564/9caa100210053145249030c2b6036586c5b77f7a9e96bfda17f27f722383068c" length="79201972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Torsdag 12. dec. 2024</title>
+      <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <duration>00:55:00</duration>
+      <pubDate>Thu, 12 Dec 2024 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423504</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674cecc87c5eeb4989fdb99c/57ae8fbd1d56e3f5e6fa87c217e1b3cf109b926cbb93184b124250db7a30f5da" length="79201972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Onsdag 11. dec. 2024</title>
+      <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <duration>00:55:00</duration>
+      <pubDate>Wed, 11 Dec 2024 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423503</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674b9aa13b277e1409315e61/295a7c0933d13013e04c2280cb8ccc8dbf14e4e348523bd2b27cd854252e91c9" length="79201396" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
