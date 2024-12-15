@@ -687,7 +687,7 @@ async function filterPodcasts(searchText) {
       description,
       url: program_url,
       image,
-      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/DR/RSS${program_url.split('/').pop()}.rss`
+      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/DR{program_url.split('/').pop()}.rss`
     })),
     ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
       text: title,
@@ -695,7 +695,7 @@ async function filterPodcasts(searchText) {
       description,
       url: `https://podimo.com/dk/shows/${id}`,
       image: coverImageUrl,
-      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/RSS/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
     })),
     ...r8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
       text: title,
@@ -711,7 +711,7 @@ async function filterPodcasts(searchText) {
       description,
       url: program_url,
       image,
-      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/RSS/${encodeURIComponent(id)}.rss`
+      rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
     }))
   ];
 
