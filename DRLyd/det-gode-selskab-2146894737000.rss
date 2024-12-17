@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Det gode Juleselskab - med Anne Dorte Michelsen</title>
+      <description>Mens æteren på P5 er fuld af julemusik, fortæller sanger, sangskriver og radiovært Anne Dorte Michelsen, hvad der for hende er et rigtig godt julenummer. Dem er der ifølge Anne Dorte ikke så mange af endda.
+Vært: Charlotte Hagen Striib.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Mon, 16 Dec 2024 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-juleselskab-med-anne-dorte-michelsen-15452428511</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6752320bbb03326e1e60408a/2fa687f0240ffcac7302bc72dfd215ebc63ab73aaa6e9c7b1a79e66a87409627" length="168481591" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Det gode Juleselskab - med Henrik Richard Faurby Birck</title>
       <description>Julen er fyldt med musik, shows og serier i TV. TV-porteføljechef i DR, Henrik Richard Faurby Birck, giver os det forkromede overblik til gedigen underholdning i juledagene. 
 Vært: Charlotte Striib.</description>
@@ -14,15 +23,6 @@ Vært: Charlotte Striib.</description>
       <pubDate>Fri, 13 Dec 2024 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-juleselskab-med-henrik-richard-faurby-birck-15452428505</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3de8044e882ef27ce37f/5e1f80267d4aca3d1558c49839d3f43048c002ad299623a17665f5bf47d54a63" length="168482123" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Det gode Juleselskab - med Mette Blomsterberg</title>
-      <description>Interessen for kagebagning er stor her i landet, og konditor og tidligere bagedyst-dommer, Mette Blomsterberg, udgav i efteråret bogen Småkager. Her får man både de traditionelle og mere kunstfærdige opskrifter på småkager, som er en klassisk spise i julen.
-Vært: Charlotte Striib.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Thu, 12 Dec 2024 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-juleselskab-med-mette-blomsterberg-15452428504</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674cecc97c5eeb4989fdb9a4/4e7199ebbbc4db7ac0bff390253434dc3877291c5fca59735da52c105188b29b" length="168481609" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

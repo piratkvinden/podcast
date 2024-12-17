@@ -75,6 +75,16 @@ Vært: Magnus Larsson.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:648e30496a3efd0b0db4416b/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c" length="156966219" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Den klaverspillende sagfører</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
+Denne gang med nogle musikalske personligheder, der sprænger alle rammer, bl.a. Rakhmaninov, Gershwin, og en engelsk advokat, der også er klavervirtuos.
+Vært: Jens Cornelius.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 23 Jun 2024 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666a1c4b87581a935f5da8c3/efd211b3f61212d374b45ca43c09810b7d013d2e70b13b621944b382c766c699" length="168481603" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Hjemme</title>
       <description>Klaverundervisning og Poul Dissing er markante musikminder fra mit barndomshjem. I senere hjem var der bl.a. Schubert og Bach i højttalerne. Og koncertsale blev også en form for hjem. I dag har næste generation derhjemme stort set overtaget magten over musikken. 
 Vært: Nina Ørum.</description>
@@ -199,26 +209,6 @@ Vært: Max Fage-Pedersen.</description>
       <pubDate>Wed, 26 Jun 2024 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-blaesermusik-med-sol-og-lys-og-varme-12422481881</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666e10a1a97b65d890ae1b19/517b84817199da2943703eab19c3f6ba309ca7efefadf3b5a065cd29d9b2e487" length="165601610" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Den klaverspillende sagfører</title>
-      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
-Denne gang med nogle musikalske personligheder, der sprænger alle rammer, bl.a. Rakhmaninov, Gershwin, og en engelsk advokat, der også er klavervirtuos.
-Vært: Jens Cornelius.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 23 Jun 2024 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666a1c4b87581a935f5da8c3/efd211b3f61212d374b45ca43c09810b7d013d2e70b13b621944b382c766c699" length="168481603" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lyt til højre, lyt til venstre</title>
-      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
-Denne gang med noget af al den skønne klassiske musik, man støder på, hvis man kigger lidt til siden i stedet for kun at fokusere på det allermest kendte.
-Vært: Jens Cornelius.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 16 Jun 2024 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-lyt-til-hoejre-lyt-til-venstre-12422481864</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6660e16f266f037612a7a589/de166eb8ebbb2f72bb97ec86c0b7e9d7795921d45d39e59074640f6ad9ca65cd" length="168482185" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
