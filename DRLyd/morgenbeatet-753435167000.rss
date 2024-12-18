@@ -6,6 +6,15 @@
     <description>Alle hverdagsmorgener får du det bedste og bredeste soundtrack til dagens første timer i sprødt selskab. Og så er det fra 07-10.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2795ab75d19480fa42b50.jpg"/>
     <item>
+      <title>Tirsdag 17. dec. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Jonas Hansen.</description>
+      <duration>02:55:00</duration>
+      <pubDate>Tue, 17 Dec 2024 07:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432512</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675383ff4c42182cb5ea4e9b/21f3d238099c9109e3ece4b1bfc8bc4756ed5e465f161739ee7ffab04a23f99e" length="252001991" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 16. dec. 2024</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
 Vært: Jonas Hansen.</description>
@@ -13,15 +22,6 @@ Vært: Jonas Hansen.</description>
       <pubDate>Mon, 16 Dec 2024 07:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432511</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6752320c013901fa8d2595de/e8b3ba1e9d1d9d87d322f233f322cf09c506f9c03746664c3e6e31e50bf69e8c" length="252001415" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 13. dec. 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Camilla Jane Lea.</description>
-      <duration>02:55:00</duration>
-      <pubDate>Fri, 13 Dec 2024 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432505</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3de8797e57dfefe9a51b/2e5e9280157e718f5bcf5e5090820de05040cf9dfd861b417c72eef0df15c963" length="252001995" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
