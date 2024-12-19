@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 18. dec. 2024</title>
+      <description>Præludium: Sigfrid Karg-Elert: Guds Søn kom ned fra Himmerig
+Fra det G.T.: Mikas bog 5,1-3
+Salme: 71 &quot;Nu kom der bud fra englekor&quot;
+Fra det N.T.: Lukasevangeliet 1, 26-38
+Korvers: Emilius Bangert: Halleluja. Min sjæl ophøjer Herren  (tekst: Lukasevangelium 1, 46-47)
+Salme: 72, vers 1-2 &quot;Maria hun var en jomfru ren&quot;
+Postludium: Johannes Brahms: En rose så jeg skyde</description>
+      <duration>00:25:03</duration>
+      <pubDate>Wed, 18 Dec 2024 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405513</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6754d4ad4f630bd99c8ad04d/03a740c8986e0a2c35b30b4cb52c363bc11a55c7ab28ddd3c92a2adb65518610" length="36085680" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 17. dec. 2024</title>
       <description>Præludium: Niels Otto Raasted: Nu vil vi sjunge og være glad
 Fra det G.T.: Esajas 40, 6-11
@@ -340,20 +354,6 @@ Postludium: Johann Sebastian Bach/Charles-Marie Widor: Sicilienne</description>
       <pubDate>Wed, 20 Nov 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405473</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672feabd1c69efe5aa6aff88/0bae591ffdd8e61d7e21d249aeda20d453e7cae6c9196c1ad2eac011f33f4fe5" length="36001579" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 19. nov. 2024</title>
-      <description>Præludium: Ethan Rosenkilde Larsen: Almindelig er Kristi kirke
-Fra det G.T.: Esajas 59, 14-20
-Salme: 12, vers 1-3 &quot;Min sjæl, du Herren love&quot;
-N.T.: 	Matthæusevangeliet 24,23-31
-Korvers: Johann Sebastian Bach: Det livets ord vi bygger på (tekst: Grundtvig 1822)
-Salme: 12, vers 4
-Postludium: Johann Gottfried Walther: Min sjæl, du Herren love</description>
-      <duration>00:25:00</duration>
-      <pubDate>Tue, 19 Nov 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405472</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672e99962c73ef01bf8cdd0b/7ecaa8a6784f8f1f9f59bf468c9960a99efdda8c1580dcd736e909c12f6ba903" length="36001582" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
