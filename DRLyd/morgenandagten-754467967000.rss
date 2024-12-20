@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Torsdag 19. dec. 2024</title>
+      <description>Præludium: Matthias Weckmann: Magnificat II. toni, Vers I
+Fra det G.T.: Esajas 42,5-9
+Salme: 83 &quot;Glæd dig, Zion, glæd dig, Jord&quot;
+Fra det N.T.: Lukasevangeliet 1, 39-45
+Korvers: Emilius Bangert: Halleluja. Min sjæl ophøjer Herren  (tekst: Lukasevangelium 1, 46-47)
+Salme: 129 &quot;Julebudet til dem, der bygge&quot;
+Postludium: Matthias Weckmann: Magnificat II. toni, Vers II</description>
+      <duration>00:25:03</duration>
+      <pubDate>Thu, 19 Dec 2024 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405514</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67562739f27a14daa0ce1059/7272226fb269b11ac1bef871dc34f42ace10c0c8a16e48789e3c94c6eb252b5b" length="36085678" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 18. dec. 2024</title>
       <description>Præludium: Sigfrid Karg-Elert: Guds Søn kom ned fra Himmerig
 Fra det G.T.: Mikas bog 5,1-3
@@ -56,10 +70,10 @@ Fra det N.T.: 1. Korintherbrev 4, 1-5
 Trosbekendelsen: 	
 Salme: 117 &quot;En rose så jeg skyde&quot;
 Postludium: Emanuel Adler: En rose så jeg skyde</description>
-      <duration>00:25:03</duration>
+      <duration>00:24:55</duration>
       <pubDate>Sat, 14 Dec 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405506</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f407b1cbac66d098a51/4e5b776fbc31d899026dffc519dc421666cb1a03f9bb63357a7c03d0ed58c10c" length="36085679" type="audio/mpeg"/>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f407b1cbac66d098a51/5d17835c59268ff41b7f33a5bdba338b05863a3ea00f100f8f314f01196cdd93" length="35899055" type="audio/mpeg"/>
     </item>
     <item>
       <title>Fredag 13. dec. 2024</title>
@@ -340,20 +354,6 @@ Postludium: Percy Whitlock: Folk tune fra &quot;Five short pieces&quot;</descrip
       <pubDate>Thu, 21 Nov 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405474</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67313c4fda093e2faceac8e1/e1604cedb8a5e6a8be83da75f677b3d53cce7a1eb74897694e722fbc612ba715" length="36001580" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 20. nov. 2024</title>
-      <description>Præludium: Johann Adolph Scheibe: Adagio
-Fra det G.T.: Prædikerens Bog 4,17 - 5,4
-Salme: 362, vers 1-4 &quot;Gør dig nu rede, kristenhed&quot;
-Fra det N.T.: Matthæusevangeliet 24,32-36 &amp; 42-44
-Korvers: Johann Sebastian Bach: Det livets ord vi bygger på (tekst: Grundtvig 1822)
-Salme: 362, vers 5-6
-Postludium: Johann Sebastian Bach/Charles-Marie Widor: Sicilienne</description>
-      <duration>00:25:00</duration>
-      <pubDate>Wed, 20 Nov 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405473</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672feabd1c69efe5aa6aff88/0bae591ffdd8e61d7e21d249aeda20d453e7cae6c9196c1ad2eac011f33f4fe5" length="36001579" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
