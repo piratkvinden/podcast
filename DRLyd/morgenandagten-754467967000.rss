@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Fredag 20. dec. 2024</title>
+      <description>Præludium: Joseph Ahrens: Maria gennem torne går
+Fra det G.T.: Esajas 49, 8-13
+Salme: 112 &quot;Kom, alle kristne&quot;
+Fra det N.T.: Lukasevangeliet 1, 46-55
+Korvers: Emilius Bangert: Halleluja. Min sjæl ophøjer Herren  (tekst: Lukasevangelium 1, 46-47)
+Salme: 73 &quot;Vi synger med Maria&quot;
+Postludium: Johann Sebastian Bach/Charles Gounod: Ave Maria</description>
+      <duration>00:25:03</duration>
+      <pubDate>Fri, 20 Dec 2024 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405515</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67577851fd1645362ff40de6/1f8a90acab2693657bb5b68d86f72b0820488d56428359b57b71f4a61867463e" length="36085678" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 19. dec. 2024</title>
       <description>Præludium: Matthias Weckmann: Magnificat II. toni, Vers I
 Fra det G.T.: Esajas 42,5-9
@@ -340,20 +354,6 @@ Postludium: Joseph Jongen: Pétit Prélude</description>
       <pubDate>Fri, 22 Nov 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405475</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6732e550cc51d45dc048cf86/c7fccfaf275c9204c609605b91d80f0f3d99a70ba68dd8911f4223067ca69e0a" length="36001577" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 21. nov. 2024</title>
-      <description>Præludium: Johann Pachelbel: Til dig alene, Herre Krist
-Fra det G.T.: Amos' bog 8,4-8a
-Salme: 271 &quot;I jomfruer, I kloge&quot;
-Fra det N.T.: Matthæusevangeliet 25,1-13
-Korvers: Johann Sebastian Bach: Det livets ord vi bygger på (tekst: Grundtvig 1822)
-Salme: 599, vers 1 &quot;Lov og tak og evig ære&quot;
-Postludium: Percy Whitlock: Folk tune fra &quot;Five short pieces&quot;</description>
-      <duration>00:25:00</duration>
-      <pubDate>Thu, 21 Nov 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405474</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67313c4fda093e2faceac8e1/e1604cedb8a5e6a8be83da75f677b3d53cce7a1eb74897694e722fbc612ba715" length="36001580" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
