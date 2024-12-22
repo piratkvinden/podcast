@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 21. dec. 2024</title>
+      <description>Præludium: Matthias Weckmann: Magnificat II. toni, Vers III
+Davidssalme: 145, 8-12
+Salme: 109, vers 1-3 &quot;I denne søde juletid&quot;
+Fra det N.T.: Filipperbrevet 4, 4-7
+Trosbekendelsen	
+Salme: 268 &quot;Zions vægter hæver røsten&quot;
+Postludium: Matthias Weckmann: Magnificat II. toni, Vers IV</description>
+      <duration>00:25:03</duration>
+      <pubDate>Sat, 21 Dec 2024 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405516</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6758c953a35f72241adff95c/6c25e7a035a4b69964970b70492e6a6bddd7d3b76e726a8124e3277f90c68edf" length="36085676" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 20. dec. 2024</title>
       <description>Præludium: Joseph Ahrens: Maria gennem torne går
 Fra det G.T.: Esajas 49, 8-13
@@ -340,20 +354,6 @@ Postludium: Charles Tournemire: Interlude</description>
       <pubDate>Sat, 23 Nov 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405476</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dee0734112e56799c94c/fffa6a816aecadac5a6aaf91d2215b8d8d557ac64286e0fcd64091b52a3c8465" length="36001578" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 22. nov. 2024</title>
-      <description>Præludium: André Fleury: Très calme
-Fra det G.T.: Amos' bog 9,13-15
-Salme: 277, vers 1-4 &quot;Herre, når din time kommer&quot;
-Fra det N.T.: Matthæusevangeliet 25,31-41
-Korvers: Johann Sebastian Bach: Det livets ord vi bygger på (tekst: Grundtvig 1822)
-Salme: 277, vers 5-8
-Postludium: Joseph Jongen: Pétit Prélude</description>
-      <duration>00:25:00</duration>
-      <pubDate>Fri, 22 Nov 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405475</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6732e550cc51d45dc048cf86/c7fccfaf275c9204c609605b91d80f0f3d99a70ba68dd8911f4223067ca69e0a" length="36001577" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
