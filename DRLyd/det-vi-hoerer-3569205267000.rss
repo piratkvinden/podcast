@@ -70,16 +70,6 @@ Vært: Max Fage-Pedersen.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666e10a1a97b65d890ae1b19/517b84817199da2943703eab19c3f6ba309ca7efefadf3b5a065cd29d9b2e487" length="165601610" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Den klaverspillende sagfører</title>
-      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
-Denne gang med nogle musikalske personligheder, der sprænger alle rammer, bl.a. Rakhmaninov, Gershwin, og en engelsk advokat, der også er klavervirtuos.
-Vært: Jens Cornelius.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 23 Jun 2024 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666a1c4b87581a935f5da8c3/efd211b3f61212d374b45ca43c09810b7d013d2e70b13b621944b382c766c699" length="168481603" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Når enden er god</title>
       <description>Hvad har jeg glemt at spille? Hvad var der ikke plads til? Og hvad har jeg lige opdaget?
 Det samler jeg op på i dette program, hvor jeg kommer godt og grundigt rundt i alle kroge, alt fra opera til jazz, musik fra øst og vest. Og så spiller jeg musik af en kunstner jeg netop har opdaget.
@@ -209,6 +199,16 @@ Vært: Nina Ørum.</description>
       <pubDate>Mon, 24 Jun 2024 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-musikskolebarn-12422381821</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:648cdea05f1ccbb9a78693dd/4187f16737fe8c1f2efd095d4e62b431d31d2c2a556c22ee53d16f6302f9dbe6" length="156973706" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Den klaverspillende sagfører</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
+Denne gang med nogle musikalske personligheder, der sprænger alle rammer, bl.a. Rakhmaninov, Gershwin, og en engelsk advokat, der også er klavervirtuos.
+Vært: Jens Cornelius.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 23 Jun 2024 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666a1c4b87581a935f5da8c3/efd211b3f61212d374b45ca43c09810b7d013d2e70b13b621944b382c766c699" length="168481603" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
