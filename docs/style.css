@@ -505,6 +505,7 @@ h2 {
   white-space: nowrap;
   overflow: hidden;
   flex-grow: 1;
+  bottom: 2%;
 }
 
 .modal {
