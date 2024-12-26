@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.css">
     <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js"></script>
@@ -40,7 +41,7 @@
                     <i class="fa-regular fa-circle-play"></i>
                 </a>
                 <a id="playAudiobookDefault" title="Download lydbog" class="icon-link">
-                    <span class="material-icons">download</span>
+                    <span class="material-icons custom-download-icon" id="downloadIcon">download</span>
                 </a>
             </div>
         </div>
@@ -125,6 +126,8 @@
           playAudiobookOnSite.dataset.author = podcast.author || 'Ukendt forfatter';
           playAudiobookOnSite.dataset.coverImage = podcast.image || '';
         
+          const downloadIcon = document.getElementById('downloadIcon');
+          downloadIcon.textContent = 'download';
           modal.style.display = 'block';
         }
         
@@ -387,34 +390,43 @@
           if(event.key === 'Enter') this.blur();
         });
             
-document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
-    event.preventDefault();
+        document.getElementById('playAudiobookDefault').addEventListener('click', async function (event) {
+            event.preventDefault();
 
-    const podcastTitle = document.getElementById('modalTitle').textContent;
-    console.log(podcastTitle);
-    const mp3Link = this.href;
+            const downloadIcon = document.getElementById('downloadIcon');
+            const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
+            const mp3Link = this.href;
 
-    try {
-        const response = await fetch(mp3Link);
-        if (!response.ok) {
-            throw new Error(`Failed to fetch file: ${response.statusText}`);
-        }
-        const blob = await response.blob();
+            try {
+                downloadIcon.textContent = 'sync';
+                downloadIcon.classList.add('downloading');
 
-        const blobUrl = URL.createObjectURL(blob);
-        const downloadLink = document.createElement('a');
-        downloadLink.href = blobUrl;
-        downloadLink.download = `${podcastTitle}.mp3`;
-        document.body.appendChild(downloadLink);
-        downloadLink.click();
-        document.body.removeChild(downloadLink);
+                const response = await fetch(mp3Link);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch file: ${response.statusText}`);
+                }
+                const blob = await response.blob();
 
-        URL.revokeObjectURL(blobUrl);
-    } catch (error) {
-        console.error('Error downloading the file:', error);
-        alert('Kunne ikke downloade filen.');
-    }
-});
+                const blobUrl = URL.createObjectURL(blob);
+                const downloadLink = document.createElement('a');
+                downloadLink.href = blobUrl;
+                downloadLink.download = `${podcastTitle}.mp3`;
+                document.body.appendChild(downloadLink);
+                downloadLink.click();
+                document.body.removeChild(downloadLink);
+                URL.revokeObjectURL(blobUrl);
+
+                downloadIcon.textContent = 'check_circle_outline';
+                downloadIcon.classList.remove('downloading');
+                downloadIcon.classList.add('success');
+            } catch (error) {
+                console.error('Error downloading the file:', error);
+                alert('Kunne ikke downloade lydbogen.');
+
+                downloadIcon.textContent = 'download';
+                downloadIcon.classList.remove('downloading');
+            }
+        });
     </script>
 </body>
 

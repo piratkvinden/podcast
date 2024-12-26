@@ -426,6 +426,28 @@ h2 {
   transform: scale(1.2);
 }
 
+        .custom-download-icon {
+            font-size: 24px;
+            display: inline-block;
+            transition: transform 0.3s ease, color 0.3s ease;
+        }
+
+        .custom-download-icon.downloading {
+            animation: spin 1s linear infinite reverse;
+        }
+
+        .custom-download-icon.success {
+            color: green;
+        }
+
+        @keyframes spin {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
 
 #copyRSSButton i {
   color: #ff6347;
