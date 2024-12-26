@@ -39,8 +39,8 @@
                 <a id="playAudiobookOnSite" title="Afspil her" class="icon-link">
                     <i class="fa-regular fa-circle-play"></i>
                 </a>
-                <a id="playAudiobookDefault" title="Afspil eksternt" class="icon-link">
-                    <span class="material-icons">phone_iphone</span>
+                <a id="playAudiobookDefault" title="Download lydbog" class="icon-link">
+                    <span class="material-icons">download</span>
                 </a>
             </div>
         </div>
@@ -387,20 +387,34 @@
           if(event.key === 'Enter') this.blur();
         });
             
-        document.getElementById('playAudiobookOnSite').addEventListener('click', function(event) {
-          event.preventDefault(); 
-        
-          const podcast = {
-            text: document.getElementById('modalTitle').textContent,
-            provider: document.getElementById('modalProvider').textContent,
-            description: document.getElementById('modalDescription').innerHTML,
-            mp3Link: this.href,
-            author: this.dataset.author,
-            image: this.dataset.coverImage,
-          };
-        
-          playEpisode(podcast, podcast.mp3Link, podcast.text, podcast.author, podcast.image);
-        });
+document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
+    event.preventDefault();
+
+    const podcastTitle = document.getElementById('modalTitle').textContent;
+    console.log(podcastTitle);
+    const mp3Link = this.href;
+
+    try {
+        const response = await fetch(mp3Link);
+        if (!response.ok) {
+            throw new Error(`Failed to fetch file: ${response.statusText}`);
+        }
+        const blob = await response.blob();
+
+        const blobUrl = URL.createObjectURL(blob);
+        const downloadLink = document.createElement('a');
+        downloadLink.href = blobUrl;
+        downloadLink.download = `${podcastTitle}.mp3`;
+        document.body.appendChild(downloadLink);
+        downloadLink.click();
+        document.body.removeChild(downloadLink);
+
+        URL.revokeObjectURL(blobUrl);
+    } catch (error) {
+        console.error('Error downloading the file:', error);
+        alert('Kunne ikke downloade filen.');
+    }
+});
     </script>
 </body>
 
