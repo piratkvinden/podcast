@@ -3278,5 +3278,37 @@
     "description": "Kom tættere på musikeren Sebastian og mennesket Knud. Det er én og samme person - med to vidt forskellige udtryk. Igennem musikken fortæller Sebastian om sine værker, forestillinger og sin karriere. Lige fra sin spæde start hos rullekonen i Glostrup til de mange tusinder af mennesker, som han spiller for nu på de danske scener.\nIgennem vennerne får vi et indblik i kammeraten Knud med hans humor og nærvær - og sit evige omdrejningspunkt: musikken.\nTilrettelægger og vært: Carsten Holm.\nProduceret for DR af Munck Studios København.",
     "program_url": "https://www.dr.dk/lyd/p5/det-her-er-sebastian-3583681383000",
     "series_hash": "62914bb53f3b36d4c29aff68"
+  },
+  {
+    "name": "Det kimer nu",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-kimer-nu",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6765703cf3649bb71322900a.jpg",
+    "description": "Julekrybben er sat op, når Christoffer Emil Bruun får besøg af gæster, der på hver sin måde har en relation til julens mirakel. Musiker Astrid Sonne, teaterinstruktør Johan Klint Sandberg og forfatter Jonas Eika fortæller om deres kunst og om forholdet til kristendom. Endelig afsløres P1's julegave til lytterne.",
+    "program_url": "https://www.dr.dk/lyd/p1/det-kimer-nu-6134359353000",
+    "series_hash": "67619908237255de0787651f"
+  },
+  {
+    "name": "Det bedste fra DRs Juleshow",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-bedste-fra-drs-juleshow",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:675cbd905523e022853d3cba.jpg",
+    "description": "Vært: Søren Hansen.",
+    "program_url": "https://www.dr.dk/lyd/p5/det-bedste-fra-drs-juleshow-2142807049000",
+    "series_hash": "600172c66c12863ced19e93b"
+  },
+  {
+    "name": "Til bords med Sofie",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/til-bords-med-sofie",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6762b15cf3649bb7131799ec.jpg",
+    "description": "Sofie Borbiconi byder på nogle af de klassiske julesange og nogle af sine egne favoritter, når hun serverer en radiofonisk julemenu, der får dig i den helt rigtige julestemning, når du sætter dig ved årets julebord. Velbekomme.\nVært: Sofie Borbiconi.",
+    "program_url": "https://www.dr.dk/lyd/p4/til-bords-med-sofie-4199751706000",
+    "series_hash": "63a30d7f9c2c142ce1857068"
+  },
+  {
+    "name": "Hot",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/hot",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66ff160dfd6dd215a9a682f1.jpg",
+    "description": "Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.\nVært: Mikkel Bagger.",
+    "program_url": "https://www.dr.dk/lyd/p4/hot-3604061216000",
+    "series_hash": "62b4e4d9ed51a240a4381a6d"
   }
 ]

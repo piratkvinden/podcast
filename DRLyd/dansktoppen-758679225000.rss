@@ -8,6 +8,14 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3382eb75d19480fa7269b.jpg"/>
     <item>
+      <title>På vej mod Dansktoppen</title>
+      <description>Du kan høre de tre sange, som på lørdag bliver testet til en plads på Dansktoppen, de såkaldte boblere.</description>
+      <duration>00:12:00</duration>
+      <pubDate>Wed, 25 Dec 2024 19:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/paa-vej-mod-dansktoppen-15452433523</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675e0f20831daf9b37fc6dc7/5cc02fe713ab648e85fdf77541726ce24359bcdf344460ffd7ee3f3e41c77c5a" length="17281453" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 21. dec. 2024</title>
       <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
 Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
@@ -408,16 +416,6 @@ Vært: Ole Tøpholm.</description>
       <pubDate>Sat, 06 Jul 2024 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432276</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3ffae40614b67a0a7477/bf187e07f1c0faf16899116c9cbe02a35bfbd4f75697b9ae6667763708d26bd4" length="151201494" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 29. jun. 2024</title>
-      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-      <duration>01:45:00</duration>
-      <pubDate>Sat, 29 Jun 2024 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6672051ce40614b67ae298a3/5c606158c3b97346d07d766f782fc1104a911af9a5c7610da718c814a74c8581" length="151201494" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
