@@ -1,5 +1,12 @@
 [
   {
+    "name": "De Sorte Spejdere",
+    "url": "https://raw.githubusercontent.com/UmFzbXVz/DRSS/refs/heads/main/2.0/spejder.rss",
+    "image": "https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2015%2F10%2F30%2F20h_23.jpg&scaleAfter=crop&quality=70&w=720&h=720",
+    "description": "Én lang hentydning.\n\n Værter: Anders Breinholt og Anders Lund Madsen.",
+    "program_url": "http://dr.dk/spejder"
+  },
+  {
     "name": "Feature",
     "url": "https://api.dr.dk/podcasts/v1/feeds/feature",
     "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:670004e7075f92789928b4a2.jpg",
