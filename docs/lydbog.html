@@ -15,434 +15,425 @@
 </head>
 
 <body>
-    <div class="container">
-        <h2>lydbog</h2>
-        <div class="search-wrapper">
-            <input type="text" id="searchInput" placeholder="søg..">
-            <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+<div class="container">
+    <h2>lydbog</h2>
+    <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="søg..">
+        <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+    </div>
+    <p class="helper-text"></p>
+    <div id="results"></div>
+</div>
+<div id="spinnerOverlay" class="spinner-overlay" style="display: none;">
+    <i class="fas fa-spinner fa-spin spinner"></i>
+</div>
+<div id="podcastModal" class="modal">
+    <div class="modal-content">
+        <div class="close" id="closeModal">&#10006;</div>
+        <h3 id="modalTitle">Titel</h3>
+        <h3 id="modalProvider">Udgiver</h3>
+        <div id="modalDescription">Beskrivelse</div>
+        <div class="modal-icons">
+            <a id="copyMp3Link" title="Kopiér mp3-link" class="icon-link">
+                <i class="fa-regular fa-copy"></i>
+            </a>
+            <a id="playAudiobookOnSite" title="Afspil her" class="icon-link">
+                <i class="fa-regular fa-circle-play"></i>
+            </a>
+            <a id="playAudiobookDefault" title="Download lydbog" class="icon-link">
+                <span class="material-icons custom-download-icon" id="downloadIcon">download</span>
+            </a>
         </div>
-        <p class="helper-text"></p>
-        <div id="results"></div>
     </div>
-    <div id="spinnerOverlay" class="spinner-overlay" style="display: none;">
-        <i class="fas fa-spinner fa-spin spinner"></i>
-    </div>
-    <div id="podcastModal" class="modal">
-        <div class="modal-content">
-            <div class="close" id="closeModal">&#10006;</div>
-            <h3 id="modalTitle">Titel</h3>
-            <h3 id="modalProvider">Udgiver</h3>
-            <div id="modalDescription">Beskrivelse</div>
-            <div class="modal-icons">
-                <a id="copyMp3Link" title="Kopiér mp3-link" class="icon-link">
-                    <i class="fa-regular fa-copy"></i>
-                </a>
-                <a id="playAudiobookOnSite" title="Afspil her" class="icon-link">
-                    <i class="fa-regular fa-circle-play"></i>
-                </a>
-                <a id="playAudiobookDefault" title="Download lydbog" class="icon-link">
-                    <span class="material-icons custom-download-icon" id="downloadIcon">download</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div id="audioPlayer" class="audio-player">
-        <audio id="audio" controls crossorigin></audio>
-    </div>
-    <script>
-        const resultsContainer = document.getElementById('results');
-        const greenStyle = "color: green; font-weight: bold;";
-        const MAX_CACHE_ITEMS = 100;
-        const CACHE_NAME = 'audiobooks-cache';
-        const MAX_RESULTS = 12;
-        let podimoAudiobooksData = [];
-        
-        document.addEventListener('DOMContentLoaded', () => {
-          fetchDataAndPreloadIcon();
-        
-          const podcastModal = document.getElementById('podcastModal');
-          const closeModalButton = document.getElementById('closeModal');
-          const playerModal = document.getElementById('playerModal');
-          const episodeListModal = document.getElementById('episodeListModal');
-        
-          podcastModal.addEventListener('click', function(event) {
+</div>
+<div id="audioPlayer" class="audio-player">
+    <audio id="audio" controls crossorigin></audio>
+</div>
+<script>
+    const resultsContainer = document.getElementById('results');
+    const greenStyle = "color: green; font-weight: bold;";
+    const MAX_CACHE_ITEMS = 100;
+    const CACHE_NAME = 'audiobooks-cache';
+    const MAX_RESULTS = 12;
+    let podimoAudiobooksData = [];
+
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchDataAndPreloadIcon();
+
+        const podcastModal = document.getElementById('podcastModal');
+        const closeModalButton = document.getElementById('closeModal');
+
+        podcastModal.addEventListener('click', function(event) {
             if(event.target === modalDescription) {
-              modalDescription.classList.toggle('expanded');
+                modalDescription.classList.toggle('expanded');
             }
-          });
-        
-          document.body.addEventListener('click', (event) => {
-            if (event.target === podcastModal) {
-              event.target.style.display = 'none';
-            }
-        
-            if (event.target === closeModalButton) {
-              podcastModal.style.display = 'none';
-            }
-          });
         });
-        
-        async function fetchDataAndPreloadIcon() {
-          try {
+
+        document.body.addEventListener('click', (event) => {
+            if (event.target === podcastModal) {
+                event.target.style.display = 'none';
+            }
+
+            if (event.target === closeModalButton) {
+                podcastModal.style.display = 'none';
+            }
+        });
+    });
+
+    async function fetchDataAndPreloadIcon() {
+        try {
             const urls = [
-              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json',
+                'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json',
             ];
-        
+
             [podimoAudiobooksData] = await Promise.all(urls.map(fetchData));
-          } catch (error) {
+        } catch (error) {
             console.error('Error fetching data:', error);
-          }
         }
-        
-        async function fetchData(url) {
-          try {
+    }
+
+    async function fetchData(url) {
+        try {
             const response = await fetch(url);
             if (!response.ok) throw new Error(`Error fetching data from ${url}`);
             return await response.json();
-          } catch (error) {
+        } catch (error) {
             console.error(`Error fetching data from ${url}:`, error);
             return null;
-          }
         }
-        
-        function clearSearch() {
-          const searchInput = document.getElementById('searchInput');
-          searchInput.value = '';
-          resultsContainer.innerHTML = '';
-          searchInput.focus();
-        }
-        
-        function openModal(podcast) {
-          const modal = document.getElementById('podcastModal');
-        
-          document.getElementById('modalTitle').textContent = podcast.text;
-          document.getElementById('modalProvider').textContent = podcast.provider;
-          document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
-          document.getElementById('playAudiobookOnSite').href = podcast.mp3Link;
-          document.getElementById('playAudiobookDefault').href = podcast.mp3Link;
-          document.getElementById('playAudiobookDefault').target = '_blank';
-          document.getElementById('copyMp3Link').onclick = () => copyMp3Link(podcast.mp3Link);
-          
-          playAudiobookOnSite.dataset.author = podcast.author || 'Ukendt forfatter';
-          playAudiobookOnSite.dataset.coverImage = podcast.image || '';
-        
-          const downloadIcon = document.getElementById('downloadIcon');
-          downloadIcon.textContent = 'download';
-          modal.style.display = 'block';
-        }
-        
-        function getElementValue(item, tag) {
-          return item.getElementsByTagName(tag)[0]?.textContent || '';
-        }
-            
-        function copyMp3Link(mp3Link) {
-          navigator.clipboard.writeText(mp3Link).then(() => {
+    }
+
+    function clearSearch() {
+        const searchInput = document.getElementById('searchInput');
+        searchInput.value = '';
+        resultsContainer.innerHTML = '';
+        searchInput.focus();
+    }
+
+    function openModal(podcast) {
+        const modal = document.getElementById('podcastModal');
+
+        document.getElementById('modalTitle').textContent = podcast.text;
+        document.getElementById('modalProvider').textContent = podcast.provider;
+        document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
+        document.getElementById('playAudiobookOnSite').href = podcast.mp3Link;
+        document.getElementById('playAudiobookDefault').href = podcast.mp3Link;
+        document.getElementById('playAudiobookDefault').target = '_blank';
+        document.getElementById('copyMp3Link').onclick = () => copyMp3Link(podcast.mp3Link);
+
+        playAudiobookOnSite.dataset.author = podcast.author || 'Ukendt forfatter';
+        playAudiobookOnSite.dataset.coverImage = podcast.image || '';
+
+        const downloadIcon = document.getElementById('downloadIcon');
+        downloadIcon.textContent = 'download';
+        modal.style.display = 'block';
+    }
+
+
+    function copyMp3Link(mp3Link) {
+        navigator.clipboard.writeText(mp3Link).then(() => {
             showToast(`${mp3Link}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
             document.getElementById('podcastModal').style.display = 'none';
-          }).catch(err => {
+        }).catch(err => {
             console.error('Failed to copy RSS link:', err);
-          });
-        }
-        
-        const audioPlayer = new Plyr('#audio', {
-          controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
         });
-            
-        function playEpisode(podcast, audioUrl, episodeTitle, episodeAuthor, coverImage) {
-          audioPlayer.source = {
+    }
+
+    const audioPlayer = new Plyr('#audio', {
+        controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+    });
+
+    function playEpisode(podcast, audioUrl, episodeTitle, episodeAuthor, coverImage) {
+        audioPlayer.source = {
             type: 'audio',
             sources: [{
-              src: audioUrl,
-              type: 'audio/mp3',
+                src: audioUrl,
+                type: 'audio/mp3',
             }],
-          };
-          
-          document.querySelector('.audio-player').style.display = 'block';
-          
-          audioPlayer.on('loadedmetadata', () => {
+        };
+
+        document.querySelector('.audio-player').style.display = 'block';
+
+        audioPlayer.on('loadedmetadata', () => {
             audioPlayer.currentTime = 0;
-            
+
             if ('mediaSession' in navigator) {
-              navigator.mediaSession.metadata = new MediaMetadata({
-              title: episodeTitle,
-              artist: episodeAuthor,
-              album: podcast.provider,
-              artwork: [{
-                src: coverImage,
-                sizes: '512x512',
-                type: 'image/png',
-              }],
-            });
-        
-            setMediaSessionPositionState(audioPlayer);
-        
-            navigator.mediaSession.setActionHandler('play', () => {
-              audioPlayer.play().then(() => {
+                navigator.mediaSession.metadata = new MediaMetadata({
+                    title: episodeTitle,
+                    artist: episodeAuthor,
+                    album: podcast.provider,
+                    artwork: [{
+                        src: coverImage,
+                        sizes: '512x512',
+                        type: 'image/png',
+                    }],
+                });
+
                 setMediaSessionPositionState(audioPlayer);
-              });
+
+                navigator.mediaSession.setActionHandler('play', () => {
+                    audioPlayer.play().then(() => {
+                        setMediaSessionPositionState(audioPlayer);
+                    });
+                });
+
+                navigator.mediaSession.setActionHandler('pause', () => {
+                    audioPlayer.pause();
+                    setMediaSessionPositionState(audioPlayer);
+                });
+
+                navigator.mediaSession.setActionHandler('seekto', (details) => {
+                    const seekTime = details.seekTime || 0;
+                    audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
+                    setMediaSessionPositionState(audioPlayer);
+                });
+            }
+
+            audioPlayer.play().catch(error => {
+                console.error('Playback failed:', error);
             });
-        
-            navigator.mediaSession.setActionHandler('pause', () => {
-              audioPlayer.pause();
-              setMediaSessionPositionState(audioPlayer);
-            });
-        
-            navigator.mediaSession.setActionHandler('seekto', (details) => {
-              const seekTime = details.seekTime || 0;
-              audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
-              setMediaSessionPositionState(audioPlayer);
-            });
-          }
-          
-          audioPlayer.play().catch(error => {
-            console.error('Playback failed:', error);
-          });
         });
-        
-        audioPlayer.on('timeupdate', () => {
-          setMediaSessionPositionState(audioPlayer);
-        });
-        
-        audioPlayer.on('ended', () => {
-          playNextEpisode(podcast, currentIndex);
-        });
-        
+
         function setMediaSessionPositionState(player) {
-          if ('setPositionState' in navigator.mediaSession) {
-            navigator.mediaSession.setPositionState({
-              duration: player.duration || 0,
-              playbackRate: player.playbackRate || 1,
-              position: player.currentTime || 0,
-            });
-          }
+            if ('setPositionState' in navigator.mediaSession) {
+                navigator.mediaSession.setPositionState({
+                    duration: player.duration || 0,
+                    playbackRate: player.playbackRate || 1,
+                    position: player.currentTime || 0,
+                });
+            }
         }
-        }
-        
-        function formatDescription(description) {
-          let formattedDescription = description.replace(/\n/g, '<br>');
-          formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-        
-          return formattedDescription;
-        }
-        
-        function showToast(message) {
-          document.body.classList.add('blur-background');
-        
-          const toast = document.createElement('div');
-          toast.classList.add('toast');
-          toast.innerHTML = message;
-          document.body.appendChild(toast);
-        
-          setTimeout(() => {
+    }
+
+    function formatDescription(description) {
+        let formattedDescription = description.replace(/\n/g, '<br>');
+        formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+        return formattedDescription;
+    }
+
+    function showToast(message) {
+        document.body.classList.add('blur-background');
+
+        const toast = document.createElement('div');
+        toast.classList.add('toast');
+        toast.innerHTML = message;
+        document.body.appendChild(toast);
+
+        setTimeout(() => {
             toast.remove();
             document.body.classList.remove('blur-background');
-          }, 5000);
-        }
-        
-        async function filterPodcasts(searchText) {
-          function normalizeText(text) {
+        }, 5000);
+    }
+
+    async function filterPodcasts(searchText) {
+        function normalizeText(text) {
             return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
-          }
-        
-          if (searchText.length === 0) {
+        }
+
+        if (searchText.length === 0) {
             resultsContainer.innerHTML = '';
             return;
-          }
-        
-          if (searchText.length < 3) {
+        }
+
+        if (searchText.length < 3) {
             resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
             return;
-          }
-          const results = [];
-          const allData = [
+        }
+        const results = [];
+        const allData = [
             ...podimoAudiobooksData.map(({ title, description, id, url, audio_url, author }) => ({
-              text: title,
-              provider: 'Podimo · lydbog',
-              description,
-              url: `https://podimo.com/dk/shows/${id}`,
-              image: url,
-              mp3Link: audio_url,
-              author
+                text: title,
+                provider: 'Podimo · lydbog',
+                description,
+                url: `https://podimo.com/dk/shows/${id}`,
+                image: url,
+                mp3Link: audio_url,
+                author
             }))
-          ];
-        
-    const normalizedSearchText = normalizeText(searchText);
-    results.push(...allData.filter(podcast => 
-        normalizeText(podcast.text).includes(normalizedSearchText) ||
-        normalizeText(podcast.author).includes(normalizedSearchText)
-    ));
-        
-          displayResults(results.slice(0, MAX_RESULTS));
-        }
-        
-        async function openCache() {
-          return caches.open(CACHE_NAME);
-        }
-        
-        async function getLRUCacheKeys() {
-          const cache = await openCache();
-          const requests = await cache.keys();
-          return requests.map(request => request.url);
-        }
-        
-        async function updateLRUCache(cacheKey) {
-          let cacheKeys = await getLRUCacheKeys();
-          
-          cacheKeys = cacheKeys.filter(key => key !== cacheKey);
-          cacheKeys.push(cacheKey);
-        
-          if (cacheKeys.length > MAX_CACHE_ITEMS) {
+        ];
+
+        const normalizedSearchText = normalizeText(searchText);
+        results.push(...allData.filter(podcast =>
+            normalizeText(podcast.text).includes(normalizedSearchText) ||
+            normalizeText(podcast.author).includes(normalizedSearchText)
+        ));
+
+        displayResults(results.slice(0, MAX_RESULTS));
+    }
+
+    async function openCache() {
+        return caches.open(CACHE_NAME);
+    }
+
+    async function getLRUCacheKeys() {
+        const cache = await openCache();
+        const requests = await cache.keys();
+        return requests.map(request => request.url);
+    }
+
+    async function updateLRUCache(cacheKey) {
+        let cacheKeys = await getLRUCacheKeys();
+
+        cacheKeys = cacheKeys.filter(key => key !== cacheKey);
+        cacheKeys.push(cacheKey);
+
+        if (cacheKeys.length > MAX_CACHE_ITEMS) {
             const oldestKey = cacheKeys.shift();
             const cache = await openCache();
             await cache.delete(oldestKey);
-          }
         }
-        
-        async function loadImageToCache(url, cacheKey, element) {
-          const cache = await openCache();
-          const cachedResponse = await cache.match(url);
-          
-          if (cachedResponse) {
+    }
+
+    async function loadImageToCache(url, cacheKey, element) {
+        const cache = await openCache();
+        const cachedResponse = await cache.match(url);
+
+        if (cachedResponse) {
             const blob = await cachedResponse.blob();
             element.src = URL.createObjectURL(blob);
-          } else {
+        } else {
             fetch(url)
-              .then(response => response.blob())
-              .then(blob => {
-                element.src = URL.createObjectURL(blob);
-        
-                const responseToCache = new Response(blob);
-                cache.put(url, responseToCache);
-        
-                updateLRUCache(cacheKey);
-              })
-              .catch(() => {
-                element.src = url;
-              });
-          }
+                .then(response => response.blob())
+                .then(blob => {
+                    element.src = URL.createObjectURL(blob);
+
+                    const responseToCache = new Response(blob);
+                    cache.put(url, responseToCache);
+
+                    updateLRUCache(cacheKey);
+                })
+                .catch(() => {
+                    element.src = url;
+                });
         }
-        
-        function cacheAndLoadImage(url, element) {
-          const cacheKey = `cachedImage:${url}`;
-          loadImageToCache(url, cacheKey, element);
-        }
-            
-        function adjustTitleFontSize(card, title, textLength) {
-          const containerWidth = card.offsetWidth;
-          
-          const maxFontSize = 1;
-          const minFontSize = 0.5;
-          const optimalCharLength = 36;
-        
-          let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
-        
-          newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
-          title.style.fontSize = `${newFontSize}rem`;
-        }
-        
-        function displayResults(results) {
-          resultsContainer.innerHTML = '';
-          if(results.length === 0) {
+    }
+
+    function cacheAndLoadImage(url, element) {
+        const cacheKey = `cachedImage:${url}`;
+        loadImageToCache(url, cacheKey, element);
+    }
+
+    function adjustTitleFontSize(card, title, textLength) {
+        const maxFontSize = 1;
+        const minFontSize = 0.5;
+        const optimalCharLength = 36;
+
+        let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
+
+        newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
+        title.style.fontSize = `${newFontSize}rem`;
+    }
+
+    function displayResults(results) {
+        resultsContainer.innerHTML = '';
+        if(results.length === 0) {
             resultsContainer.innerHTML = '<p style="text-align: center;">Ingen søgeresultater fundet</p>';
             return;
-          }
-        
-          const grid = document.createElement('div');
-          grid.classList.add('podcast-grid');
-        
-          results.forEach(result => {
+        }
+
+        const grid = document.createElement('div');
+        grid.classList.add('podcast-grid');
+
+        results.forEach(result => {
             const card = document.createElement('div');
             card.classList.add('podcast-card');
-        
+
             const img = document.createElement('img');
             img.alt = result.text;
             img.classList.add('podcast-cover');
-        
+
             if(result.image) {
-              cacheAndLoadImage(result.image, img);
+                cacheAndLoadImage(result.image, img);
             }
-        
+
             const title = document.createElement('div');
             title.textContent = result.text;
             title.classList.add('podcast-title');
-        
+
             card.appendChild(img);
             card.appendChild(title);
-            
+
             adjustTitleFontSize(card, title, result.text.length);
-            
+
             card.addEventListener('click', () => openModal(result));
             grid.appendChild(card);
-          });
-        
-          resultsContainer.appendChild(grid);
-        }
-        
-        let debounceTimeout;
-        document.getElementById('searchInput').addEventListener('input', function() {
-          clearTimeout(debounceTimeout);
-          debounceTimeout = setTimeout(() => {
+        });
+
+        resultsContainer.appendChild(grid);
+    }
+
+    let debounceTimeout;
+    document.getElementById('searchInput').addEventListener('input', function() {
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => {
             filterPodcasts(this.value.trim());
-          }, 500);
-        });
-        
-        document.getElementById('searchInput').addEventListener('keypress', function(event) {
-          if(event.key === 'Enter') this.blur();
-        });
-      
-        document.getElementById('playAudiobookOnSite').addEventListener('click', function(event) {
-          event.preventDefault(); 
-        
-          const podcast = {
+        }, 500);
+    });
+
+    document.getElementById('searchInput').addEventListener('keypress', function(event) {
+        if(event.key === 'Enter') this.blur();
+    });
+
+    document.getElementById('playAudiobookOnSite').addEventListener('click', function(event) {
+        event.preventDefault();
+
+        const podcast = {
             text: document.getElementById('modalTitle').textContent,
             provider: document.getElementById('modalProvider').textContent,
             description: document.getElementById('modalDescription').innerHTML,
             mp3Link: this.href,
             author: this.dataset.author,
             image: this.dataset.coverImage,
-          };
-        
-          playEpisode(podcast, podcast.mp3Link, podcast.text, podcast.author, podcast.image);
-        });
-            
-        document.getElementById('playAudiobookDefault').addEventListener('click', async function (event) {
-            event.preventDefault();
+        };
 
-            const downloadIcon = document.getElementById('downloadIcon');
-            const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
-            const mp3Link = this.href;
+        playEpisode(podcast, podcast.mp3Link, podcast.text, podcast.author, podcast.image);
+    });
 
-            try {
-                downloadIcon.textContent = 'sync';
-                downloadIcon.classList.add('downloading');
+    document.getElementById('playAudiobookDefault').addEventListener('click', async function (event) {
+        event.preventDefault();
 
-                const response = await fetch(mp3Link);
-                if (!response.ok) {
-                    throw new Error(`Failed to fetch file: ${response.statusText}`);
-                }
-                const blob = await response.blob();
+        const downloadIcon = document.getElementById('downloadIcon');
+        const downloadButton = this; // Referencerer knappen selv
+        const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
+        const mp3Link = this.href;
 
-                const blobUrl = URL.createObjectURL(blob);
-                const downloadLink = document.createElement('a');
-                downloadLink.href = blobUrl;
-                downloadLink.download = `${podcastTitle}.mp3`;
-                document.body.appendChild(downloadLink);
-                downloadLink.click();
-                document.body.removeChild(downloadLink);
-                URL.revokeObjectURL(blobUrl);
+        try {
+            downloadButton.disabled = true;
+            downloadButton.style.pointerEvents = 'none';
+            downloadIcon.classList.add('downloading');
+            downloadIcon.textContent = 'arrow_downward';
 
-                downloadIcon.textContent = 'check_circle_outline';
-                downloadIcon.classList.remove('downloading');
-                downloadIcon.classList.add('success');
-            } catch (error) {
-                console.error('Error downloading the file:', error);
-                alert('Kunne ikke downloade lydbogen.');
-
-                downloadIcon.textContent = 'download';
-                downloadIcon.classList.remove('downloading');
+            const response = await fetch(mp3Link);
+            if (!response.ok) {
+                throw new Error(`Failed to fetch file: ${response.statusText}`);
             }
-        });
-    </script>
+            const blob = await response.blob();
+
+            const blobUrl = URL.createObjectURL(blob);
+            const downloadLink = document.createElement('a');
+            downloadLink.href = blobUrl;
+            downloadLink.download = `${podcastTitle}.mp3`;
+            document.body.appendChild(downloadLink);
+            downloadLink.click();
+            document.body.removeChild(downloadLink);
+            URL.revokeObjectURL(blobUrl);
+
+            downloadIcon.classList.remove('downloading');
+            downloadIcon.classList.add('success');
+            downloadIcon.textContent = 'check_circle_outline';
+        } catch (error) {
+            console.error('Error downloading the file:', error);
+            alert('Kunne ikke downloade lydbogen.');
+
+            downloadIcon.classList.remove('downloading');
+            downloadIcon.textContent = 'download';
+        } finally {
+            downloadButton.disabled = false;
+            downloadButton.style.pointerEvents = 'auto';
+        }
+    });
+</script>
 </body>
 
 </html>
