@@ -244,7 +244,7 @@
         const allData = [
             ...podimoAudiobooksData.map(({ title, description, id, url, audio_url, author }) => ({
                 text: title,
-                provider: 'Podimo · lydbog',
+                provider: author,
                 description,
                 url: `https://podimo.com/dk/shows/${id}`,
                 image: url,
