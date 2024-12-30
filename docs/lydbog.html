@@ -267,6 +267,22 @@
             normalizeText(podcast.author).includes(normalizedSearchText) ||
             (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
         ));
+      
+          newResults.sort((a, b) => {
+        const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText);
+        const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText);
+        
+        const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText);
+        const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText);
+
+        const aNarratorMatch = normalizeText(a.narrator).includes(normalizedSearchText);
+        const bNarratorMatch = normalizeText(b.narrator).includes(normalizedSearchText);
+
+        if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
+        if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
+
+        return bNarratorMatch - aNarratorMatch;
+    });
     
         allResults = [...newResults];
         displayResults(allResults.slice(0, currentPage * MAX_RESULTS));
