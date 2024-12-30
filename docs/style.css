@@ -425,6 +425,7 @@ body {
      display: grid;
      grid-template-columns: repeat(2,1fr);
      gap: 20px;
+     margin-bottom: 20px;
 }
  .podcast-card {
      background: #24242433;
