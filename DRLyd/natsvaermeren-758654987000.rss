@@ -6,6 +6,15 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
+      <title>Musikalske fingeraftryk</title>
+      <description>Georgiens stemme, en crooner i mørket og Hugo Alvén er blandt nattens fingeraftryk. 
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Mon, 30 Dec 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikalske-fingeraftryk-12422463527</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355dc22268ec65aa37a0b/73dbb95172e8005af19bdef1ced25e1203ef4ebc0e78ddeab651facabb141968" length="168481456" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Håb</title>
       <description>Tæt på årstidsskiftet. Natsværmeren satser på håbet.
 Vært: Minna Grooss.</description>
@@ -202,15 +211,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:669c34dede405b0c1d58d3c3/94a3c0f74ddfc3b7b827689f2f3dd14a7d338077dcfa283fa64e9f92a0c229d8" length="168481038" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Når mørket falder</title>
-      <description>Når mørket falder, træder skyggerne frem. En etiopisk nonne, en pianist, der sætter ild til klaveret, og en drømmende prinsesse i Roms gader.
-Vært: Minna Grooss.</description>
-      <duration>01:56:59</duration>
-      <pubDate>Sun, 01 Dec 2024 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-naar-moerket-falder-12422463306</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6696ee854923591bcd0c142e/812c07ea77b2d6e51d1dabde0c90942ac73524d96b38cab90099a40a5025a013" length="168480365" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Hver nat er en overgang</title>
       <description>Kærlighed, drømme, forandringer, udviklinger, afviklinger, længsler og krige syntes konstante. Phillip Glass, Somi, Piazzólla, Brahms, Hamlet Gonashvili og tre stykker til nattens sætter aftens scene.
 Vært: Minna Grooss.</description>
@@ -263,6 +263,15 @@ Vært: Katrine Ring.</description>
       <pubDate>Wed, 04 Dec 2024 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-december-dilemma-12422363492</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65612e23f45ff2392852f74b/8f66c75ed286198db51609758278e0055b85be08bc14e14e3abac61ae4a294ac" length="168481514" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Små toner og store følelser</title>
+      <description>I mørket opstår en helt særlig musikalsk magi. Natsværmeren flyver på lydlig verdensrundrejse fra Rusland til Mellemøsten til USA. Vært Peter Albrechtsen siger også farvel til en sand lydmagiker, nyligt afdøde Steve Roden, der skabte stor musik ud af små lyde.
+Vært: Peter Albrechtsen.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Tue, 31 Dec 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-smaa-toner-og-store-foelelser-12422363372</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f262776b591b6b9a6eefc6/0fee36ce05f43b825f31cb81073a81ca53ccbf8a5a58dcd53cbdb31a74093ae6" length="168481619" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
