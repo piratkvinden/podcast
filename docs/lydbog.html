@@ -394,16 +394,22 @@
     }
       
       
-    function handleScroll() {
-        const scrollPosition = window.innerHeight + window.scrollY;
-        const bottomPosition = document.documentElement.scrollHeight;
-    
-        if (scrollPosition >= bottomPosition - 200) { 
-            currentPage++;
-            const searchText = document.getElementById('searchInput').value.trim();
-            filterPodcasts(searchText); 
-        }
+function handleScroll() {
+    const scrollPosition = window.innerHeight + window.scrollY;
+    const bottomPosition = document.documentElement.scrollHeight;
+
+    const maxPages = Math.ceil(allResults.length / MAX_RESULTS);
+    if (currentPage >= maxPages) {
+        return;
     }
+
+    if (scrollPosition >= bottomPosition - 200) {
+        currentPage++;
+        const searchText = document.getElementById('searchInput').value.trim();
+        displayResults(allResults.slice(0, currentPage * MAX_RESULTS));
+    }
+}
+
       window.addEventListener('scroll', handleScroll);
     
         let debounceTimeout;
