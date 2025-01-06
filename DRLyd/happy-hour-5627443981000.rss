@@ -135,14 +135,6 @@ der får lytterne til at mærke, at arbejdsugen er ovre.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d636eaa8631156835a5891/2d971e0b1005a0728fb9064bcce5cca953f758d2f97cede42499897d4f80f810" length="168481468" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Fredag 3. jan. 2025</title>
-      <description>&quot;Endelig! Det er fredag og om lidt er det weekend. Signe Vadgaard har åbnet for Happy Hour med højt humør og ustyrlige mængder hits&quot;.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Fri, 03 Jan 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/happy-hour/happy-hour/happy-hour-16122545015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ab4fe60bfb1c9b6a14ac/5f5a9d8f15b9a3e5e7a20e1b6e1460fc9a24c77d63da2ac74fcfc9afac48e2d3" length="168481468" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Fredag 6. sep. 2024</title>
       <description>&quot;Endelig! Det er fredag og om lidt er det weekend. Signe Vadgaard har åbnet for Happy Hour med højt humør og ustyrlige mængder hits&quot;.</description>
       <duration>01:57:00</duration>
@@ -173,6 +165,14 @@ der får lytterne til at mærke, at arbejdsugen er ovre.</description>
       <pubDate>Fri, 16 Aug 2024 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/happy-hour/happy-hour-2024/happy-hour-16122445335</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b14cbe102348273c96eecd/c8f5c3ae075adbc06decdff926fee9935f76e2b51d55786f2c0e27f5a438774d" length="168482044" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fredag 3. jan. 2025</title>
+      <description>&quot;Endelig! Det er fredag og om lidt er det weekend. Signe Vadgaard har åbnet for Happy Hour med højt humør og ustyrlige mængder hits&quot;.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 03 Jan 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/happy-hour/happy-hour/happy-hour-16122545015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ab4fe60bfb1c9b6a14ac/5f5a9d8f15b9a3e5e7a20e1b6e1460fc9a24c77d63da2ac74fcfc9afac48e2d3" length="168481468" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

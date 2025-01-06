@@ -202,18 +202,6 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da6f093005ecd9b65be2/a444c976b8ec7ea08a4aef4f23207ab0703cf28df8bc486ab265a874c9e1a1f2" length="151201583" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Søndag 5. jan. 2025</title>
-      <description>Vært Gitte Førby sammensætter ugens program baseret på lytternes henvendelser. 
-Bidrag kan sendes til:
-Giro: Kontoart: 01 Gironr.: 7000413
-Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
-Eller indtal selv din hilsen - ring 7020 7030.</description>
-      <duration>01:45:00</duration>
-      <pubDate>Sun, 05 Jan 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452522017</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f9d81654c75b6ad5615/aec2428c007dc86288d5bab107dd3803f81a28192775088a5df2f20c912b282d" length="151201583" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Søndag 8. sep. 2024</title>
       <description>Vært Ole Tøpholm sammensætter ugens program baseret på lytternes henvendelser. 
 Bidrag kan sendes til:
@@ -260,6 +248,18 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
       <pubDate>Sun, 18 Aug 2024 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/giro-413/giro-413-2024/giro-413-15452422337</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef320f51810b8ea812ac/d6603b0bb81761806ba08fa2d4ef022341d66c23758a1468836726be3f0aeb22" length="151201583" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 5. jan. 2025</title>
+      <description>Vært Gitte Førby sammensætter ugens program baseret på lytternes henvendelser. 
+Bidrag kan sendes til:
+Giro: Kontoart: 01 Gironr.: 7000413
+Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
+Eller indtal selv din hilsen - ring 7020 7030.</description>
+      <duration>01:45:00</duration>
+      <pubDate>Sun, 05 Jan 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452522017</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f9d81654c75b6ad5615/aec2428c007dc86288d5bab107dd3803f81a28192775088a5df2f20c912b282d" length="151201583" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
