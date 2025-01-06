@@ -8,6 +8,16 @@ Vi hylder de største danske atleter og alle de små og hemmelige sportshelte, s
 Vært: Mikkel Nygaard.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:673317421869e162729c29a0.jpg"/>
     <item>
+      <title>Lørdag 4. jan. 2025</title>
+      <description>Hver lørdag svælger vi i alt det bedste og sjoveste fra sportens verden, når vi quizzer og konkurrerer med og mod verdens bedste lyttere. 
+Vi hylder de største danske atleter og alle de små og hemmelige sportshelte, som kongeriget er fyldt af. Den Store Sportsquiz er som ethvert godt omklædningsrum: Grovkornet nok til, at du bare må stoppe op og lytte med, og så hyggeligt, at du har lyst til at blive hængende. 
+Vært: Mikkel Nygaard.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Sat, 04 Jan 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz/den-store-sportsquiz-13652530016</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3dd46f126026649d7345/8e048a167b3ca51fb24013ee3ceac2259db956f7e802a3324ad4be87c4f945fa" length="172802177" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Special! Sportsåret 2024</title>
       <description>Vær med, når vi quizzer os igennem hele 2024! De skarpeste lyttere og DR Sportens dygtige eksperter leger med, når vi skal se tilabge på hele året. Der er EM, OL, de største stjerner og de hårdeste nederlag på menuen. 
 Vært: Mikkel Nygaard.
@@ -31,17 +41,6 @@ Gæst: Mathias Jacobsen, fodboldkommentator.</description>
       <pubDate>Sat, 14 Dec 2024 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-drillenissen-og-manchester-derby-13652430506</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674f8f0a3936a06c2e8fcfcc/31883fade4e41e7b52f7a3c00f829a5a72926b548b756b515358cf6e182e266c" length="172802187" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Skadeshelvede og Saudis våde VM-drøm</title>
-      <description>Hver lørdag svælger vi i alt det bedste og sjoveste fra sportens verden, når vi quizzer og konkurrerer med og mod verdens bedste lyttere. 
-Vi hylder de største danske atleter og alle de små og hemmelige sportshelte, som kongeriget er fyldt af. Den Store Sportsquiz er som ethvert godt omklædningsrum: Grovkornet nok til, at du bare må stoppe op og lytte med, og så hyggeligt, at du har lyst til at blive hængende. 
-Vært: Mikkel Nygaard.
-Gæst: Emil Halkier, håndboldreporter.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Sat, 07 Dec 2024 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-skadeshelvede-og-saudis-vaade-vm-droem-13652430496</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674654dda5616e008440dbe0/71b1837378ed4154486dbfe49fc954eebdf496c9e16c6f16d1dc42306dbac350" length="172801601" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

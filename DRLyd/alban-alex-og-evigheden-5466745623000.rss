@@ -7,6 +7,18 @@
 Produceret for DR af MonoMono.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f5bf4afd6dd215a981283c.jpg"/>
     <item>
+      <title>Moderskab - med Sofie Elkjær Jensen</title>
+      <description>Operasanger Sofie Elkjær Jensen fortæller om at synge med et barn i maven, og også om at synge efter at have mistet et barn. Det handler blandt andet om, hvordan stemmen ændrer sig efter graviditeten, og om hvorfor nogle roller kan være psykisk krævende at spille, efter en ufrivillig abort. 
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Gæst: Sofie Elkjær Jensen, kongelig operasanger.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <duration>01:52:59</duration>
+      <pubDate>Sat, 04 Jan 2025 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/alban-alex-og-evigheden-moderskab-med-sofie-elkjaer-jensen-16122523016</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3ded0b5d818cc1c812bc/159e64441c22279873557f77f7c37f046774b19ac10633cfc77ce9cebf24b4e7" length="162703179" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Helte og skurke</title>
       <description>Alban og Alex fortæller om de helte og skurke fra ballettens og den klassiske musiks verden, som har gjort særligt indtryk på dem. De taler om, hvorfor det især er skurkene, der er de mest interssante. 
 
@@ -306,19 +318,6 @@ Produceret for DR af MonoMono.</description>
       <pubDate>Thu, 26 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-doeden-og-eufori-ved-foerste-blik-16122423286</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:668479dd5d7f41c7638426d2/fc56060957c08f295646f6da5899aab8f38b4b837236da3c8c1949dbdeef3e3b" length="162800526" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Det indre barn og livsakrobaten - med Susse Wold</title>
-      <description>Skuespiller Susse Wold er gæst hos Alex, og samtalen handler blandt andet om vand som symbol på underbevidstheden, om Den Lille Prins og om at holde fast i det indre barn og blive ved med at prøve noget nyt.  Susse spiller blandt andet Palle Mikkelborg og Albinoni. Alex spiller blandt andet John Adams, Schumann og Bach. 
-
-Vært: Alexander McKenzie, pianist og komponist.
-Gæst: Susse Wold, skuespiller.
-Producer og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <duration>01:53:01</duration>
-      <pubDate>Thu, 26 Sep 2024 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-det-indre-barn-og-livsakrobaten-med-susse-wold-16122423276</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667b3ff4ac5e3b48d2ac30c0/54554076cfd28f4ad89ce49d16fad85696b1938e07a0c0522907ca7963e124e3" length="162762505" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
