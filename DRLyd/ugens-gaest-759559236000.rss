@@ -6,12 +6,20 @@
     <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f487affd6dd215a97c4c36.jpg"/>
     <item>
-      <title>Poul Nyrup Rasmussen</title>
-      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
-      <duration>00:57:03</duration>
-      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
+      <title>Nikolaj Jacobsen</title>
+      <description>Hans succes kan aflæses på højre arm. Blandt et hav af stjerner lyser klare farver fra de olympiske ringe - en tatovering, han fik lavet efter at have vundet OL-guld med håndboldherrerne i sommer. 
+Ovenfor sidder tre store stjerner med dannebrog - en for hvert verdensmesterskab. Jacobsen og holdet skrev historie, da de som de første nogensinde vandt VM tre gange i træk. 
+Nu samles de igen til VM - kan de overgå sig selv? Landstræner Nikolaj Jacobsen er Ugens Gæst - om vinderinstinkt og sammenhold.
+Tilrettelægger Nina Lorenz.
+Producer Siw Søby Rasmussen.
+Vært Pia Røn.
+
+
+(Sendes også 20.03 og søndag 2.03).</description>
+      <duration>00:56:33</duration>
+      <pubDate>Fri, 03 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2025/ugens-gaest-nikolaj-jacobsen-11162508015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6769ed8a7050f54f8330d72b/bf2fe7e705a84891207ad88c177412c195e7985414929244839638e9d8d87a98" length="81445703" type="audio/mpeg"/>
     </item>
     <item>
       <title>Sammenhold, mod og optimisme</title>
@@ -307,20 +315,12 @@ Vært: Pia Røn.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658a0be15c7c5e5a90e2bf13/97f66be1c45d025f0f7998275cc54a03daf2a0a72719ac9e9d8e3114d4f8faad" length="81530372" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Nikolaj Jacobsen</title>
-      <description>Hans succes kan aflæses på højre arm. Blandt et hav af stjerner lyser klare farver fra de olympiske ringe - en tatovering, han fik lavet efter at have vundet OL-guld med håndboldherrerne i sommer. 
-Ovenfor sidder tre store stjerner med dannebrog - en for hvert verdensmesterskab. Jacobsen og holdet skrev historie, da de som de første nogensinde vandt VM tre gange i træk. 
-Nu samles de igen til VM - kan de overgå sig selv? Landstræner Nikolaj Jacobsen er Ugens Gæst - om vinderinstinkt og sammenhold.
-Tilrettelægger Nina Lorenz.
-Producer Siw Søby Rasmussen.
-Vært Pia Røn.
-
-
-(Sendes også 20.03 og søndag 2.03).</description>
-      <duration>00:56:33</duration>
-      <pubDate>Fri, 03 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2025/ugens-gaest-nikolaj-jacobsen-11162508015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6769ed8a7050f54f8330d72b/bf2fe7e705a84891207ad88c177412c195e7985414929244839638e9d8d87a98" length="81445703" type="audio/mpeg"/>
+      <title>Poul Nyrup Rasmussen</title>
+      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
+      <duration>00:57:03</duration>
+      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
