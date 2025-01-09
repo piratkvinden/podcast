@@ -6,22 +6,6 @@
     <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2b528f0388a679952f8ea.jpg"/>
     <item>
-      <title>Søndag 5. jan. 2025</title>
-      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 05 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe/korfix-og-kaffe-18452575017</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f85ce6d3443e4fc40c5/5eb0ca7e7c52ddfcf1645ed64995fe15f138db01395b731d6a32814340f42a0b" length="168481523" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 4. jan. 2025</title>
-      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 04 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe/korfix-og-kaffe-18452575016</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e05c3590ae9ec7706cb/d4d6556db4808e562e1fde50955a20ce62006584ba3760e2035cc949f47639ff" length="168481523" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Søndag 22. dec. 2024</title>
       <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
       <duration>02:57:00</duration>
@@ -308,6 +292,22 @@
       <pubDate>Sat, 17 Aug 2024 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe-2024/korfix-og-kaffe-18452475336</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b29e61f850aab1a1b24852/8d0ada9ad60cb3265f15d9fb7412b9d92f7af851d7289fe2c1134bd26e5111a5" length="254881523" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 5. jan. 2025</title>
+      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 05 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe/korfix-og-kaffe-18452575017</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f85ce6d3443e4fc40c5/5eb0ca7e7c52ddfcf1645ed64995fe15f138db01395b731d6a32814340f42a0b" length="168481523" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lørdag 4. jan. 2025</title>
+      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 04 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe/korfix-og-kaffe-18452575016</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e05c3590ae9ec7706cb/d4d6556db4808e562e1fde50955a20ce62006584ba3760e2035cc949f47639ff" length="168481523" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

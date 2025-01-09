@@ -7,6 +7,19 @@
 Vært: Julian Svejgaard.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f277f7b75d19480fa425c3.jpg"/>
     <item>
+      <title>Onsdag 8. jan. 2025</title>
+      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <duration>02:55:00</duration>
+      <pubDate>Wed, 08 Jan 2025 07:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/snooze/snooze/snooze-18452528023</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6770842381654c75b6c01188/2c345e015846c2a6f550d4ebfe2c0613782882ed7e693df2a0aa02cba1db8ab0" length="252001589" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 7. jan. 2025</title>
       <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
 Vært og tilrettelægger: Julian Svejgaard.
@@ -137,17 +150,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <pubDate>Wed, 11 Dec 2024 07:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428503</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674b9aaa68034b4b472aebb2/f9908e931ec3b35790d8c2219f7bfc5b46c42d8800765615de202d7176f3ed64" length="252001589" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Og vinderne er: DMA Jazz 2024</title>
-      <description>I går blev dansk jazz fejret og hyldet til et overflødighedshorn af en aften på spillestedet Vega i København. Snooze samler op på de mange vindere og storslåede musikalske indslag fra Danish Music Awards Jazz 2024.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Overby.
-Skriv til Snooze! Enten på mail (p8jazz@dr.dk) eller på telefonen. SMS'er sendes til 1212, og teksten skal starte med jazz, mellemrum, og så din besked. SMS'er koster 1 kr. + alm. SMS-takst.</description>
-      <duration>02:55:00</duration>
-      <pubDate>Tue, 10 Dec 2024 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-og-vinderne-er-dma-jazz-2024-18452428502</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674a49a7f81bfc465fe8c3db/0a6aaca4fa07bd50e695c5909f604e4a436cdc2cfa2b1548cb56d387475566c2" length="252001616" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
