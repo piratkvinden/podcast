@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med Anita Lehner</title>
+      <description>I over 20 år har Anita Lehner fundet publikum til DR's underholdningsprogrammer og quizzer. Hun deler historier fra sit arbejde med at finde egnede publikummer, der skal fylde sæderne og helst klappe på livet løs. 
+Vært: Charlotte Hagen Striib.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 10 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-anita-lehner-15452528025</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327b781654c75b6cc99e3/41d2c075d7fffa8772fafabd615d39714a8fb7394d526775ffd25fefe1b4f6af" length="168481598" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med Maise Njor</title>
       <description>I podcastserien 'Ramt af kærlighed' dykker forfatter Maise Njor ned i, om kærlighed til venner, børn, forældre og kæledyr kan træde i stedet for den romantiske kærlighed, vi ikke altid lykkes med. En af hendes seneste gæster er dog lige blevet gift - i en alder af 74 år.
 Vært: Charlotte Hagen Striib.</description>
@@ -32,15 +41,6 @@ Vært: Charlotte Hagen Striib.</description>
       <pubDate>Tue, 07 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-anne-skare-nielsen-15452528022</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676f328e743db7997fb3b85d/ba5e6ec3517625010a0f3dcfc4214778db61128e40ebcf085939b472a501d255" length="168481565" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Nikolaj Bøgh</title>
-      <description>Det velkendte design på Tordenskjold-tændstikæskerne er fortid. Den konservative rådmand på Frederiksberg, Nikolaj Bøgh, harcelerer mod ændringen af det 150 år gamle symbol, som han mener er tab af dansk kulturarv.
-Vært: Charlotte Hagen Striib.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 06 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-nikolaj-boegh-15452528021</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676de1d0a42e42cd23552d61/a68bd7baa920844c4736a80245a3314dbef93f0916a88ba5c31e9fee7053653e" length="168482176" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
