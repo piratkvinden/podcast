@@ -6,6 +6,14 @@
     <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6731d3506f7124fa6de5643a.jpg"/>
     <item>
+      <title>DJ Sanjari</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 10 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-dj-sanjari-13332516025</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b" length="172801554" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>KATO #4</title>
       <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
 KATO er bag pulten.</description>
@@ -202,14 +210,6 @@ Lisa Fosmark er bag pulten.</description>
       <pubDate>Fri, 12 Jul 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-lisa-fosmark-2-13332416285</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6683289759411cddcafd368a/cd65c923d5df4e7602266a418a96da9bd201278b26ba8ebdfcf448acbf9e5d68" length="259201582" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>DJ Sanjari</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 10 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-dj-sanjari-13332516025</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b" length="172801554" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
