@@ -7,24 +7,6 @@
 Produceret for DR af Munck Studios København.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2bbacb75d19480fa534d2.jpg"/>
     <item>
-      <title>Søndag 12. jan. 2025</title>
-      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
-Produceret for DR af Munck Studios København.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 12 Jan 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sjael/sjael/sjael-16122580027</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cabfdc17af03a530d25f/58cc0c76213bfd4a0cb7c9ba81cf98f574418df80afd353f55ac1f322a125ff0" length="168481525" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 5. jan. 2025</title>
-      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
-Produceret for DR af Munck Studios København.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 05 Jan 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sjael/sjael/sjael-16122580017</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f8581654c75b6ad5571/30c215d19e4fd67140d8bf968de88f07cdf2fcc5de697425a637b9e0ae94f616" length="168482101" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Søndag 29. dec. 2024</title>
       <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
 Produceret for DR af Munck Studios København.</description>
@@ -194,6 +176,24 @@ Produceret for DR af Munck Studios København.</description>
       <pubDate>Sun, 18 Aug 2024 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480337</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b3ef2d223e8eeda588fff0/8d9c54dd52cc843265cdea651482cdd1ef39c7096df7606f50f67ab4c74bc31d" length="168481525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 12. jan. 2025</title>
+      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
+Produceret for DR af Munck Studios København.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 12 Jan 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sjael/sjael/sjael-16122580027</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cabfdc17af03a530d25f/58cc0c76213bfd4a0cb7c9ba81cf98f574418df80afd353f55ac1f322a125ff0" length="168481525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 5. jan. 2025</title>
+      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
+Produceret for DR af Munck Studios København.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 05 Jan 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sjael/sjael/sjael-16122580017</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f8581654c75b6ad5571/30c215d19e4fd67140d8bf968de88f07cdf2fcc5de697425a637b9e0ae94f616" length="168482101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
