@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Tirsdag 14. jan. 2025</title>
+      <description>Præludium: Johann Gottfried Walther: Aleneste Gud i Himmerig
+Fra det G.T.: Salme 19,2-7
+Salme: 392 &quot;Himlene, Herre, fortælle din ære&quot;
+Fra det N.T.:	Markusevangeliet 3,1-6
+Korvers: Emilius Bangert: Gør dig rede, bliv lys (tekst: Esajas 60,1)
+Salme: 490, vers 6-7 &quot;På Jesus har jeg troen kast&quot;
+Postludium: Otto Olsson: Nytår</description>
+      <duration>00:25:03</duration>
+      <pubDate>Tue, 14 Jan 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505032</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67786d0d81654c75b6e52bdb/5fa086596ddfc0423c3d3a7d05c5a9b3223cc8c2219761576ee7852d9ab12fbc" length="36085674" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 13. jan. 2025</title>
       <description>Præludium: Dietrich Buxtehude: Lobt Gott, ihr Christen allzugleich, BuxWV 202
 Ord til dagen af Søren Kierkegaard
@@ -298,20 +312,6 @@ Postludium: Christian Præstholm: Som vintergrene</description>
       <pubDate>Tue, 17 Dec 2024 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405512</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675384044a32d3b8929dce0e/a037519a301d4ed6466aac59be3a074144b396e11dff6dda6ce35f194b1d70fd" length="36085682" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 16. dec. 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Nun komm, der Heiden Heiland, BWV 599
-Ord til dagen: af Paul Tillich
-Salme: 747 &quot;Lysets engel går med glans&quot;
-Fra det N.T.: Johannesevangeliet 1, 6-14
-Korvers: Emilius Bangert: Halleluja. Min sjæl ophøjer Herren  (tekst: Lukasevangelium 1, 46-47)
-Salme: 108 &quot;Lovet være, du Jesus Krist!&quot;
-Postludium: Johann Sebastian Bach: Meine Seele erhebt den Herren, BWV 648</description>
-      <duration>00:25:03</duration>
-      <pubDate>Mon, 16 Dec 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405511</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67523210013901fa8d2595fa/644d09bd578e56d0c155f75ca54292007c0a667abee498deffe97a52511a9fbd" length="36085681" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
