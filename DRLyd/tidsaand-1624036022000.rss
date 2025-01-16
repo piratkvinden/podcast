@@ -6,6 +6,15 @@
     <description>Troen i verden og verden i troen. To udvalgte gæster betragter et udvalg af ugens begivenheder fra et religiøst og åndeligt perspektiv. Vigtige aktuelle emner indenfor tro, kirke og religion vendes og drejes.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3d1caf0388a6799576afe.jpg"/>
     <item>
+      <title>Nyaarsmorgen</title>
+      <description>Vi vågner til det nye år i selskab med forfatter Anna Juul og politiker Jon Stephensen. Med Grundtvigs langdigt Nyaarsmorgen som holdepunkt kigger de to frem og tilbage i samtiden og i deres egne liv. 
+Vært: Christoffer Emil Bruun.</description>
+      <duration>00:56:05</duration>
+      <pubDate>Sun, 01 Jan 2023 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/nyaarsmorgen-11042302527</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a740f3b23ac67e5b4b9066/27b2773b48e8bea37078ae15f49955b82802827973a13032c997376898421a7e" length="80776603" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tidssånd: Peters jul - adventskalender med Peter Høeg og Christoffer Emil Bruun</title>
       <description>Som afslutning på den adventskalender, som blev sendt de fire søndage i advent markerer Tidsånd julen med en form for Jesus-meditation, som tager udgangspunkt i Peter Høegs læsning af Thomas-evangeliet.</description>
       <duration>00:56:38</duration>
@@ -322,24 +331,6 @@ Vært: Christoffer Emil Bruun.</description>
       <pubDate>Sun, 23 Jan 2022 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/tidsaand-frelst-eller-fortabt-11042202037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61df5f5a977793f39f57ece4/e805cf72b3d6147e461ae1de2e710c4895ecba3f3209dadb6903c854b2f89185" length="81640603" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tro til salg</title>
-      <description>Hvad sker der, hvis man ser troen som en vare og ritualer som produkter? En kristen, en muslim, en asatroende og en buddhist gæster Tidsånd til en snak om religion mellem tradition og fornyelse. 
-Vært: Christoffer Emil Bruun.</description>
-      <duration>00:56:06</duration>
-      <pubDate>Sun, 16 Jan 2022 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/tidsaand-tro-til-salg-11042202027</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61d624986030b91f20a5a9ec/8ff4283eece6800bebbdb2dca994f8104b20d0e5299260928e9db4fe223e4fb8" length="80798491" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Nyaarsmorgen</title>
-      <description>Vi vågner til det nye år i selskab med forfatter Anna Juul og politiker Jon Stephensen. Med Grundtvigs langdigt Nyaarsmorgen som holdepunkt kigger de to frem og tilbage i samtiden og i deres egne liv. 
-Vært: Christoffer Emil Bruun.</description>
-      <duration>00:56:05</duration>
-      <pubDate>Sun, 01 Jan 2023 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/nyaarsmorgen-11042302527</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a740f3b23ac67e5b4b9066/27b2773b48e8bea37078ae15f49955b82802827973a13032c997376898421a7e" length="80776603" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
