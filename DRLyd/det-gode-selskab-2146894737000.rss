@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med Henrik Abel</title>
+      <description>Han er 'the one and only', når det gælder om at varme et TV-publikum op. Henrik Abel sørger både for den rette stemning og for nødvendig info, når han som Danmarks bedste publikum-opvarmer skal give seerne den bedste oplevelse. 
+Vært: Charlotte Striib.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 17 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-henrik-abel-15452528035</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61c18540867cc0a0b776/fcd96700bc86bf20a08c08c212248c39d676b0d4f9b3fe95c8622ced82428572" length="168482181" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med Anne Juel Jørgensen</title>
       <description>Børn og unge skal lære at omgås penge i et kontantløst samfund. Det kan vi voksne hjælpe dem godt på vej med, fortæller 'pengepædagog' i Danske Bank, Anne Juel Jørgensen.
 Vært: Charlotte Striib.</description>
@@ -32,15 +41,6 @@ Vært: Charlotte Striib.</description>
       <pubDate>Tue, 14 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-dorte-falk-15452528032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67786d25cb08892fb840bde9/a7b7e2ef35cae55a00782d3fe6c47eee6c3ff04408333364daf783b8212322ba" length="168482187" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Thomas Vigild</title>
-      <description>Brætspils-entusiast Thomas Vigild deler sin passion for spilleplader, brikker og kort - og uddeler tips til nye spil, der kan samle venner og familie omkring bordet. 
-Vært: Charlotte Striib.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 13 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-thomas-vigild-15452528031</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67771b9f9d1ff9722e8a9020/deced16a4c45a95b6fbac0af582123e4a64fcbc7a7581580caa3e09ffe63c935" length="168481539" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
