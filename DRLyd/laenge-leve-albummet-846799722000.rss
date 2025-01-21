@@ -7,31 +7,6 @@
 Velkommen til!</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33666b75d19480fa71f3f.jpg"/>
     <item>
-      <title>Sol, måne og stjerner står helt rigtigt for Bye Bye Brenda</title>
-      <description>I dag har jeg besøg af den fine duo, Bye Bye Brenda, som tæller Stine Bramsen og Kajsa Vala. Sammen har de begået nogle utroligt smukke harmonier, og vi afsøger deres helt særlige venskab, der er bundet sammen af en flot krebse-energi. Vi hører også en masse Kacey Musgraves og mærker de følsomme men også provokerende toner.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 19 Jan 2025 17:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-sol-maane-og-stjerner-staar-helt-rigtigt-for-bye-bye-brenda-16452536037</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f057d6a4c16c5b9478a9d/2afabd8288dc96261221136e0ea32b16ea6751dfa3a62634ce188abfd5537cb1" length="168481598" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Guitarfræs extravaganza med Søren Andersen og Van Halen</title>
-      <description>Jeg kan godt love jer for, vi får noget for pengene i dag! Og hvad får vi så? Jo, det skal jeg fortælle dig. Vi får vulgær og dejlig guitarfræs ud over det hele, når Søren Andersen er med mig til en ordentlig omgang Van Halen. Så du kan ligeså godt spænde sikkerhedsselen. Velkommen!</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 12 Jan 2025 17:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-guitarfraes-extravaganza-med-soeren-andersen-og-van-halen-16452536027</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775caa35e5e1a6ed3e2c764/5cb85b2631c4b3a4b475a3dc47d3757bcdef174db8e186b76970e172d1086123" length="168482174" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 5. jan. 2025</title>
-      <description>Længe leve albummet er programmet, hvor Goodluck Casper inviterer en musiker eller et band til en rar snak om en af deres yndlingsplader. Du får mulighed for at grine og græde dig igennem musikken, når gæsterne laver 6 nedslag i albummet.
-Velkommen til!</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 05 Jan 2025 17:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-16452536017</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f8b81654c75b6ad5598/344af7806aaaa98b02da4378e44beb0e5ca44bdb0c530b5a18ef1df009c2d3d0" length="168481598" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Med Dreamstruck og ventures på rumrejse iført surfguitar</title>
       <description>Jeg har besøg af Karen og Jonas fra bandet Dreamstruck. De er en dynamisk duo både privat og på scenen. Deres cv er langt og dejligt fra Swan Lee over Sharin Foo til diverse anerkendte filmscores, og i dag skal vi bare hygge med en god omgang surf-space-age guitar fra 1963, for Jonas og Karen har en kæmpe kærlighed til disse dejlige toner. God fornøjelse!</description>
       <duration>01:57:00</duration>
@@ -176,6 +151,31 @@ Gæst: Niels Brandt.</description>
       <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/laenge-leve-albummet-oasis-what-s-the-story-morning-glory-16451535381</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sol, måne og stjerner står helt rigtigt for Bye Bye Brenda</title>
+      <description>I dag har jeg besøg af den fine duo, Bye Bye Brenda, som tæller Stine Bramsen og Kajsa Vala. Sammen har de begået nogle utroligt smukke harmonier, og vi afsøger deres helt særlige venskab, der er bundet sammen af en flot krebse-energi. Vi hører også en masse Kacey Musgraves og mærker de følsomme men også provokerende toner.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 19 Jan 2025 17:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-sol-maane-og-stjerner-staar-helt-rigtigt-for-bye-bye-brenda-16452536037</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f057d6a4c16c5b9478a9d/2afabd8288dc96261221136e0ea32b16ea6751dfa3a62634ce188abfd5537cb1" length="168481598" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Guitarfræs extravaganza med Søren Andersen og Van Halen</title>
+      <description>Jeg kan godt love jer for, vi får noget for pengene i dag! Og hvad får vi så? Jo, det skal jeg fortælle dig. Vi får vulgær og dejlig guitarfræs ud over det hele, når Søren Andersen er med mig til en ordentlig omgang Van Halen. Så du kan ligeså godt spænde sikkerhedsselen. Velkommen!</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 12 Jan 2025 17:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-guitarfraes-extravaganza-med-soeren-andersen-og-van-halen-16452536027</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775caa35e5e1a6ed3e2c764/5cb85b2631c4b3a4b475a3dc47d3757bcdef174db8e186b76970e172d1086123" length="168482174" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 5. jan. 2025</title>
+      <description>Længe leve albummet er programmet, hvor Goodluck Casper inviterer en musiker eller et band til en rar snak om en af deres yndlingsplader. Du får mulighed for at grine og græde dig igennem musikken, når gæsterne laver 6 nedslag i albummet.
+Velkommen til!</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 05 Jan 2025 17:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/laenge-leve-albummet-16452536017</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f8b81654c75b6ad5598/344af7806aaaa98b02da4378e44beb0e5ca44bdb0c530b5a18ef1df009c2d3d0" length="168481598" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

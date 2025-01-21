@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Det, vi skændes om</title>
+    <link>https://www.dr.dk/lyd/p3/det-vi-skaendes-om-6209917914000</link>
+    <description>'Det vi skændes om' er programmet, hvor JoJo med et panel bestående af to kendte gæster, vender lytternes - og gæsternes - skænderier.</description>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67865965e575adf2fbb3645d.jpg"/>
+    <item>
+      <title>Med Julia Sofia Aastrup og Nicolas Kaiser</title>
+      <description>'Det vi skændes om' er programmet, hvor JoJo med et panel bestående af to kendte gæster, vender lytternes - og gæsternes - skænderier.
+Panel: Julia Sofia Aastrup og Nicolas Kaiser.</description>
+      <duration>00:41:00</duration>
+      <pubDate>Sun, 19 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-vi-skaendes-om/det-vi-skaendes-om/det-vi-skaendes-om-med-julia-sofia-aastrup-og-nicolas-kaiser-13332519601</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67851bbf9218ca9ec2253a0b/0b7d6b623ab4a45aa6303c5de49043ca10273c91b8cda5a98b883a653d36b9d9" length="59042088" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

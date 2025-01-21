@@ -3357,5 +3357,13 @@
     "description": "Produceret for DR af Podads ApS.",
     "program_url": "https://www.dr.dk/lyd/special-radio/hvis-du-toer-5069407240000",
     "series_hash": "67658e3ea92881d1b0b9dd74"
+  },
+  {
+    "name": "Det, vi skændes om",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-vi-skaendes-om",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67865965e575adf2fbb3645d.jpg",
+    "description": "'Det vi skændes om' er programmet, hvor JoJo med et panel bestående af to kendte gæster, vender lytternes - og gæsternes - skænderier.",
+    "program_url": "https://www.dr.dk/lyd/p3/det-vi-skaendes-om-6209917914000",
+    "series_hash": "67851a24ae34e26cb9d21db8"
   }
 ]
