@@ -6,14 +6,6 @@
     <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f487affd6dd215a97c4c36.jpg"/>
     <item>
-      <title>Poul Nyrup Rasmussen</title>
-      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
-      <duration>00:57:03</duration>
-      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Dan Jørgensen</title>
       <description>Det er svære opgaver, der venter den nytiltrådte EU-kommissær for bolig og energi. For energi er ikke bare det, der opvarmer vores huse og strømmer ud af stikkontakten. Krigen i Ukraine har vist, hvordan energi bliver brugt som våben.
 Europæiske virksomheder slås med langt højere energipriser end virksomheder i Kina og USA, og det udfordrer konkurrenceevnen i Europa. Det skal Dan Jørgensen finde en løsning på. Men kan han det uden at gå på kompromis med klima og miljø?
@@ -337,6 +329,14 @@ Vært: Pia Røn.</description>
       <pubDate>Sat, 27 Jul 2024 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2024/ugens-gaest-pia-kjaersgaard-11162408015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658a0be15c7c5e5a90e2bf13/97f66be1c45d025f0f7998275cc54a03daf2a0a72719ac9e9d8e3114d4f8faad" length="81530372" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Poul Nyrup Rasmussen</title>
+      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
+      <duration>00:57:03</duration>
+      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

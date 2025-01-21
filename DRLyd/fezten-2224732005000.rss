@@ -6,6 +6,22 @@
     <description>Fezten er fredagsbaren på P6 - programmet, hvor Niels Fez Pedersen er DJ og håndplukker musikken. Vi åbner døren til weekenden og holder fest med energiske klubklassikere, elektroniske perler og frisk indiedisco. Et program med velvalgte favoritter fra fortiden og fremtiden serveret sammen med en god historie. Lytterne inviteres med til festen og kan være påvirke musikken i radioen.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f5c4fa075f927899ffbef6.jpg"/>
     <item>
+      <title>Sange om drikkevarer</title>
+      <description>Flydende varer er et stort emne for bands og sangskrivere. Fezten har en bred smag og fylder glasset med drikkelige favoritter. Der er ingen krav om procenter!</description>
+      <duration>01:55:00</duration>
+      <pubDate>Fri, 17 Jan 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-sange-om-drikkevarer-16122564035</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61c36978df4e0c0dabf1/5c6f0bf0d56ae78b82454d2f9d31d9cd98690e2672a5f719963367eb130d2399" length="165602086" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nyt år - gamle vaner</title>
+      <description>Fezten samler på musikere, vi aldrig skiller os af med. Har du en evig favorit? Niels Fez mixer gamle venner med friske favoritter til 2025.</description>
+      <duration>01:55:00</duration>
+      <pubDate>Fri, 10 Jan 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-nyt-aar-gamle-vaner-16122564025</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a081654c75b6cc9914/f5735010e46bace37463057111edeed12b6b6f5cabaa573c10011e930b3fa3ae" length="165601490" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>NytårsFezten</title>
       <description>Niels Fez Pedersen giver 2024 et sidste skud og søger for musikken til Fezten på årets sidste dag. 
 Du får seks timers indiedisco, P6-favoritter og diverse knaldperler.</description>
@@ -149,22 +165,6 @@ Du får seks timers indiedisco, P6-favoritter og diverse knaldperler.</descripti
       <pubDate>Fri, 16 Aug 2024 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/fezten-16122464335</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b14cfaf850aab1a1ac133d/c5054a15b132803fbf162e2dd5246e4734b25bd2fd85576d2e22961cfd862b40" length="165602161" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sange om drikkevarer</title>
-      <description>Flydende varer er et stort emne for bands og sangskrivere. Fezten har en bred smag og fylder glasset med drikkelige favoritter. Der er ingen krav om procenter!</description>
-      <duration>01:55:00</duration>
-      <pubDate>Fri, 17 Jan 2025 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-sange-om-drikkevarer-16122564035</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61c36978df4e0c0dabf1/5c6f0bf0d56ae78b82454d2f9d31d9cd98690e2672a5f719963367eb130d2399" length="165602086" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Nyt år - gamle vaner</title>
-      <description>Fezten samler på musikere, vi aldrig skiller os af med. Har du en evig favorit? Niels Fez mixer gamle venner med friske favoritter til 2025.</description>
-      <duration>01:55:00</duration>
-      <pubDate>Fri, 10 Jan 2025 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten/fezten-nyt-aar-gamle-vaner-16122564025</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a081654c75b6cc9914/f5735010e46bace37463057111edeed12b6b6f5cabaa573c10011e930b3fa3ae" length="165601490" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
