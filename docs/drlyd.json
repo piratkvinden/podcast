@@ -3365,5 +3365,13 @@
     "description": "'Det vi skændes om' er programmet, hvor JoJo med et panel bestående af to kendte gæster, vender lytternes - og gæsternes - skænderier.",
     "program_url": "https://www.dr.dk/lyd/p3/det-vi-skaendes-om-6209917914000",
     "series_hash": "67851a24ae34e26cb9d21db8"
+  },
+  {
+    "name": "Dårlig stemning",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/daarlig-stemning",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67937e147e1af586a1d55af0.jpg",
+    "description": "Den dårlige stemning rumsterer på internettet, i det politiske landskab, i det store udland og rundt omkring i lille Danmark. Den optræder i nyhedsbilledet, afslører magtkampe og driver folk til tasterne på sociale medier. Hvem har skabt den dårlige stemning? Og hvordan kunne det gå så galt?\nDet undersøger journalisterne Adina Ren og Anna Olrik, når de hver uge afdækker den dårlige stemning og konfronterer de involverede. Her får du serveret de bedste nyheder med de værste vibes gennem skæve analyser og et kritisk blik.",
+    "program_url": "https://www.dr.dk/lyd/p1/daarlig-stemning-6130793138000",
+    "series_hash": "677478d28229b891ade376b8"
   }
 ]
