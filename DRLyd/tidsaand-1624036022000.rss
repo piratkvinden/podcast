@@ -6,15 +6,6 @@
     <description>Troen i verden og verden i troen. To udvalgte gæster betragter et udvalg af ugens begivenheder fra et religiøst og åndeligt perspektiv. Vigtige aktuelle emner indenfor tro, kirke og religion vendes og drejes.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3d1caf0388a6799576afe.jpg"/>
     <item>
-      <title>Nyaarsmorgen</title>
-      <description>Vi vågner til det nye år i selskab med forfatter Anna Juul og politiker Jon Stephensen. Med Grundtvigs langdigt Nyaarsmorgen som holdepunkt kigger de to frem og tilbage i samtiden og i deres egne liv. 
-Vært: Christoffer Emil Bruun.</description>
-      <duration>00:56:05</duration>
-      <pubDate>Sun, 01 Jan 2023 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/nyaarsmorgen-11042302527</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a740f3b23ac67e5b4b9066/27b2773b48e8bea37078ae15f49955b82802827973a13032c997376898421a7e" length="80776603" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Tidssånd: Peters jul - adventskalender med Peter Høeg og Christoffer Emil Bruun</title>
       <description>Som afslutning på den adventskalender, som blev sendt de fire søndage i advent markerer Tidsånd julen med en form for Jesus-meditation, som tager udgangspunkt i Peter Høegs læsning af Thomas-evangeliet.</description>
       <duration>00:56:38</duration>
@@ -322,6 +313,15 @@ Vært: Christoffer Emil Bruun.
       <pubDate>Sun, 30 Jan 2022 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/tidsaand-kirken-i-rusland-og-ukraine-11042202047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61e89aa1f14b567f8a29c617/f5b8a8bb66f055e2d17215a50171b2e2b158aa07f25fa5985d5305a887133797" length="80842843" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nyaarsmorgen</title>
+      <description>Vi vågner til det nye år i selskab med forfatter Anna Juul og politiker Jon Stephensen. Med Grundtvigs langdigt Nyaarsmorgen som holdepunkt kigger de to frem og tilbage i samtiden og i deres egne liv. 
+Vært: Christoffer Emil Bruun.</description>
+      <duration>00:56:05</duration>
+      <pubDate>Sun, 01 Jan 2023 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/tidsaand/tidsaand-2022/nyaarsmorgen-11042302527</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a740f3b23ac67e5b4b9066/27b2773b48e8bea37078ae15f49955b82802827973a13032c997376898421a7e" length="80776603" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
