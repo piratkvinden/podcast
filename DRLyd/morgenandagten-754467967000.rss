@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 29. jan. 2025</title>
+      <description>Præludium:	Johann Ludwig Krebs: Præludium i F-dur
+Fra det G.T.:	Salme 121
+Salme: 7 &quot;Herre Gud! Dit dyre navn og ære&quot;
+Fra det N.T.:	Markus 6,1-6
+Korvers: Morten Poulsen: Evig sand er Herrens tale (tekst: N.F.S. Grundtvig)
+Salme: 307 &quot;Gud Helligånd, vor igenføder&quot;
+Postludium: Eli Tausen a Lava: Reyði Tráðurin</description>
+      <duration>00:25:03</duration>
+      <pubDate>Wed, 29 Jan 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3448450a12b16817618f/5342ef79cb9d5ec658edd0980454a122dd1b25fe15747d8260c2774080e24cb1" length="36085675" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 28. jan. 2025</title>
       <description>Præludium:	Jesper Madsen: Morgenstund har guld i mund
 Fra det G.T.:	Salme 145, 14-18
@@ -326,20 +340,6 @@ Postludium: Leif Kayser: Guds godhed vil vi prise</description>
       <pubDate>Thu, 02 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67689b094238c0288be38d17/5bb79d073e342afe54ddc22f18fe339a806b103a83a63219a7fb475dbed0c159" length="36085676" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 31. dec. 2024</title>
-      <description>Præludium	Peter Møller: Variationer over en fransk julevise
-Fra det G.T.	Salme 65,2-6
-Salme: 115 &quot;Lad det klinge sødt i sky&quot;
-Fra det N.T.	Hebræerbrevet 1,1-4
-Korvers Ivar Widéen: Stjerne, på sø og strand (tekst: V. Rydberg)
-Salme: 122 &quot;Den yndigste rose er funden&quot;
-Postludium	Peter Møller: Variationer over en fransk julevise</description>
-      <duration>00:25:00</duration>
-      <pubDate>Tue, 31 Dec 2024 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405018</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f82032632014e32334c6/dbd9a4a1e47d36ebfecb4cd5c9f18c4b4667305563861e2997ca7f4b19c45d3b" length="36001580" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
