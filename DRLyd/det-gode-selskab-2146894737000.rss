@@ -7,6 +7,17 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med Stéphanie Surrugue</title>
+      <description>For andet år i træk er hun vært ved Dansk Melodi Grand Prix, i makkerskab med Sara Bro.
+Men hvad er det for et show, der venter?
+Hvordan er det at være en del af en kultur-tradition? - og hvad er Stéphanie's egen tilgang til Dansk Melodi Grand Prix?
+Vært: Søren Hansen.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 31 Jan 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-stephanie-surrugue-15452528055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed73f3a199d52753f2c39/bee068851cd775f8c7c554fb11a5288d0373e35e5f8b2267e93f3a949e26db76" length="168481598" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med Henrik Liniger</title>
       <description>Han har dækket sommer-OL fire gange, VM i fodbold fem gange, Tour de France 12 gange - for bare at nævne noget.
 Lige nu dækker han herrernes VM-slutrunde i håndbold.
@@ -37,16 +48,6 @@ Vært: Søren Hansen.</description>
       <pubDate>Tue, 28 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-helge-hansen-15452528052</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae340450a12b1681133be/6dc94b93ecb6ab374c77d390f904309eced450fec5e5d47ca5e2d80f14a019c2" length="168481580" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Ole Tøpholm</title>
-      <description>Sidste frist for ansøgning af økonomiske midler fra Giro413-puljen udløber d. 31/1 - men hvordan - og hvem kan søge?
-Dansktoppen står også overfor en lille ændring.
-Vært: Søren Hansen.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 27 Jan 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-ole-toepholm-15452528051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67899119740e4f15ff05e5c2/c842c188b31bca26ab7903888452fc1babf5d453a034b89f648cc50a531396bb" length="168481537" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

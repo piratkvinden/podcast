@@ -6,30 +6,6 @@
     <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6731d3506f7124fa6de5643a.jpg"/>
     <item>
-      <title>DJ Lilli</title>
-      <description>DJ Lilli er for første gang bag 'P3 Pulten', og vi skal mange steder hen, når hun river i knapperne. Fra rap- og pop-hits i anderledes forklædning til drum'n'bass og baile-funk. Kom ind!</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 24 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-dj-lilli-13332516045</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859bbf682669bee5754320/8653d80cab0045241c19c62280c8be83551bc65d845fb702284eb663988d70a0" length="172801521" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Adidaddi</title>
-      <description>Adidaddi er bag 'P3 Pulten' og ruller os ind i weekenden med et varmt mix af dancehall, afro-house og amapiano.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 17 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-adidaddi-13332516035</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61988540867cc0a0b698/0a9c1936cdd34188f9c0281563fc85fe4c44a65cd276e74f264d9c5ae6eb80e5" length="172802025" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sanjari</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 10 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-sanjari-13332516025</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b" length="172801554" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>KATO #4</title>
       <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
 KATO er bag pulten.</description>
@@ -199,6 +175,38 @@ Anton Westerlin er bag pulten.</description>
       <pubDate>Fri, 02 Aug 2024 11:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-anton-westerlin-1-13332416315</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:669ed82349055d4ea2ee2708/cf60730881dde4e0318c3b58917cb17d2b76ed665dc891badfa820f18c9525a1" length="260937652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Youss</title>
+      <description>Din fredag er i de bedste hænder, når Youss er bag 'P3 Pulten'. Tænd op for køkken- eller for-festen, for pulten er pakket med elektroniske perler, der sender dig på en tur fra Danmark til Tyrkiet til Sydafrika og lige ind i weekenden.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-youss-13332516055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7213a199d52753f2a86/fad7a46ed18280ef03147a140bce61edbc5901c51bf7c92555ffe47a9cf9d3da" length="172801572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>DJ Lilli</title>
+      <description>DJ Lilli er for første gang bag 'P3 Pulten', og vi skal mange steder hen, når hun river i knapperne. Fra rap- og pop-hits i anderledes forklædning til drum'n'bass og baile-funk. Kom ind!</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 24 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-dj-lilli-13332516045</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859bbf682669bee5754320/8653d80cab0045241c19c62280c8be83551bc65d845fb702284eb663988d70a0" length="172801521" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Adidaddi</title>
+      <description>Adidaddi er bag 'P3 Pulten' og ruller os ind i weekenden med et varmt mix af dancehall, afro-house og amapiano.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 17 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-adidaddi-13332516035</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61988540867cc0a0b698/0a9c1936cdd34188f9c0281563fc85fe4c44a65cd276e74f264d9c5ae6eb80e5" length="172802025" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sanjari</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 10 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-sanjari-13332516025</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b" length="172801554" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

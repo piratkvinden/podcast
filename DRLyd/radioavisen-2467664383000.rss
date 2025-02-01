@@ -6,196 +6,276 @@
     <description>De seneste nyheder - døgnet rundt.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f26373b75d19480fa3d3e3.jpg"/>
     <item>
-      <title>27. jan. 2025 kl. 23:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/radioavisen-14842523051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ea7d07fcd6e9239f11/bb6954b69db3face33afe823468793dd0140a73e9484349d256c20496eb8f833" length="4443480" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 22:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:02</duration>
-      <pubDate>Mon, 27 Jan 2025 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/radioavisen-14842522051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ed7d07fcd6e9239f1d/6f31b92d3223233dcca9d3b0a019c9c51e4ac6d8278d207759a329de4eb17120" length="4393368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 21:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:03</duration>
-      <pubDate>Mon, 27 Jan 2025 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/radioavisen-14842521051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ecbd1959d98ae77c2c/ec49687479be128ac2ae97c9d78174f2a38ac01f9dd88f1ba68eb4e1c07c81ac" length="4407768" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 20:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:03</duration>
-      <pubDate>Mon, 27 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/radioavisen-14842520051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990eb740e4f15ff05e4d0/92161f745cbc12ebc6b770bb91f26c5a62ca5f57e3c517df6a32cefdaa35ffd9" length="4408920" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 19:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:02</duration>
-      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/radioavisen-14842519051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67899101c15df10c0685cb56/45ecac71702e28da9e0537bc78db75c34635c04515f0836c72fa71035f59598d" length="4391064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 18:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Mon, 27 Jan 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/radioavisen-14842518051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ea5316e4c57eccf139/c9e68e35cbec90d838964f9c1ded342571a58346d77a74f47d2a388ff099b79c" length="7301016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 17:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:05</duration>
-      <pubDate>Mon, 27 Jan 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/radioavisen-14842517051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e3b81373fe31365c3b/9519e05419da51a8e5f871485aca56731cbdf92d31bd6ba8223e0f8188c36c38" length="7323480" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 16:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Mon, 27 Jan 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/radioavisen-14842516051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e25316e4c57eccf10d/34904c37364abdba7929414d4c7939b1218866fe99284b42ce283cde5da06482" length="7311384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 15:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Mon, 27 Jan 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/radioavisen-14842515051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ebb81373fe31365c6d/c1f724c4982169f2d2e2188c4a6cabc7616b637eb9d185a976011ac8d8321616" length="4439448" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 14:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Mon, 27 Jan 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/radioavisen-14842514051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e45316e4c57eccf119/637f325bbfbdf98fd2dc6b6df5bb8286e6adcb90a33f52c69c03754dc0ee793e" length="4437144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 13:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Mon, 27 Jan 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/radioavisen-14842513051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e2941f87f30287e004/fc1bf4b7edec72f5fb91aa269202e1aea9692e6bb00473b4223fce10a47aed39" length="4440024" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 12:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:14:44</duration>
-      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/radioavisen-14842512051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e4b81373fe31365c43/efdc6972ba7829c822f6591a8d5c7d6492ecc9cec241bb2a78ec57175498d466" length="21224664" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 11:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Mon, 27 Jan 2025 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/radioavisen-14842511051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e2740e4f15ff05e4a6/1e8761c70c3d6c1eded745e2a248bbb32c075814df9c552b9f6a8a00b587600b" length="4437144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 10:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/radioavisen-14842510051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ea450a12b1680b1181/d70f7e6596c09cf3ee614f1d363e9fa2ad82bd004ab60dffadfdae33a80c84eb" length="4431384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 09:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Mon, 27 Jan 2025 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/radioavisen-14842509051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e4941f87f30287e012/e72c937588365663d2697bd62d34ed66a5a167a71dff52e460bdb25c961d4ab8" length="7320600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 08:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Mon, 27 Jan 2025 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ec740e4f15ff05e4d8/7381c1cc6bbc3479d569d6d714bed6ba768e4ba2b09215ae4d33c2153266ba5c" length="7314840" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 07:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Mon, 27 Jan 2025 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ea450a12b1680b1179/19437173800f13838df0084382e95e946de2d5f7f1636dc4c35c1c3b226604a3" length="7303320" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 06:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Mon, 27 Jan 2025 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990ebbd1959d98ae77c24/b24a6bb0ec9bcbfbe5adbecd7af55635eb2da6bb66dc446f0f63330a74b323ae" length="7295832" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>27. jan. 2025 kl. 05:00</title>
+      <title>29. jan. 2025 kl. 23:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
       <duration>00:03:06</duration>
-      <pubDate>Mon, 27 Jan 2025 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678990e2450a12b1680b1150/d36dada416d04df1d6163e63b824a341df4d9158530bdcf9d6867cfaf9dabe76" length="4466520" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jan 2025 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/radioavisen-14842523053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341679521659686c1b17/8b7ebfddc4684a8f0c95363e6867a326882535ac65d9a675fc14a7120e2f03bb" length="4471704" type="audio/mpeg"/>
     </item>
     <item>
-      <title>27. jan. 2025 kl. 04:00</title>
+      <title>29. jan. 2025 kl. 22:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
       <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504047</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ee1133029d107b96907/f62776b16c714f1f9b74762b71f20882e102f815615bec8cd44ea580ca74429a" length="4461912" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jan 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/radioavisen-14842522053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3413bf121af0c1f3de85/9d5900fe32facc6e02585c08dc2986f9b3bb7ee1a74c7c741a6b1e57e5dd1c76" length="4461912" type="audio/mpeg"/>
     </item>
     <item>
-      <title>27. jan. 2025 kl. 03:00</title>
+      <title>29. jan. 2025 kl. 21:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503047</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ee06d7761289b067313/139c66eb82e5fbfb50650328b051f533d1e4f7512a8ff1ad1c426e4fccd16e75" length="4461336" type="audio/mpeg"/>
+      <duration>00:03:06</duration>
+      <pubDate>Wed, 29 Jan 2025 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/radioavisen-14842521053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341ba46a3f08ee6f39d6/e0e8ec6d2f54cbe5caf247c74e6ff95c2644d4eb8034a1f4716df72a488e0293" length="4469400" type="audio/mpeg"/>
     </item>
     <item>
-      <title>27. jan. 2025 kl. 02:00</title>
+      <title>29. jan. 2025 kl. 20:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502047</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ed40b153b3916cbfb6c/1a4e94b6a78bb0c38c4a2e4e249f13a04779b6fefd121b0ecb89523412075229" length="4455576" type="audio/mpeg"/>
+      <duration>00:03:06</duration>
+      <pubDate>Wed, 29 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/radioavisen-14842520053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341e450a12b16817603d/9c182fa823e3ff30aa11a8491a70acd87bb97f301f8b0b74b57b45cac32534bc" length="4469976" type="audio/mpeg"/>
     </item>
     <item>
-      <title>27. jan. 2025 kl. 01:00</title>
+      <title>29. jan. 2025 kl. 19:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501047</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ee87a1ddd3c45a98ae2/b18eb50615b5f857e42ca339dd7d759c04769bedcbc43e91291496372e99d688" length="4461912" type="audio/mpeg"/>
+      <duration>00:03:06</duration>
+      <pubDate>Wed, 29 Jan 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/radioavisen-14842519053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341a450a12b168176029/a2fc89b201648df4a99b18585ca649c2aebea9edefa0c1f3df299dedcb157e2c" length="4468248" type="audio/mpeg"/>
     </item>
     <item>
-      <title>27. jan. 2025 kl. 00:00</title>
+      <title>29. jan. 2025 kl. 18:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Wed, 29 Jan 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/radioavisen-14842518053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341c581a29f64a3935c3/8f1d5072bd6af4ef87b9dd3f39e631b9205ea820383546f1f112fd0c604172ad" length="7282008" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 17:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Wed, 29 Jan 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/radioavisen-14842517053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3412bf121af0c1f3de7d/341a67660788078eaa1ce1a118fce672ad6e32bc4ac0b29e8b2dc1ff38272ceb" length="7296984" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 16:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Wed, 29 Jan 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/radioavisen-14842516053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3412952f0a6aaa8bcd98/395b1e74f9cfece01d3dac6980aaa0c959cb3ed08a684fb1167ac9cba787db07" length="7295256" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 15:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Wed, 29 Jan 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/radioavisen-14842515053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341d4b2912e24853c947/ecdb34360acd047a1e6a5a2da250cf779466e83f8b0ca7db98eac2ccd9248c61" length="4423320" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 14:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Wed, 29 Jan 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/radioavisen-14842514053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341abf121af0c1f3dec3/e4ee4c9ddc2f8e2b905e054332f7c4b20b94079d8acd7d97ab6673b774b7340f" length="4412952" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 13:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Wed, 29 Jan 2025 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/radioavisen-14842513053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3410a46a3f08ee6f399b/7e2b02c84360e1db033769dec69702b206e8079bdbc7f28f138316587d47f85c" length="4416408" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 12:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:14:43</duration>
+      <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/radioavisen-14842512053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341479521659686c1b0b/84ed047f922e3416dbf82eaa720d5e3831f9356d5fd4164d0c44517c4be55eb6" length="21217176" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 11:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
       <duration>00:03:05</duration>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524047</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ed27a1ddd3c45a98a50/fdc858aef1a5c672afe962436e4f402225932736147df1a2d0fe69fb49c61161" length="4454424" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jan 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/radioavisen-14842511053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c34164b2912e24853c91f/695df317334dcff632be70514e3b86c2c415af77ebc390238bbd5d8d9db432aa" length="4442328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 10:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Wed, 29 Jan 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/radioavisen-14842510053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341b457cc37ef8f125ee/02f710175262f968ba9b910d6d8504971266184446d0fdf1623be32cdebb57f7" length="4430808" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 09:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:04</duration>
+      <pubDate>Wed, 29 Jan 2025 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/radioavisen-14842509053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341d79521659686c1b38/6bb1beb833811ced3aa9f670969148e8b8d06c4e64ac69e3da9894a63aa1be84" length="7314264" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 08:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:06</duration>
+      <pubDate>Wed, 29 Jan 2025 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3413450a12b168175fff/47a07334742c492b4cb4d6a54e28ad9bc5da68a44925eaf904f7dc2771d67459" length="7346520" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 07:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:02</duration>
+      <pubDate>Wed, 29 Jan 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341a5156195049e84d69/d374eb40d0763f1b1124823ad0189554796605c6c56cfc892eaaaae904bcff58" length="7264728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 06:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:04</duration>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c34125156195049e84d39/826292624c8fbbb2e1a52803ca795a5932e2e5ca7ba48e9ca55b72fad5db9be1" length="7301592" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 05:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505053</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3416a46a3f08ee6f39b7/7861095992dba364cfcd2e586eaa762e670d7a5b7700e40a65011541d42ef996" length="4435992" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 04:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Wed, 29 Jan 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504052</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae3104b2912e2484d88c6/17dbd78b6833b54e01d23b9b29f9402ba605bb15e3a59ebdc9dea2ba2fc4fd7b" length="4424472" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 03:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Wed, 29 Jan 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503052</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae315450a12b16811315d/0a39bda76eb92ba559c59d8d4a576a972a7f63dcfcd5ed722ce9ab497f0d6f23" length="4445208" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 02:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Wed, 29 Jan 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502052</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae314450a12b168113151/7ef1a88791b4f344982aa8b8807ccc2c7fe51df5e6d1785bbec55c72adaefcc9" length="4447512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 01:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Wed, 29 Jan 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501052</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae313450a12b16811313b/55b38c22359f3f3ecfe4c933322d5d26caf6134bf7e8ca4373ac314b71713798" length="4431960" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>29. jan. 2025 kl. 00:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:06</duration>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524052</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae312450a12b168113133/6f21f9a41808fb6c3e299513913e9ffa58991b9465a61a1bc07f0295e8fdadf7" length="4467096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 09:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:04</duration>
+      <pubDate>Sat, 01 Feb 2025 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/radioavisen-14842509056</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790321a2a51e1bacbbf0fb2/ed40cf91d2cba2a091f86c6b133ddac7ac254f927d8473033a3e1172bc2f5ccc" length="7304472" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 08:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Sat, 01 Feb 2025 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508056</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679032212a51e1bacbbf103d/656154878ba4aab7872ce124fccc526749ba622d8f57a47d7ac1b29f7ef37f71" length="7284888" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 07:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Sat, 01 Feb 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507056</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679032162a51e1bacbbf0f4d/04bbf3b59a9bbc7f8c302e1a61243b40fc5fc50a8a0517b09453ecd726b07a97" length="4433688" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 06:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Sat, 01 Feb 2025 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506056</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679032192a51e1bacbbf0fa0/efcbf6c1b23d81ed22190ce07340a1687ee9aff83e39d6e0720622eb2a181a41" length="4416984" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 05:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Sat, 01 Feb 2025 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505056</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67903212230020bdd2f0a1e7/afa739526ce2580a88af074fbfd984d01c7e35a312131c75a9ddb67fe7bd1890" length="4415832" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 04:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Sat, 01 Feb 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7253a199d52753f2acf/245dd1f1f6f8c0fd0e282d5629a7f5d7282d53641e7745feb033aca0f0cab8f1" length="4430232" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 03:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Sat, 01 Feb 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7395356776e89a4c68c/d8edb8da24adfc394730016f0feb2eacf7067ab2f74e122f3184002cbd67eb80" length="4413528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 02:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Sat, 01 Feb 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72c230020bdd2e7995e/61dfe16df110aaa58d4024f6f4fd4b4ccfb2871f036d9a1b9e07c845fa8232c5" length="4425624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 01:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Sat, 01 Feb 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72d3a199d52753f2b2d/5acc7164e5a015bd475df5c4b15b5e0a1ba414cd07df33786ea029f50128c768" length="4464792" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>1. feb. 2025 kl. 00:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72c5356776e89a4c5b8/1cc92c2172560ba607828766ff9e311170197dfa32a0182c9741038768f54b20" length="4416984" type="audio/mpeg"/>
     </item>
     <item>
       <title>28. jan. 2025 kl. 23:00</title>
@@ -390,6 +470,198 @@
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678991015316e4c57eccf1bd/4a4194dbc55dcee33aad4ef91a45effbf0044f520d2c61fb6aaae39c0e61f3ee" length="4418712" type="audio/mpeg"/>
     </item>
     <item>
+      <title>31. jan. 2025 kl. 23:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Fri, 31 Jan 2025 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/radioavisen-14842523055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7245356776e89a4c535/49176cda6ab307dc62e0efb58c5049291740d69e5b0283748e769ddc5a87117d" length="4415256" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 22:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/radioavisen-14842522055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72e230020bdd2e79989/d3edf198f17576462b1953edbe03be9ff8557c1d4f5c64eab4fc4599714f77e9" length="4442328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 21:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Fri, 31 Jan 2025 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/radioavisen-14842521055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7396f7b8ee316ae9c0f/8f8d0e55fcc4021a35d7f4d8623cab9c0db377faf297b00459165e734bd6d61a" length="4405464" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 20:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/radioavisen-14842520055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72f6f7b8ee316ae9b53/bb6e9304c9e3a537c8995e05b96e86330a8d20d0b0b540b945da47b794f14232" length="4447512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 19:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/radioavisen-14842519055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7235356776e89a4c52e/ba527e396dcfdbd64771f08a058d2ce867a43c1e80fdb74a6f3d4d798ec915f4" length="4443480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 18:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:05</duration>
+      <pubDate>Fri, 31 Jan 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/radioavisen-14842518055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed73a3a199d52753f2bda/7840d6e7903ceb14d7f794e818e24f2f282cdec90c0511d10ff817b29df78763" length="7335576" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 17:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Fri, 31 Jan 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/radioavisen-14842517055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7235356776e89a4c523/229fb59bfb82e22c2297b9889558e7b9837216dc25e8bad2a8c8b3dada2edc98" length="7297560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 16:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:04</duration>
+      <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/radioavisen-14842516055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed722230020bdd2e798d0/8d91ad08fdd7607edf82d8f24694223e49c5dbb1ecfb0dd24ea1ea56e8873deb" length="7312536" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 15:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Fri, 31 Jan 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/radioavisen-14842515055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7253a199d52753f2ad6/cf52c099d0839f1ff979f8dc5f8519f842a9faa819e57f1d7da78b07e9903e52" length="4425624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 14:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Fri, 31 Jan 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/radioavisen-14842514055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72b6f7b8ee316ae9b1a/e553bc8655ac437ff703571758b3a5683862e474432998b29d9dde702a776d70" length="4427352" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 13:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:03</duration>
+      <pubDate>Fri, 31 Jan 2025 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/radioavisen-14842513055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed739230020bdd2e79a34/6be8675647006999dc2c7a412bbb1c19507f63cb3e34d07b14b174a199002071" length="4406616" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 12:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:14:43</duration>
+      <pubDate>Fri, 31 Jan 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/radioavisen-14842512055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72d6f7b8ee316ae9b3e/133f4e44fe14aa17817a4dc993d31e489b94084da1732d0e947cc9fb53b94a88" length="21195864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 11:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:04</duration>
+      <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/radioavisen-14842511055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7396f7b8ee316ae9c08/7d54bc3bb15619ccab2d0b8dd389e97ab806b7fe51ac53726de558369cd121bd" length="4434840" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 10:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/radioavisen-14842510055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7685356776e89a4c9a5/eb016c192d723b9d16656edb4d9fb4649ba65bbf3cfb2dc2f4014fa358ebb7f2" length="4447512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 09:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Fri, 31 Jan 2025 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/radioavisen-14842509055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7265356776e89a4c554/777ce04c4434da32a599407d9510fed150a5e713095593192d2d4356c648f623" length="7277400" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 08:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:02</duration>
+      <pubDate>Fri, 31 Jan 2025 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72c6f7b8ee316ae9b29/55113e84b79e652a4f93b9a1e0e472aa6e3124911b4b980b64f9dcad9b83327d" length="7268184" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 07:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Fri, 31 Jan 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed724230020bdd2e79901/88fd7cca422182462525f41fd2ab2e765a580bb0c34b0c39fa30b77f13ed412b" length="7292376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 06:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:05:03</duration>
+      <pubDate>Fri, 31 Jan 2025 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7236f7b8ee316ae9ac4/90a4280db81db682ad6c35ebe37f3e78eec4f175febf507ef9db5dc314488d33" length="7294104" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 05:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:06</duration>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed723230020bdd2e798f3/3625a269f8d7c46f4a0d77d713cfa3d511780d2ee4ddb0d8f0e7c21908f8fe6b" length="4476312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 04:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:06</duration>
+      <pubDate>Fri, 31 Jan 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504054</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d8554c94c48a31fe215c0/f35903dd642d45df863c87d22681fac27e023ce6e034823c93db06dd4acbeae7" length="4473432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 03:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:06</duration>
+      <pubDate>Fri, 31 Jan 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503054</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d855cc94c48a31fe215e8/e2cc4ab59a5be9954ce14aeacd5a45725978a760b88949bd7757c868b1441af0" length="4465368" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 02:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:06</duration>
+      <pubDate>Fri, 31 Jan 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502054</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85524d7f0ec9aefd122e/f634eb7cd6482f7aeed8f849d23ea4f38ab7fe1f2b441f39c1df6896f77b71b5" length="4475736" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 01:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501054</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85532164394b741cfcf5/5df408f5e4cc1eb36c5012f8f27b777dd9672f5e53509e2f18a7af9e19a11a43" length="4449816" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>31. jan. 2025 kl. 00:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <duration>00:03:05</duration>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524054</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85504d7f0ec9aefd1220/8d3e09fa5fb203aa2633345be9ecec5eb9689e006003eaff6406906850b17863" length="4451544" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>30. jan. 2025 kl. 23:00</title>
       <description>De seneste nyheder - døgnet rundt.</description>
       <duration>00:03:05</duration>
@@ -580,270 +852,6 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524053</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3415952f0a6aaa8bcdab/321bc96182dce479bdf1552ef6bfe4338d65bd208c3b064a691e1a388cc5733d" length="4473432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 23:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Wed, 29 Jan 2025 23:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/radioavisen-14842523053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341679521659686c1b17/8b7ebfddc4684a8f0c95363e6867a326882535ac65d9a675fc14a7120e2f03bb" length="4471704" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 22:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Wed, 29 Jan 2025 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/radioavisen-14842522053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3413bf121af0c1f3de85/9d5900fe32facc6e02585c08dc2986f9b3bb7ee1a74c7c741a6b1e57e5dd1c76" length="4461912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 21:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Wed, 29 Jan 2025 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/radioavisen-14842521053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341ba46a3f08ee6f39d6/e0e8ec6d2f54cbe5caf247c74e6ff95c2644d4eb8034a1f4716df72a488e0293" length="4469400" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 20:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Wed, 29 Jan 2025 20:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/radioavisen-14842520053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341e450a12b16817603d/9c182fa823e3ff30aa11a8491a70acd87bb97f301f8b0b74b57b45cac32534bc" length="4469976" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 19:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Wed, 29 Jan 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/radioavisen-14842519053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341a450a12b168176029/a2fc89b201648df4a99b18585ca649c2aebea9edefa0c1f3df299dedcb157e2c" length="4468248" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 18:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Wed, 29 Jan 2025 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/radioavisen-14842518053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341c581a29f64a3935c3/8f1d5072bd6af4ef87b9dd3f39e631b9205ea820383546f1f112fd0c604172ad" length="7282008" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 17:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Wed, 29 Jan 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/radioavisen-14842517053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3412bf121af0c1f3de7d/341a67660788078eaa1ce1a118fce672ad6e32bc4ac0b29e8b2dc1ff38272ceb" length="7296984" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 16:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Wed, 29 Jan 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/radioavisen-14842516053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3412952f0a6aaa8bcd98/395b1e74f9cfece01d3dac6980aaa0c959cb3ed08a684fb1167ac9cba787db07" length="7295256" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 15:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Wed, 29 Jan 2025 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/radioavisen-14842515053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341d4b2912e24853c947/ecdb34360acd047a1e6a5a2da250cf779466e83f8b0ca7db98eac2ccd9248c61" length="4423320" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 14:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:03</duration>
-      <pubDate>Wed, 29 Jan 2025 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/radioavisen-14842514053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341abf121af0c1f3dec3/e4ee4c9ddc2f8e2b905e054332f7c4b20b94079d8acd7d97ab6673b774b7340f" length="4412952" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 13:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:03</duration>
-      <pubDate>Wed, 29 Jan 2025 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/radioavisen-14842513053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3410a46a3f08ee6f399b/7e2b02c84360e1db033769dec69702b206e8079bdbc7f28f138316587d47f85c" length="4416408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 12:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:14:43</duration>
-      <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/radioavisen-14842512053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341479521659686c1b0b/84ed047f922e3416dbf82eaa720d5e3831f9356d5fd4164d0c44517c4be55eb6" length="21217176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 11:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Wed, 29 Jan 2025 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/radioavisen-14842511053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c34164b2912e24853c91f/695df317334dcff632be70514e3b86c2c415af77ebc390238bbd5d8d9db432aa" length="4442328" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 10:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Wed, 29 Jan 2025 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/radioavisen-14842510053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341b457cc37ef8f125ee/02f710175262f968ba9b910d6d8504971266184446d0fdf1623be32cdebb57f7" length="4430808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 09:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Wed, 29 Jan 2025 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/radioavisen-14842509053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341d79521659686c1b38/6bb1beb833811ced3aa9f670969148e8b8d06c4e64ac69e3da9894a63aa1be84" length="7314264" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 08:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:06</duration>
-      <pubDate>Wed, 29 Jan 2025 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3413450a12b168175fff/47a07334742c492b4cb4d6a54e28ad9bc5da68a44925eaf904f7dc2771d67459" length="7346520" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 07:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:02</duration>
-      <pubDate>Wed, 29 Jan 2025 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c341a5156195049e84d69/d374eb40d0763f1b1124823ad0189554796605c6c56cfc892eaaaae904bcff58" length="7264728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 06:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:04</duration>
-      <pubDate>Wed, 29 Jan 2025 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c34125156195049e84d39/826292624c8fbbb2e1a52803ca795a5932e2e5ca7ba48e9ca55b72fad5db9be1" length="7301592" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 05:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505053</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678c3416a46a3f08ee6f39b7/7861095992dba364cfcd2e586eaa762e670d7a5b7700e40a65011541d42ef996" length="4435992" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 04:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Wed, 29 Jan 2025 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504052</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae3104b2912e2484d88c6/17dbd78b6833b54e01d23b9b29f9402ba605bb15e3a59ebdc9dea2ba2fc4fd7b" length="4424472" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 03:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Wed, 29 Jan 2025 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503052</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae315450a12b16811315d/0a39bda76eb92ba559c59d8d4a576a972a7f63dcfcd5ed722ce9ab497f0d6f23" length="4445208" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 02:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Wed, 29 Jan 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502052</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae314450a12b168113151/7ef1a88791b4f344982aa8b8807ccc2c7fe51df5e6d1785bbec55c72adaefcc9" length="4447512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 01:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:04</duration>
-      <pubDate>Wed, 29 Jan 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501052</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae313450a12b16811313b/55b38c22359f3f3ecfe4c933322d5d26caf6134bf7e8ca4373ac314b71713798" length="4431960" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>29. jan. 2025 kl. 00:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524052</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae312450a12b168113133/6f21f9a41808fb6c3e299513913e9ffa58991b9465a61a1bc07f0295e8fdadf7" length="4467096" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 08:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:02</duration>
-      <pubDate>Fri, 31 Jan 2025 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/radioavisen-14842508055</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed72c6f7b8ee316ae9b29/55113e84b79e652a4f93b9a1e0e472aa6e3124911b4b980b64f9dcad9b83327d" length="7268184" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 07:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Fri, 31 Jan 2025 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/radioavisen-14842507055</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed724230020bdd2e79901/88fd7cca422182462525f41fd2ab2e765a580bb0c34b0c39fa30b77f13ed412b" length="7292376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 06:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:05:03</duration>
-      <pubDate>Fri, 31 Jan 2025 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/radioavisen-14842506055</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7236f7b8ee316ae9ac4/90a4280db81db682ad6c35ebe37f3e78eec4f175febf507ef9db5dc314488d33" length="7294104" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 05:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/radioavisen-14842505055</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed723230020bdd2e798f3/3625a269f8d7c46f4a0d77d713cfa3d511780d2ee4ddb0d8f0e7c21908f8fe6b" length="4476312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 04:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Fri, 31 Jan 2025 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/radioavisen-14842504054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d8554c94c48a31fe215c0/f35903dd642d45df863c87d22681fac27e023ce6e034823c93db06dd4acbeae7" length="4473432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 03:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Fri, 31 Jan 2025 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/radioavisen-14842503054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d855cc94c48a31fe215e8/e2cc4ab59a5be9954ce14aeacd5a45725978a760b88949bd7757c868b1441af0" length="4465368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 02:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:06</duration>
-      <pubDate>Fri, 31 Jan 2025 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/radioavisen-14842502054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85524d7f0ec9aefd122e/f634eb7cd6482f7aeed8f849d23ea4f38ab7fe1f2b441f39c1df6896f77b71b5" length="4475736" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 01:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Fri, 31 Jan 2025 01:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/radioavisen-14842501054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85532164394b741cfcf5/5df408f5e4cc1eb36c5012f8f27b777dd9672f5e53509e2f18a7af9e19a11a43" length="4449816" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>31. jan. 2025 kl. 00:00</title>
-      <description>De seneste nyheder - døgnet rundt.</description>
-      <duration>00:03:05</duration>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/radioavisen-14842524054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d85504d7f0ec9aefd1220/8d3e09fa5fb203aa2633345be9ecec5eb9689e006003eaff6406906850b17863" length="4451544" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

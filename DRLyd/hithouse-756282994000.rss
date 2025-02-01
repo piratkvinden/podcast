@@ -8,6 +8,16 @@ pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2e32eb75d19480fa5d33d.jpg"/>
     <item>
+      <title>Fredag 31. jan. 2025</title>
+      <description>Musik og historier fra 
+pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <duration>00:55:00</duration>
+      <pubDate>Fri, 31 Jan 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/hithouse-15452523055</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed740230020bdd2e79a92/0d75635910985ee0e91ba8ffe49605bc92d2a2693b86fbe494aae86e3a67d791" length="79201396" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 30. jan. 2025</title>
       <description>Musik og historier fra 
 pigtrådsæraen.
@@ -36,16 +46,6 @@ Vært: Jørgen de Mylius.</description>
       <pubDate>Tue, 28 Jan 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/hithouse-15452523052</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae340450a12b1681133ba/e77bee076b8965d960c901722f1d7c3318e076891d07abbaf29501ef11ab4158" length="79201972" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 27. jan. 2025</title>
-      <description>Musik og historier fra 
-pigtrådsæraen.
-Vært: Jørgen de Mylius.</description>
-      <duration>00:55:00</duration>
-      <pubDate>Mon, 27 Jan 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/hithouse-15452523051</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6789911ad87c154a5a22106b/700ca5bd9db4668779772b264f8a01fc7e7596f258a387b3d203afefadbacda0" length="79201396" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
