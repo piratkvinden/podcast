@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
     <item>
+      <title>Søndag 2. feb. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>06:57:00</duration>
+      <pubDate>Sun, 02 Feb 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502057</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917959e427044b11b524f8/d0365a65d7cff16394bff23cbe273ed3c6b96025d64a4c8480428c324d030a0d" length="600481976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 31. jan. 2025</title>
       <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
       <duration>04:21:23</duration>
@@ -76,14 +84,6 @@
       <pubDate>Tue, 14 Jan 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67786cf02f0c92803602e5e7/c77ee396fa3e55a1b6565f8ff3285aa05c570775e9f80b4dd53c3c6dcbbed0db" length="385076538" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 4. jan. 2025</title>
-      <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-      <duration>03:00:03</duration>
-      <pubDate>Sat, 04 Jan 2025 18:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502011</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3dd96f126026649d7366/18c791982a39423dfcd11c9ab40b62f86b8f7dc9102bbea2a1cfbddad7d580e5" length="259285626" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
