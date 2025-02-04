@@ -6,6 +6,34 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Tirsdag 4. feb. 2025</title>
+      <description>Præludium:	Martin Hjalmar Nielsen: Den mørke nat forgangen er
+Fra det G.T.:	1. Mosebog 1,14-19
+Salme: 736 &quot;Den mørke nat forgangen er&quot;
+Fra det N.T.:	Markusevangeliet 7,31-37
+Korvers: Christian Præstholm: Hvor kærlighed brænder (tekst: Benedicte Hammer Præstholm 2013)
+Salme: 2 &quot;Lover den Herre&quot;
+Postludium: Johann Sebastian Bach: Kommst du nu, Jesu, vom Himmel herunter, BWV 650</description>
+      <duration>00:25:03</duration>
+      <pubDate>Tue, 04 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505062</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67941cd35e16218c47cb5e18/005e22f5216dcd8f766230441a59e6c91e8c0fdd3f08571cc12c5155fcf5c530" length="36087986" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mandag 3. feb. 2025</title>
+      <description>Præludium:	Einar Trærup Sark: Kvindelil! din tro er stor
+Ord til dagen: af Søren Kierkegaard
+Salme: 47 &quot;Jeg løfter mine øjne op&quot;
+Fra det N.T.:	Markusevangeliet 7,24-30
+Korvers: Christian Præstholm: Hvor kærlighed brænder (tekst: Benedicte Hammer Præstholm 2013)
+Salme: 158 &quot;Kvindelil! din tro er stor&quot;
+Postludium: Dietrich Buxtehude: Jeg løfter mine øjne op</description>
+      <duration>00:25:03</duration>
+      <pubDate>Mon, 03 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505061</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb5ee20b0ea7c3994912/e17afd59d6cd2a1a9956b159bdc24ebff69bafe18841df56968df7891549c7b7" length="36087990" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 1. feb. 2025</title>
       <description>Præludium:	Théodore Dubois: Élévation H-dur
 Davidssalme: 9,8-11
@@ -340,20 +368,6 @@ Postludium: Otto Malling: Tilbedelsen</description>
       <pubDate>Mon, 06 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505021</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676de1e3ce6d3443e4027461/cfc0015960321b777035cc0a3498a812fcbb89cdb87899a3a636d42ebca7129d" length="36085679" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 4. jan. 2025</title>
-      <description>Præludium:	Johann Sebastian Bach: Gelobet seist du, Jesu Christ, BWV 604
-Davidssalme: 146, 5-8
-Salme: 362 &quot;Gør dig nu rede, kristenhed&quot;
-Fra det N.T.:	Titusbrevet 3,4-7
-Trosbekendelsen	
-Salme: 138 &quot;De hellig tre konger så hjertensglad&quot;
-Postludium: Ernest Alfred Dicks: Pastorale C-dur</description>
-      <duration>00:25:03</duration>
-      <pubDate>Sat, 04 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505016</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3dedb4143ed398b51742/bd683633fd4d1ce079c03ef87c6f8f7fcd200705b405a7bebea83ed386c200b1" length="36085672" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
