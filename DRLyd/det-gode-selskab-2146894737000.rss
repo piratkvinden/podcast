@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med Jørgen Skouboe</title>
+      <description>Det bliver Jørgen Skouboes sidste sæson i det 15 år gamle DR-program 'Nak og æd'. Efter 47 år i DRs tjeneste går Jørgen på pension 
+Vært: Charlotte Striib.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 07 Feb 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-joergen-skouboe-15452528065</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811c94a69d0ba3a937509/8cb82e30938a1dded2935bdab54dab9f86c3411b6cd62b4ff7e651a0647afc3b" length="168482090" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med Mona Sandbæk Larsen</title>
       <description>Hun er en af de allersidste Tupperware-sælgere i Danmark. Firmaet er gået konkurs, men Mona Sandbæk Larsen har et lager af produkter, som hun stadig tager rundt og demonstrerer
 Vært: Charlotte Striib.</description>
@@ -34,17 +43,6 @@ Vært: Søren Hansen.</description>
       <pubDate>Tue, 04 Feb 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-thomas-rojas-silva-15452528062</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67941ce2491a04172ffcdfe3/6cd62b06c28f631db09c9536c584a962646043176979d5271c69aacb1c3abbc3" length="168482183" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Frank Jensen</title>
-      <description>Den tidligere operativ chef i PET og krimibogs-forfatter er aktuel med endnu en bog.
-To danske efterretningsfolk bliver brikker i et farligt, internationalt spil under den kolde krig.
-Bogen er 2. bind i serien om &quot;Den Dansende Spion&quot; - en fortælling, der er baseret på virkelige karakterer og hændelser.
-Vært: Søren Hansen.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 03 Feb 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-frank-jensen-15452528061</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb3b2f0d6506ab307789/a92ca6786e6b06a08fbb3c208813116857d47bf7c8229583f4c34acfb67fea0f" length="168481601" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
