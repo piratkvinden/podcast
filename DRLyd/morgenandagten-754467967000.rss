@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 8. feb. 2025</title>
+      <description>Præludium:	Gordon Young: Dreams
+Davidssalme: 12,2-6
+Salme: 56 &quot;Jesus er navnet mageløset&quot;
+Fra det N.T.:	2. Petersbrev 1, 16-18
+Trosbekendelsen	
+Salme: 162 &quot;Det var kun en drøm&quot;
+Postludium: Joseph Bonnet: Rêverie</description>
+      <duration>00:24:55</duration>
+      <pubDate>Sat, 08 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505066</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679962760d41b3302eeb3787/dbec2b58c2f207e9c3d65551033c75d44c94542a92c2f35abe477e1802115eb7" length="35892670" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 7. feb. 2025</title>
       <description>Præludium:	Lars Kristian Hansen: Talsmand, som på jorderige
 Fra det G.T.:	Salme 92,2-6
@@ -354,20 +368,6 @@ Postludium: Théodore Dubois: Petite Pastorale Champenoise</description>
       <pubDate>Fri, 10 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327bc81654c75b6cc9a13/ea80a424ab771bd2a0ebd5243a7a077890962f7e754e0aee682df0964c3382d2" length="36085676" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 9. jan. 2025</title>
-      <description>Præludium:	Johann Sebastian Bach: Puer natus in Bethlehem, BWV 603
-Fra det G.T.:	Esajas 40,25-31
-Salme: 319, vers 1-6 &quot;Vidunderligst af alt på jord&quot;
-Fra det N.T.:	Markus 2,13-17
-Korvers: Allan Rasmussen: Vise mænd kom den lange vej (tekst: Nils Brunse 2008)
-Salme: 319, vers 7-11
-Postludium: Johann Sebastian Bach: Triosonate G-dur, 1. sats, Vivace, BWV 530/I</description>
-      <duration>00:25:03</duration>
-      <pubDate>Thu, 09 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505024</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6771d68ae60bfb1c9b663797/28b9e2a39fd3ce85eebce42cde3eb8a7e61457cdbaf3df69025cf6c1fd41d2ae" length="36085675" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
