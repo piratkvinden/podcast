@@ -225,18 +225,6 @@ Vært: Pia Røn.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b14ce95e172d31640d6f56/39f831c8df34f865b6c13a201695153a5f6065f47b1064372d537ccc538ffa53" length="81824713" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Christina Egelund</title>
-      <description>Mens mange har travlt med at pakke feriekufferten ud, har tusindvis af unge travlt med at pakke flyttekasser og gøre klar til at studiestart.
-Men en del må kigge i vejviseren efter en studieplads, også selv om de har søgt ind på uddannelser, samfundet efterspørger.
-Hvor er logikken? Hvad med velfærdsuddannelserne? Og hvordan skal vi uddanne i fremtiden?
-Christina Egelund, uddannelses- og forskningsminister er Ugens Gæst fredag kl. 10.
-Vært Pia Røn.</description>
-      <duration>00:56:42</duration>
-      <pubDate>Fri, 09 Aug 2024 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2024/ugens-gaest-christina-egelund-11162408325</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a81261872d29515590ecca/f16a94a5c866b971b7fa6efd88375c16e7f7a48232513f3420e5cd6ee3e85285" length="81669194" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Jesper Binzer</title>
       <description>&quot;I Won´t Cut My Hair&quot; skrålede han i 80´erne. Nu fejrer D-A-D 40 års jubilæum, og håret er stadig langt.
 Jesper Binzer var 14, da han erklærede, at han ville være rockstjerne.
@@ -258,6 +246,14 @@ Vært: Pia Røn.</description>
       <pubDate>Fri, 12 Jan 2024 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2024/ugens-gaest-poul-nyrup-rasmussen-11162408025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659346d3c26aeca6faa659a0/1345d570747c23a291f4579379406f915b47ea185ec5cf181b0c6bebd7f10c30" length="82311437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Poul Nyrup Rasmussen</title>
+      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
+      <duration>00:57:03</duration>
+      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
     </item>
     <item>
       <title>Özlem Cekic</title>
@@ -340,14 +336,6 @@ Vært Pia Røn.
       <pubDate>Fri, 03 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2025/ugens-gaest-nikolaj-jacobsen-11162508015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6769ed8a7050f54f8330d72b/bf2fe7e705a84891207ad88c177412c195e7985414929244839638e9d8d87a98" length="81445703" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Poul Nyrup Rasmussen</title>
-      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
-      <duration>00:57:03</duration>
-      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
