@@ -6,6 +6,15 @@
     <description>Alle hverdagsmorgener får du det bedste og bredeste soundtrack til dagens første timer i sprødt selskab. Og så er det fra 07-10.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2795ab75d19480fa42b50.jpg"/>
     <item>
+      <title>Tirsdag 11. feb. 2025</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Goodluck Casper.</description>
+      <duration>01:55:00</duration>
+      <pubDate>Tue, 11 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532072</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679d57bceb004160c71365d9/0b971b6c90098e8456f9d5f0147bf3492b873872bffa7675314968dc9e3bb24c" length="165601395" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 10. feb. 2025</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
 Vært: Goodluck Casper.</description>
@@ -13,15 +22,6 @@ Vært: Goodluck Casper.</description>
       <pubDate>Mon, 10 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532071</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679c05afe65f1617824c5f90/f09b9706c0a378537bfad3fda6e40230854a0fddaec343fcae81214171af0d2c" length="165601395" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 7. feb. 2025</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <duration>02:55:00</duration>
-      <pubDate>Fri, 07 Feb 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/morgenbeatet-16452532065</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811cae66b43f5cc677bac/addf5a46309b13d42d06e6d625443b4e8547800e8ae67f42d2ee5cac96b658d6" length="252001415" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
