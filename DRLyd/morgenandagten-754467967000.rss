@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 12. feb. 2025</title>
+      <description>Præludium:	Johann Sebastian Bach: O Herre Krist, dig til os vend
+Fra det G.T.:	4. Mosebog 6,23-26
+Salme: 425 &quot;Velsignelse, al jordens tarv&quot;
+Fra det N.T.:	Markusevangeliet 9,2-10
+Korvers: Mark Baumann: Hvis nogen vil følge efter mig (tekst: Matthæus 16, 24-25)
+Salme: 161 &quot;Med strålekrans om tinde&quot;
+Postludium: Max Reger: Min død er mig til gode</description>
+      <duration>00:25:01</duration>
+      <pubDate>Wed, 12 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505073</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ea9689f5336e27ed0722e/182a7694cb034d92efaee5c2faf7d608cf13e850ff3ffdf2366e03daa44f5225" length="36043051" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 11. feb. 2025</title>
       <description>Præludium:	Johann Pachelbel: Toccata i e-mol
 Fra det G.T.:	Salme 116,1-9
@@ -354,20 +368,6 @@ Postludium: Otto Olsson: Nytår</description>
       <pubDate>Tue, 14 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67786d0d81654c75b6e52bdb/5fa086596ddfc0423c3d3a7d05c5a9b3223cc8c2219761576ee7852d9ab12fbc" length="36085674" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 13. jan. 2025</title>
-      <description>Præludium: Dietrich Buxtehude: Lobt Gott, ihr Christen allzugleich, BuxWV 202
-Ord til dagen af Søren Kierkegaard
-Salme: 33, vers 1-4 &quot;Han, som har hjulpet hidindtil&quot;
-Fra det N.T.: Markusevangeliet 2,23-28
-Korvers: Emilius Bangert: Gør dig rede, bliv lys (tekst: Esajas 60,1)
-Salme: 33, vers 5-7
-Postludium: Johann Sebastian Bach: Triosonate G-dur, 3. sats, Allegro, BWV 530/III</description>
-      <duration>00:25:03</duration>
-      <pubDate>Mon, 13 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505031</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67771ba42f0c928036fcd3c2/b088d2c32db5b7c8bb824c3f40855e62ece39d411256bbebbeed693f9e1bee9c" length="36085679" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
