@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 15. feb. 2025</title>
+      <description>Præludium:	Johann Gottfried Walther: Christus, der ist mein Leben
+Davidssalme: 13,2-6
+Salme: 744 &quot;Morgenrøden sig udstrækker&quot;
+Fra det N.T.:	1. Korintherbrev 9, 24-27
+Trosbekendelsen	
+Salme: 598 &quot;O Gud, du ved og kender&quot;
+Postludium: John Stanley: Voluntary i e-mol</description>
+      <duration>00:24:54</duration>
+      <pubDate>Sat, 15 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505076</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a29d117d6b01199e976eda/59e41f6a62a31718a87698b8cdf42a5c8aee1c14fba011be61372b5244c58214" length="35873705" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 14. feb. 2025</title>
       <description>Præludium:	Daniel Mc Intyre: Voluntary C-dur
 Fra det G.T.:	Salme 86,3-16a
@@ -354,20 +368,6 @@ Postludium: Zoltan Kodaly: Ite, missa est</description>
       <pubDate>Fri, 17 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505035</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61c66978df4e0c0dac01/9a9c5d6f06ad6b55b6044152c8e91716ab4a5463c9d1a77ef76a50846ad4333a" length="36085672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 16. jan. 2025</title>
-      <description>Præludium: Johann Sebastian Bach: Vom Himmel kam der Engel Schaar, BWV 607
-Fra det G.T.: Salme 16,7-11
-Salme: 588 &quot;Herre, gør mit liv til bøn&quot;
-Fra det N.T.: Johannesevangeliet 17,14-23
-Korvers: Emilius Bangert: Gør dig rede, bliv lys (tekst: Esajas 60,1)
-Salme: 333 &quot;Almindelig er Kristi kirke&quot;
-Postludium: Andreas Rondthaler: Wie schön leuchtet der Morgenstern</description>
-      <duration>00:25:03</duration>
-      <pubDate>Thu, 16 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505034</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677b114ef21df6e414e54ac8/752406f937fff30dafb441a0f3513e62690e3520a467f08c722b1b1f11369888" length="36085676" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
