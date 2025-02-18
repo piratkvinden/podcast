@@ -6,6 +6,34 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Tirsdag 18. feb. 2025</title>
+      <description>Præludium:	Jesper Madsen: Nu sol i øst oprinder mild
+Fra det G.T.:	Salme 51,3-5 og 9-12
+Salme: 5 &quot;O, havde jeg dog tusind tunger&quot;
+Fra det N.T.:	1. Petersbrev 4,7-11
+Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
+Salme: 697 &quot;Herre, jeg vil gerne takke&quot;
+Postludium: Jesper Madsen: O, havde jeg dog tusind tunger</description>
+      <duration>00:25:02</duration>
+      <pubDate>Tue, 18 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505082</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a692b04f121246d7d123d7/1a72a11b26ec4b741fc26709a707041f26d3a3b3f0acc1e94d481f08dc3fd065" length="36062054" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mandag 17. feb. 2025</title>
+      <description>Præludium: Edmund Hart Turpin: Voluntary B-dur
+Ord til dagen af Origenes
+Salme: 321, vers 1-5 &quot;O kristelighed!&quot;
+Fra det N.T.:	1. Petersbrev 3,13-22
+Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
+Salme: 321, vers 6-7
+Postludium: Johann Sebastian Bach: Fuga g-mol, BWV 578</description>
+      <duration>00:25:02</duration>
+      <pubDate>Mon, 17 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505081</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a540384f121246d7c90bc8/39f319f1fe3169a9e66e68db28535752635710bc495323c7d81ef936caa487e9" length="36058596" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 15. feb. 2025</title>
       <description>Præludium:	Johann Gottfried Walther: Christus, der ist mein Leben
 Davidssalme: 13,2-6
@@ -340,20 +368,6 @@ Postludium: Carl Philipp Emanuel Bach: Fuga i d-mol</description>
       <pubDate>Mon, 20 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505041</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678056cdae34e26cb9bc23ee/3386b3b2c0dd55ff5a7e942adbe232d834179cf01fda0a99b0ccd3c1b23a4c88" length="36085676" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 18. jan. 2025</title>
-      <description>Præludium: Dietrich Buxtehude: In dulci jubilo, BuxWV 197
-Davidssalme: 145,15-18 
-Salme: 579, vers 1-3 &quot;Vor tro den er et lys&quot;
-Fra det N.T.: Romerbrevet 12,6-16a
-Trosbekendelsen	
-Salme: 579, vers 4-7
-Postludium: Alan Gray: Angel's Song, fra 12 short pieces for organ</description>
-      <duration>00:25:03</duration>
-      <pubDate>Sat, 18 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505036</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677db2fad11d8378e2b0744b/8c9b1861c2fa9f3b17c7b6b6d80916a3ebbd076b0c966bf184a80d458103774a" length="36085670" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
