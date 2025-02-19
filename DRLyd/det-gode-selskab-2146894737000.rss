@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med gæst Bodil Jørgensen</title>
+      <description>Et genhør med skuespiller Bodil Jørgensen, der for nylig gæstede programmet og fortalte om sin hverdag og sit - ofte humoristiske - arbejdsliv med mange forskellige film-, tv- og teaterroller.
+Vært: Charlotte Striib.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Tue, 18 Feb 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-gaest-bodil-joergensen-15452528082</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a692aba122b9bdfd38dd24/328be9c9bb34635a429639ad987ab0d51dd4fdea5fbd0c91d116b545f1093996" length="168481564" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med gæst Anne Larsen</title>
       <description>Fra fedtforskrækkelse til sund fornuft. Anne Larsen ser tilbage på sin tid som Danmarks slankeguru og fortæller, hvorfor hun i dag aldrig ville skylle sit hakkekød under vandhanen.
 Vært: Charlotte Striib.</description>
@@ -14,15 +23,6 @@ Vært: Charlotte Striib.</description>
       <pubDate>Mon, 17 Feb 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-gaest-anne-larsen-15452528081</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a54035ef3bdff068c0cc91/921783f9171ae5f3c362230225bd6e0c1fd4977cf5b9a3750d324ed7922b6994" length="168481560" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Sebastian Lynggaard</title>
-      <description>I anledning af valentinsdag fortæller vært på DR Lyds podcast 'Hjerteflimmer for voksne', Sebastian Lynggaard, om de mange kærlighedshistorier, han møder undervejs i sit arbejde. Måske du vil dele din? 
-Vært: Charlotte Striib.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Fri, 14 Feb 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/det-gode-selskab-med-sebastian-lynggaard-15452528075</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a14c53c81363cf2d487660/cc4fefdce9c4c9eb5321975f46b0fddefd15777c3e6369a6fb521f65a0103a03" length="168481579" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
