@@ -6,6 +6,34 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 22. feb. 2025</title>
+      <description>Præludium:	Peter Møller: Toccata
+Davidssalme: 18,2-7
+Salme: 300 &quot;Kom, sandheds Ånd! og vidne giv&quot;
+Fra det N.T.:	1. Korintherbrev 1,18-25
+Trosbekendelsen 	
+Salme: 330 &quot;Du, som ud af intet skabte&quot;
+Postludium: Helmut Walcha: Kom, sandheds Ånd! og vidne giv</description>
+      <duration>00:24:57</duration>
+      <pubDate>Sat, 22 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505086</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd7861526cc83675a90e7/4757c4623471865bc333d188bc1958681135076783e14869f0a86fc5841862ef" length="35952613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fredag 21. feb. 2025</title>
+      <description>Præludium:	Alexandre Guilmant: Élévation F-dur, op. 30 nr. 1
+Fra det G.T.:	Salme 86, 3-7
+Salme: 747 &quot;Lysets engel går med glans&quot;
+Fra det N.T.:	2. Petersbrev 1,16-19
+Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
+Salme: 467, vers 1-6: &quot;Du er vor skat, o Jesus sød&quot;
+Postludium: Johann Sebastian Bach: Præludium a-mol, BWV 543/I</description>
+      <duration>00:25:02</duration>
+      <pubDate>Fri, 21 Feb 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505085</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67aa86ab0557f071b63bb2e7/500b966a011a7a29b2bdaac9b2d033c60e1ebd1da9af25fd15503082b9a3c03a" length="36058596" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 20. feb. 2025</title>
       <description>Præludium:	Lasse Toft Eriksen: Til himlene rækker din miskundhed, Gud
 Fra det G.T.:	Salme 36,6-10
@@ -354,20 +382,6 @@ Postludium: Georg Friedrich Händel: Gigue e-mol</description>
       <pubDate>Thu, 23 Jan 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505044</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67844ac915659fb86c0aa83b/52561ac9622de69cc97f6fc0b7fff80d5d5f0b556dc44d9d476817dae83511cc" length="36085675" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 22. jan. 2025</title>
-      <description>Præludium:	Emil Sjögren: Pastorale
-Fra det G.T.:	Esajas 58,9b-12
-Salme: 298 &quot;Helligånden trindt på jord&quot;
-Fra det N.T.:	Markus 4,10-20
-Korvers: Mark Baumann: Guds rige lignes ved et frø (tekst: N.F.S. Grundtvig)
-Salme: 153, vers 7-10 &quot;Hvor hjertet er som alfarvej&quot;
-Postludium: Robert Schumann: Allegretto i Des-Dur</description>
-      <duration>00:25:03</duration>
-      <pubDate>Wed, 22 Jan 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten/morgenandagten-11042505043</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6782f9588329bab962496008/bd7f2e8ff482a7052b6c4f2f46750a7f52e41c5387f41d4c872cc23318a905f9" length="36085673" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
