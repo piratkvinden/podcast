@@ -233,6 +233,7 @@
             const rssFeedUrl = podcast.rssLink;
             const xmlText = await fetchRSSFeed(rssFeedUrl);
             currentEpisodes = parseRSSFeed(xmlText);
+            currentEpisodes.sort((a, b) => parseDate(b.date) - parseDate(a.date));
             await renderEpisodes(currentEpisodes);
             episodeModal.style.display = 'block';
           } catch (error) {
