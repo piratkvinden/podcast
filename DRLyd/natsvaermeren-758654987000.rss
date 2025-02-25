@@ -6,16 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Strangers in the night</title>
-      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
-Vært: Minna Grooss.
-(Sendt første gang 4. juni).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Højt at flyve</title>
       <description>Vingerne er spændt bredt ud i aften og de store følelser svæver frit. 
 Vært: Minna Grooss.</description>
@@ -131,13 +121,14 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ae345450a12b168113401/d22ddd7d20dc1b24216d11ae61c84917b5ce0ffda8b698a5224899bcdb2fe4d0" length="168592121" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Så længe musikken spiller...</title>
-      <description>...er der håb.
-Vært: Minna Grooss.</description>
+      <title>Strangers in the night</title>
+      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
+Vært: Minna Grooss.
+(Sendt første gang 4. juni).</description>
       <duration>01:57:00</duration>
-      <pubDate>Sun, 26 Jan 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-saa-laenge-musikken-spiller-12422563046</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed5e2f0b0eb5a9cd910e/4a754b29c4d310695f5f87ce29059d9b81a9ef93b328a784c03d92593917f657" length="168481390" type="audio/mpeg"/>
+      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
     <item>
       <title>Ingen er helt alene</title>
@@ -228,6 +219,15 @@ Vært: Minna Grooss.</description>
       <pubDate>Tue, 11 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-paa-kanten-12422463092</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65cfeb00cb428d8efcae2112/fa85992bfae38daf56899e33495f3000413b5460a3c3544dfa240503ff675e20" length="168473466" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>I biografmørket</title>
+      <description>Levende billeder kræver levende lyd. I denne episode af Natsværmeren spiller vært Peter Albrechtsen en masse fremragende filmmusik, det både gør sig godt i og udenfor biografens mørke. Mød både gamle klassikere og moderne mesterstykker. 
+Vært: Peter Albrechtsen.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 25 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-i-biografmoerket-12422463077</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c40d9b550610762b9504d9/d23c8effa2a1b2c1e216737f2c2cd3a494ea0da3fe3bfde6d38c590c8ba04561" length="168470096" type="audio/mpeg"/>
     </item>
     <item>
       <title>Kaskader af glemsel</title>
