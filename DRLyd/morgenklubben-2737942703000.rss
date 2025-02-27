@@ -6,6 +6,14 @@
     <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33630f0388a679954fda1.jpg"/>
     <item>
+      <title>Torsdag 27. feb. 2025</title>
+      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
+      <duration>00:57:00</duration>
+      <pubDate>Thu, 27 Feb 2025 05:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/morgenklubben-16122543094</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b270801c492b010484e3bf/21c5c6c02113997a72d9c121041645eb7bc705e1d0c07e08e06fd783d42feb46" length="82082090" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 26. feb. 2025</title>
       <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
       <duration>00:57:00</duration>
@@ -36,14 +44,6 @@
       <pubDate>Sun, 23 Feb 2025 06:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/morgenklubben-16122543087</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad292bfa79031389de79e8/5d04d995b011fb5c8ca8b59e710a23b873abefabe063f13355d55550be125ccf" length="82081514" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 22. feb. 2025</title>
-      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
-      <duration>00:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 05:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/morgenklubben-16122543086</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd7880308fba3d83579f2/2bbdc7140deeef756d550905a5427c5cb65c3bd80ed354f9956bc3b34137a15e" length="82081514" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

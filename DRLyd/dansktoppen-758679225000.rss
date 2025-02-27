@@ -8,6 +8,16 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3382eb75d19480fa7269b.jpg"/>
     <item>
+      <title>Onsdag 26. feb. 2025</title>
+      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+      <duration>00:12:00</duration>
+      <pubDate>Wed, 26 Feb 2025 19:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/dansktoppen-15452533093</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b11e0f363b87abe0185dbf/0f4ec75e14cf9317ea2d35d7a43d95679533ae8724e90d7126de34e8b896126b" length="17281494" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 22. feb. 2025</title>
       <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
 Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
@@ -472,16 +482,6 @@ Vært: Ole Tøpholm.</description>
       <pubDate>Wed, 04 Sep 2024 19:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/paa-vej-mod-dansktoppen-15452433363</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ca5a65a56be59b02de8b16/a5af9312f6dfcce301e7efd27f6ca5dd8e6837f09cac1f9f88991e59cbb8435a" length="17281453" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 31. aug. 2024</title>
-      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-      <duration>01:45:00</duration>
-      <pubDate>Sat, 31 Aug 2024 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432356</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c513e5a44e7dc6983ce4ed/4316bce5be6c4c02dde7dbfdc97d65dcc411b974cf1189f0a51da39dca676110" length="151202070" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
