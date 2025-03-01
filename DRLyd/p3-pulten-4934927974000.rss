@@ -6,6 +6,14 @@
     <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6731d3506f7124fa6de5643a.jpg"/>
     <item>
+      <title>Youss #2</title>
+      <description>Vi mixer hverdag til weekend, når Youss er bag P3 Pulten. I aften er det varmt med hip hop og r'n'b fra flere verdenshjørne  - og lytter du godt efter, er der også totalt hemmelige ting fra Sivas og Noah Carter, som du aldrig har hørt før.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 28 Feb 2025 20:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/p3-pulten-youss-2-13332516095</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0c2f064e1e888b8e76b/10ae0aa489a94f1dee0b1e35d9266b6ddb4b4666e7861df04860600f0ee86f77" length="172801577" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>DJ Lilli #2</title>
       <description>Weekenden er her snart, og DJ Lilli mixer humøret det helt rigtige sted hen. Opdag nyt, og hør velkendte bangers få nyt tøj på, når vi sætter stikket i 'P3 Pulten' og skruer op.</description>
       <duration>02:00:00</duration>
@@ -197,15 +205,6 @@ SCHAARUP er bag pulten.</description>
       <pubDate>Fri, 06 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-schaarup-1-13332416365</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66ccfcf82b60231f67ee8a8d/e3b902111e57be0f1d83c24546b86f390893af6f90da1a066eedaeb26a486576" length="260124326" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Anton Westerlin #2</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-Anton Westerlin er bag pulten.</description>
-      <duration>03:00:00</duration>
-      <pubDate>Fri, 09 Aug 2024 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-anton-westerlin-2-13332416325</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66a8124ad979faa188ee743a/4e7d1cc62992fb4f0ce34ad794f72bb5b52d7c746c790a81b6440dcb7092e370" length="259201588" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

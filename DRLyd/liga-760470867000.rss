@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
     <item>
+      <title>Fredag 28. feb. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>03:55:00</duration>
+      <pubDate>Fri, 28 Feb 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502095</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0c51c492b01048d9b5e/5f0edaf2f31ed7d1a09c30cf66d2e987025512c03fad68dcd6551ecd2a1a5b61" length="338401976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 26. feb. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <duration>03:51:44</duration>
@@ -100,14 +108,6 @@
       <pubDate>Fri, 31 Jan 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502055</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed739230020bdd2e79a29/53d9e1d7ed98a297d1fbefa102c96b1e02ef09b22aff682ad85b02c0e24cfd4f" length="376411194" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 30. jan. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>01:54:20</duration>
-      <pubDate>Thu, 30 Jan 2025 21:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502054</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678d855d2164394b741cfd2c/f25882ee60107f483d54ff3274a18a9c40b35ce69da11ba9728ac9b6b628f5b9" length="164652282" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
