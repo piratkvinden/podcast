@@ -6,6 +6,15 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
+      <title>Sorgmuntert</title>
+      <description>Lidt for enhver smag. 
+Vært: Minna Grooss.</description>
+      <duration>01:56:57</duration>
+      <pubDate>Mon, 03 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-sorgmuntert-12422563097</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b665605a2f57d1ea4071df/1f3f96522f1d2420407f3a7720c89d2aa703c11bb7ee50d6bab4c6a41f31cd66" length="168427247" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Peter hylder Peter</title>
       <description>Peter Gabriel fyldte 75 forleden og i den anledning sætter vært Peter Albrechtsen fokus på den engelske veterans stemningsfulde soundtracks i denne udgave af Natsværmeren, der også byder på klassiske klange fra Mozart til Mahler.</description>
       <duration>01:56:56</duration>
@@ -130,16 +139,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790323b230020bdd2f0a5aa/548aef64394227b134538101cf35b8e48aa11b4bb9b33425382a9caacbb6c58d" length="168592012" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Strangers in the night</title>
-      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
-Vært: Minna Grooss.
-(Sendt første gang 4. juni).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Ingen er helt alene</title>
       <description>- når musikken spiller.
 Vært: Katrine Ring.</description>
@@ -192,15 +191,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Mon, 03 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-jorden-rundt-12422463401</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eca0a8dc5427e22d22fd3e/8c925743e056bb146cbc0ed1bdf3f394d27e46a7fd4ef052c1bc32e8c2861d21" length="168479168" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Et lille hjørne af verden</title>
-      <description>Lyden af en finsk aften, klangen fra Kaukasiske bjergkæder, vinyl med ridser i lakken, og fortolkninger af en gammel klassiker er bare en brøkdel af det, du møder i aften.
-Vært: Minna Grooss.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 01 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-lille-hjoerne-af-verden-12422463346</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd85dc52725bd2ff1df01/fefeef23311db86ef67c8d3fb4fdac73ea76426bf224b14b02a339a5e14e1f4a" length="168481544" type="audio/mpeg"/>
     </item>
     <item>
       <title>Crossover</title>
@@ -272,6 +262,16 @@ Vært: Minna Grooss.</description>
       <pubDate>Mon, 10 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-multinational-midnatsmusik-12422463061</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b77cb86e74a0231f5ed263/4c74e8f30dbff8031838a550d1d4a16d707eef27f025f7e512833a2a4cd761e3" length="168473503" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Strangers in the night</title>
+      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
+Vært: Minna Grooss.
+(Sendt første gang 4. juni).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
