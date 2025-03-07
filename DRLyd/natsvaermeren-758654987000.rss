@@ -6,6 +6,24 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
+      <title>Perspektiv</title>
+      <description>Tæt på og langt væk.
+Vært: Katrine Ring.</description>
+      <duration>01:56:52</duration>
+      <pubDate>Fri, 07 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-perspektiv-12422563104</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bbaaa6177f20ef64f480f9/3474af1fdaa850fb3e6ccec5d250c1103d3d18859417bdef40927112f6113fad" length="168298799" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Natten slår revner</title>
+      <description>Og nyt træder frem i sprækkerne.
+Vært: Minna Grooss.</description>
+      <duration>01:56:52</duration>
+      <pubDate>Thu, 06 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-natten-slaar-revner-12422563103</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ba591c443096635f435ab0/729d05b545d54f325c7ee91070e0e0f75f3134a59d0a9d0132997a4d305a50ec" length="168313792" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Sorgmuntert</title>
       <description>Lidt for enhver smag. 
 Vært: Minna Grooss.</description>
@@ -121,22 +139,23 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67956e47840bb2661dc7c5b3/c82ae5ff37cccf8242f4f8f693e7f123efffe7b5052891fa39b63e9aae2122f3" length="168414618" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Hinsides</title>
-      <description>Musikken vibrerer i periferien, der får mørket til at sitre hemmelighedsfuldt.  Nyskabende, nysgerrigt, undersøgende. 
-Vært: Minna Grooss.</description>
-      <duration>01:56:50</duration>
-      <pubDate>Tue, 04 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-hinsides-12422563061</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6792cb45e20b0ea7c39947da/fd5ec7521d648807d00b03986e36a75ff8d0fbf0582978d7da37f04d4744165c" length="168258571" type="audio/mpeg"/>
+      <title>Strangers in the night</title>
+      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
+Vært: Minna Grooss.
+(Sendt første gang 4. juni).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Nattedriblerier</title>
-      <description>Zigzag gennem verdens byer og smalle stræder. 
+      <title>På åbent hav</title>
+      <description>En drømmefanger blafrer i vinden og sender aftens musikere og komponister ud for foden af det kosmiske hav.
 Vært: Minna Grooss.</description>
-      <duration>01:57:04</duration>
-      <pubDate>Sun, 02 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-nattedriblerier-12422563056</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790323b230020bdd2f0a5aa/548aef64394227b134538101cf35b8e48aa11b4bb9b33425382a9caacbb6c58d" length="168592012" type="audio/mpeg"/>
+      <duration>01:57:00</duration>
+      <pubDate>Wed, 05 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-paa-aabent-hav-12422463471</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672d4843da093e2facd83896/d5d95f52a460d1a661d96d4c0dbb7def56f6480d4072a9ddae45f44d71693466" length="168481480" type="audio/mpeg"/>
     </item>
     <item>
       <title>Ingen er helt alene</title>
@@ -155,6 +174,15 @@ Vært: Minna Grooss.</description>
       <pubDate>Fri, 14 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-til-nysgerrige-oerer-12422463463</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6726b02f832f7a5b81a26aee/5dc0f101da22481ff5892c2d05bdbe644f8b92c98fb54edecb56cd019e47430d" length="168481425" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nattens sprækker</title>
+      <description>Nordisk filmmusik blander sig med arven fra de klassiske mestre, kontratenorens overjordiske stemme og små overraskelser, der gemmer sig i nattens sprækker.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Tue, 04 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-spraekker-12422463452</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671c165a310eb7c15c07a6ca/6595fe9075d037808bd2c46cca31b20a331c33f1045b26e836a9a5f9b8bfad64" length="168481530" type="audio/mpeg"/>
     </item>
     <item>
       <title>Adspredelse</title>
@@ -182,15 +210,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Sat, 15 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fabelagtigt-stille-12422463422</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670067d0ac68322c7b369fbf/c14b23bbabc918874efbaa3aff5e3078b268163caf024e9a954b4986d2e283d0" length="168475789" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Jorden rundt</title>
-      <description>Accordion, cembalo, oud og kora klinger blandt aftens klassiske evergreens i Natsværmerens jordomrejse.
-Vært: Minna Grooss.</description>
-      <duration>01:56:59</duration>
-      <pubDate>Mon, 03 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-jorden-rundt-12422463401</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66eca0a8dc5427e22d22fd3e/8c925743e056bb146cbc0ed1bdf3f394d27e46a7fd4ef052c1bc32e8c2861d21" length="168479168" type="audio/mpeg"/>
     </item>
     <item>
       <title>Crossover</title>
@@ -247,31 +266,12 @@ Vært: Peter Albrechtsen.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b98186696c3acd89c208ff/2087f8544281f55e2a419ca63c1691b3dbf9fecf535e097c31bd0d598a0d103a" length="168468909" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Tidløst</title>
-      <description>En historie om sne, en cocktail til to og lyden af børnestemmer klinger tidløst i natten.
-Vært: Minna Grooss.</description>
-      <duration>01:56:59</duration>
-      <pubDate>Wed, 05 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tidloest-12422463062</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b43bf16e74a0231f506271/6c8eed588e416456588cfacf8c8ba1f38d42cd614358a7dc7b7323ca1e249395" length="168478000" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Multinational midnatsmusik</title>
       <description>Fra Sydamerika over fransk filmmusik til toner fra lille Danmark. I denne multinationale udgave af Natsværmeren er vært Peter Albrechtsen sonisk rejsefører. I mørket lyser tonerne klarere uanset, hvor de er fra.</description>
       <duration>01:56:59</duration>
       <pubDate>Mon, 10 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-multinational-midnatsmusik-12422463061</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b77cb86e74a0231f5ed263/4c74e8f30dbff8031838a550d1d4a16d707eef27f025f7e512833a2a4cd761e3" length="168473503" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Strangers in the night</title>
-      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
-Vært: Minna Grooss.
-(Sendt første gang 4. juni).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

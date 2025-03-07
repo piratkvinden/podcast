@@ -6,6 +6,22 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
     <item>
+      <title>Torsdag 6. mar. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>03:55:00</duration>
+      <pubDate>Thu, 06 Mar 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502104</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bc2c45e46f43403136426e/393081767aeca7649917a380d89c909d3c74687a8b1971f6f15e41dccfe900f8" length="338401976" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mandag 3. mar. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>03:55:00</duration>
+      <pubDate>Mon, 03 Mar 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502101</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b7b5195747a843fa98006d/836b9ce65e39ae98f2ff60b2a51d57f6f8380d8f49af687df91c58afb257e94e" length="338401976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Søndag 2. mar. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <duration>06:57:00</duration>
@@ -100,14 +116,6 @@
       <pubDate>Thu, 13 Feb 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502074</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ffa2d787bc31e62a3fb62/0692395b3f05118308a4ef73d5b6e3552516866a87c148d639a7bce6519f65a6" length="424801400" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 2. feb. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>06:57:00</duration>
-      <pubDate>Sun, 02 Feb 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/liga-13652502057</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917959e427044b11b524f8/d0365a65d7cff16394bff23cbe273ed3c6b96025d64a4c8480428c324d030a0d" length="600481976" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
