@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +10,6 @@
     <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js"></script>
 </head>
-
 <body>
     <div class="container">
         <h2>podcast</h2>
@@ -111,6 +109,7 @@
             c.classList.remove('expanded');
           });
         }
+      
         document.addEventListener('DOMContentLoaded', () => {
           fetchDataAndPreloadIcon();
           const podcastModal = document.getElementById('podcastModal');
@@ -122,6 +121,7 @@
               modalDescription.classList.toggle('expanded');
             }
           });
+          
           document.body.addEventListener('click', (event) => {
             if (event.target === podcastModal || event.target === playerModal || event.target === episodeListModal) {
               event.target.style.display = 'none';
@@ -139,6 +139,7 @@
                 playEpisode(currentPodcast, episodeUrl, episodeTitle, getEpisodeIndexByUrl(episodeUrl));
               }
             }
+            
             if (event.target.closest('.episode-description')) {
               const description = event.target.closest('.episode-description');
               event.stopPropagation();
@@ -151,6 +152,7 @@
               }
             }
           });
+          
           document.getElementById('episodeSearchInput').addEventListener('input', function() {
             const searchTerm = this.value.trim().toLowerCase();
             const filteredEpisodes = currentEpisodes.filter(({
@@ -161,6 +163,7 @@
             renderEpisodes(filteredEpisodes, searchTerm);
           });
         });
+      
         async function fetchDataAndPreloadIcon() {
           try {
             const urls = [
@@ -174,6 +177,7 @@
             console.error('Error fetching data:', error);
           }
         }
+      
         async function fetchData(url) {
           try {
             const response = await fetch(url);
@@ -208,6 +212,7 @@
           };
           modal.style.display = 'block';
         }
+      
         async function openEpisodeListModal(podcast) {
           document.getElementById('spinnerOverlay').style.display = 'flex';
           document.body.classList.add('blur');
@@ -243,6 +248,7 @@
             document.body.classList.remove('blur');
           }
         }
+      
         async function fetchRSSFeed(rssUrl) {
           const response = await fetch(rssUrl);
           return await response.text();
@@ -267,6 +273,7 @@
           }
           return episodes;
         }
+      
         const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
             if (entry.isIntersecting) {
@@ -276,6 +283,7 @@
             }
           });
         });
+      
         const highlightText = (text, term) => {
           if (!term) return text;
           const regex = new RegExp(`(${term})`, 'gi');
@@ -449,6 +457,7 @@
             playEpisode(podcast, nextEpisode.link, nextEpisode.title, nextIndex);
           } else {}
         }
+      
         async function renderEpisodes(episodes, searchTerm = '', page = 1) {
           const episodesContainer = document.getElementById('episodesContainer');
           if (page === 1) {
@@ -499,6 +508,7 @@
             `;
           addDescriptionButtonListeners(firstDescription);
         }
+      
         let sortOrderTitle = 'asc';
         let isSortingByTitle = false;
         let isSortingByDate = false;
@@ -513,6 +523,7 @@
           isSortingByTitle = true;
           renderEpisodes(sorted, searchTerm);
         });
+      
         document.getElementById('sortByDate').addEventListener('click', () => {
           const sorted = [...currentFilteredEpisodes].sort((a, b) => {
             const dateA = parseDate(a.date);
@@ -527,13 +538,9 @@
         });
 
         function parseDate(dateString) {
-          const parts = dateString.split('.');
-          if (parts.length !== 3) return new Date(0);
-          const day = parseInt(parts[0], 10);
-          const month = parseInt(parts[1], 10) - 1;
-          const year = parseInt(parts[2], 10);
-          return new Date(year, month, day);
+          return new Date(dateString);
         }
+
         document.getElementById('episodeSearchInput').addEventListener('input', function() {
           const searchTerm = this.value.trim();
           const filteredEpisodes = currentEpisodes.filter(episode => {
@@ -544,6 +551,7 @@
           });
           renderEpisodes(filteredEpisodes, searchTerm);
         });
+      
         document.querySelector('#episodeListModal .close').onclick = () => {
           document.getElementById('episodeListModal').style.display = 'none';
           document.getElementById('podcastModal').style.display = 'block';
@@ -575,6 +583,7 @@
             document.body.classList.remove('blur-background');
           }, 5000);
         }
+      
         async function filterPodcasts(searchText) {
           function normalizeText(text) {
             return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
@@ -650,14 +659,17 @@
           ));
           displayResults(results.slice(0, MAX_RESULTS));
         }
+      
         async function openCache() {
           return caches.open(CACHE_NAME);
         }
+      
         async function getLRUCacheKeys() {
           const cache = await openCache();
           const requests = await cache.keys();
           return requests.map(request => request.url);
         }
+      
         async function updateLRUCache(cacheKey) {
           let cacheKeys = await getLRUCacheKeys();
           cacheKeys = cacheKeys.filter(key => key !== cacheKey);
@@ -668,6 +680,7 @@
             await cache.delete(oldestKey);
           }
         }
+      
         async function loadImageToCache(url, cacheKey, element) {
           const cache = await openCache();
           const cachedResponse = await cache.match(url);
@@ -732,6 +745,7 @@
           });
           resultsContainer.appendChild(grid);
         }
+      
         let debounceTimeout;
         document.getElementById('searchInput').addEventListener('input', function() {
           clearTimeout(debounceTimeout);
@@ -753,5 +767,4 @@
         });
     </script>
 </body>
-
 </html>
