@@ -7,6 +7,15 @@
 Værter: Henrik Milling &amp; Nicolai Molbech.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66fb1f5ffd6dd215a996ac27.jpg"/>
     <item>
+      <title>Lørdag 8. mar. 2025</title>
+      <description>Gør dig klar til en fest med masser af funk og disco. Advarsel: Du kan risikere at blive afsindig glad i låget.
+Værter: Henrik Milling &amp; Nicolai Molbech.</description>
+      <duration>01:58:37</duration>
+      <pubDate>Sat, 08 Mar 2025 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast/fonk-det-er-podcast-16122546610</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67691cfaf626b118df04b78b/55e956b069c2e8cc218ca85e7002e6bc085207ae06c8e4faef9b608dfeb6e4a7" length="170815432" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 1. mar. 2025</title>
       <description>Gør dig klar til en fest med masser af funk og disco. Advarsel: Du kan risikere at blive afsindig glad i låget.
 Værter: Henrik Milling &amp; Nicolai Molbech.</description>
@@ -230,15 +239,6 @@ Værter: Henrik Milling &amp; Nicolai Molbech.</description>
       <pubDate>Sat, 14 Sep 2024 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast-2024/fonk-det-er-podcast-16122446629</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d2d9389291da4295d2afa/3433c7468811bd67fbb2cdfec251694aeebe81c6d48e31fc65e41c1cb5b621d5" length="164795656" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 7. sep. 2024</title>
-      <description>Gør dig klar til en fest med masser af funk og disco. Advarsel: Du kan risikere at blive afsindig glad i låget.
-Værter: Henrik Milling &amp; Nicolai Molbech.</description>
-      <duration>01:54:20</duration>
-      <pubDate>Sat, 07 Sep 2024 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast-2024/fonk-det-er-podcast-16122446628</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d2d8f014e68760010b9f3/af25bd69aea3a2ba4fcef7758d73bd854c1318e3ce817d57a767fde4bf909375" length="164654536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
