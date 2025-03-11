@@ -6,16 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Strangers in the night</title>
-      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
-Vært: Minna Grooss.
-(Sendt første gang 4. juni).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Oscar, Mozart og Tvillingen</title>
       <description>Fra Mozart til Aphex Twin. Fra Oscar-vindende filmmusik til åndelig cellomusik. Peter Albrechtsen er vært ved aftenens lydeventyr i Natsværmeren.</description>
       <duration>01:57:00</duration>
@@ -139,13 +129,14 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679d57be9d3a8b2609b4aa5e/abbb5f747f60192de12e6280cd40066e84075150d7bd8b339f45ae283c7064ff" length="168254554" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Den store verden</title>
-      <description>Udsyn, viden og håb. 
-Vært: Katrine Ring.</description>
-      <duration>01:56:56</duration>
-      <pubDate>Sun, 09 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-den-store-verden-12422563066</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996267b617052b80d6d2e5/165802efc9c5fe64f2f084514df892f83835d72f33eeaeb6d9892ef0ba7e0c71" length="168388082" type="audio/mpeg"/>
+      <title>Strangers in the night</title>
+      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
+Vært: Minna Grooss.
+(Sendt første gang 4. juni).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
     <item>
       <title>På åbent hav</title>
@@ -226,6 +217,15 @@ Vært: Minna Grooss.</description>
       <pubDate>Mon, 10 Mar 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-smeltet-i-melodi-12422463132</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65f4d592ca748116c78145f0/235438e53c05512791de6d2aa028e1816a303289ef61a010653cb84a8d5a2c2d" length="168475846" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Entré</title>
+      <description>En polsk violinist spøger i kulissen med støv på pickuppen. En sangerinde drømmer om frihed. Det er tirsdag, dagen, der ikke gør et stort væsen af sig. Men i Natsværmeren er der altid plads til de store drømme.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 11 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-entre-12422463121</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65ea49b0fd5164d6a666452c/ca288d1a455aba645cc1f01de600ee9e4d614a96006da044374e1335d54d08e3" length="168470634" type="audio/mpeg"/>
     </item>
     <item>
       <title>Crossover</title>

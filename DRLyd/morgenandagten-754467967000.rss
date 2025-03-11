@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Mandag 10. mar. 2025</title>
+      <description>Præludium: Jesper Topp: Min Jesus, lad mit hjerte få
+Ord til dagen: af Hippolyt
+Salme: 217 &quot;Min Jesus, lad mit hjerte få&quot;
+Fra det N.T.:	Markus 12,18-27
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde (tekst: J. Rist 1642, W.A.Wexels 1849)
+Salme: 551 &quot;Der er en vej, som vi alle går alene&quot;
+Postludium: Johann Sebastian Bach: Adagio fra orgelkoncert i a-mol</description>
+      <duration>00:25:02</duration>
+      <pubDate>Mon, 10 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505111</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c0f19ff0479bde33b4940f/3bd3aa94b260a26b7686702f0b6ebd340ece162df7e16ef4947943a08e2a50e4" length="36067246" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 8. mar. 2025</title>
       <description>Præludium:	Christian Flor: Vor Gud, han er så fast en borg
 Davidssalme: 18, 32-36
@@ -340,20 +354,6 @@ Postludium: Sigfrid Karg-Elert: Det livets ord vi bygger på</description>
       <pubDate>Mon, 10 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505071</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679c05c3e65f1617824c6074/96fcb37866a8db4c7e6e0935a7b209acb7158d32ad9436ac2ea494d7219e6d6f" length="35941675" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 8. feb. 2025</title>
-      <description>Præludium:	Gordon Young: Dreams
-Davidssalme: 12,2-6
-Salme: 56 &quot;Jesus er navnet mageløset&quot;
-Fra det N.T.:	2. Petersbrev 1, 16-18
-Trosbekendelsen	
-Salme: 162 &quot;Det var kun en drøm&quot;
-Postludium: Joseph Bonnet: Rêverie</description>
-      <duration>00:24:55</duration>
-      <pubDate>Sat, 08 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505066</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679962760d41b3302eeb3787/dbec2b58c2f207e9c3d65551033c75d44c94542a92c2f35abe477e1802115eb7" length="35892670" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
