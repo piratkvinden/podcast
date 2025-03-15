@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Fredag 14. mar. 2025</title>
+      <description>Præludium:	Gunnar Thyrestam: Koral
+Fra det G.T.:	Salme 65,2-5
+Salme: 1 &quot;Guds menighed, syng for vor skaber i løn!&quot;
+Fra det N.T	Markus 14,3-9
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde (tekst: J. Rist 1642, W.A.Wexels 1849)
+Salme: 151 &quot;Med sin alabasterkrukke&quot;
+Postludium: Bo Grønbech: Guds menighed, syng for vor skaber i løn</description>
+      <duration>00:25:03</duration>
+      <pubDate>Fri, 14 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505115</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c636b60671dbfaa82df073/08db946e76a88b619d787a658a252ad9d6651ee995217c47827ad34128693616" length="36089126" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 13. mar. 2025</title>
       <description>Præludium: Carl Nielsen: Præludium B-dur, op. 51/IX
 Fra det G.T.: Salme 19, 8-11
@@ -354,20 +368,6 @@ Postludium: Alan Gray: Præludium e-mol fra 'Twelve short preludes'</description
       <pubDate>Thu, 13 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505074</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ffa66006c7c31afde6e84/634948b71ed95032e1ec5e762a7cea46830f7cc953274e3353bdfbbd40b6e8ee" length="36072997" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 12. feb. 2025</title>
-      <description>Præludium:	Johann Sebastian Bach: O Herre Krist, dig til os vend
-Fra det G.T.:	4. Mosebog 6,23-26
-Salme: 425 &quot;Velsignelse, al jordens tarv&quot;
-Fra det N.T.:	Markusevangeliet 9,2-10
-Korvers: Mark Baumann: Hvis nogen vil følge efter mig (tekst: Matthæus 16, 24-25)
-Salme: 161 &quot;Med strålekrans om tinde&quot;
-Postludium: Max Reger: Min død er mig til gode</description>
-      <duration>00:25:01</duration>
-      <pubDate>Wed, 12 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505073</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ea9689f5336e27ed0722e/182a7694cb034d92efaee5c2faf7d608cf13e850ff3ffdf2366e03daa44f5225" length="36043051" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -186,12 +186,20 @@ Vært: Pia Røn.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:659346d3c26aeca6faa659a0/1345d570747c23a291f4579379406f915b47ea185ec5cf181b0c6bebd7f10c30" length="82311437" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Poul Nyrup Rasmussen</title>
-      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
-      <duration>00:57:03</duration>
-      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
+      <title>Brian Riemer</title>
+      <description>Det var ved en skole-hjem-samtale, han satte ord på drømmen om et liv med fodbold. 
+Han husker stadig lærerens latter.
+I dag er Brian fra Albertslund træner for fodboldlandsholdet.  
+Han har netop udtaget det hold, som i næste uge spiller mod Portugal, og der er rusket godt og grundigt op i &quot;plejer&quot;.
+Fem nye navne, heraf to teenagere skal kickstarte en ny æra for herrelandsholdet. 
+Brian Riemer er Ugens Gæst - om mål og mod, og om at vælge drømmen til og tage springet fra folkeskolelærer til fodbold.
+Tilrettelægger Nina Lorenz Grimstrup
+Producer Siw Søby
+Vært Pia Røn</description>
+      <duration>00:56:33</duration>
+      <pubDate>Fri, 14 Mar 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2025/brian-riemer-11162508115</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c636c21109412063e1e926/fb2402fd68320742c1a7068f49c39a689d872a4c5c47b03f2509bc3cadcef7fa" length="81452032" type="audio/mpeg"/>
     </item>
     <item>
       <title>Nicolai Wammen</title>
@@ -311,6 +319,14 @@ Vært: Pia Røn.</description>
       <pubDate>Fri, 03 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2025/ugens-gaest-nikolaj-jacobsen-11162508015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6769ed8a7050f54f8330d72b/bf2fe7e705a84891207ad88c177412c195e7985414929244839638e9d8d87a98" length="81445703" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Poul Nyrup Rasmussen</title>
+      <description>Skarpe spørgsmål og god stemning. Ugens hovedperson gæster Pia Røn hver fredag. Argumenterne foldes ud, og der er plads til både dril og dybde.</description>
+      <duration>00:57:03</duration>
+      <pubDate>Thu, 31 Oct 2024 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/ugens-gaest/ugens-gaest-2023/ugens-gaest-poul-nyrup-rasmussen-11162308015</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63aa2c239c2c142ce1a89670/23439343445a40ad7190da63ba1d707742856d82c91a441cbff7f4afa19c172e" length="82173086" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
