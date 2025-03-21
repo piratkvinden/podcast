@@ -6,16 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Strangers in the night</title>
-      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
-Vært: Minna Grooss.
-(Sendt første gang 4. juni).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Ikoniske tider</title>
       <description>- alt er ikonisk i disse år. 
 Vært: Katrine Ring.</description>
@@ -121,6 +111,14 @@ Vært: Peter Albrechtsen.</description>
       <pubDate>Tue, 25 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-i-biografmoerket-12422463077</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65c40d9b550610762b9504d9/d23c8effa2a1b2c1e216737f2c2cd3a494ea0da3fe3bfde6d38c590c8ba04561" length="168470096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fra øst til vest</title>
+      <description>Aftenens udgave af Natsværmeren hylder den asiatiske filmmusik men der er også klassiske toner fra andre verdensdele. Peter Albrechtsen er vært.</description>
+      <duration>01:57:01</duration>
+      <pubDate>Fri, 21 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/fra-oest-til-vest-12422563124</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ce1fb15a443496f5f3d7c5/d3e8e0d9930b45bc6583853b54f34c5ec51d5f4aed3bf8e0baab44fa2852df1c" length="168514911" type="audio/mpeg"/>
     </item>
     <item>
       <title>Hudløst</title>
@@ -264,13 +262,14 @@ Vært: Katrine Ring.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a7e3d9a122b9bdfd41bfb2/54218821f855f3d4c9691e4f7779a4d449155ac3fe8426808f077f82decf531d" length="168338069" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Februardrømme</title>
-      <description>Med lige dele lys og mørke. 
-Vært: Minna Grooss.</description>
-      <duration>01:56:56</duration>
-      <pubDate>Wed, 19 Feb 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-februardroemme-12422563082</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a692b09505d3e6e5b0adf3/95e82ab9d27ac36745313f675cbcd3cf446df9bcbb731dbfa94ca61cffa6002b" length="168400761" type="audio/mpeg"/>
+      <title>Strangers in the night</title>
+      <description>Et blik fra en fremmed en januar nat, et kryds over vejen, eller en dans for mange år siden der aldrig gentog sig. Natsværmeren fabulerer frit over kærligheden til at soundtrack af Bert Kaempfert, Johnny Greenwood, Händel, Jade Vincent, Piazzolla, Reich, Chopin og Monk blandt andre svævende væsner.
+Vært: Minna Grooss.
+(Sendt første gang 4. juni).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 22 Feb 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-strangers-in-the-night-12422363226</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646d3a35c958d7d1200df0bf/2fc417df226f7c305629d9f134ba0bb394d4b553be523c6123e9519218e44e4a" length="168481604" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

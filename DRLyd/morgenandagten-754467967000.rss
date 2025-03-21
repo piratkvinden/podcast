@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Torsdag 20. mar. 2025</title>
+      <description>Præludium:	Georg Böhm: Freu dich sehr, o meine Seele
+Fra det G.T.:	Klagesangene 3, 17-26
+Salme: 277 &quot;Herre, når din time kommer&quot;
+Fra det N.T.: 1. Johannesbrev 3, 1-5
+Korvers: Hans Leo Hassler: Fader vor udi Himmerig (tekst: Martin Luther 1539, dansk: anonym)
+Salme: 206 &quot;Vor frelser, du, som døde&quot;
+Postludium: Théodore Dubois: Cantilène religieuse</description>
+      <duration>00:25:02</duration>
+      <pubDate>Thu, 20 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505124</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ce1fce5a443496f5f3da40/5f0711571b82fef97704f2587cc6d8544d57e33f767ba501a89ce5da71fb4623" length="36070122" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 19. mar. 2025</title>
       <description>Præludium:	Per Günther: Helligånd, vor sorg du slukke
 Fra det G.T.:	Salme 145,8-16
@@ -354,20 +368,6 @@ Postludium: Max Reger: Pastorale</description>
       <pubDate>Wed, 19 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505083</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a7e3f0a122b9bdfd41c13d/da9d4cb7ca4d66b42d3640ad35e9f8648ce10baa4202e15a6b878fb1c58c1569" length="36018857" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 18. feb. 2025</title>
-      <description>Præludium:	Jesper Madsen: Nu sol i øst oprinder mild
-Fra det G.T.:	Salme 51,3-5 og 9-12
-Salme: 5 &quot;O, havde jeg dog tusind tunger&quot;
-Fra det N.T.:	1. Petersbrev 4,7-11
-Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
-Salme: 697 &quot;Herre, jeg vil gerne takke&quot;
-Postludium: Jesper Madsen: O, havde jeg dog tusind tunger</description>
-      <duration>00:25:02</duration>
-      <pubDate>Tue, 18 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505082</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a692b04f121246d7d123d7/1a72a11b26ec4b741fc26709a707041f26d3a3b3f0acc1e94d481f08dc3fd065" length="36062054" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
