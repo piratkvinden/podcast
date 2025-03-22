@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Fredag 21. mar. 2025</title>
+      <description>Præludium:	Johann Sebastian Bach: Kristus, du Guds lam
+Fra det G.T.:	Klagesangene 3,52-57
+Salme: 652 &quot;Vor Herre! til dig må jeg ty&quot;
+Fra det N.T.:	1. Johannesbrev 3,11-18
+Korvers: Hans Leo Hassler: Fader vor udi Himmerig (tekst: Martin Luther 1539, dansk: anonym)
+Salme: 500 &quot;O Gud, min synd du sænke ned&quot;
+Postludium: Sigfrid Karg-Elert: Basso ostinato</description>
+      <duration>00:25:01</duration>
+      <pubDate>Fri, 21 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505125</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67cf70bab5636e1a31cf9cb8/89333b4724cc725f24e37b264c44a6cfe0037b952824158aa3752364489e22ba" length="36049388" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 20. mar. 2025</title>
       <description>Præludium:	Georg Böhm: Freu dich sehr, o meine Seele
 Fra det G.T.:	Klagesangene 3, 17-26
@@ -354,20 +368,6 @@ Postludium: Dietrich Buxtehude: Canzonetta i G-dur</description>
       <pubDate>Thu, 20 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505084</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a935aa6c5702878584f90f/22bb50807778c54786e43517c21b3d0dce88101f2578aa764bd46fd9b1c61def" length="35915753" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 19. feb. 2025</title>
-      <description>Præludium:	Helmut Walcha: Helligånd, vor sorg du slukke
-Fra det G.T.:	Salme 30,2-6
-Salme: 308 &quot;Helligånd, vor sorg du slukke&quot;
-Fra det N.T.:	1. Petersbrev 5,2-7
-Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
-Salme: 609 &quot;Dybt fornedres skal enhver&quot;
-Postludium: Max Reger: Pastorale</description>
-      <duration>00:25:00</duration>
-      <pubDate>Wed, 19 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505083</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a7e3f0a122b9bdfd41c13d/da9d4cb7ca4d66b42d3640ad35e9f8648ce10baa4202e15a6b878fb1c58c1569" length="36018857" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
