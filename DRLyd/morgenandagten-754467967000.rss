@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 22. mar. 2025</title>
+      <description>Præludium:  Théodore Dubois: Prélude Es-dur
+Davidssalme: 23, 1-4
+Salme: 736 &quot;Den mørke nat forgangen er&quot;
+Fra det N.T.: Efeserbrevet 5, 6-9
+Trosbekendelsen	
+Salme: 683 &quot;Den nåde, som vor Gud har gjort&quot;
+Postludium: Samuel Sebastian Wesley: Prelude D-dur</description>
+      <duration>00:24:59</duration>
+      <pubDate>Sat, 22 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505126</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c359794ca723718eefc6/fa7393cdecdebda196d1aa51a4314506cc1b05bb48067d7869c6b3329c381b0c" length="35984291" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 21. mar. 2025</title>
       <description>Præludium:	Johann Sebastian Bach: Kristus, du Guds lam
 Fra det G.T.:	Klagesangene 3,52-57
@@ -354,20 +368,6 @@ Postludium: Johann Sebastian Bach: Præludium a-mol, BWV 543/I</description>
       <pubDate>Fri, 21 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505085</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67aa86ab0557f071b63bb2e7/500b966a011a7a29b2bdaac9b2d033c60e1ebd1da9af25fd15503082b9a3c03a" length="36058596" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 20. feb. 2025</title>
-      <description>Præludium:	Lasse Toft Eriksen: Til himlene rækker din miskundhed, Gud
-Fra det G.T.:	Salme 36,6-10
-Salme: 31 &quot;Til himlene rækker din miskundhed, Gud&quot;
-Fra det N.T.:	2. Petersbrev 1,3-9
-Korvers: Stefán Arason: O søde Gud, din kærlighed (tekst: Joh, 16-21, Thomas Kingo)
-Salme: 159 &quot;Min Jesus, grund til al vor lyst&quot;
-Postludium: Dietrich Buxtehude: Canzonetta i G-dur</description>
-      <duration>00:24:56</duration>
-      <pubDate>Thu, 20 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505084</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a935aa6c5702878584f90f/22bb50807778c54786e43517c21b3d0dce88101f2578aa764bd46fd9b1c61def" length="35915753" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
