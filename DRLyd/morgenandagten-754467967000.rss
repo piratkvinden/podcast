@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 26. mar. 2025</title>
+      <description>Præludium:	Sigfrid Karg-Elert: Introitus
+Fra det G.T.:	5. Mosebog 8,1-5
+Salme: 689 &quot;Hvor ser det ud i verdens ørk&quot;
+Fra det N.T.:	1. Johannesbrev 4,8-14
+Korvers: John Frandsen: O store Gud, din kærlighed (tekst: Thomas Kingo)
+Salme: 494 &quot;Kærlighed fra Gud&quot;
+Postludium: Christian Præstholm: Kærlighed fra Gud</description>
+      <duration>00:25:01</duration>
+      <pubDate>Wed, 26 Mar 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505133</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d608582a51a3dbbe85a327/5217088d7f71a35134bc732e44f35e0768b768def575dd23aeb4fa9b4b16d806" length="36037289" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 25. mar. 2025</title>
       <description>Præludium:	Alexander Scriabin: Præludium i e-mol
 Fra det G.T.:	1. Mosebog 4,1-12
@@ -354,20 +368,6 @@ Postludium: Carl Nielsen: Præludium nr. 2 og 3</description>
       <pubDate>Tue, 25 Feb 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505092</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67afcc5c1c492b0104732907/1bba44bf193d65fe6a9773ba638b58b10a52e4657d222789cb39f398e1c836c2" length="36033839" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 24. feb. 2025</title>
-      <description>Præludium: N. O. Raasted: Giv mig Gud, en salmetunge
-Ord til dagen af Desmond Tutu
-Salme: 4 &quot;Giv mig, Gud, en salmetunge&quot;
-Fra det N.T.:	Markus 9,38-41
-Korvers: Samuel Sebastian Wesley: Ét er vi allerede (tekst: S.J. Stone 1866)
-Salme: 317 &quot;Livets fylde, glædens glans&quot;
-Postludium: Dietrich Buxtehude: Lovet være du, Jesus Krist</description>
-      <duration>00:25:01</duration>
-      <pubDate>Mon, 24 Feb 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/morgenandagten-11042505091</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ae7b833a4b2c7e73bf0f6e/816b1c05a564a95536b69f36ca18ae9333fdc70c3af2fe3f9127600a479319f0" length="36045928" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
