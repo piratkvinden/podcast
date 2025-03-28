@@ -6,27 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Et ben i hver lejr</title>
-      <description>Utilregnelige marts mødet klassisk crossover, milonga og nordiske penselstrøg. Piazzolla, Hugo Diaz, Halvcirkel, Jorge Cardosa, Yasmin Levy og Dora Pejacevic bevæger sig i grænselandet.
-Vært: Minna Grooss.
-(Sendt første gang 19. marts 2023).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Wed, 26 Mar 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/et-ben-i-hver-lejr-12422363116</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6407c4c0f10257267bcff89a/f35c9b20dbbd685e88df618136ef5e0ed2b37fb0f31667a9be36200019ec2be7" length="168481591" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tiden</title>
-      <description>Tiden er inde, det er tid, nu er tiden moden, tiden løber, tiden er gået. 
-Tiden bliver tilbragt med spille klaver, krydse en flod, tænke sig om og lytte til Natsværmeren.  
-Vært: Katrine Ring.
-(Sendt første gang 7. februar 2023).</description>
-      <duration>02:00:00</duration>
-      <pubDate>Tue, 25 Mar 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tiden-12422363061</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63d308b4f5381584926b2c38/0a209acf19b4d71a61ac4325c4e959ae2c24d3052434c875ae18068c0ac5be11" length="172802143" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Kimen til natten</title>
       <description>Musik, der stryger dig med hårene, musik, der udfordrer dine ører, og musik, der giver din stemme lyst til at nynne med.
 Vært: Minna Grooss.</description>
@@ -174,6 +153,27 @@ Vært: Minna Grooss.</description>
       <pubDate>Thu, 27 Feb 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natsvaermeren-gennem-tid-og-sted-12422563093</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b11e14df42d5c5ae972253/fa4f9a03cb6e6b3983ca95f7135f9fa1f82791928a65108afccdb49d5e163045" length="168389271" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Et ben i hver lejr</title>
+      <description>Utilregnelige marts mødet klassisk crossover, milonga og nordiske penselstrøg. Piazzolla, Hugo Diaz, Halvcirkel, Jorge Cardosa, Yasmin Levy og Dora Pejacevic bevæger sig i grænselandet.
+Vært: Minna Grooss.
+(Sendt første gang 19. marts 2023).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Wed, 26 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/et-ben-i-hver-lejr-12422363116</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6407c4c0f10257267bcff89a/f35c9b20dbbd685e88df618136ef5e0ed2b37fb0f31667a9be36200019ec2be7" length="168481591" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tiden</title>
+      <description>Tiden er inde, det er tid, nu er tiden moden, tiden løber, tiden er gået. 
+Tiden bliver tilbragt med spille klaver, krydse en flod, tænke sig om og lytte til Natsværmeren.  
+Vært: Katrine Ring.
+(Sendt første gang 7. februar 2023).</description>
+      <duration>02:00:00</duration>
+      <pubDate>Tue, 25 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tiden-12422363061</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63d308b4f5381584926b2c38/0a209acf19b4d71a61ac4325c4e959ae2c24d3052434c875ae18068c0ac5be11" length="172802143" type="audio/mpeg"/>
     </item>
     <item>
       <title>Bag de tykke vægge</title>
