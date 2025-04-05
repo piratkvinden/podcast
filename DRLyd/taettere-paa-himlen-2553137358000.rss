@@ -7,6 +7,15 @@
 Andrew Moyo har dig. Kom nu!</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:673311991869e162729c130c.jpg"/>
     <item>
+      <title>med Blæst</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Pelle Peter Jencel har dig. Kom nu!</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 04 Apr 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-blaest-16122539145</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e4efe600d52af1a1f648/32e1ceaeaca65a855b788182adcd14a8349fde7c75c156994c520bca9c1eae58" length="168482055" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>med Martin Jensen &amp; Hedegaard</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
@@ -141,15 +150,6 @@ Gæster: Christian Bonde og Kathrine Abrahamsen.</description>
       <pubDate>Fri, 01 Nov 2024 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/5-aars-jubilaeum-13332429445</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6716d055415419a377848e1f/3ecfeb8c8325a83cd4629d6e2fe4bf53a723bc0d00a6ff5af3424acbce597be0" length="172802099" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med Mark Le Fevre og Tobias Dybvad</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 04 Oct 2024 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/med-mark-le-fevre-og-tobias-dybvad-13332429405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f1e6e52f0bd3d4699f3d2f/a9f1b0511f7ab5391aaa4a44ac1f60a89412685f07a7fee26def3a774baa268e" length="172802051" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

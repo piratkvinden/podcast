@@ -60,6 +60,15 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67142dcaf341a59a1be6f677/c225f07f44701c32e6f8445be53b875ed2a87d7102447b9d47b4fc28e49eb42e" length="168482072" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Året rundt</title>
+      <description>En årskalender i musik.
+Vært: Katrine Ring.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Sat, 05 Apr 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/aaret-rundt-12422463171</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66185f8fab6e73d3edadd8a6/0d23df771b398a3ee46f14c971b46eb1da68fb58131ee4386d8cbe5d7e26bf91" length="168480241" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Smeltet i melodi</title>
       <description>&quot;Havet står så blankt og stille, himlen spejler sig deri, som de hjertet kysse ville, smelte det i melodi.&quot; H.C. Andersens fine ord bliver sunget undervejs i aftenens Natsværmeren, hvor Peter Albrechtsen sørger for melodismeltende musik af mange forskellige slags. Nattehimlen spejler sig i både skønhed og suspense.</description>
       <duration>01:56:59</duration>
@@ -264,15 +273,6 @@ Vært: Katrine Ring.</description>
       <pubDate>Fri, 07 Mar 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/perspektiv-12422563104</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bbaaa6177f20ef64f480f9/3474af1fdaa850fb3e6ccec5d250c1103d3d18859417bdef40927112f6113fad" length="168298799" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Natten slår revner</title>
-      <description>Og nyt træder frem i sprækkerne.
-Vært: Minna Grooss.</description>
-      <duration>01:56:52</duration>
-      <pubDate>Thu, 06 Mar 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/natten-slaar-revner-12422563103</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ba591c443096635f435ab0/729d05b545d54f325c7ee91070e0e0f75f3134a59d0a9d0132997a4d305a50ec" length="168313792" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

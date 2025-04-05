@@ -6,6 +6,34 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 5. Apr. 2025</title>
+      <description>Præludium: Joseph Ahrens: Maria gennem torne går
+Davidssalme: 27, 1 + 7-9 + 13-14
+Salme: 71, vers 1+3-5 &quot;Nu kom der bud fra englekor&quot;
+Fra det N.T.:	1. Johannesbrev 1, 1-3
+Trosbekendelsen	
+Salme: 73 &quot;Vi synger med Maria&quot;
+Postludium: Johann Sebastian Bach/Charles Gounod: Ave Maria</description>
+      <duration>00:24:57</duration>
+      <pubDate>Sat, 05 Apr 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-5-apr-2025-11042505146</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e3375ef314ac5570bd8a91/7212e33d3cf689b08b6e2471982c2c426ed9b25ad9d494373ea0ff7a35a190e0" length="35944546" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fredag 4. Apr. 2025</title>
+      <description>Præludium: Léon Boëllmann: Verset f-dur
+Fra det G.T.: Salme 146, vs. 5-10
+Salme: 637,vers 4-9 &quot;Når den søde stemme frister&quot;
+Fra det N.T.: Johannesevangeliet 12, 44-50
+Korvers: Bernhard Lewkovitch: Mariavise (tekst: Johs. Jørgensen)
+Salme: 484 &quot;Du, som vejen er og livet&quot;
+Postludium: Battison Haynes: Meditation g-dur</description>
+      <duration>00:25:02</duration>
+      <pubDate>Fri, 04 Apr 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-4-apr-2025-11042505145</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e524b70a76fbf8137475/7d71997fdae44e650fd5d0b1ec99bff080acdd363a639f6eef54f351e7db977a" length="36069545" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 3. Apr. 2025</title>
       <description>Præludium: Finn Viderø: O Herre Krist! dig til os vend
 Fra det G.T.: Esajas 60, 1-5
@@ -354,20 +382,6 @@ Postludium: Johann Sebastian Bach: Fuga e-mol, BWV 533/II</description>
       <pubDate>Thu, 06 Mar 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-6-mar-2025-11042505104</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bbaaa6177f20ef64f480f2/a2cde2f099de5cac8e667395904c6a8c068a3771e42daf43d6a32466d99ab480" length="36061479" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 5. Mar. 2025</title>
-      <description>Præludium:	Sigfrid Karg-Elert: Melodia monastica
-Fra det G.T.:	Salme 30,8-13
-Salme: 172 &quot;Se, vi går op til Jerusalem&quot;
-Fra det N.T.:	Markus 10,32-34
-Korvers: Erling Thomsen: Ét vidste han om vejen frem (Tekst: K.L. Aastrup), vers 1,2,5
-Salme: 536 &quot;Udrust dig, helt fra Golgata&quot;
-Postludium: Bo Grønbech: Udrust dig, helt fra Golgata</description>
-      <duration>00:25:02</duration>
-      <pubDate>Wed, 05 Mar 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-5-mar-2025-11042505103</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ba591d5a2f57d1ea5abfe3/67c1649f23fea1d830f9cccc57c66706bf5c83c3fd7a449edeb8b0408caab64a" length="36052260" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
