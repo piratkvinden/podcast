@@ -7,6 +7,16 @@
 Velkommen til!</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33666b75d19480fa71f3f.jpg"/>
     <item>
+      <title>Oasis - (What's the Story) Morning Glory</title>
+      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
+Vært: Casper Bach Hegstrup.
+Gæst: Niels Brandt.</description>
+      <duration>01:27:03</duration>
+      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fra vugge til grav med Christian Hjelm og Pavement</title>
       <description>I dag skal vi høre Pavement! Christian Hjelm faldt i gryden som 14-årig, så lyset og kom aldrig op igen. Her var endelig noget musik, der talte direkte til ham, og det skulle følge ham meget nært resten af livet. Hør den smukke beretning lige her.</description>
       <duration>01:57:00</duration>
@@ -173,16 +183,6 @@ Velkommen til!</description>
       <pubDate>Sun, 06 Oct 2024 17:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/soendag-6-okt-2024-16452436407</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f4892b846785c8ea6e4313/28b5ec697d8274415b69973f72ae7f749b9728f999f62b8088a51bef255aa110" length="168481598" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Oasis - (What's the Story) Morning Glory</title>
-      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
-Vært: Casper Bach Hegstrup.
-Gæst: Niels Brandt.</description>
-      <duration>01:27:03</duration>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
