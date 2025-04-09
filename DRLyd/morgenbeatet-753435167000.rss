@@ -6,6 +6,15 @@
     <description>Alle hverdagsmorgener får du det bedste og bredeste soundtrack til dagens første timer i sprødt selskab. Og så er det fra 07-10.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2795ab75d19480fa42b50.jpg"/>
     <item>
+      <title>Tirsdag 8. Apr. 2025</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+      <duration>02:55:00</duration>
+      <pubDate>Tue, 08 Apr 2025 07:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/tirsdag-8-apr-2025-16452532152</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e72b798b2e4877edd13930/e3873d589859174b640d4457f5bcae1933412726c263763818bbdc58737d2368" length="252001995" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 7. Apr. 2025</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
 Vært: Camilla Jane Lea.</description>
@@ -13,15 +22,6 @@ Vært: Camilla Jane Lea.</description>
       <pubDate>Mon, 07 Apr 2025 07:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/mandag-7-apr-2025-16452532151</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e5d9d18b2e4877edc86361/420551da50366e9c9f46d6202559e77cf334913f0d8b48fadbb9c724497e3d6c" length="252001419" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 4. Apr. 2025</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Camilla Jane Lea.</description>
-      <duration>02:55:00</duration>
-      <pubDate>Fri, 04 Apr 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/fredag-4-apr-2025-16452532145</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e534e600d52af1a1f954/7c3a3604a939ec9754947b430f6fb546caadde4f777993afbd3d7533fb50af7f" length="252001419" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
