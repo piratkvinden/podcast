@@ -7,16 +7,6 @@
 Velkommen til!</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33666b75d19480fa71f3f.jpg"/>
     <item>
-      <title>Oasis - (What's the Story) Morning Glory</title>
-      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
-Vært: Casper Bach Hegstrup.
-Gæst: Niels Brandt.</description>
-      <duration>01:27:03</duration>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Debbie Sings og kampen mod naturen</title>
       <description>Sophia Hage og så kendt som &quot;Debbie Sings&quot;, er min gæst i dag. Hun laver til daglig musik, som er syntetisk. Hun bor midt i storbyen Berlin og hun lever generelt det pulserende liv. MED SIG har hun en plade, som er lavet langt ude i skoven, den er frodig og handler om frodighed og liv. Der er nogle hårde kontraster i det her, som jeg glæder mig, til du skal høre. Pladen hun har med har så meget ånd i sig at det halve næsten kunne være nok. Det er vidunderligt! Bandet hun har med hedder &quot;Dolce&quot;. Velkommen i det grønne!</description>
       <duration>01:57:00</duration>
@@ -182,6 +172,16 @@ Velkommen til!</description>
       <pubDate>Sun, 13 Oct 2024 17:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/med-caecilie-norby-16452436417</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fdc498cb01870908968c68/a18c354700038d763d452087393ee764b58727b443f7c2dd0ff2c676f0b0fcd2" length="168482174" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Oasis - (What's the Story) Morning Glory</title>
+      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
+Vært: Casper Bach Hegstrup.
+Gæst: Niels Brandt.</description>
+      <duration>01:27:03</duration>
+      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

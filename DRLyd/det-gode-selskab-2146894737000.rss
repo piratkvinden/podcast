@@ -7,6 +7,15 @@
 Vært: Charlotte Hagen Striib.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
     <item>
+      <title>Med gæst Mira Arkin</title>
+      <description>Madskribent Mira Arkin giver tips til små påskemåltider, grønne retter, rabarber i både det søde og salte køkken - og hvordan man får maden til at strække længere
+Vært: Charlotte Striib.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Fri, 11 Apr 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/med-gaest-mira-arkin-15452528155</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb125aab50e584ac320302/71140012d2c1516112e796938a4119918a4c6ac656a0fb2c1cf10580337a217c" length="168480393" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Med gæst Tamra Rosanes</title>
       <description>Tamra Rosanes har udgivet ny musik, en single om fællesskab i en urolig tid: 'The River That Flows Both Ways'. Hør Tamra fortælle, hvordan musik kan være med til at bygge bro mellem mennesker
 Vært: Charlotte Striib</description>
@@ -32,15 +41,6 @@ Vært: Charlotte Striib.</description>
       <pubDate>Tue, 08 Apr 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/med-gaest-jussi-adler-olsen-15452528152</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e72b878b2e4877edd13a36/46bd5c4bbd2a9d8b7b19cc9fb66c96ef89952a751b0568143602bc9573718097" length="168481611" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Med gæsterne Søs Egelind og Linda P</title>
-      <description>Med blandt andre Søs Egelind på rollelisten blander Tivolirevyens nye kreative chef, Linda P., klassisk revy med moderne comedy. Revyen har premiere 5. juni i Glassalen, hvor Søs Egelind i øvrigt havde debut som skuespiller for 40 år siden 
-Vært: Charlotte Striib.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 07 Apr 2025 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab/med-gaesterne-soes-egelind-og-linda-p-15452528151</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e5d9fad5634992e7276414/6ce425dd3adab0d2fb40fa42c81714d13cf79e4a15a8a10c33deb42620788b56" length="168481610" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
