@@ -6,11 +6,19 @@
     <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en &quot;Kropslig Kickstarter&quot; eller en &quot;Hjertestartersang&quot; på morgenklubben@dr.dk</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33630f0388a679954fda1.jpg"/>
     <item>
-      <title>Morgenklubben</title>
+      <title>Mandag 14. apr. 2025</title>
+      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en &quot;Kropslig Kickstarter&quot; eller en &quot;Hjertestartersang&quot; på morgenklubben@dr.dk</description>
+      <duration>00:57:00</duration>
+      <pubDate>Mon, 14 Apr 2025 05:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/mandag-14-apr-2025-16122543161</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ef069b9006bfc9dff7520b/3f9af9a05adb82efd45759d338ca8dca2cb634a5ef4d986f477e4d9e5b5bb45d" length="82081514" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Søndag 13. apr. 2025</title>
       <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en &quot;Kropslig Kickstarter&quot; eller en &quot;Hjertestartersang&quot; på morgenklubben@dr.dk</description>
       <duration>00:57:00</duration>
       <pubDate>Sun, 13 Apr 2025 06:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/morgenklubben-16122543157</guid>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/soendag-13-apr-2025-16122543157</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb57e034014f39113a8f6/fc6f8151eb366aa1c5e57e262f7594bc1b6a513ea69404f52b81a82b6ebf8781" length="82081514" type="audio/mpeg"/>
     </item>
     <item>
@@ -36,14 +44,6 @@
       <pubDate>Thu, 10 Apr 2025 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/torsdag-10-apr-2025-16122543154</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e9c0ccd5634992e740ad4f/1e92f13d8aafde2fd822b5a2e8beec97f5b3c6947365e744ccca8f507b217678" length="82081514" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 9. Apr. 2025</title>
-      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en &quot;Kropslig Kickstarter&quot; eller en &quot;Hjertestartersang&quot; på morgenklubben@dr.dk</description>
-      <duration>00:57:00</duration>
-      <pubDate>Wed, 09 Apr 2025 05:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben/onsdag-9-apr-2025-16122543153</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e87d02d5634992e738a054/9f73768897ebc4720f64338bb121c42aad15ec7b82439adc0af159b8b31b35e4" length="82082090" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
