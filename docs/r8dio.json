@@ -1182,14 +1182,14 @@
         "id": 31
       },
       {
-        "title": "Resum\u00e9; s\u00e6son 1",
-        "publishedAt": "2024-07-30T12:53:35.320Z",
-        "id": 1217
-      },
-      {
         "title": "Godt nyta\u030ar",
         "publishedAt": "2020-12-30T21:01:29.000Z",
         "id": 32
+      },
+      {
+        "title": "Resum\u00e9; s\u00e6son 1",
+        "publishedAt": "2024-07-30T12:53:35.320Z",
+        "id": 1217
       },
       {
         "title": "Alene pa\u030a kontoret",
@@ -7774,6 +7774,11 @@
     "slug": "morgensutterne",
     "program_url": "https://r8dio.dk/program/morgensutterne",
     "episodes": [
+      {
+        "title": "I forbindelse med p\u00e5ske",
+        "publishedAt": "2025-04-14T06:28:06.937Z",
+        "id": 2188
+      },
       {
         "title": "Teknik, murere og h\u00e6kkehysteri",
         "publishedAt": "2025-04-10T06:26:27.503Z",
