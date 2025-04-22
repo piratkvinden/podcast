@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
     <item>
+      <title>Mandag 21. apr. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>07:56:57</duration>
+      <pubDate>Mon, 21 Apr 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/mandag-21-apr-2025-13652502171</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea88e6ee7033184f6b64e5/8c9be102c8a566a09b8477e09105734487bd2b30fcc174924f11dd769487fa63" length="686818040" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Søndag 20. apr. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <duration>02:51:09</duration>
@@ -116,14 +124,6 @@
       <pubDate>Fri, 28 Mar 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/fredag-28-mar-2025-13652502135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d8ab1db9256eefac87c56c/6125475d0ef97f371a66b09476a3835e345a4c0fb9c774c88cc506bfda4b5031" length="332763512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 23. Mar. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>05:59:58</duration>
-      <pubDate>Sun, 23 Mar 2025 18:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/soendag-23-mar-2025-13652502127</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d21424eb0a841dec9814af/f0bddf82c0e0654b76b8bd777b00fd1c8af0557ef9e7757ebe9ac23ddaa2c887" length="518365688" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
