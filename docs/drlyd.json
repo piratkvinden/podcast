@@ -3425,5 +3425,13 @@
     "description": "Ro På er en samling podcasts til dig der vil stresse af, sove bedre og klare tankerne. Om du er nysgerrig på meditation, eller foretrækker en sundhedsfaglig tilgang - så får du her en række konkrete værktøjer, og afslappende musik der skaber fred i sindet.",
     "program_url": "https://www.dr.dk/lyd/p2/ro-paa-6424442148000",
     "series_hash": "67d805ff5a443496f532c79d"
+  },
+  {
+    "name": "Topkarakter",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/topkarakter",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:680791d2f721450ac37466ed.jpg",
+    "description": "Hvorfor minder din far dig om Voldemort? Hvordan forklarer du din venindes crush på Simba? Og er du i virkeligheden mere Monica Geller, end du tror?\nI TOPKARAKTER lægger vært Andreas Kousholt og psykolog Rikke Papsøe hver uge to af fiktionens mest mindeværdige karakterer på briksen. \nLyt med, når vi afslører, hvordan dine yndlingsfilm og -serier kan hjælpe dig med at forstå menneskerne omkring dig - og måske endda dig selv.",
+    "program_url": "https://www.dr.dk/lyd/special-radio/topkarakter-5905196384000",
+    "series_hash": "67ebe5a1b71197bdbe155137"
   }
 ]
