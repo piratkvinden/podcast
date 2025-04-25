@@ -6,35 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Fra alle kanter</title>
-      <description>Kig fremad, gik bagud, kig til siden og kig op. Musikken vil dig det hele. Æde dig råt, vugge dig blidt og insistere på dit nærvær. Sarah Davachi, Emmy Lindstrøm, Ensemble Panagiotis Neochoritis og Nouvelle Vague er blandt aftens gæster.
-Vært: Minna Grooss.</description>
-      <duration>01:17:00</duration>
-      <pubDate>Sun, 30 Mar 2025 03:43:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/fra-alle-kanter-12422363491</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655fdb4b03746f0a5b6e7f38/d512d4ba6b52f0049d1d75b7da3629ae407e369b73065285becfe7c2f204e82c" length="110881610" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Filmisk</title>
-      <description>Nattens soundtrack lægger op til at du skaber dine egne fortællinger. Tariverdiev, Jóhann Jóhannsson, Armand Amar, Osvaldo Golijov og andre filmkomponister leder vejen.
-Vært: Minna Grooss.
-(Sendt første gang 1. december 2023).</description>
-      <duration>01:56:59</duration>
-      <pubDate>Mon, 31 Mar 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/filmisk-12422363484</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655a966c2659b726e07f71a2/c58600a3f7192d66b8d24e3542e475affdb96e018ef70ca464e19ac40aa0c73e" length="168469470" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fragmenter</title>
-      <description>Stumper af skumring, tusmørke, drøm og tanke.
-Vært: Katrine Ring.
-(Sendt første gang 6. januar 2023).</description>
-      <duration>02:00:00</duration>
-      <pubDate>Sat, 29 Mar 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/fragmenter-12422363014</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a8da19b23ac67e5b5389ce/c1617e702e501cdbb83d7d86ec269e161e8671e3819f2fc649afa370db2d81ce" length="172802023" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Omhu</title>
       <description>Musik kan krybe ind under huden på dig, og kæle og kilde. Jeg har valgt musikken med omhu, i det håb at den rækker dig en hånd, som du vil tage imod. 
 Vært: Tina Rømer.</description>
@@ -273,6 +244,35 @@ Vært: Katrine Ring.</description>
       <pubDate>Sun, 13 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/paasken-12422463135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660434b03d11965f1809abb5/62320176da86c79e781cae3cb27d9f79dc159b1ae386d848833bf94285744919" length="168468130" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fra alle kanter</title>
+      <description>Kig fremad, gik bagud, kig til siden og kig op. Musikken vil dig det hele. Æde dig råt, vugge dig blidt og insistere på dit nærvær. Sarah Davachi, Emmy Lindstrøm, Ensemble Panagiotis Neochoritis og Nouvelle Vague er blandt aftens gæster.
+Vært: Minna Grooss.</description>
+      <duration>01:17:00</duration>
+      <pubDate>Sun, 30 Mar 2025 03:43:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/fra-alle-kanter-12422363491</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655fdb4b03746f0a5b6e7f38/d512d4ba6b52f0049d1d75b7da3629ae407e369b73065285becfe7c2f204e82c" length="110881610" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Filmisk</title>
+      <description>Nattens soundtrack lægger op til at du skaber dine egne fortællinger. Tariverdiev, Jóhann Jóhannsson, Armand Amar, Osvaldo Golijov og andre filmkomponister leder vejen.
+Vært: Minna Grooss.
+(Sendt første gang 1. december 2023).</description>
+      <duration>01:56:59</duration>
+      <pubDate>Mon, 31 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/filmisk-12422363484</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:655a966c2659b726e07f71a2/c58600a3f7192d66b8d24e3542e475affdb96e018ef70ca464e19ac40aa0c73e" length="168469470" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fragmenter</title>
+      <description>Stumper af skumring, tusmørke, drøm og tanke.
+Vært: Katrine Ring.
+(Sendt første gang 6. januar 2023).</description>
+      <duration>02:00:00</duration>
+      <pubDate>Sat, 29 Mar 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/fragmenter-12422363014</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a8da19b23ac67e5b5389ce/c1617e702e501cdbb83d7d86ec269e161e8671e3819f2fc649afa370db2d81ce" length="172802023" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
