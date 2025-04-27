@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 26. apr. 2025</title>
+      <description>Præludium: Per Günther: Påskeblomst! hvad vil du her?
+Davidssalme: Psalme 16, 8-11
+Salme: 230, vers 1-4 &quot;Påskemorgen slukker sorgen&quot;
+Fra det N.T.: Første Johannesbrev 5, 1-5
+Trosbekendelsen	 
+Salme: 230, vers 5-7
+Postludium: Per Günther: Tag det sorte kors fra graven</description>
+      <duration>00:25:00</duration>
+      <pubDate>Sat, 26 Apr 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-26-apr-2025-11042505176</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd960984fa2f265693080/8559c596c1aa70e1c654d1fc9e4c90d12d8cd3cff39352078f899f6634285631" length="36020008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 25. apr. 2025</title>
       <description>Præludium: Johann Ludwig Krebs: I dødens bånd vor frelser lå
 Fra det G.T.: Ezekiel 34,9-12
@@ -312,20 +326,6 @@ Postludium: Sigfrid Karg-Elert: Trio continuo</description>
       <pubDate>Fri, 28 Mar 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-28-mar-2025-11042505135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d8ab4d5a443496f536e969/845b3a4039dba4bff78bb33662b3e6401878a8184efb3ef78410bd9ed53db32e" length="36069542" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 27. mar. 2025</title>
-      <description>Præludium:	Myles Birket Foster: Grazioso G-dur
-Fra G.T.: Salme 31,2-6
-Salme: 310 &quot;Gud Helligånd, i tro os lær&quot;
-Fra det N.T.:	1. Johannesbrev 4,15-21
-Korvers: John Frandsen: O store Gud, din kærlighed (tekst: Thomas Kingo)
-Salme: 688 &quot;Skal kærlighed sin prøve stå&quot;
-Postludium: Louis James Alfred Lefébure-Wély: Verset G-dur</description>
-      <duration>00:24:59</duration>
-      <pubDate>Thu, 27 Mar 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-27-mar-2025-11042505134</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d75a93e11e4d0fcdc20355/9b250774c7ceeeb69849bd196fc10607754754ea0b19f3a381d05963774ae9b4" length="35994091" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
