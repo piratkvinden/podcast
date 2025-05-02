@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Torsdag 1. maj. 2025</title>
+      <description>Præludium: Johann Sebastian Bach: Opstanden er den Herre Krist, BWV 628
+Fra det G.T.: Salme 8
+Salme: 42 &quot;I underværkers land jeg bor&quot;
+Fra det N.T.: Johannesevangeliet 5, 19-24
+Korvers: Johann Sebastian Bach: I dødens bånd vor frelser lå (tekst: Luther 1524, Grundtvig 1837)
+Salme: 235 &quot;Verdens igenfødelse&quot;
+Postludium: Clément Loret: Offertoire de Pâques</description>
+      <duration>00:24:59</duration>
+      <pubDate>Thu, 01 May 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-1-maj-2025-11042505184</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96d984fa2f26569314b/ae599aec0f634029123d3633efb959d80623dd6dcc8e4ce8992bc9197a673ac1" length="35995252" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 30. apr. 2025</title>
       <description>Præludium: Jean Titelouze: Verset F-dur
 Fra det G.T.: Salme 38,10-16
@@ -312,20 +326,6 @@ Postludium: Johann Sebastian Bach: Fuga i e-mol</description>
       <pubDate>Wed, 02 Apr 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-2-apr-2025-11042505143</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67df43595a443496f560536d/cba61ef90459a8d8353ecfc6c5d8375574475aa1670b6bd9139ca9ed95cc1741" length="36022314" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 1. apr. 2025</title>
-      <description>Præludium:	Johann Ernst Eberlin: Menueto
-Fra det G.T.:	Prædikerens bog 3, 1-8
-Salme: 380 &quot;Op dog, Zion! ser du ej&quot;
-Fra det N.T.:	Johannesevangeliet 12, 20-26
-Korvers: Bernhard Lewkovitch: Mariavise (tekst: Johs. Jørgensen)
-Salme: 476 &quot;Kornet, som dør i jorden&quot;
-Postludium: Gottfried August Homilius: Schmücke dich, o liebe Seele</description>
-      <duration>00:25:02</duration>
-      <pubDate>Tue, 01 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-1-apr-2025-11042505142</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ddf1ba5a443496f55820e1/b72b32a040658f0db2fc6a1c4d95b876eceea74094b5a27f845859e6786f22c7" length="36053993" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
