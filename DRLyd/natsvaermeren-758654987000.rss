@@ -6,15 +6,6 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Musikalske fingeraftryk</title>
       <description>Georgiens stemme, en crooner i mørket og Hugo Alvén er blandt nattens fingeraftryk. 
 Vært: Minna Grooss.</description>
@@ -22,15 +13,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Tue, 15 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/musikalske-fingeraftryk-12422463527</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355dc22268ec65aa37a0b/2cbbb663c5afa1cb092e49315f8b0e2d19ae82fbf5465bf482a98f97c764a634" length="168481456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mellem tider</title>
-      <description>Generationer og tider mødes med største lethed i aftens Natsværmer.
-Vært: Minna Grooss.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 07 Apr 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/mellem-tider-12422463514</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6756276261250f43216b5322/4d275ba87ab9d425e8092c5c869716ec0d8199dcd6345ed329ece13b08991a0f" length="168481440" type="audio/mpeg"/>
     </item>
     <item>
       <title>Mandag i maj</title>
@@ -101,6 +83,14 @@ Vært: Katrine Ring.</description>
       <pubDate>Sun, 13 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/paasken-12422463135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:660434b03d11965f1809abb5/62320176da86c79e781cae3cb27d9f79dc159b1ae386d848833bf94285744919" length="168468130" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ludwig og lyd</title>
+      <description>I denne udgave sættes fokus på filmkomponist Ludwig Göransson men vært Peter Albrechtsen når også rundt om både Mozart, Beethoven og Chopin i nattens soniske sværmerier.</description>
+      <duration>01:57:03</duration>
+      <pubDate>Wed, 07 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/ludwig-og-lyd-12422563192</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f7bf11166ff5b1f84570b9/03c562e7d5073fd9bbf662f1e8fbf021433ae249457590ee17a9475589843737" length="168566198" type="audio/mpeg"/>
     </item>
     <item>
       <title>Dualitet</title>
@@ -263,6 +253,15 @@ Vært: Minna Grooss.</description>
       <pubDate>Sat, 26 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/dagen-derpaa-12422463532</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83d652f88c39b448594/f94269fa1c6b311c8271d455e93ad3ac814bbf1bcde410d35afaf8e45be37d57" length="168482006" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lotus</title>
+      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
+Vært: Tina Rømer.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
