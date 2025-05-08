@@ -6,12 +6,20 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
     <item>
+      <title>Onsdag 7. maj. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <duration>03:59:44</duration>
+      <pubDate>Wed, 07 May 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/onsdag-7-maj-2025-13652502193</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f383ffb726bd5dde22bd0a/7fbdaf17bf46daf8c08dc5763b14946384dbb5238fb3a87e7dcb1761e8c579d1" length="345219512" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 5. maj. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>03:55:00</duration>
+      <duration>03:46:05</duration>
       <pubDate>Mon, 05 May 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/mandag-5-maj-2025-13652502191</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f3831cb726bd5dde22b77a/315d17b91b110ee8c185f29d371d53e7fceaa8842b2cb5f05a01e566fe3779be" length="338401400" type="audio/mpeg"/>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f3831cb726bd5dde22b77a/391d485f64fdb0480c62788289e301b81fdbaf0460e5f7efc84c1e11fe842109" length="325567544" type="audio/mpeg"/>
     </item>
     <item>
       <title>Søndag 4. maj. 2025</title>
@@ -140,14 +148,6 @@
       <pubDate>Fri, 11 Apr 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/fredag-11-apr-2025-13652502155</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb1225ab50e584ac31fd73/fe1936cbea41e92ffda095bb36743bd69dbe3f7694f13e1fc195eff92b011b3d" length="334000184" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 8. Apr. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>03:55:00</duration>
-      <pubDate>Tue, 08 Apr 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/tirsdag-8-apr-2025-13652502152</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e72b6903175ae586f99c29/9dfb492a075a1c27c26e85f972c38ed0300ec6256035c3bec31178d8d608cc0c" length="338401400" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
