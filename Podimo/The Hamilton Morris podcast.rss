@@ -1280,5 +1280,25 @@ VIDEO: https://n4.kemono.su/data/cb/1d/cb1db2e55e4b2e519c6c993516cebc35f287bb4a5
       <enclosure url="https://n1.kemono.su/data/d3/38/d3383a18b7207b89c6f5dcadcfc7200fc8fed85aef2a6f77aab006282775446e.mp3?f=Rick+Strassman+V2.mp3" length="0" type="audio/mpeg" />
       <itunes:duration>01:27:17</itunes:duration>
     </item>
-  </channel>
+    <item>
+      <guid isPermaLink="false">123360083</guid>
+      <title>#124: The journey to MMDA, DMMDA, and a new synthesis of MDMA</title>
+      <description>Possibly the most fascinating chemistry discussion to appear on this podcast, I interview two chemists about their quest to synthesize MMDA and DMMDA and their use of leaked law enforcement journal articles to pioneer a new synthesis of MDMA. Listen carefully, this one is truly amazing.
+
+All of the JCLIC articles are collected in a .rar file at the end of the list of attachments.
+
+https://n2.kemono.su/data/c9/9e/c99ea4f20b6f05ab433a122ff713157b44f852961d0777b197c4b58569c78da4.bin?f=JCLIC+.rar</description>
+      <pubDate>Fri, 14 Mar 2025 08:15:05 +0000</pubDate>
+      <enclosure url="https://n3.kemono.su/data/cc/c8/ccc8e2aac934bc71430220b8062383a2b1e6e0d3a3d41a3c49deab397f75882a.wav?f=MMDA+FINAL+WITH+INTRO+v2.wav" length="0" type="audio/mpeg" />
+      <itunes:duration>01:27:17</itunes:duration>
+    </item>
+    <item>
+      <guid isPermaLink="false">123754641</guid>
+      <title>#125: The Podcast About the Show About the Show with Caveh Zahedi</title>
+      <description>In this episode I visit the Brooklyn home of Caveh Zahedi, director of the films "I Am a Sex Addict" and "The Sheik and I" and talk about moralism, filmmaking, his series The Show About the Show, the courage to look bad, and Jonathan Richman.</description>
+      <pubDate>Tue, 01 Apr 2025 08:15:05 +0000</pubDate>
+      <enclosure url="https://n2.kemono.su/data/07/04/0704c1369a2b3845efaa7d55441cbf1522f730c73658f06d65c291701fa61839.mp3?f=CAVEH+FINAL+V1_1.mp3" length="0" type="audio/mpeg" />
+      <itunes:duration>02:07:22</itunes:duration>
+    </item>
+</channel>
 </rss>
