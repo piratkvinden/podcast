@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Lørdag 10. maj. 2025</title>
+      <description>Præludium: Samuel Scheidt: I dødens bånd vor frelser lå
+Davidssalme: Psalme 46, 2-4,8
+Salme: 741 &quot;Op, min sjæl, this sol er oppe&quot;
+Fra det N.T.: Hebræerbrevet 13, 12-16
+Trosbekendelsen	
+Salme: 332 &quot;På Jerusalem det ny&quot;
+Postludium: Johann Sebastian Bach: Vi tro, vi alle tro på Gud, BWV 680</description>
+      <duration>00:25:00</duration>
+      <pubDate>Sat, 10 May 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-10-maj-2025-11042505196</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96eaa49e222d584d64e/e8a216c7029d94c0bcea432bfd8483f86bbe61cf00269c13aa7d9d55d0b4d22f" length="36012526" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 9. maj. 2025</title>
       <description>Præludium: Louis James Alfred Lefébure-Wély: Communion G-dur
 Fra det G.T.: Salme 23
@@ -326,20 +340,6 @@ Postludium: Johann Gottfried Walther: Fuga F-dur</description>
       <pubDate>Thu, 10 Apr 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-10-apr-2025-11042505154</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e9c0f9d33d9a6b2ee2aebe/8258e6c21e2addbb3fdb2f5c44c4b852cfc003c394106f7dfa1bd0a6e6fec39b" length="35985452" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 9. apr. 2025</title>
-      <description>Præludium:	Georg Böhm: O hjertekære Jesus Krist
-Fra det G.T.: Esajas 53,7-12
-Salme: 418 &quot;Herre Jesus, kom at røre&quot;
-Fra det N.T.: Johannesevangeliet 18,28-32
-Korvers: Johann Sebastian Bach: Jesus, hvor du bange stred (tekst: H. Ussing 1901)
-Salme: 204 &quot;O hjertekære Jesus Krist&quot;
-Postludium: Jesper Madsen: O hjertekære Jesus Krist</description>
-      <duration>00:24:57</duration>
-      <pubDate>Wed, 09 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-9-apr-2025-11042505153</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e87d22cb0ae0fecf01aadf/62ffd6b4978f29f9d38ef6039148c204eb8d920d8a60e94ada406311e04decc7" length="35933610" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
