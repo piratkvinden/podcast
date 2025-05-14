@@ -167,6 +167,15 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83d652f88c39b448594/f94269fa1c6b311c8271d455e93ad3ac814bbf1bcde410d35afaf8e45be37d57" length="168482006" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Lotus</title>
+      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
+Vært: Tina Rømer.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Musikalske fingeraftryk</title>
       <description>Georgiens stemme, en crooner i mørket og Hugo Alvén er blandt nattens fingeraftryk. 
 Vært: Minna Grooss.</description>
@@ -253,15 +262,6 @@ Vært: Peter Albrechtsen.</description>
       <pubDate>Mon, 28 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/to-the-max-12422463153</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66089be44f15d9d91b489fdf/9bf41c2de955d65ff884529bb9b6263349ded0d2b9b45afd2ec33807ed1ce73a" length="168479879" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
