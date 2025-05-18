@@ -6,6 +6,14 @@
     <description>Ugentlig, pan-skandinavisk familieterapi med forfatter og journalist Åsa Linderborg (S), radiovært og forfatter Hassan Preisler (DK) og programleder/samtaleterapeut Hilde Sandvik (N).</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3362ab75d19480fa71e53.jpg"/>
     <item>
+      <title>Kampen om sandheden</title>
+      <description>Det blæser atter op til strid om statskanalerne, gamle uvaner dør ikke let på Herlufsholm, og skal man fyre embedsmænd for deres seksuelle præferencer?</description>
+      <duration>00:56:03</duration>
+      <pubDate>Sat, 17 May 2025 07:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/kampen-om-sandheden-16122514207</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681bd9b6a75c4b583508f5b6/b4f43af9fff337489f968943bcbbc3091a42dbd1c47b744c13c08556637e1eb3" length="80725603" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Racisme i kø</title>
       <description>Stockholms natteliv siger nej til gæster med mørk hud, dansk vinder af EM i mågeskrig, og politikere Norden over bues ud på 1. maj.</description>
       <duration>00:57:00</duration>
@@ -196,14 +204,6 @@
       <pubDate>Sat, 23 Nov 2024 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/serievoldtaegt-og-bananfobi-16122414477</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673530e4a819ac3ad7c5fc58/c8aa6779f3221fdd7233769334e5031b265af9fb6e810e3572f75ae2e25526d8" length="80725622" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vredens druer</title>
-      <description>Ordudvekslingen er præget af stemningen efter valget i USA. Det er blevet trendy at drikke mindre. Og kan kulturens kraft redde det menneskelige i os?</description>
-      <duration>00:56:03</duration>
-      <pubDate>Sat, 16 Nov 2024 07:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/vredens-druer-16122414467</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf5f90d7b51de359f45d0/d4ebcdea8ef91359c404f66c936e50db73e7ab201bd671bc45d4b3425539985e" length="80725600" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
