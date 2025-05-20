@@ -6,6 +6,14 @@
     <description>Lyt til alle de seneste afsnit af Politikens podcasts</description>
     <itunes:image href="noimage"/>
     <item>
+      <title>De skal redde Danmarks tredjemest iltfattige kystvand</title>
+      <description/>
+      <pubDate>Tue, 20 May 2025 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">10418191</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10418191.mp3?n=1747715400000&amp;source=app&amp;originArticleId=10418191&amp;premium=true" length="12589765" type="audio/mpeg"/>
+      <itunes:duration>13:06</itunes:duration>
+    </item>
+    <item>
       <title>Jeg blev bekymret, da robotten svarede mig</title>
       <description/>
       <pubDate>Tue, 20 May 2025 05:30:00 +0000</pubDate>
@@ -151,20 +159,20 @@
       <itunes:duration>01:10:26</itunes:duration>
     </item>
     <item>
-      <title>Det ligner et neurotisk forhold til byggeskrald, men jeg elsker det</title>
-      <description/>
-      <pubDate>Fri, 16 May 2025 05:30:00 +0000</pubDate>
-      <guid isPermaLink="false">10413219</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10413219.mp3?n=1747366200000&amp;source=app&amp;originArticleId=10413219&amp;premium=true" length="8827297" type="audio/mpeg"/>
-      <itunes:duration>09:11</itunes:duration>
-    </item>
-    <item>
       <title>Er Brett Cooper det hemmelige våben i republikanernes kulturkamp?</title>
       <description/>
       <pubDate>Fri, 16 May 2025 05:30:00 +0000</pubDate>
       <guid isPermaLink="false">10413255</guid>
       <enclosure url="https://politiken.dk/_binary/podcast/10413255.mp3?n=1747366200000&amp;source=app&amp;originArticleId=10413255&amp;premium=true" length="5967202" type="audio/mpeg"/>
       <itunes:duration>06:12</itunes:duration>
+    </item>
+    <item>
+      <title>Det ligner et neurotisk forhold til byggeskrald, men jeg elsker det</title>
+      <description/>
+      <pubDate>Fri, 16 May 2025 05:30:00 +0000</pubDate>
+      <guid isPermaLink="false">10413219</guid>
+      <enclosure url="https://politiken.dk/_binary/podcast/10413219.mp3?n=1747366200000&amp;source=app&amp;originArticleId=10413219&amp;premium=true" length="8827297" type="audio/mpeg"/>
+      <itunes:duration>09:11</itunes:duration>
     </item>
     <item>
       <title>Kolonihaver: Et bandeliv i sus og dus</title>
@@ -3997,14 +4005,6 @@
       <guid isPermaLink="false">10269557</guid>
       <enclosure url="https://politiken.dk/_binary/podcast/10269557.mp3?n=1738296000000&amp;source=app&amp;originArticleId=10269557&amp;premium=false" length="59254490" type="audio/mpeg"/>
       <itunes:duration>01:01:43</itunes:duration>
-    </item>
-    <item>
-      <title>DeepSeek: Overhalede Kina lige USA i kapløbet om kunstig intelligens?</title>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 04:30:00 +0000</pubDate>
-      <guid isPermaLink="false">10269221</guid>
-      <enclosure url="https://politiken.dk/_binary/podcast/10269221.mp3?n=1738294200000&amp;source=app&amp;originArticleId=10269221&amp;premium=false" length="36055084" type="audio/mpeg"/>
-      <itunes:duration>25:01</itunes:duration>
     </item>
   </channel>
 </rss>
