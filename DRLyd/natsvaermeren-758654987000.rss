@@ -99,6 +99,24 @@ Vært: Tina Rømer.
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b198ed675cc8593ef5ca2e/dd7ac49ed55438d2cda1f76d52db81b32818758632552645c6c5a0ca0fe196f8" length="129602147" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Lotus</title>
+      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
+Vært: Tina Rømer.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Til sarte sjæle og andre røvere</title>
+      <description>Et mekanisk klaver, Beethoven og en fado er nogle af aftens omdrejningspunkter. Resten finder du kun ud af, hvis du lytter med. 
+Vært: Minna Grooss.</description>
+      <duration>01:56:55</duration>
+      <pubDate>Wed, 21 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/til-sarte-sjaele-og-andre-roevere-12422563212</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681e7d0dbb08e5e5defc60d2/f6e9aa717521d036fecec1eabe7b106c1aae675732e4f9ad91216d3ca5834169" length="168369180" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fremkaldelse</title>
       <description>Musikken fremkalder aftens billeder. Fra trolde i de svenske skove til fugle i Respighis Pini di Roma. 
 Vært: Minna Grooss.</description>
@@ -242,15 +260,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cac25e5e1a6ed3e2c87a/68f347f585ed6d4619fb86e1653fecf4bdd00016b3963a659dd527f58fd04de8" length="168481473" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Åbne grænser</title>
-      <description>Natsværmer ser hen over hovedet på politiske strømninger, krige og økonomisk vækst og hylder musikkens evne til at se igennem menneskets grådighed, og hæve sig op over, stort set, alle omstændigheder
-Vært: Minna Grooss.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 21 Apr 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/aabne-graenser-12422563023</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6770841f81654c75b6c0115c/348a67ae5676f6bae606fff0d760b020a338424897ade383907b9599d50ecdc6" length="168481575" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Dagen derpå</title>
       <description>Det er dagen derpå, der er alle dage, og denne dag, samtidig. 
 Vært: Minna Grooss.</description>
@@ -258,15 +267,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Sat, 26 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/dagen-derpaa-12422463532</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83d652f88c39b448594/f94269fa1c6b311c8271d455e93ad3ac814bbf1bcde410d35afaf8e45be37d57" length="168482006" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
