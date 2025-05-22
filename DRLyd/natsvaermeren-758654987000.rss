@@ -60,15 +60,6 @@ Vært: Peter Albrechtsen.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66298310b5689c0891e34beb/7e1f9f75723578bb648cc89574f013aee3fec646583bc8108a7c80bc2aaa6edd" length="168479877" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Illusionernes Palads</title>
-      <description>En kanin i løb, en sang, der får bålet til at gnistre, en tango for to, og et par legender bliver vækket til live i Natsværmeren.
-Vært: Minna Grooss.</description>
-      <duration>01:56:59</duration>
-      <pubDate>Tue, 22 Apr 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/illusionernes-palads-12422463176</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:661ef63afc2588c4b5292878/62c5c7c17f59e9d647f5b2fd859bc07347e651d38d94769f2c917ea6fcd13127" length="168479199" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>To the Max</title>
       <description>Komponisten Max Richter er gennemgående figur i aftenens episode af Natsværmeren i anledning af, at den dygtige stemningsmager er aktuel med et nyt soundtrack. Vært Peter Albrechtsen spiller både nyt og gammel Max-musik samt en række andre næsten bogstaveligt talt fortryllende toner.</description>
       <duration>01:56:59</duration>
@@ -97,15 +88,6 @@ Vært: Tina Rømer.
       <pubDate>Sat, 17 May 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/tys-12422463057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b198ed675cc8593ef5ca2e/dd7ac49ed55438d2cda1f76d52db81b32818758632552645c6c5a0ca0fe196f8" length="129602147" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
     <item>
       <title>Til sarte sjæle og andre røvere</title>
@@ -233,6 +215,15 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad29129b1bc23661f2e4ff/0ad4d4700ed2ba3d31b3ad0a47d0038164840bfc38d3b6e1c797e39f683ae537" length="168439397" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Vidner</title>
+      <description>Du er vidne til nattens musik som auditiv voyeur. 
+Vært: Minna Grooss.</description>
+      <duration>01:56:55</duration>
+      <pubDate>Thu, 22 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/vidner-12422563084</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a9359f6c5702878584f877/bab24d04607d0bb1219a48f403d7539a3759f8a0734af8c41259632dd4b61b9e" length="168364486" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Et strejf i tusind nætter</title>
       <description>En bøn, fire kærlighedssange og natten klædt i aftenrøde. 
 Vært: Minna Grooss.</description>
@@ -267,6 +258,15 @@ Vært: Minna Grooss.</description>
       <pubDate>Sat, 26 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/dagen-derpaa-12422463532</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83d652f88c39b448594/f94269fa1c6b311c8271d455e93ad3ac814bbf1bcde410d35afaf8e45be37d57" length="168482006" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lotus</title>
+      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
+Vært: Tina Rømer.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
