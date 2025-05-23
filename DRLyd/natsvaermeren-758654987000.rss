@@ -6,13 +6,12 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.</description>
-      <duration>02:00:00</duration>
-      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
+      <title>Howards toner</title>
+      <description>I aftenens udgave af Natsværmeren sætter vært Peter Albrechtsen fokus på Howard Shore i anledning af at der er et nyt soundtrack ude fra en af moderne filmmusiks største komponister. Og så kommer Chopin og Morton Feldman også forbi med stille, smukke toner.</description>
+      <duration>01:57:02</duration>
+      <pubDate>Fri, 23 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/howards-toner-12422563214</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afa2161175376c121fc4e/8a006e462fbd24df147ae0368382ef237a81a23fa69d8dee12d5b83aa1aa6f1a" length="168544973" type="audio/mpeg"/>
     </item>
     <item>
       <title>Til sarte sjæle og andre røvere</title>
@@ -120,15 +119,6 @@ Vært: Tina Rømer.</description>
       <pubDate>Thu, 24 Apr 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/omhu-12422563173</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f508b38e208bf2ad2361a1/25cd5550e7806d6bb768143bf6825aebc429673dfc186e0495172f6a753b80cc" length="168482666" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vejrlig</title>
-      <description>Som vinden blæser. 
-Vært: Minna Grooss.</description>
-      <duration>01:56:58</duration>
-      <pubDate>Wed, 23 Apr 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/vejrlig-12422563172</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f9924baa49e222d56ea90d/ffe715bca5f3cd42922b5e197d902d73de8e331a3838116fcfbffccac7e4f7f7" length="168457193" type="audio/mpeg"/>
     </item>
     <item>
       <title>Højt at flyve</title>
@@ -267,6 +257,15 @@ Vært: Tina Rømer.
       <pubDate>Sat, 17 May 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/tys-12422463057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65b198ed675cc8593ef5ca2e/dd7ac49ed55438d2cda1f76d52db81b32818758632552645c6c5a0ca0fe196f8" length="129602147" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lotus</title>
+      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
+Vært: Tina Rømer.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Thu, 01 May 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/lotus-12422363166</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6435dc796b209fb7f037ef3d/8cfb2687b152eee2b300ea640c1c942712ea6f9625975801f0002192b624c552" length="172802069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
