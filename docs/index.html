@@ -74,7 +74,6 @@
         let currentEpisode = null;
         let drPodcastsData = [];
         let podimoPodcastsData = [];
-        let radio24syvPodcastsData = [];
         let r8dioPodcastsData = [];
         let politikenPodcastsData = [];
         let episodesData = [];
@@ -173,11 +172,10 @@
             const urls = [
               'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
               'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
-              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/radio24syv.json',
               'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/r8dio.json',
               'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
             ];
-            [drPodcastsData, podimoPodcastsData, radio24syvPodcastsData, r8dioPodcastsData, politikenPodcastsData] = await Promise.all(urls.map(fetchData));
+            [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData] = await Promise.all(urls.map(fetchData));
           } catch (error) {
             console.error('Error fetching data:', error);
           }
@@ -639,19 +637,6 @@
               url: `https://podimo.com/dk/shows/${id}`,
               image: coverImageUrl,
               rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
-            })),
-            ...radio24syvPodcastsData.map(({
-              title,
-              description,
-              id,
-              coverImageUrl
-            }) => ({
-              text: title,
-              provider: 'Radio24syv',
-              description,
-              url: `https://podimo.com/dk/shows/${id}`,
-              image: coverImageUrl,
-              rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Radio24syv/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
             })),
             ...r8dioPodcastsData.map(({
               title,
