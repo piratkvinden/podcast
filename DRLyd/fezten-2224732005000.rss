@@ -6,6 +6,22 @@
     <description>Fezten er fredagsbaren på P6 - programmet, hvor Niels Fez Pedersen er DJ og håndplukker musikken. Vi åbner døren til weekenden og holder fest med energiske klubklassikere, elektroniske perler og frisk indiedisco. Et program med velvalgte favoritter fra fortiden og fremtiden serveret sammen med en god historie. Lytterne inviteres med til festen og kan være påvirke musikken i radioen.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f5c4fa075f927899ffbef6.jpg"/>
     <item>
+      <title>Bedst i 2024</title>
+      <description>Feztens årskavalkade med sange og kunstnere, som gjorde 2024 sjovere.</description>
+      <duration>01:55:00</duration>
+      <pubDate>Fri, 13 Dec 2024 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/bedst-i-2024-16122464505</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3df1044e882ef27ce3c4/b0c47a834df165edb8e6c15d0592fb40d680b1fca609102b7c5ef8a0423e0068" length="165601413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Alternativ julefrokost</title>
+      <description>Der findes en anden vej. Vi samler på sange, der kan rocke din alternative julefrokost.</description>
+      <duration>01:55:00</duration>
+      <pubDate>Fri, 06 Dec 2024 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/alternativ-julefrokost-16122464495</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67450306aa7bc2beaefc423d/149d729018d312646661c9977bdb5d625b62d77208f7e485c93773b44b81f73e" length="165602017" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Festivalforventninger</title>
       <description>Festivalsæsonen er i gang. Vi skruer op for forventningens glæde og deler tips til spændende bands. Hvem ser du frem til at høre på en festival?</description>
       <duration>01:55:00</duration>
@@ -156,22 +172,6 @@
       <pubDate>Fri, 10 Jan 2025 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten/nyt-aar-gamle-vaner-16122564025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677327a081654c75b6cc9914/f5735010e46bace37463057111edeed12b6b6f5cabaa573c10011e930b3fa3ae" length="165601490" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Bedst i 2024</title>
-      <description>Feztens årskavalkade med sange og kunstnere, som gjorde 2024 sjovere.</description>
-      <duration>01:55:00</duration>
-      <pubDate>Fri, 13 Dec 2024 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/bedst-i-2024-16122464505</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674e3df1044e882ef27ce3c4/b0c47a834df165edb8e6c15d0592fb40d680b1fca609102b7c5ef8a0423e0068" length="165601413" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Alternativ julefrokost</title>
-      <description>Der findes en anden vej. Vi samler på sange, der kan rocke din alternative julefrokost.</description>
-      <duration>01:55:00</duration>
-      <pubDate>Fri, 06 Dec 2024 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/alternativ-julefrokost-16122464495</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67450306aa7bc2beaefc423d/149d729018d312646661c9977bdb5d625b62d77208f7e485c93773b44b81f73e" length="165602017" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
