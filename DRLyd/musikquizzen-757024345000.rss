@@ -7,6 +7,15 @@
 Vært: Kenneth K.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33666f0388a679954fe77.jpg"/>
     <item>
+      <title>2020 og Musik med U</title>
+      <description>Kan du huske musikken fra 2020? Eller er du måske bedre til en kategori, hvor alle svarene starter med U? Gæt med og se om du er bedre end dagens deltagere i Musikquizzen
+Vært: Kenneth K.</description>
+      <duration>00:57:45</duration>
+      <pubDate>Sun, 01 Jun 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2025/2020-og-musik-med-u-16122548124</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dc823ce6d3443e401f942/880fbe040720368c8137e86788e4d3fe1bdb06c89f2ec799bb06f0539c935d36" length="83175348" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>2001 og Hitmaskinen</title>
       <description>Musikåret 2001 er omdrejningspunkt for dagens første quiz. Og så er det comeback til en gammel klassiker af en Musikquizzen kategori: Hitmaskinen. Kan du huske den?
 Vært: Kenneth K.</description>
@@ -239,15 +248,6 @@ Vært: Kenneth K.</description>
       <pubDate>Sun, 08 Dec 2024 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/1995-og-julekalendersange-16122448144</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d8f4c014e687600127c20/c61d8b515eb4a98fa2d110cc0dbd5dc8d68f74682b03e2164b1573af5d17edc8" length="80030932" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>1978 og &quot;1-ords-julemusik-quizzen&quot;</title>
-      <description>Kan du gætte julesange ud fra bare ét ord? Det er bare en af udfordringer i Musikquizzen, hvor du også skal gætte hits fra 1978.
-Vært: Kenneth K.</description>
-      <duration>00:57:00</duration>
-      <pubDate>Sun, 01 Dec 2024 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/1978-og-1-ords-julemusik-quizzen-16122448143</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d8f53ae5ee6fc485182a0/80b24376d99c40a975390b77e7f510b5dc4232725d72427db2ff0bb3afd27f6a" length="82104520" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
