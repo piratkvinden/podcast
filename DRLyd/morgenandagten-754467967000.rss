@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Torsdag 12. jun. 2025</title>
+      <description>Præludium: Maurice Duruflé: 'Choral Veni creator'
+Fra det G.T.	Salme 118,13-18
+Salme: 302 &quot;Gud Helligånd! o kom&quot;
+Fra det N.T.: Romerbrevet 8, 18-27
+Korvers: John Frandsen: Kom, sandheds Ånd, og vidne giv (Tekst: Grundtvig)
+Salme: 588 &quot;Herre, gør mit liv til bøn&quot;
+Postludium: Johann Sebastian Bach: Komm, Gott Schöpfer, heiliger Geist</description>
+      <duration>00:25:02</duration>
+      <pubDate>Thu, 12 Jun 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-12-jun-2025-11042505244</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9659405a621fb40b627/bdaa2e9834e01c63d782f56165a87d63696f7608c39852b3266719c5d5670373" length="36059175" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 11. jun. 2025</title>
       <description>Præludium:	Andreas Armsdorff: Kom, Helligaand, Gud Herre from
 Fra det G.T.: Salme 118, 1-9
@@ -326,20 +340,6 @@ Postludium: Rued Langgaard: Postludium i c-mol</description>
       <pubDate>Wed, 14 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-14-maj-2025-11042505203</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96e9405a621fb40b69f/00a85f814ba3f495901614221fa0206cf2b00695c35ea03b08da67a95a2a37e4" length="35984304" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 13. maj. 2025</title>
-      <description>Præludium: Naji Hakim: At sige verden ret farvel
-Fra det G.T.: Salme 121
-Salme: 538, vers 1-6 &quot;At sige verden ret farvel&quot;
-Fra det N.T.: Johannesevangeliet 11,1-10
-Korvers: Knud-Erik Kengen: Verdens Frelser, pris og ære, vers 1 og 6 (tekst: N.F.S. Grundtvig)
-Salme: 538, vers 7-9
-Postludium: Johann Ludwig Krebs: Du er opstandne sejershelt</description>
-      <duration>00:24:55</duration>
-      <pubDate>Tue, 13 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-13-maj-2025-11042505202</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd962984fa2f2656930a8/02aebf79c6e14917ae5547902b731c9b2e5b5fa7badffff9486592467dd3fb02" length="35904813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
