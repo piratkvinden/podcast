@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 18. jun. 2025</title>
+      <description>Præludium:	Trygve Torjussen: Folk-Song
+Fra det G.T.:	Salme 8
+Salme: 142, vers 1-6 &quot;Kom følg i ånden med&quot;
+Fra det N.T.:	Matthæusevangeliet. 3, 13-17    
+Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
+Salme: 142, vers 7-9
+Postludium: Joseph Gabriel Rheinberger: Monolog e-dur</description>
+      <duration>00:24:59</duration>
+      <pubDate>Wed, 18 Jun 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-18-jun-2025-11042505253</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970036df1a93c66e136/a45f006e159622194b4c58b33b83831b0f23b9ac229b7636850021e627969070" length="36000424" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 17. jun. 2025</title>
       <description>Præludium:	Georg Philipp Telemann: Grave
 Fra det G.T.:	Salme 3, 2-5
@@ -326,20 +340,6 @@ Postludium: Oskar Merikanto: Bøn</description>
       <pubDate>Tue, 20 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-20-maj-2025-11042505212</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9639405a621fb40b5e9/de67a60709af6c2ccf2682923b1e52d8dec74a46576eb7dfe0b1812651a5440e" length="36049970" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 19. maj. 2025</title>
-      <description>Præludium: Heinrich Scheidemann: Præludium d-mol
-Ord til dagen: af Martin Luther
-Salme: 303 &quot;Kom, Gud Faders Ånd fuldgod&quot;
-Fra det N.T.: Johannesevangeliet 14, 1-7
-Korvers: Søren Birch: Jeg er vejen og sandheden og livet (Tekst: Joh. 14, 6)
-Salme: 7 &quot;Herre Gud! Dit dyre navn og ære&quot;
-Postludium: Tomaso Albinoni/J.G. Walther: 3. sats: Allegro fra Concerto F-dur</description>
-      <duration>00:24:58</duration>
-      <pubDate>Mon, 19 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-19-maj-2025-11042505211</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd963aa49e222d584d5b3/083ae56aa2bc6fb80db2aa587cf014a8c7c3109670cb9ccd5ba9a6dca087f402" length="35966446" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
