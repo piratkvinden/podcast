@@ -7,17 +7,6 @@
 &quot;Det vi hører&quot; er den ultimative klassiske playliste skabt af nogle af Danmarks mest alsidige musikkendere.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66ffec43fd6dd215a9a9dc2d.jpg"/>
     <item>
-      <title>Hyp alle mine kæpheste</title>
-      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg lytter til efter fyraften og når jeg har fri.
-En blanding af uopslidelige klassikere og smalle særinteresser, bl.a. musik fra Estland og gamle plader med døde pianister.
-Lyt med, når alle mine kæpheste bliver trukket frem af stalden!
-Vært: Jens Cornelius.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 15 Jun 2025 16:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/hyp-alle-mine-kaepheste-12422481861</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664531742b1ff942b66a8062/b77975707f0598d4cae7ab1a59070ca753c9cda3b31b91cf7d4fbff1bda36b7c" length="168481606" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Summer af sol og sommer</title>
       <description>Med et trylleslag ankom sommeren, og i dag deler jeg al den musik med dig, som for mig summer om kap med bier, myg og fadølsanlæg i lader på små klassiske musikfestivaler. Pavel Haas kvartetten spiller Dvorak i en sommervarm sal, og de bedste sommersange blander sig ind i playlisten. 
 Vært: Cæcilie Iburg Printzlau.</description>
@@ -70,6 +59,17 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <pubDate>Sun, 04 May 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/bona-gratia-12422481841</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6604a6fe9f7ad6605823c0b7/7f5ebf937ce62d36439af0b78d48806d89572eec2bc096530d9c3707330558dd" length="168481608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hyp alle mine kæpheste</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg lytter til efter fyraften og når jeg har fri.
+En blanding af uopslidelige klassikere og smalle særinteresser, bl.a. musik fra Estland og gamle plader med døde pianister.
+Lyt med, når alle mine kæpheste bliver trukket frem af stalden!
+Vært: Jens Cornelius.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 15 Jun 2025 16:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/hyp-alle-mine-kaepheste-12422481861</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664531742b1ff942b66a8062/b77975707f0598d4cae7ab1a59070ca753c9cda3b31b91cf7d4fbff1bda36b7c" length="168481606" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
