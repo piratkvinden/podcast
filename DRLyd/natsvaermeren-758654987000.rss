@@ -6,6 +6,26 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
     <item>
+      <title>Der er noget i luften</title>
+      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
+Vært: Tina Rømer.
+(Sendt første gang 14. juni 2023).</description>
+      <duration>02:00:00</duration>
+      <pubDate>Fri, 20 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/der-er-noget-i-luften-12422363242</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647a6997532696b851681d94/5fbc855b6229be5322c69e58d57296afe48b8b5103081d7068a98eee245be3e1" length="172801528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Midsommer</title>
+      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
+Vært: Katrine Ring.
+(Sendt første gang 5. juni 2023).</description>
+      <duration>01:57:00</duration>
+      <pubDate>Wed, 18 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/midsommer-12422363227</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646e8c0e295e8f20d1b6b634/c2e12f128a4fb11f24aa0513a34d52b2463df5a20f9370cf7e4209966029c653" length="168482056" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Dynamisk ambiens</title>
       <description>Aftenens udgave af Natsværmeren starter med nye ambiente toner af lydguruen Brian Eno og fortsætter frem og tilbage i tid mellem nyt og gammelt og mellem subtil elektronik og dynamiske klassiske klange. Peter Albrechtsen er vært.</description>
       <duration>01:57:01</duration>
@@ -252,26 +272,6 @@ Vært: Katrine Ring.</description>
       <pubDate>Sat, 31 May 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/orkestret-i-natten-12422463226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a9490281c929ed0e440/71b52f0c154d3996a8abb0bc88a12668b79483b889179adeac9c28ec553a219e" length="168481607" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Der er noget i luften</title>
-      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
-Vært: Tina Rømer.
-(Sendt første gang 14. juni 2023).</description>
-      <duration>02:00:00</duration>
-      <pubDate>Fri, 20 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/der-er-noget-i-luften-12422363242</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647a6997532696b851681d94/5fbc855b6229be5322c69e58d57296afe48b8b5103081d7068a98eee245be3e1" length="172801528" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Midsommer</title>
-      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
-Vært: Katrine Ring.
-(Sendt første gang 5. juni 2023).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Wed, 18 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/midsommer-12422363227</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646e8c0e295e8f20d1b6b634/c2e12f128a4fb11f24aa0513a34d52b2463df5a20f9370cf7e4209966029c653" length="168482056" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
