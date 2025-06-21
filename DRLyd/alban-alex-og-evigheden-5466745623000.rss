@@ -7,6 +7,18 @@
 Produceret for DR af MonoMono.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f5bf4afd6dd215a981283c.jpg"/>
     <item>
+      <title>Helte og skurke</title>
+      <description>Alban og Alex fortæller om de helte og skurke fra ballettens og den klassiske musiks verden, som har gjort særligt indtryk på dem. De taler om, hvorfor det især er skurkene, der er de mest interssante. 
+
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander. McKenzie, pianist og komponist.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <duration>01:52:59</duration>
+      <pubDate>Sat, 28 Dec 2024 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/helte-og-skurke-16122423526</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203ee22268ec65a9d4fbf/aa413d0f8e417afe252f1fb4ad071493fc6f3a52ed1341b1679ce9fb35114aae" length="162717575" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>August Bournonville - balletens mester</title>
       <description>August Bournonvilles indflydelse på dansk ballet kan ikke overvurderes. Han var balletdanser, koreograf og balletmester. I dag dykker Alban og Alex ned i hans historie, dansen og musikken. 
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
@@ -288,18 +300,6 @@ Produceret for DR af MonoMono.</description>
       <pubDate>Sat, 04 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/moderskab-med-sofie-elkjaer-jensen-16122523016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3ded0b5d818cc1c812bc/159e64441c22279873557f77f7c37f046774b19ac10633cfc77ce9cebf24b4e7" length="162703179" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Helte og skurke</title>
-      <description>Alban og Alex fortæller om de helte og skurke fra ballettens og den klassiske musiks verden, som har gjort særligt indtryk på dem. De taler om, hvorfor det især er skurkene, der er de mest interssante. 
-
-Værter: Alban Lendorff, balletdanser og skuespiller, Alexander. McKenzie, pianist og komponist.
-Producer og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
-      <pubDate>Sat, 28 Dec 2024 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/helte-og-skurke-16122423526</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676203ee22268ec65a9d4fbf/aa413d0f8e417afe252f1fb4ad071493fc6f3a52ed1341b1679ce9fb35114aae" length="162717575" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
