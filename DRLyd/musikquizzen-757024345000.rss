@@ -7,6 +7,15 @@
 Vært: Kenneth K.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33666f0388a679954fe77.jpg"/>
     <item>
+      <title>Søndag 22. Jun. 2025</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <duration>00:57:39</duration>
+      <pubDate>Sun, 22 Jun 2025 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2025/soendag-22-jun-2025-16122548128</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dc82881654c75b6b32575/2dde5a2478a26a3ae0b54ce4de1707f7f2ab6a04854ea68c47a6ac04e6e1c656" length="83023135" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>2012 og fornavne-quizzen</title>
       <description>Hvis jeg giver dig en dansk sanger, kan du så give mig en international stjerne med samme fornavn? Altså, jeg siger Peter Sommer, og så siger du: Peter Gabriel. Dét er navnequizzen i dagens udgave af Musikquizzen podcasten.
 Vært: Kenneth K.</description>
@@ -239,15 +248,6 @@ Vært: Kenneth K.</description>
       <pubDate>Fri, 27 Dec 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzens-nytaarsquiz-16122448148</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d8f50014e687600127c37/7766622320b3608c875d6a86f1cbd9f233a9ae2c5eadca627cfab5b0f3bf7cc3" length="49765615" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>1983 og Julen på 1 sekund</title>
-      <description>Kan du gætte julesange på 1 sekund? Har du hørt de her sange nok til at du ud fra ét enkelt sekund kan identificere kunstner og sangtitel?
-Vært: Kenneth K.</description>
-      <duration>00:58:01</duration>
-      <pubDate>Sun, 22 Dec 2024 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/1983-og-julen-paa-1-sekund-16122448146</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d8f49ae5ee6fc48518269/a690125eedd9bc66339d374b0af3370ace7a8d2732e4cf86c9e216640f4c37f3" length="83547990" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
