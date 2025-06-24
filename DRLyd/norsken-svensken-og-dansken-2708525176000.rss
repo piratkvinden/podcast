@@ -6,6 +6,14 @@
     <description>Ugentlig, pan-skandinavisk familieterapi med forfatter og journalist Åsa Linderborg (S), radiovært og forfatter Hassan Preisler (DK) og programleder/samtaleterapeut Hilde Sandvik (N).</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3362ab75d19480fa71e53.jpg"/>
     <item>
+      <title>Et truet demokrati</title>
+      <description>Mette Frederiksens med dystre spådomme, kulturlivets mægtigste er kåret, og er det liberale demokrati sin egen største trussel?</description>
+      <duration>00:57:00</duration>
+      <pubDate>Sat, 28 Dec 2024 07:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/et-truet-demokrati-16122414527</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355d822268ec65aa379cf/4a23767990e8cd4f902ecb4aeb9374528e3c0f35d8c133a23b343bcbd85b761b" length="82081481" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Socialdemokratisk fascisme?</title>
       <description>Mette Frederiksen har skruet op for indvandringsretorikken, de kongelige slår territoriale sværdslag i Nordatlanten, og kulturtips til sommerferien.</description>
       <duration>00:57:00</duration>
@@ -196,14 +204,6 @@
       <pubDate>Sat, 11 Jan 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/farvel-groenland-16122514027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cac15e5e1a6ed3e2c862/531b984cc9d3551851596937641ecc451e96e709769c563721f07043cf51c7e9" length="80725590" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Et truet demokrati</title>
-      <description>Mette Frederiksens med dystre spådomme, kulturlivets mægtigste er kåret, og er det liberale demokrati sin egen største trussel?</description>
-      <duration>00:57:00</duration>
-      <pubDate>Sat, 28 Dec 2024 07:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/et-truet-demokrati-16122414527</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355d822268ec65aa379cf/4a23767990e8cd4f902ecb4aeb9374528e3c0f35d8c133a23b343bcbd85b761b" length="82081481" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
