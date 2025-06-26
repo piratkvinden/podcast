@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
     <item>
+      <title>Onsdag 25. jun. 2025</title>
+      <description>Præludium:	Dietrich Buxtehude: Præludium i e-mol
+Fra det G.T.:	Salme 33, 1-12
+Salme: 376 vers 1-3 &quot;Lyksaligt det folk, som har øre for klang&quot;
+Fra det N.T.:	Matthæusevangeliet 5, 1-7
+Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
+Salme: 376, vers 4-6
+Postludium: Dietrich Buxtehude: Fuga i e-mol</description>
+      <duration>00:25:00</duration>
+      <pubDate>Wed, 25 Jun 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-25-jun-2025-11042505263</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd98d9405a621fb40b77e/0c3b407b7e7e43d17e05a187a83a891ec8f1a9f9eed4ac03499408ab576ff570" length="36015406" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 24. jun. 2025</title>
       <description>Præludium:	Johann Gottfried Walther: Aleneste Gud i Himmerig
 Fra det G.T.:	Salme 113
@@ -326,20 +340,6 @@ Postludium: Dietrich Buxtehude: Komm, Helligånd, Gud, Herre from, BuxWV 199</de
       <pubDate>Tue, 27 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-27-maj-2025-11042505222</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96faa49e222d584d65c/66d03f0abfab5e13a5791884c4ea8fad89a69cb2eeda1afd2d573d7930c3735b" length="36062635" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 26. maj. 2025</title>
-      <description>Præludium:	Johann Kaspar Ferdinand Fischer: Krist stod op af døde
-Ord til dagen: af Augustin
-Salme: 58 &quot;Jesus! Frelser og befrier&quot;
-Fra det N.T.:	Johannesevangeliet 15, 1-8
-Korvers: Bendt Fabricius: Jeg er det sande vintræ (Tekst: Johannes 15, 1,5)
-Salme: 368 &quot;Vintræ og grene og frugt hører sammen&quot;
-Postludium: Matthias Weckmann: Canzon i d</description>
-      <duration>00:25:02</duration>
-      <pubDate>Mon, 26 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-26-maj-2025-11042505221</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96f984fa2f265693163/f7eee590db693adce845b02c5c8d97615f75803eee0e5363de147705b40f6b8e" length="36053422" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

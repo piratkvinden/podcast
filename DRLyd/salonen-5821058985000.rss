@@ -8,6 +8,16 @@ Vært: Josephine Philip.
 Redaktør: Kasper Overby.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f666b4075f927899024731.jpg"/>
     <item>
+      <title>Onsdag 25. jun. 2025</title>
+      <description>Josephine Philip slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
+Vært: Josephine Philip.
+Redaktør: Kasper Overby.</description>
+      <duration>01:55:00</duration>
+      <pubDate>Wed, 25 Jun 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/onsdag-25-jun-2025-18452551263</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684df37524124c1efc8beadd/8a709a8454e47005652ec648223df3ef5f0c8ec376c223b9b02a31b7d9f1fda1" length="165601568" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 24. jun. 2025</title>
       <description>Josephine Philip slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
 Vært: Josephine Philip.
@@ -146,16 +156,6 @@ Redaktør: Kasper Overby.</description>
       <pubDate>Wed, 28 May 2025 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/onsdag-28-maj-2025-18452551223</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682908d37b626ea9bb1b481e/858483456708652b850e67f1fbed6436770212746556c254f1b144acd5c8f09f" length="165602144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 27. maj. 2025</title>
-      <description>Josephine Philip slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
-Vært: Josephine Philip.
-Redaktør: Kasper Overby.</description>
-      <duration>01:55:00</duration>
-      <pubDate>Tue, 27 May 2025 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/tirsdag-27-maj-2025-18452551222</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6827b7bf1f1aded0221deb35/51e7ecbd5e7d0f29b1b8283353ea00fc46bdd5968efac5bb9afd22d74570c57a" length="165601568" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
