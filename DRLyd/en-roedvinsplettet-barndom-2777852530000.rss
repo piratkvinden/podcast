@@ -10,7 +10,7 @@ Hvorfor og hvordan de nu voksne børn kommer videre, er udgangspunktet for podca
 Tilrettelægger og fortæller: Mette Willumsen. 
 Medvirkende: Katrine Quorning. 
 I redaktionen: Cathrine Villaume og Rikke Stokholm.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67001b78075f927899290eac.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2bf7a7df60359620926"/>
     <item>
       <title>1:4 - Hemmeligheden</title>
       <description>Katrine er vokset op i en kernefamilie med mor, far og tre børn. På overfladen fin og intakt, men familien bærer på en hemmelighed. Katrines mor drikker i perioder mere, end Katrine synes er godt.
@@ -19,7 +19,7 @@ Medvirkende: Katrine Quorning og psykolog Helle Lindgaard.
 Tilrettelæggelse: Mette Willumsen. 
 I redaktionen: Cathrine Villaume og Rikke Stokholm.
 (Sendt første gang 1. juli 2020).</description>
-      <duration>00:27:05</duration>
+      <itunes:duration>00:27:05</itunes:duration>
       <pubDate>Tue, 23 Jun 2020 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/en-roedvinsplettet-barndom/en-roedvinsplettet-barndom-1/1-4-hemmeligheden-11532012001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26161330eac2f135b7007/325932b2c73e9f879382e51f3c980fbab101a029161dbbd499d426eefe189bf7" length="39010797" type="audio/mpeg"/>
@@ -31,7 +31,7 @@ Medvirkende: Katrine Quorning, Anne Sofie Quorning og psykolog Helle Lindgaard.
 Tilrettelæggelse: Mette Willumsen. 
 I redaktionen: Cathrine Villaume og Rikke Stokholm.
 (Sendt første gang 8. juli 2020).</description>
-      <duration>00:27:06</duration>
+      <itunes:duration>00:27:06</itunes:duration>
       <pubDate>Tue, 23 Jun 2020 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/en-roedvinsplettet-barndom/en-roedvinsplettet-barndom-1/2-4-alkoholkys-11532012002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26162330eac2f135b700e/1dbd9ba0e4c694756dd592368a3635ddca17deb8aa8df5beda58c3e04dc37249" length="39046509" type="audio/mpeg"/>
@@ -44,7 +44,7 @@ Medvirkende: Katrine Quorning, Mads Lykke, psykoterapeut Judy larsen og psykolog
 Tilrettelæggelse: Mette Willumsen. 
 I redaktionen: Cathrine Villaume og Rikke Stokholm.
 (Sendt første gang 15. juli 2020).</description>
-      <duration>00:27:07</duration>
+      <itunes:duration>00:27:07</itunes:duration>
       <pubDate>Tue, 23 Jun 2020 06:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/en-roedvinsplettet-barndom/en-roedvinsplettet-barndom-1/3-4-pleaser-11532012003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26163330eac2f135b7013/b5fa093b7a45fc953d5f76131ab31d5e1ba853950989bf9547eebb69245c34ef" length="39059757" type="audio/mpeg"/>
@@ -57,7 +57,7 @@ Medvirkende: Katrine Quorning, Jakob Quorning, Mads Lykke og psykolog Helle Lind
 Tilrettelæggelse: Mette Willumsen. 
 I redaktionen: Cathrine Villaume og Rikke Stokholm.
 (Sendt første gang 23. juli 2020).</description>
-      <duration>00:27:07</duration>
+      <itunes:duration>00:27:07</itunes:duration>
       <pubDate>Tue, 23 Jun 2020 06:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/en-roedvinsplettet-barndom/en-roedvinsplettet-barndom-1/4-4-ansvaret-11532012004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26164330eac2f135b7019/94073231b36bb25686f510e29b1123fb462c7ff8c1c966149822536f39f88fba" length="39056877" type="audio/mpeg"/>

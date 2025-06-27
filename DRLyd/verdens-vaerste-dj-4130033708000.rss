@@ -4,7 +4,7 @@
     <title>Verdens værste DJ</title>
     <link>https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj-4130033708000</link>
     <description>Får spørgsmål som &quot;Sætter du ikke lige en sang på?&quot; og &quot;Hvilken musik hører du?&quot; det til at løbe dig koldt ned ad ryggen? Så er du ikke alene. Hver gang Sofie bliver bedt om at sætte musik på til en privatfest, stivner hun. Hun føler sig blottet og frygten for, at den musik hun sætter på kan blive modtaget med hånende kommentarer og rullende øjne, stiger. Men nu skal det være slut! For med hjælp fra en række af landets største DJs, vil hun forsøge at komme sin musikskam til livs. Hun vil ikke længere være Verdens Værste DJ.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023cee075f927899318fe4.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2e445195cb5169dea51"/>
     <item>
       <title>1:5 - Min store musikskam med DJ Kato og Rosa Lux</title>
       <description>Løber det koldt ned ad ryggen på dig, når du hører spørgsmål som &quot;Sætter du ikke lige en sang på?&quot; eller &quot;Hvilken musik lytter du til?&quot;. Så er du ikke alene - for det er præcis den skam, Sofie Diemer føler. I dette afsnit vil de to DJ's Kato og Rosa Lux kurere Sofie for hendes musikskam, så hun måske en dag kan optræde bag en dj-pult.
@@ -12,7 +12,7 @@ Vært og tilrettelægger: Sofie Diemer
 Lyddesign: Frederik Ludwigs
 Redaktion: Valdemar Meersohn Stauning
 Redaktør: Kasper Christensen</description>
-      <duration>00:29:01</duration>
+      <itunes:duration>00:29:01</itunes:duration>
       <pubDate>Fri, 15 Sep 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj/verdens-vaerste-dj-1/1-5-min-store-musikskam-med-dj-kato-og-rosa-lux-15452384101</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f725a87035c50be96ea669/7e5f6062ca92380e13d8fabcdf9d584592b92469570b494b212ea01876a30347" length="41800987" type="audio/mpeg"/>
@@ -24,7 +24,7 @@ Vært og tilrettelægger: Sofie Diemer
 Lyddesign: Frederik Ludwigs
 Redaktion: Valdemar Meersohn Stauning
 Redaktør: Kasper Christensen</description>
-      <duration>00:37:51</duration>
+      <itunes:duration>00:37:51</itunes:duration>
       <pubDate>Fri, 15 Sep 2023 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj/verdens-vaerste-dj-1/2-5-den-gode-musiksmag-med-dj-jonas-visti-15452384102</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f725a87035c50be96ea66d/ad0afcfc45c8962cf32f0f59aa8751af5977727bc4661a7a3df2b871d9b5ec5f" length="54509275" type="audio/mpeg"/>
@@ -36,7 +36,7 @@ Vært og tilrettelægger: Sofie Diemer
 Lyddesign: Frederik Ludwigs
 Redaktion: Valdemar Meersohn Stauning
 Redaktør: Kasper Christensen</description>
-      <duration>00:36:07</duration>
+      <itunes:duration>00:36:07</itunes:duration>
       <pubDate>Fri, 15 Sep 2023 05:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj/verdens-vaerste-dj-1/3-5-dj-ens-magiske-kraft-med-dj-fedty-og-joergen-de-mylius-15452384103</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f725a97035c50be96ea675/6a34c1e053faad24f159582463b2a65229dd38ec261094878136e25da0b47419" length="52018075" type="audio/mpeg"/>
@@ -48,7 +48,7 @@ Vært og tilrettelægger: Sofie Diemer
 Lyddesign: Frederik Ludwigs
 Redaktion: Valdemar Meersohn Stauning
 Redaktør: Kasper Christensen</description>
-      <duration>00:33:56</duration>
+      <itunes:duration>00:33:56</itunes:duration>
       <pubDate>Fri, 15 Sep 2023 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj/verdens-vaerste-dj-1/4-5-den-store-stygge-dj-pult-med-pelle-peter-jencel-15452384104</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f725a97035c50be96ea67a/24a9f3f9a839c1def95778c76526e34152bd14a6fe150b1807029aa604851df9" length="48883483" type="audio/mpeg"/>
@@ -60,7 +60,7 @@ Vært og tilrettelægger: Sofie Diemer
 Lyddesign: Frederik Ludwigs
 Redaktion: Valdemar Meersohn Stauning
 Redaktør: Kasper Christensen</description>
-      <duration>00:27:18</duration>
+      <itunes:duration>00:27:18</itunes:duration>
       <pubDate>Fri, 15 Sep 2023 05:04:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdens-vaerste-dj/verdens-vaerste-dj-1/5-5-store-katastrofer-og-de-indre-sejre-15452384105</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f725a97035c50be96ea67e/482c843e4d9a361ebcecc2266a3cb5025bee5fc57e773128140d923b5cfcd6be" length="39323611" type="audio/mpeg"/>

@@ -5,7 +5,7 @@
     <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden-5466745623000</link>
     <description>Hver uge mødes Alban Lendorf og Alexander McKenzie for at spille musik for hinanden og glemme verdens og hverdagens kaos, bare i to timer. Studiet er deres boble, hvor kun kunsten og evigheden gælder, og du er inviteret med.
 Produceret for DR af MonoMono.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f5bf4afd6dd215a981283c.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7fd9d8e43b46d2840bd19"/>
     <item>
       <title>Mesterpianisten og mørket - Vladimir Horowitz</title>
       <description>Alban og Alex fortæller den vilde historie om en af Alex' store helte, Vladimir Horowitz. Allerede som 6 årig bliver Horowitz set som et geni, der ved tangenterne &quot;leger med mørket, som en kat der leger med sit bytte&quot;. Men det er også et mørke, der senere tvinger den verdensberømte pianist af scenen i 12 år, før Horowitz endelig vender tilbage på podiet med en endnu dybere inderlighed, der tager verden med storm. 
@@ -15,7 +15,7 @@ Produceret for DR af MonoMono.
 Producer: Anne Pilegaard Petersen
 Redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:53:17</duration>
+      <itunes:duration>01:53:17</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/mesterpianisten-og-moerket-vladimir-horowitz-16122523256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6848ad92715313ce9ecc0122/45cc6d03f57030b40b3cdf4526250dd7e3ca4d68cdac04c64fc0d489ee63de03" length="163148416" type="audio/mpeg"/>
@@ -26,7 +26,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen .
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:58</duration>
+      <itunes:duration>01:52:58</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/august-bournonville-balletens-mester-16122523246</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683f72df6108806e0a6cb392/9ddacbe77fa2f2ea67e516dde7fbf4125fe3d7654693d1450a6c270059c7d902" length="162674368" type="audio/mpeg"/>
@@ -39,7 +39,7 @@ Gæst:  Henrik Engelbrecht, forfatter og operaekspert.
 Producer: Anne Pilegaard Petersen
 Redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:58</duration>
+      <itunes:duration>01:52:58</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/musik-i-krigens-skygge-med-henrik-engelbrecht-16122523236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836374d1f5c88e55ea58eaa/e7acc26f4aabd6e8473be43a023f1f2a3569beb5c47ece9dabfd99635729f9d5" length="162690496" type="audio/mpeg"/>
@@ -50,7 +50,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:57</duration>
+      <itunes:duration>01:52:57</itunes:duration>
       <pubDate>Sat, 31 May 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-rachmaninoff-16122523226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682cfcc6f65c9b85107a1a84/2c8feed52f882ba6a7c737d291df5213cf4cb65c153325af57cd862a288acf0d" length="162665160" type="audio/mpeg"/>
@@ -62,7 +62,7 @@ Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist
 Producer: Anne Pilegaard Petersen
 Redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:58</duration>
+      <itunes:duration>01:52:58</itunes:duration>
       <pubDate>Sat, 24 May 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/det-taette-samarbejde-og-kammermusikkens-mestervaerker-16122523216</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6823c26f7b626ea9bbf6e226/14b5db43a68a02f01f8bc018e0094aac1e8a692e462060bb9311ccfa8b291c1a" length="162687054" type="audio/mpeg"/>
@@ -75,7 +75,7 @@ Gæst: Jakob Lorentzen, Organist og kantor ved Holmens Kirke og Christiansborg S
 Producer: Anne Pilegaard Petersen
 Redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:58</duration>
+      <itunes:duration>01:52:58</itunes:duration>
       <pubDate>Sat, 17 May 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/orglet-og-musikkens-flygtige-oejeblik-16122523206</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a879f0a276b83ffffe69c/e02467f34b66c9b552bb1239ff8a231edf4e19f576f82e1d5554614bf6a5f336" length="162678976" type="audio/mpeg"/>
@@ -87,7 +87,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen. 
 Produceret for DR af MonoMono.</description>
-      <duration>01:53:00</duration>
+      <itunes:duration>01:53:00</itunes:duration>
       <pubDate>Sat, 10 May 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/mesterdanseren-erik-bruhn-16122523196</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68114cedb564004141c56c84/7bbacb3f2677cef5f91eace3963fde0534ad5cd888639cdf9af05919150a7bce" length="162733703" type="audio/mpeg"/>
@@ -99,7 +99,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen. 
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:57</duration>
+      <itunes:duration>01:52:57</itunes:duration>
       <pubDate>Sat, 03 May 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-chopin-og-liszt-16122523186</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680812a3b21aafec6d699f3c/18b9c473939734f5d432886904ec0c308e2b9bbecfc0ab20f0b0169f017e86f7" length="162650176" type="audio/mpeg"/>
@@ -113,7 +113,7 @@ Gæst: Sebastian Kloborg, balletdanser, koreograf og teaterinstruktør.
 Producer: Tobias Ingemann.
 Redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:57</duration>
+      <itunes:duration>01:52:57</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/musikkens-portaler-med-sebastian-kloborg-16122523176</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fed830a10e2a02353c3d44/a70371ba9eac5975c70707298af0d8bfa167fc36887978bf330a3ef9081dd1dc" length="162662284" type="audio/mpeg"/>
@@ -124,7 +124,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:57</duration>
+      <itunes:duration>01:52:57</itunes:duration>
       <pubDate>Sat, 19 Apr 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/minimalismen-og-dens-roedder-16122523166</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f59d926463504e90eaa452/c273a1fbdbdb7bf00136ef5ecf7bb230d747bf1e33057200987eb0f84863cfe0" length="162657094" type="audio/mpeg"/>
@@ -135,7 +135,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist
 Producer og redaktør: Rune Sparre Geertsen 
 Produceret for DR af MonoMono</description>
-      <duration>01:52:49</duration>
+      <itunes:duration>01:52:49</itunes:duration>
       <pubDate>Sat, 12 Apr 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-clara-schumann-16122523156</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ec6c9eb71197bdbe18e0e4/07c14391d6c2ee6bcf09e68fb13f371ef40f0b8f8dd802776742dc58ea6c01ef" length="162479690" type="audio/mpeg"/>
@@ -147,7 +147,7 @@ Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist
 Gæst: Andrea Pellegrini, mezzosopran og operasolist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
+      <itunes:duration>01:52:59</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/musikken-som-rum-med-andrea-pellegrini-16122523146</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e3377bf314ac5570bd8c6a/1306243acd5c3a033cc8d6b19b37ceccc15fa35f306a2e9f128b1ed330c6e09c" length="162718144" type="audio/mpeg"/>
@@ -158,7 +158,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
+      <itunes:duration>01:52:59</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/kultkoreografen-george-balanchine-16122523136</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d9fdbaea334c10b3dcfa6d/ba8fe11a310ce17819c5f46abdb04200c8446897fdb7fef1b72a1e21934b412e" length="162712968" type="audio/mpeg"/>
@@ -170,7 +170,7 @@ Værter: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, piani
 Gæst: Henrik Goldschmidt, oboist og leder af Goldschmidts Musikakademi. 
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
+      <itunes:duration>01:52:59</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/musik-der-forsoner-i-en-verden-af-splittelse-med-henrik-goldschmidt-16122523126</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c3595a443496f5048c68/b8a95679c9c3b6a4c69c58dcc48f41125a357e84986e8b8344f864edf2c4028d" length="162700288" type="audio/mpeg"/>
@@ -181,7 +181,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:58</duration>
+      <itunes:duration>01:52:58</itunes:duration>
       <pubDate>Sat, 15 Mar 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/vaslav-nijinskys-dans-paa-vanviddets-rand-16122523116</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c787a0d42d59035e8cfde8/d5f3a98456ca310d5e7f3291976731927327fb376402844dda58fb863ab095e9" length="162690504" type="audio/mpeg"/>
@@ -192,7 +192,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist
 Producer og redaktør: Rune Sparre Geertsen 
 Produceret for DR af MonoMono.</description>
-      <duration>01:53:00</duration>
+      <itunes:duration>01:53:00</itunes:duration>
       <pubDate>Sat, 08 Mar 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-mozart-16122523106</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67be4d46f0479bde33a2efbe/0ed006b52cbba4ebebaaa92f843f5d3f6f2757c12184084e7525f0b821f9ab62" length="162725038" type="audio/mpeg"/>
@@ -203,7 +203,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:48</duration>
+      <itunes:duration>01:52:48</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/mesterdanseren-rudolf-nurejev-16122523096</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b512531c492b0104967006/28b86e82245656dbadaa06b48272bf2c809ff9d6ad59d1a3de637df153833925" length="162450888" type="audio/mpeg"/>
@@ -214,7 +214,7 @@ Produceret for DR af MonoMono.</description>
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:30</duration>
+      <itunes:duration>01:52:30</itunes:duration>
       <pubDate>Sat, 22 Feb 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-manon-16122523086</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd77bd07024c604eeea94/7dc94de3327680cddfd995624d0efd124ec331cc26bec439d37c14e45937c1b2" length="162009669" type="audio/mpeg"/>
@@ -226,7 +226,7 @@ om musikken, der er skabt i USA og inspireret af landet, og også om alle Alban 
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:57</duration>
+      <itunes:duration>01:52:57</itunes:duration>
       <pubDate>Sat, 15 Feb 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/droemmen-om-amerika-16122523076</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a29d03e74ceee0ff1f36b0/10261f71a8c62f74e28efcdb36d441cbf32183e61bae344a51718fb5a7714696" length="162662853" type="audio/mpeg"/>
@@ -238,7 +238,7 @@ Vært: Alexander McKenzie, pianist og komponist.
 Gæst: Matias Vestergård.
 Producer og redaktør: Rune Sparre Geertsen .
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:53</duration>
+      <itunes:duration>01:52:53</itunes:duration>
       <pubDate>Sat, 08 Feb 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/klanglige-aabenbaringer-med-matias-vestergaard-16122523066</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996275fa7ef5891e782b2e/0b11b8c21fe344bf5c944af675af81cc3a7ab05d3cae052bb2156e79c20ffef2" length="162565512" type="audio/mpeg"/>
@@ -250,7 +250,7 @@ Vært: Alexander McKenzie, pianist og komponist.
 Gæst: Jacob La Cour, cellist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:52</duration>
+      <itunes:duration>01:52:52</itunes:duration>
       <pubDate>Sat, 01 Feb 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/deep-dive-i-brahms-med-jacob-la-cour-16122523056</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790322f230020bdd2f0a478/1d7d119df7417df678aa9d44f3ad79b7c6f48d7cf1afb5cc1831f624af17c4f8" length="162548224" type="audio/mpeg"/>
@@ -262,7 +262,7 @@ Vært: Alexander McKenzie, pianist og komponist.
 Gæst: Josefine Opsahl, komponist og cellist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:53:01</duration>
+      <itunes:duration>01:53:01</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/transcendensen-med-josefine-opsahl-16122523046</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed44080119581401af46/b97eb1639945c50791800f3441ffa24df3bbec442ae592674485ec1a68987ed6" length="162760199" type="audio/mpeg"/>
@@ -274,7 +274,7 @@ Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianis
 Gæst: Nikolaj Møller, fotograf og dokumentarist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
+      <itunes:duration>01:52:59</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/rejsen-med-nikolaj-moeller-16122523036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677db2fac30e5be5ba4e3e40/770a3f5c0c111d0e48f3a8531f54d91f400ba3fe470cb2cdebbf36ff6d03865e" length="162707776" type="audio/mpeg"/>
@@ -286,7 +286,7 @@ Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianis
 Gæst: Sune Martin, komponist.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:52</duration>
+      <itunes:duration>01:52:52</itunes:duration>
       <pubDate>Sat, 11 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/den-ydmyge-medfortaeller-med-sune-martin-16122523026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677478d681654c75b6d2bffe/4018d4a253cd21a12ea6a93a7d458a4fc2ff919b62ad0019e5e70603c624b729" length="162537869" type="audio/mpeg"/>
@@ -298,7 +298,7 @@ Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianis
 Gæst: Sofie Elkjær Jensen, kongelig operasanger.
 Producer og redaktør: Rune Sparre Geertsen.
 Produceret for DR af MonoMono.</description>
-      <duration>01:52:59</duration>
+      <itunes:duration>01:52:59</itunes:duration>
       <pubDate>Sat, 04 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/moderskab-med-sofie-elkjaer-jensen-16122523016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3ded0b5d818cc1c812bc/159e64441c22279873557f77f7c37f046774b19ac10633cfc77ce9cebf24b4e7" length="162703179" type="audio/mpeg"/>

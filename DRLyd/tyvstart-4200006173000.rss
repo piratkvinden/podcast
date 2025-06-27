@@ -6,7 +6,7 @@
     <description>De vildeste sportshistorier, de største stjerner og forrygende selskab. I Tyvstart får vært Emil Schiønning besøg af gæster, kommentatorer og eksperter, der med stor passion og lyst til at diskutere giver dig alt det bedste fra sportens verden. 
 
 Nyt afsnit hver mandag og torsdag kl. 13.00.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66fe3782075f927899217e95.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:685dc2ae84761efefa154982"/>
     <item>
       <title>Danmarks største guldfest</title>
       <description>125 nye danske mestre skal findes over en forlænget weekend, når DM Ugen brager afsted i Aalborg. Det er på tværs af 35 sportsgrene, hvor alt fra krolf til landsvejscykling er repræsenteret. I dagens Tyvstart fortæller kommentator Henrik Liniger, hvorfor det giver mening at samle så mange sportsgrene på så få dage - og så kan du møde to forsvarende danske mestre. 
@@ -16,7 +16,7 @@ Alberte Kjær Pedersen var for et år siden en af de danske triatleter, der repr
 Vært: Emil Schiønning.
 Medvært: Mikkel Nygaard.
 Gæster: Henrik Liniger, Rasmus Søjberg Pedersen og Alberte Kjær Pedersen.</description>
-      <duration>00:36:53</duration>
+      <itunes:duration>00:36:53</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/danmarks-stoerste-guldfest-13652550050</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa7e60bfb1c9b699a50/6b150eb619128ae96b705c54c04ddc8338175ae9dbfd8add5f3659f56f1521bc" length="53117439" type="audio/mpeg"/>
@@ -29,7 +29,7 @@ Om mindre end to uger begynder fodboldkvindernes EM-slutrunde i Schweiz. Den dan
 Vært: Emil Schiønning.
 Medvært: Mikkel Nygaard.
 Gæster: Dennis Bjerre, Nicki Pedersen og Arnela Muminovic.</description>
-      <duration>00:41:42</duration>
+      <itunes:duration>00:41:42</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/kun-et-roevhul-kan-vinde-vm-13652550049</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f7981654c75b6c9c654/8a7fce02445f31bf057b5b8ac1f807305e8521f141c6c4bd22e61460f46d767b" length="60058810" type="audio/mpeg"/>
@@ -46,7 +46,7 @@ Hos herrerne er konkurrencen tættere. To af verdens hurtigste på flad vej, Ola
 
 Vært: Emil Schiønning  
 Gæster: Brian Nygaard og Julie Norman Leth</description>
-      <duration>00:31:52</duration>
+      <itunes:duration>00:31:52</itunes:duration>
       <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/special-verdens-bedste-sprintere-kommer-til-koebenhavn-13652550048</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f4ee60bfb1c9b6996ce/443794fe2ccb3e3663d949b1b51f705b6226b48ec32417a2e21d8f946aed26a9" length="45899007" type="audio/mpeg"/>
@@ -62,7 +62,7 @@ Danmarks mest hårdtslående brødrepar er kommet i stalden hos en af sportens h
 Vært: Emil Schiønning 
 Medvært: Morten Hausborg  
 Gæster: Brian Nygaard, Lars Krogh Jeppesen og Nikolai Terteryan</description>
-      <duration>00:43:43</duration>
+      <itunes:duration>00:43:43</itunes:duration>
       <pubDate>Mon, 16 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/vingegaards-sidste-chance-boksebroedres-gyldne-aftale-og-gidsels-moede-med-muren-13652550047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa6e60bfb1c9b699a47/2c2ebbe137353bb6f233191a9d0bb73b031f3298b4a5da5343e948a92a1fa7ea" length="62969917" type="audio/mpeg"/>
@@ -75,7 +75,7 @@ Mens vi efterhånden har vænnet os til Final4-formatet, er der weekend debut ti
 Vært: Emil Schiønning. 
 Medvært: Mikkel Nygaard.
 Gæster: Andreas Kraul, Frederik Lindved og Henrik Liniger.</description>
-      <duration>00:41:48</duration>
+      <itunes:duration>00:41:48</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/tottenham-elsker-thomas-alle-elsker-gidsel-men-hvem-elsker-klub-vm-13652550046</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6de60bfb1c9b6997a5/9a5f9a1c57f554a73997c01a0a2c46b0a763daf215294c988d95aa05e566b350" length="60215484" type="audio/mpeg"/>
@@ -91,7 +91,7 @@ I den kommende uge står Jonas Vingegaard og Tadej Pogacar over for hinanden for
 Vært: Emil Schiønning
 Medvært: Mikkel Nygaard 
 Gæster: Andreas Kraul, Arnela Muminovic og Brian Nygaard</description>
-      <duration>00:38:36</duration>
+      <itunes:duration>00:38:36</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/christian-eriksens-opvisningsshow-vingegaards-store-styrkeproeve-og-landsholdets-nye-epoke-13652550044</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f48e60bfb1c9b6996ad/78c70412aeeab9a2ae464412b1abce78d752982d032b98d4bab1f39b143eaa89" length="55599415" type="audio/mpeg"/>
@@ -104,7 +104,7 @@ Superligaen er kun akkurat spillet færdig, men der er allerede godt gang i forb
 Vært: Emil Schiønning. 
 Medvært: Mikkel Nygaard.
 Gæster: Kresten Mosbæk, Lotte Grigel og Andreas Kraul.</description>
-      <duration>00:43:02</duration>
+      <itunes:duration>00:43:02</itunes:duration>
       <pubDate>Mon, 02 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/agf-i-traenerkarrusellen-holger-runes-vaklende-krop-og-magtdemonstration-i-cl-finalen-13652550043</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa6e60bfb1c9b699a43/3af49e9885e133b19a9a6834950c14101d590f9bded3eb72c9d862910ef50bd2" length="61983230" type="audio/mpeg"/>
@@ -118,7 +118,7 @@ Der er selvfølgelig også seneste nyt fra French Open, hvor Holger Rune spilled
 Vært: Emil Schiønning.
 Medvært: Mikkel Nygaard.
 Gæster: Kresten Mosbæk, Andreas Kraul, Helena Elver og Stine Ballisager.</description>
-      <duration>00:50:48</duration>
+      <itunes:duration>00:50:48</itunes:duration>
       <pubDate>Thu, 29 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/pokalfinale-til-debat-danmark-garanteret-cl-medalje-og-runes-store-chance-13652550042</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f60e60bfb1c9b699745/6f5c1315fb23b15bba7f91db63e9e8a9524c8c84b3e9efd0776a03ba0308e1d1" length="73166840" type="audio/mpeg"/>
@@ -131,7 +131,7 @@ Der skulle også uddeles medaljer i Stockholm. Vi har hul igennem til Frederik L
 Vært: Emil Schiønning
 Medvært: Mikkel Nygaard
 Gæster: Andreas Kraul og Frederik Lindved</description>
-      <duration>00:50:25</duration>
+      <itunes:duration>00:50:25</itunes:duration>
       <pubDate>Mon, 26 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/superligaens-gulddrama-og-en-vm-weekend-til-danmarkshistorien-13652550041</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f66e60bfb1c9b69976e/2e46ec94ed0884755fc70bc812e9edd825d98c3c584a036bf694f5dd2fbff9bc" length="72619066" type="audio/mpeg"/>
@@ -145,7 +145,7 @@ Derfor er vi løbet i studiet og har hevet fat i kommentator Frederik Lindved. H
 Vært: Emil Schiønning. 
 
 Gæst: Ishockeykommentator Frederik Lindved.</description>
-      <duration>00:23:06</duration>
+      <itunes:duration>00:23:06</itunes:duration>
       <pubDate>Fri, 23 May 2025 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/miraklet-i-boxen-13652550031</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f44e60bfb1c9b699687/27cf155cfbce25c21adfb6f9c980c8cd1eb21ad51cd080aa39a41b0246e64d2b" length="33278265" type="audio/mpeg"/>
@@ -159,7 +159,7 @@ I Paris er der blevet trukket lod til tennisårets største grusturnering. Frenc
 Vært: Emil Schiønning. 
 Medvært: Mikkel Nygaard. 
 Medvirkende: Andreas Kraul og Kresten Mosbæk.</description>
-      <duration>00:39:22</duration>
+      <itunes:duration>00:39:22</itunes:duration>
       <pubDate>Thu, 22 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/fcx-vinder-superligaen-og-droemmelodtraekning-for-rune-13652550040</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f5e81654c75b6c9c5a0/35a975ca8a6fd2dbac5fe878a96e227a337439bea37b5efa1fba8a776931ec29" length="56708799" type="audio/mpeg"/>
@@ -175,7 +175,7 @@ Danmark har skæbnen i egne hænder, når de tirsdag aften tørner sammen med ty
 Vært: Emil Schiønning  
 Medvært: Kresten Mosbæk  
 Gæster: Andreas Kraul, Frederik Lindved, William Kryger Boe og Christian Faust Kjær</description>
-      <duration>00:40:07</duration>
+      <itunes:duration>00:40:07</itunes:duration>
       <pubDate>Mon, 19 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/sig-farvel-til-aab-og-lyngby-sig-goddag-til-ny-superduo-og-gaa-amok-i-herning-13652550039</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fdce60bfb1c9b699c14/0ac82e1be78ef505af234f7b99fc4f062f41a0148c7f730d66d36b8379ead7ef" length="57776125" type="audio/mpeg"/>
@@ -191,7 +191,7 @@ De mørke skyer trækker ind over Aalborg. I denne weekend kan AaB rykke ned, og
 Vært: Emil Schiønning  
 Medvært: Tina Müller  
 Gæster: Brian Nygaard, Frederik Lindved og Lasse Yde Hegne</description>
-      <duration>00:40:35</duration>
+      <itunes:duration>00:40:35</itunes:duration>
       <pubDate>Thu, 15 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/nordjyllands-ulykke-mads-pedersens-evighedskontrakt-og-norge-skal-have-kloe-13652550038</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fdbe60bfb1c9b699c10/1ad620dfbb4b3c0d262564e56d0584366d33ed394d4bd677aff604c9ab22dab1" length="58451768" type="audio/mpeg"/>
@@ -205,7 +205,7 @@ I Kvindeligaen er Fortuna Hjørring igen blevet mestre, men er det nok til at bl
 Vært: Emil Schiønning.
 Medvært: Tina Müller.
 Medvirkende: Michael Mørkøv, Andreas Kraul, Arnela Muminovic, Kresten Mosbæk og Mikkel Nygaard.</description>
-      <duration>00:40:48</duration>
+      <itunes:duration>00:40:48</itunes:duration>
       <pubDate>Mon, 12 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/moerkoev-hylder-mads-pedersen-holger-rune-paa-slingrekurs-og-pas-paa-fck-13652550037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6c81654c75b6c9c5f9/a3441dc484d5a56813056558aaf200fb4c3e336799dca09eebe4df8415f15229" length="58772610" type="audio/mpeg"/>
@@ -219,7 +219,7 @@ Og så er der VM i Herning. Normalt er det ensbetydende med håndbold, men de n�
 Vært: Emil Schiønning.
 Medvært: Kresten Mosbæk.
 Gæster: Andreas Kraul, Frederik Lindved og Brian Nygaard.</description>
-      <duration>00:41:21</duration>
+      <itunes:duration>00:41:21</itunes:duration>
       <pubDate>Thu, 08 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/mads-pedersen-ser-lyseroedt-super-soendag-i-superligaen-og-danmarks-vm-fordel-13652550036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6be60bfb1c9b699792/2bc735cd7ceb0a9e89d460b26ae02ff3b8b011edcaa68e6091de437262d5e8d7" length="59556537" type="audio/mpeg"/>
@@ -235,7 +235,7 @@ Der er nogle historier i sportens verden, der næsten er for gode til at være s
 Vært: Emil Schiønning. 
 Medvært: Kresten Mosbæk. 
 Gæster: Andreas Kraul, Elmer Møller og Mai Kragballe.</description>
-      <duration>00:41:40</duration>
+      <itunes:duration>00:41:40</itunes:duration>
       <pubDate>Mon, 05 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/fck-er-idoemt-faengsel-den-naeste-holger-rune-og-aarets-underdog-fortaelling-13652550035</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa6e60bfb1c9b699a3f/65416d3489ea40605646c4ccced69a3896466a8c2884ff904af0fb044114f37a" length="60005244" type="audio/mpeg"/>
@@ -251,7 +251,7 @@ Håndbolden har udviklet sig så hurtigt, at dommerne har svært ved at følge m
 Vært: Emil Schiønning.
 Medvært: Kresten Mosbæk.
 Gæster: Mikkel Bischoff, Andreas Kraul og Jørn Møller Nielsen.</description>
-      <duration>00:41:37</duration>
+      <itunes:duration>00:41:37</itunes:duration>
       <pubDate>Thu, 01 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/ingen-savner-messi-og-neymar-gidsel-trodser-reglerne-og-er-dansk-fodbold-daarligst-i-norden-13652550034</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f3f81654c75b6c9c4e1/7d47a3527955545bea4e1485ed9c36fd9494fc1ee88fd6a7aeb82dd06e27d0b2" length="59934972" type="audio/mpeg"/>
@@ -267,7 +267,7 @@ Vi runder programmet af med landsholds- og Team Esbjerg-spiller Line Haugsted, s
 Vært: Emil Schiønning  
 Medvært: Kresten Mosbæk  
 Gæster: Troels Bech, Mikkel Nygaard, Morten Hausborg og Line Haugsted</description>
-      <duration>00:38:47</duration>
+      <itunes:duration>00:38:47</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/troels-bechs-nye-ob-real-madrids-tabermentalitet-og-danmarks-cl-dominans-13652550033</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f5fe60bfb1c9b699739/e3611b40f565c4d433571403174110d6da009a3ee7aa55d98bae953d8938df93" length="55860352" type="audio/mpeg"/>
@@ -275,7 +275,7 @@ Gæster: Troels Bech, Mikkel Nygaard, Morten Hausborg og Line Haugsted</descript
     <item>
       <title>Superligaens nye redningsmand, verdensstjerner i forfald og sikker dansk CL-succes</title>
       <description>Det står skidt til i Superliga-klubben AaB. Holdet har præsteret horribelt, siden kvalifikationsspillet begyndte, og ligner nu alvorligt en nedrykker. Derfor har nordjyderne skiftet ud på trænerposten og hentet Kristian Wichmann ind. Men kan en tidligere divisionstræner løse problemerne i Nordens Paris?Tre danske hold har mulighed for at kvalificere sig til Champions Leagues Final4 i håndbold, men det er over et årti siden den seneste danske triumf. Håndboldkommentator Frederik Lindved skitserer de tre topklubbers chancer for at nå det forjættede land.I en årrække var Danmark epicenter for verdens bedste Counter-Strike-spillere. Astralis dominerede de største turneringer, og da de endelig fik en udfordrer, var det også et dansk hold. I dag ser virkeligheden noget anderledes ud. Er den danske sportssucces endegyldigt forbi?Vært: Emil SchiønningMedvært: Tobias HansenGæster: Andreas Kraul, Frederik Lindved og Jacob 'Pimp' Winneche.</description>
-      <duration>00:39:16</duration>
+      <itunes:duration>00:39:16</itunes:duration>
       <pubDate>Thu, 24 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/superligaens-nye-redningsmand-verdensstjerner-i-forfald-og-sikker-dansk-cl-succes-13652550032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa6e60bfb1c9b699a3b/8dda98afcd94440040b78b4abee52922bbfd5a5ad7856d8dbd5d597d7db033a9" length="56562492" type="audio/mpeg"/>
@@ -288,7 +288,7 @@ Skærtorsdag bliver en stor dag for FC Københavns storsatsende kvindeafdeling. 
 Vært: Mikkel Nygaard.
 Medvært: Kresten Mosbæk.
 Gæster: Fodboldkommentator Andreas Kraul, cykelkommentator Tobias Hansen og FCK-anfører Julie Nowak.</description>
-      <duration>00:41:33</duration>
+      <itunes:duration>00:41:33</itunes:duration>
       <pubDate>Mon, 14 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/knytnaever-og-kaos-i-parken-topkarakter-til-mads-p-og-fck-s-pokalsensation-13652550029</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fdbe60bfb1c9b699c0b/b2abded00730d08f16a3a21a22e2220f50bc674a8a457e0d57c3f62020488569" length="59856065" type="audio/mpeg"/>
@@ -304,7 +304,7 @@ Bo Henriksen er blevet kåret til Årets Træner i Danmark efter et år i Mainz,
 Vært: Mikkel Nygaard.
 Medvært: Tobias Hansen.
 Gæster: Håndboldtræner Helle Thomsen, fodboldkommentator Andreas Kraul og cykelrytter Kasper Asgreen.</description>
-      <duration>00:39:27</duration>
+      <itunes:duration>00:39:27</itunes:duration>
       <pubDate>Thu, 10 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/dansk-landstraener-breaking-bo-som-mirakelmager-i-mainz-og-asgreens-lyncomeback-13652550028</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa681654c75b6c9c797/9e1e5467861d94942c7e1c437339a2c5fd3c04107387249603189b8c044d52e5" length="56830333" type="audio/mpeg"/>
@@ -317,7 +317,7 @@ Og så skal de største vindere og tabere kåres efter en hæsblæsende sportswe
 Vært: Mikkel Nygaard.
 Medvært: Kresten Mosbæk.
 Gæster: Fodboldspiller Villads Nielsen og Bakken Bears-sportsdirektør Michael Piloz.</description>
-      <duration>00:35:59</duration>
+      <itunes:duration>00:35:59</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/fodboldmirakel-i-bodoe-glimt-mareridt-hos-dansk-gigant-og-hvad-saa-nu-wozzy-13652550027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa5e60bfb1c9b699a33/9918ef027a30f4524c7f1bbf48870160e7254bf3881d4751a2582a4e927272cd" length="51841021" type="audio/mpeg"/>
@@ -330,7 +330,7 @@ Danmarks fodboldkvinder møder fredag Wales i Nations League, og det kan for fø
 Vært: Emil Schiønning.
 Medvært: Tobias Hansen. 
 Gæster: Kommentator Mathias Jacobsen, Formel 1-ekspert Peter Nygaard og landsholdsspiller Olivia Holdt.</description>
-      <duration>00:39:47</duration>
+      <itunes:duration>00:39:47</itunes:duration>
       <pubDate>Thu, 03 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/tysklands-nye-fodbolddarling-tottenhams-nye-maalmaskine-og-red-bulls-nye-slagtefaar-13652550026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fa5e60bfb1c9b699a2f/4be8bf04ea8620fb8841e5df9f2ee758312bec84232f56421ec32b611c76e037" length="57300344" type="audio/mpeg"/>
@@ -346,7 +346,7 @@ Superligaens nedrykningsspil er et drama uden lige. Fire klubber er i alvorlig f
 Vært: Emil Schiønning. 
 Medvært: Tobias Hansen. 
 Gæster: Håndboldreporter Emil Halkier og fodboldkommentator Andreas Kraul.</description>
-      <duration>00:40:29</duration>
+      <itunes:duration>00:40:29</itunes:duration>
       <pubDate>Mon, 31 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/mads-p-paa-vanvidstogt-superligaens-frelser-og-hvem-kan-true-gidsel-13652550025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6981654c75b6c9c5e9/773c209bd7a25adc3a31da62a5a5ddb7cd76503d1a857ef75ae0d495a7b764ef" length="58310653" type="audio/mpeg"/>
@@ -362,7 +362,7 @@ I Sydafrika blev Mountainbike-rytteren Annika Langvad for nyligt den mest vinden
 Vært: Emil Schiønning.
 Medvært: Tina Müller.
 Medvirkende: Mountainbike-rytter Annika Langvad, cykelkommentator Tobias Hansen og Christian Hjermind, direktør i KIF Kolding Elite.</description>
-      <duration>00:38:53</duration>
+      <itunes:duration>00:38:53</itunes:duration>
       <pubDate>Thu, 27 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/pogacar-trodser-sin-chef-rekordklub-i-knae-og-dansk-cykelstjernes-vanvittige-comeback-13652550024</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f80e60bfb1c9b699881/15e0aae25758216f93cacfab3cb89bedd3d90ee42c4e870639caba0d0ff1f928" length="56002617" type="audio/mpeg"/>
@@ -374,7 +374,7 @@ Landstræneren selv viste stort mod i afgørende øjeblikke, landsholdets yngste
 Dagens afsnit er optaget kort efter slutfløjt i Lissabon, hvor skuffelsen hurtigt blev til optimisme.
 Vært: Emil Schiønning. 
 Gæster: Kommentatorparret Andreas Kraul og Kenneth Møller Pedersen.</description>
-      <duration>00:24:37</duration>
+      <itunes:duration>00:24:37</itunes:duration>
       <pubDate>Mon, 24 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/landsholdet-viste-mod-faldt-med-aere-og-har-kurs-mod-vm-13652550023</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fdb3712ca9ad9236ad6/df653e727bd5cddc012b3b1b9befd2786caa117f45c590a4e688211282fc9ccd" length="35465912" type="audio/mpeg"/>
@@ -386,7 +386,7 @@ I dagens Tyvstart vurderer kommentatorduoen Andreas Kraul og Kenneth Møller Ped
 Der er store roser til Brian Riemer, landstrænerens mod og spillernes præstationer fra torsdagens kamp - men hvis det skal blive til den store triumf, kræver det, at det danske landshold husker noget helt bestemt, når de tager i lufthavnen og flyver til Portugal.
 Vært: Emil Schiønning.
 Gæster: Andreas Kraul og Kenneth Møller Pedersen.</description>
-      <duration>00:23:29</duration>
+      <itunes:duration>00:23:29</itunes:duration>
       <pubDate>Fri, 21 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/den-bedste-landskamp-i-aarevis-13652550022</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728fdb81654c75b6c9c933/4e72e6033333b6e9494da2cdc76792d095e7d57f4865b14ed594704299a0f2a1" length="33823164" type="audio/mpeg"/>
@@ -399,7 +399,7 @@ Vi dedikerer hele dagens program til Superligaen og er rykket i studiet umiddelb
 
 Vært: Emil Schiønning  
 Gæster: Andreas Kraul, Mathias Jacobsen og Mads Thyrsted</description>
-      <duration>00:40:10</duration>
+      <itunes:duration>00:40:10</itunes:duration>
       <pubDate>Mon, 17 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/den-store-superliga-dom-broendby-klarer-frisag-og-midtjylland-bliver-mestre-13652550021</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f68e60bfb1c9b69977c/aee4f6bee314ff4d44c33d34f7c5301663e9eabb6e1876558073bd9e60078b6e" length="57851002" type="audio/mpeg"/>
@@ -415,7 +415,7 @@ Nerverne sidder uden på tøjet hos spillerne fra Brøndby og Silkeborg inden si
 Vært: Emil Schiønning  
 Medvært: Tobias Hansen  
 Gæster: Brian Riemer, Henrik Liniger og Andreas Kraul</description>
-      <duration>00:41:42</duration>
+      <itunes:duration>00:41:42</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/riemer-paa-besoeg-haandbold-til-vinter-ol-og-sandhedens-time-i-superligaen-13652550020</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9fe60bfb1c9b6999dc/d71779b053d9ff8f464c9375d19b88b93695e0f8b383a61c31b7b633ae30e512" length="60056511" type="audio/mpeg"/>
@@ -432,7 +432,7 @@ Der er bare noget særligt over Birmingham og badminton. I denne uge spilles den
 Vært: Emil Schiønning
 Medvært: Tina Müller 
 Gæster: Kathrine Heindahl, Tobias Hansen og Hans Kristian Vittinghuss</description>
-      <duration>00:40:37</duration>
+      <itunes:duration>00:40:37</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/vingegaard-er-tour-favorit-familien-danmark-tager-fejl-og-magi-i-birmingham-13652550019</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f79e60bfb1c9b69980f/28a49bc79f734a1abf9623a40eda3e034adb35ab487747d959b66fa7b0798a2d" length="58494964" type="audio/mpeg"/>
@@ -450,7 +450,7 @@ Vært: Emil Schiønning
 Medvært: Tina Müller  
 
 Gæster: Solbjørk Minke Anderson, Michael Mortensen og Henrik Liniger</description>
-      <duration>00:41:02</duration>
+      <itunes:duration>00:41:02</itunes:duration>
       <pubDate>Thu, 06 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/nej-tak-til-verdensrekorder-danmarks-nye-klassikerhaab-tennishistoriens-haardeste-lodtraekning-13652550018</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f68e60bfb1c9b699779/247e590fd1a6f9dc853092cbd602e037e75213850efb333369ea8dfd1a6321e8" length="59092289" type="audio/mpeg"/>
@@ -463,7 +463,7 @@ Og så kårer Tyvstart både weekendens vindere og tabere.
 Vært: Emil Schiønning.
 Medvært: Tina Müller.
 Gæster: Morten Henriksen, Andreas Kraul, Mikkel Nygaard og Michael Sten Jensen.</description>
-      <duration>00:39:45</duration>
+      <itunes:duration>00:39:45</itunes:duration>
       <pubDate>Mon, 03 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/fck-miraklet-mod-chelsea-var-splittelse-i-norge-og-hvor-er-danmarks-nye-landstraener-13652550017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f79e60bfb1c9b69981c/a0d36c408ce64b5fc5a98439d541a109d155c2ac0b91d525d50708ce9bff7105" length="57261181" type="audio/mpeg"/>
@@ -477,7 +477,7 @@ Badmintonverdenen er splittet, for måske er det snart fortid med tre sæt til 2
 Vært: Mikkel Nygaard.
 Medvært: Tobias Hansen.
 Gæster: Andreas Kraul og Kamilla Rytter Juhl.</description>
-      <duration>00:42:30</duration>
+      <itunes:duration>00:42:30</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/sos-for-brian-riemer-saet-kryds-i-cykelkalenderen-og-kontrovers-om-badmintons-fremtid-13652550016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f61e60bfb1c9b69974f/191af7b7b425d817cd893d5fb84ef56fa93f935d2faf4c5ac1cc5ed006fb110f" length="61216567" type="audio/mpeg"/>
@@ -493,7 +493,7 @@ Josefine Hasbo er en vigtig brik på den danske midtbane, men frem mod sommerens
 Vært: Emil Schiønning
 Medvært: Kresten Mosbæk 
 Gæster: Clara Tauson, Andreas Kraul og Josefine Hasbo</description>
-      <duration>00:40:31</duration>
+      <itunes:duration>00:40:31</itunes:duration>
       <pubDate>Mon, 24 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/tausons-succesformel-superligaens-guldbarometer-og-landsholdsspillerens-harvard-problem-13652550015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f98e60bfb1c9b699990/eae0979840cfc7343889d5912e1658131bab42231aa95d90d857052eb3575ecc" length="58365374" type="audio/mpeg"/>
@@ -509,7 +509,7 @@ Mika Biereth er brandvarm i Monaco. Han skulle ikke engang bruge ti kampe på at
 Vært: Emil Schiønning 
 Medvært: Tobias Hansen  
 Gæster: Jacob Simonsen, Arnela Muminovic og Andreas Kraul</description>
-      <duration>00:42:11</duration>
+      <itunes:duration>00:42:11</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/rekordernes-time-i-barcelona-danmarks-store-em-generalproeve-og-biereth-paa-landsholdet-nu-13652550014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f5be60bfb1c9b699725/3fd1c66e5b3b16f22e2bcea206210d41224ad4866aca73c6251a888bc2b30413" length="60755193" type="audio/mpeg"/>
@@ -522,7 +522,7 @@ Tyvstart kårer også weekendens vindere og tabere, og der er stærke kandidater
 Vært: Emil Schiønning
 Medvært: Tobias Hansen
 Medvirkende: Aalborg Håndbold-direktør Jan Larsen og tennisreporter Kresten Mosbæk.</description>
-      <duration>00:40:31</duration>
+      <itunes:duration>00:40:31</itunes:duration>
       <pubDate>Mon, 17 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/aarets-vildeste-sportsuge-ny-dansk-komet-i-united-og-dopingdom-til-verdens-bedste-13652550013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f90e60bfb1c9b69992e/b3f213691a94772a737f5434289f5b031a497b804e04e23a7c714f5a9acd6102" length="58359040" type="audio/mpeg"/>
@@ -539,7 +539,7 @@ Få også historien om FC Midtjyllands overlevelsestur inden forårssæsonen, hv
 Vært: Emil Schiønning.
 Medvært: Kresten Mosbæk.
 Gæster: Henrik Tønder, Rasmus Bertelsen og Thomas Thomasberg.</description>
-      <duration>00:38:47</duration>
+      <itunes:duration>00:38:47</itunes:duration>
       <pubDate>Thu, 13 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/b-s-og-ulvene-paa-guldjagt-vanviddet-i-vejle-og-randers-som-kongedraebere-13652550012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9781654c75b6c9c72e/95968dcf2a31b6fc4cf2299b59c04191203e0fefd4bfc8e0d569921a7dae7891" length="55858615" type="audio/mpeg"/>
@@ -555,7 +555,7 @@ Natten til søndag blev en historisk Super Bowl afviklet i New Orleans - måske 
 Vært: Emil Schiønning
 Medvært: Kresten Mosbæk 
 Gæster: Hans Lindberg, Mikkel Bischoff og Peter Kobbersmed</description>
-      <duration>00:36:36</duration>
+      <itunes:duration>00:36:36</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/skaebnekampe-for-cl-danskerne-verdensstjerner-til-1-division-og-trump-i-super-bowl-cirkus-13652550011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f61e60bfb1c9b69974a/0a912847172b43749b2a1c7337fb6cbd521a10a3ae99aa748a6ac536dbdee86d" length="52728636" type="audio/mpeg"/>
@@ -571,7 +571,7 @@ Om et år er der OL igen. De vinterolympiske lege skal afvikles i Milano/Cortina
 Vært: Emil Schiønning  
 Medvært: Kresten Mosbæk  
 Gæster: Andreas Kraul, Philip Selmann og Madeleine Dupont</description>
-      <duration>00:41:00</duration>
+      <itunes:duration>00:41:00</itunes:duration>
       <pubDate>Thu, 06 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/kongetransfer-for-dansk-stjerne-usa-i-chok-og-olympisk-loefte-til-danmark-13652550010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9d81654c75b6c9c755/ac6895604a8d3a479588ed0aa6fe6b4379f87f755e96cba9c167bf3c6c6e6048" length="59046205" type="audio/mpeg"/>
@@ -582,7 +582,7 @@ Gæster: Andreas Kraul, Philip Selmann og Madeleine Dupont</description>
 Hvor stor en præstation er det egentlig at vinde VM fire gange på stribe? Og kan vi bare forvente, at de også vinder det femte og sjette indenfor de næste år?
 Vært: Emil Schiønning.
 Medvirkende: Kommentatorduoen Frederik Lindved og Lars Krogh Jeppesen.</description>
-      <duration>00:18:48</duration>
+      <itunes:duration>00:18:48</itunes:duration>
       <pubDate>Mon, 03 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/special-verdenshistoriens-bedste-hold-13652550009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f8081654c75b6c9c695/32b2a0cc9ab27f2e87dbb5fe0be4ab79e5d88e2225f56da421b8a1decd6c28da" length="27090875" type="audio/mpeg"/>
@@ -598,7 +598,7 @@ Champions League-fodbold rundede onsdag en milepæl. For første gang er det inn
 Vært: Emil Schiønning.
 Medvært: Tobias Hansen.
 Gæster: Håndbolkommentator Frederik Lindved, tennisreporter Kresten Mosbæk og fodboldkommentator Andreas Kraul.</description>
-      <duration>00:40:01</duration>
+      <itunes:duration>00:40:01</itunes:duration>
       <pubDate>Thu, 30 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/dansk-chok-eller-vm-finale-kong-frederiks-flotte-baghaand-og-brandslukning-i-cl-13652550008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f6081654c75b6c9c5ad/0362dfb817774846fe6137bff7ecd052300011668842805ee49d19fab06d736d" length="57648251" type="audio/mpeg"/>
@@ -614,7 +614,7 @@ I Australien er årets første grand slam slut. Her diskuterer vi, om arrangøre
 Vært: Emil Schiønning
 Medvært: Tobias Hansen 
 Gæster: Lotte Griegel, Jacob Friis og Kresten Mosbæk</description>
-      <duration>00:39:56</duration>
+      <itunes:duration>00:39:56</itunes:duration>
       <pubDate>Mon, 27 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/supertalent-med-tordendroen-ploerefulde-fans-og-ny-dansk-fodboldlandstraener-13652550007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f8281654c75b6c9c6a7/2d902877dbc632bdcbdfca0376656ecc9620722626346a57801e529c9e3bd6ee" length="57522681" type="audio/mpeg"/>
@@ -630,7 +630,7 @@ Lørdag får danske Mike Tullberg en ordentlig én på opleveren.  Her skal han 
 Vært: Emil Schiønning 
 Medvært: Tobias Hansen  
 Gæster: Frederik Lindved, Jakob Ebskamp og Mathias Jacobsen</description>
-      <duration>00:37:59</duration>
+      <itunes:duration>00:37:59</itunes:duration>
       <pubDate>Thu, 23 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/norsk-vm-mareridt-ski-robotterne-kommer-og-vikarens-vilde-loerdag-13652550006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f96e60bfb1c9b699979/839468cad1c547cfeee257a47bbbebab2f5bee5b9c9bbd513bad6279d8b3b131" length="54704896" type="audio/mpeg"/>
@@ -646,7 +646,7 @@ Mads Pedersen skal ikke køre Tour de France i denne sæson. Den danske sprinter
 Vært: Emil Schiønning
 Medvært: Tobias Hansen
 Gæster: Frederik Lindved og Kresten Mosbæk</description>
-      <duration>00:36:47</duration>
+      <itunes:duration>00:36:47</itunes:duration>
       <pubDate>Mon, 20 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/rune-presser-verdensetteren-lukker-danmarks-vm-legestue-og-er-mads-pedersen-overhalet-13652550005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9581654c75b6c9c722/a1c037f9c9848ab05b3e22f198c1656e24abd731d435a29aa4cb7511fffb040c" length="52985536" type="audio/mpeg"/>
@@ -659,7 +659,7 @@ I Melbourne er begge danskere videre til tredjerunde af årets første Grand Sla
 Vært: Emil Schiønning.
 Medvært: Tobias Hansen.
 Gæster: Tidligere sportsdirektør Dan Frost, håndboldekspert Lars Krogh og tennisreporter Kresten Mosbæk.</description>
-      <duration>00:35:29</duration>
+      <itunes:duration>00:35:29</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/slap-nu-af-gidsel-vingegaards-svaere-kabale-og-holger-runes-masterclass-13652550004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f7fe60bfb1c9b699878/ad8daa9f56f013ea5d88d8fa887061b726729baadfc7c811facaf4af612a46ed" length="51107769" type="audio/mpeg"/>
@@ -675,7 +675,7 @@ I Australien går det fremragende. Clara Tauson spiller god tennis og er videre 
 Vært: Emil Schiønning
 Medvært: Tobias Hansen
 Gæster: Frederik Lindved, Andreas Kraul og Kresten Mosbæk</description>
-      <duration>00:40:01</duration>
+      <itunes:duration>00:40:01</itunes:duration>
       <pubDate>Mon, 13 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/vejen-til-verdensherredoemmet-kaptajn-kjaers-eftermaele-og-sprudlende-tauson-13652550003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f9581654c75b6c9c71e/086674d9fef1eff24ecb264890fe5b60199b5139eaf79cc889f395ef04fa3208" length="57626916" type="audio/mpeg"/>
@@ -691,7 +691,7 @@ Hvordan sikrer cykelfeltet, at Jonas Vingegaard og co. ikke styrter og sætter l
 Vært: Mikkel Nygaard.
 Medvært: Tobias Hansen.
 Gæster: Landstræner Jesper Jensen og tennisreporter Kresten Mosbæk.</description>
-      <duration>00:37:01</duration>
+      <itunes:duration>00:37:01</itunes:duration>
       <pubDate>Thu, 09 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/jesper-jensens-jobmysterie-liv-eller-doed-i-cykelfeltet-og-dansk-skraeklodtraekning-13652550002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f4ae60bfb1c9b6996b8/3f61e626382d8681f0bfe7108998de5deeefa80ba7eff9cf2d0dbb35f522f027" length="53310972" type="audio/mpeg"/>
@@ -705,7 +705,7 @@ Med det nye år er det også tid til nye målsætninger. Vi har inviteret flere 
 Vært: Emil Schiønning  
 Medvært: Tobias Hansen  
 Gæster: Pernille Blume, Kresten Mosbæk, Andreas Kraul og Frederik Lindved</description>
-      <duration>00:43:18</duration>
+      <itunes:duration>00:43:18</itunes:duration>
       <pubDate>Mon, 06 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2025/pernille-blume-i-hall-of-fame-og-de-store-danske-nytaarsforsaetter-13652550001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67728f94e60bfb1c9b699963/d7c11bb3b7adf58f6fb9b193e3bf4daf1b607875320931aa3c989c9d9e46103c" length="62362788" type="audio/mpeg"/>

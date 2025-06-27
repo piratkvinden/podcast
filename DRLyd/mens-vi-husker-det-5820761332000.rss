@@ -12,11 +12,11 @@ Redaktør og tilrettelægger: Iben Maria Zeuthen.
 Klipper og tilrettelægger : Ole Fugl Hørkilde.
 Konsulent: Hanne Barslund.
 DR-Redaktør: Kåre Vedding Poulsen.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3362bf0388a679954fd8a.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2e14e7084207418d7e0"/>
     <item>
       <title>To ubesvarede opkald (1:4)</title>
       <description>En sommermorgen vågner Svante til to ubesvarede opkald, og en ny tid begynder.</description>
-      <duration>00:29:05</duration>
+      <itunes:duration>00:29:05</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/to-ubesvarede-opkald-1-4-11032424001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c559c/da4571a78ed0e6aee678363aa3b2de853eac5e23ace212986e75a986d2c26b85" length="41896200" type="audio/mpeg"/>
@@ -30,7 +30,7 @@ Vibeke - Svantes fars søster.
 Grethe - Svantes fars mor.
 Kurt - Svantes fars papfar.
 Keld - Svantes fars biologiske far.</description>
-      <duration>00:31:27</duration>
+      <itunes:duration>00:31:27</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/en-soen-uden-en-far-2-4-11032424002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a56be59b02e79a4c/eea1963785d2c64afa377d212ee4b28679d0ec7e4511db3ec105cfa5adf93540" length="45297082" type="audio/mpeg"/>
@@ -45,7 +45,7 @@ Jannie - Svantes mor.
 Sofus - Svantes yngste storebror.
 Andreas - Svantes ældste storebror.
 Vibeke - Svantes fars søster.</description>
-      <duration>00:29:22</duration>
+      <itunes:duration>00:29:22</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 05:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/svantes-fars-viser-3-4-11032424003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4643a127df4c0a3c55ad/7667f8dc0e8935afe6a723bc615fa7bbe6b22fc6fa6bd6fa2eb068fe2a04cd95" length="42304182" type="audio/mpeg"/>
@@ -58,7 +58,7 @@ Medvirkende:
 Pia - Svantes fars nuværende kone.
 Jannie - Svantes mor.
 Maria - Kvinde, der nu bor i Svante og Svantes fars gamle hjem.</description>
-      <duration>00:34:13</duration>
+      <itunes:duration>00:34:13</itunes:duration>
       <pubDate>Wed, 04 Sep 2024 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/mens-vi-husker-det/mens-vi-husker-det-1/husker-hjertet-far-4-4-11032424004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66cc4642a127df4c0a3c55a1/5887dd25b4b5fb0b887202bd2e479b8ba658580f276ecf75ba06338ae06bb866" length="49285312" type="audio/mpeg"/>

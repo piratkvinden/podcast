@@ -7,7 +7,7 @@
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023ceafd6dd215a9b319a7.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2ce8e0723688e3ce21e"/>
     <item>
       <title>Frelse</title>
       <description>'Drømme lister frem - står på lur - og de nikker og hvisker 'kom!', når det er mig, der står for tur'.
@@ -15,7 +15,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Bertel Haarder.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:55:08</duration>
+      <itunes:duration>00:55:08</itunes:duration>
       <pubDate>Thu, 29 Dec 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/frelse-11162218524</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:639fa10ed674a2f103dce99f/924a8095b03f826d756f058627854cada3ea7b6da64b6aa67fcfb71344e2cb7f" length="79408027" type="audio/mpeg"/>
@@ -27,7 +27,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Nagieb Khaja, journalist.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:58</duration>
+      <itunes:duration>00:56:58</itunes:duration>
       <pubDate>Thu, 22 Dec 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/ondskab-11162218514</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:639665fa19052b62785959b1/250c683f6337bf15394fee1f6d7f4c3c751899776508db6287e10d7854d82cb1" length="82055899" type="audio/mpeg"/>
@@ -39,7 +39,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Asker Hedegaard Boye, journalist.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:32</duration>
+      <itunes:duration>00:56:32</itunes:duration>
       <pubDate>Thu, 15 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/begejstring-11162218504</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:638d2a81333e768231dca2d9/e359d7d1c991697d711ccb9739c6a9400a5cd90685174f6c9432d0e4137c2ddc" length="81421723" type="audio/mpeg"/>
@@ -51,7 +51,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Sofie Gråbøl.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:57</duration>
+      <itunes:duration>00:56:57</itunes:duration>
       <pubDate>Thu, 08 Dec 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/taknemmelighed-11162218494</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6383f1fcb44427074ddaa840/cc18fa3b328755fbb99ef5264ccb63d211fa86a3dc0e6683ab2d962cc608fe73" length="82010971" type="audio/mpeg"/>
@@ -63,7 +63,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Ole Hartling, læge, tidl. formand for Det Etiske Råd.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:37</duration>
+      <itunes:duration>00:56:37</itunes:duration>
       <pubDate>Thu, 01 Dec 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/retfaerdighed-11162218484</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:637ab606be335ada05c03c41/10b7a668e8f5525a44ea1d17ece4e92ab273cd90d905cae81224f630f1d797c5" length="81533467" type="audio/mpeg"/>
@@ -76,7 +76,7 @@ Gæst: Marie Brixtofte.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.
 (Sendt første gang 24. november 2022).</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Thu, 24 Nov 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/tilgivelse-11162218474</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63717b1e2b7e3ab8c2f94fc8/a53b9e36681115c1795c494cc2aa12491b1f4e4787b39a54afb8f54b6b8dcc68" length="82088155" type="audio/mpeg"/>
@@ -89,7 +89,7 @@ Gæst: Johanne Schmidt-Nielsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.
 (Sendt første gang 17. november 2022).</description>
-      <duration>00:57:03</duration>
+      <itunes:duration>00:57:03</itunes:duration>
       <pubDate>Thu, 17 Nov 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/godhed-11162218464</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63684095a0379517d516212f/312ca0c01dcd484b9c461d490b73179db14e9fc79de62832927cc096639d4f7d" length="82175131" type="audio/mpeg"/>
@@ -101,7 +101,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Emilie Stein Thorsen, journalist og forfattere.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:05</duration>
+      <itunes:duration>00:57:05</itunes:duration>
       <pubDate>Thu, 10 Nov 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/ansvar-11162218454</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:635f05c4bf58074ed9b29918/f24340535cbb0c5ae507bdafa4e043e34db1900d97b043ca7d2ab636ee9fef73" length="82203355" type="audio/mpeg"/>
@@ -113,7 +113,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Theresa Scavenius.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:08</duration>
+      <itunes:duration>00:57:08</itunes:duration>
       <pubDate>Thu, 03 Nov 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/pessimisme-11162218444</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6355bdda367457499ae02669/e801662e787b6656f51148e11081034fbf11924a45968fbd02e497f9b670a808" length="82274779" type="audio/mpeg"/>
@@ -125,7 +125,7 @@ Gæst: Alberte Clement Meldal, journalist og forfatter.
 Vært: Sørine Gotfredsen.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:48</duration>
+      <itunes:duration>00:56:48</itunes:duration>
       <pubDate>Thu, 27 Oct 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/kropsforagt-11162218434</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:634c859d367457499ad6aba4/b8a728c2db362462f78e337809001aca95e59af6e34c1c983d4da51af5a60cc5" length="81809371" type="audio/mpeg"/>
@@ -138,7 +138,7 @@ Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.
 (Sendt første gang 20. oktober).</description>
-      <duration>00:56:53</duration>
+      <itunes:duration>00:56:53</itunes:duration>
       <pubDate>Thu, 20 Oct 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/handlingslammelse-11162218424</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6343479ecf34d4e5bae5d77c/5969b7c6bc7356e11f0666f9148365b177409e7c8b9ee91459d6d068906dcc3c" length="81921691" type="audio/mpeg"/>
@@ -150,7 +150,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Natasha Al-Hariri, direktør.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:45</duration>
+      <itunes:duration>00:56:45</itunes:duration>
       <pubDate>Thu, 13 Oct 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/fordoemmelse-11162218414</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:633a0da5ef4a813f5a44df46/9dd37963384088451dd37e5d13edfb453c6ceafbd004bb503faf6732b2bf4e46" length="81725275" type="audio/mpeg"/>
@@ -162,7 +162,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Knud Brix, forfatter, journalist.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:08</duration>
+      <itunes:duration>00:57:08</itunes:duration>
       <pubDate>Thu, 06 Oct 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/doedsdrift-11162218404</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6330d2e1f71109d7991cd1fd/eda48fcc2925ea4f8a122e2399d50313d10fdca69a4e43c5615c1c6a7a9c5b8a" length="82287451" type="audio/mpeg"/>
@@ -174,7 +174,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Kaspar Bonnén, kunstner og forfatter.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:54</duration>
+      <itunes:duration>00:57:54</itunes:duration>
       <pubDate>Thu, 29 Sep 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/tab-11162218394</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:632797e7137f55d022751c88/ae3b32778ec087d19e086f3001cb5997f3f6e5ecb34aec062302ef1396f7467c" length="83392795" type="audio/mpeg"/>
@@ -186,7 +186,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Amalie Langballe, forfatter.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:58:43</duration>
+      <itunes:duration>00:58:43</itunes:duration>
       <pubDate>Thu, 22 Sep 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/hengivelse-11162218384</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:631e5e7ee354a45e20daa6e5/19ba490a4e67c65b643bc2725932da00d2979c3774f175e0a805961891a8e48b" length="84560347" type="audio/mpeg"/>
@@ -198,7 +198,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Henning Jensen, skuespiller.
 Tilrettelægger &amp; producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:58:02</duration>
+      <itunes:duration>00:58:02</itunes:duration>
       <pubDate>Thu, 15 Sep 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/ydmygelse-11162218374</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:631522b01e2096ec3dc31cf4/9b057e0dd520b198d36033b1f351b4d580baf0825ae66b342d5a01015b1136d2" length="83580571" type="audio/mpeg"/>
@@ -210,7 +210,7 @@ Vært: Sørine Gotfredsen.
 Gæst: Mette Frederiksen, Statsminister.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:59:11</duration>
+      <itunes:duration>00:59:11</itunes:duration>
       <pubDate>Thu, 08 Sep 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/pligt-11162218364</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:630be9dc09585a83f1a443ac/4f05e7b3f969f34a6c07b82f93dc352a387a30424e027a583e599f19998d101e" length="85224475" type="audio/mpeg"/>
@@ -222,7 +222,7 @@ Gæst: Pelle Hvenegaard.
 Vært: Sørine Gotfredsen.
 Redaktør: Christoffer Emil Bruun.
 Tilrettelægger: Mikkel Clausen.</description>
-      <duration>01:00:40</duration>
+      <itunes:duration>01:00:40</itunes:duration>
       <pubDate>Thu, 01 Sep 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/meningsloeshed-11162218354</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6302ad2b09585a83f19b8510/cf83481189d6071962fdf69fa28201cf287811383b0bff8f2c5836f24ec7ab51" length="87366619" type="audio/mpeg"/>
@@ -234,7 +234,7 @@ Gæst: Tommy Bogs.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:58:10</duration>
+      <itunes:duration>00:58:10</itunes:duration>
       <pubDate>Thu, 25 Aug 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/gavmildhed-11162218344</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f973968c2b3429602b4e7c/4d0fd58f23f6521d01cc97789952e208e87d0b6034893746c1d49007ee24ce6d" length="83782747" type="audio/mpeg"/>
@@ -246,7 +246,7 @@ Gæst: Sanne Gottlieb
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:23</duration>
+      <itunes:duration>00:56:23</itunes:duration>
       <pubDate>Thu, 18 Aug 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/skuffelse-11162218334</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f038e7e666aba4ef3e9384/773a98d5a8873f726593b637480aa1f6e5ea954a8f3c6691bf4db00ac2b0692a" length="81207451" type="audio/mpeg"/>
@@ -258,7 +258,7 @@ Gæst: Kristina Stoltz
 Vært: Sørine Gotfredsen
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:52</duration>
+      <itunes:duration>00:56:52</itunes:duration>
       <pubDate>Thu, 11 Aug 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/fortrydelse-11162218324</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62e6fecd2454ca40b19f0135/ecd1793dc39d6944df3760422b06b431d7b9eb2e70a08484d1d2395433e04bc9" length="81890587" type="audio/mpeg"/>
@@ -270,7 +270,7 @@ Gæster: Anne Sophia Hermansen og Henrik Flødstrup.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:30</duration>
+      <itunes:duration>00:56:30</itunes:duration>
       <pubDate>Thu, 19 May 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/til-doeden-jer-skiller-11162218204</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:627840cc610339aadac2c600/92eb0121f5462228cca6ca40d8af7a7fad936048188da335b24c6b2f6d0f19df" length="81371611" type="audio/mpeg"/>
@@ -282,7 +282,7 @@ Gæst: Lene Kristine Konrad.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:01</duration>
+      <itunes:duration>00:56:01</itunes:duration>
       <pubDate>Thu, 12 May 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/ved-foerste-blik-11162218194</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:626f05288679fdf8af9028e9/5effc07af93e9905af1feee0eb9bad5ab445917b3d7864a088abe6e56c6103b3" length="80671195" type="audio/mpeg"/>
@@ -294,7 +294,7 @@ Gæst Elisabeth Gjerluff Nielsen.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:59</duration>
+      <itunes:duration>00:57:59</itunes:duration>
       <pubDate>Thu, 05 May 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/soeskende-11162218184</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6265cb9c8a3f8b99a861cd2c/c227130f3e2c1e823e46448999fc69c245d9e0e61ee20dc55f27e0f4760d2440" length="83513755" type="audio/mpeg"/>
@@ -306,7 +306,7 @@ Gæst: Dorothea Grundtoft.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:55</duration>
+      <itunes:duration>00:56:55</itunes:duration>
       <pubDate>Thu, 28 Apr 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/jagten-paa-kaerlighed-11162218174</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:625c91b5a734ddd693c50396/8ba33c9d6912de1fe7436fb513265f8db93ba9036a679232460e262db1b3f74e" length="81962011" type="audio/mpeg"/>
@@ -318,7 +318,7 @@ Gæst: Thomas Heurlin, tv producent.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:48</duration>
+      <itunes:duration>00:57:48</itunes:duration>
       <pubDate>Thu, 21 Apr 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/den-u-forpligtende-kaerlighed-11162218164</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:625355bbd1763b0b65f632f3/508db735cd177934a3cbd6406cf584532c97be89e81b794d3612ea3fa6a228b1" length="83245915" type="audio/mpeg"/>
@@ -329,7 +329,7 @@ Redaktør: Christoffer Emil Bruun.</description>
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:13</duration>
+      <itunes:duration>00:57:13</itunes:duration>
       <pubDate>Thu, 07 Apr 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/kaerligheden-til-en-sag-11162218144</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6240e1d7f946f9598519e6b2/b5a1aeb068508eec0fd13aa7e47fd845514a8ed00a9d6cf8ac7a6579397bcea0" length="82395739" type="audio/mpeg"/>
@@ -342,7 +342,7 @@ Gæst: Samuel Rachlin.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:04</duration>
+      <itunes:duration>00:56:04</itunes:duration>
       <pubDate>Thu, 31 Mar 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/kaerligheden-til-rusland-11162218134</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6237b4c8d87b03c3dff8f556/d411cd1fe2dcc6a8b3c85807ca0ae2e8ad86d404fb6ed9493835f201caeba72b" length="80756443" type="audio/mpeg"/>
@@ -357,7 +357,7 @@ Gæst: Özlem Cekic.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:53</duration>
+      <itunes:duration>00:56:53</itunes:duration>
       <pubDate>Thu, 24 Mar 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/had-11162218124</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:622e7adfd87b03c3dfefbf07/db93d6200cf242ef8885c180be5e6dfa5d26b563687c72bbcaee87b13429a3ba" length="81914779" type="audio/mpeg"/>
@@ -368,7 +368,7 @@ Redaktør: Christoffer Emil Bruun.</description>
 Gæst: Julie Jeune, sexolog. Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:43</duration>
+      <itunes:duration>00:56:43</itunes:duration>
       <pubDate>Thu, 17 Mar 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/erotik-11162218114</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62253ee2017255fccfac4d42/84e1f80ddaca74d7799dcb6996e6e102cdbb3036a878a66cc7be61cca07711a4" length="81691867" type="audio/mpeg"/>
@@ -379,7 +379,7 @@ Redaktør: Christoffer Emil Bruun.</description>
 Gæst: Ina Lüders. Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:55</duration>
+      <itunes:duration>00:56:55</itunes:duration>
       <pubDate>Thu, 10 Mar 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/kaerligheden-til-en-afdoed-11162218104</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:621c0632017255fccfa2fdae/0d747179e526ccfb3c0cb4ea07aecb305e9815ce97b8fdd45f5db75c1a35f275" length="81964891" type="audio/mpeg"/>
@@ -389,7 +389,7 @@ Redaktør: Christoffer Emil Bruun.</description>
       <description>Du skal elske din næste, som du elsker dig selv, siger den gamle fordring. Men hvem er 'næsten', og hvad vil det i denne sammenhæng sige 'at elske'? Vi undersøger næstekærlighedens forunderlige logik. Gæst: Kristian Leth, forfatter og musiker.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.</description>
-      <duration>00:57:46</duration>
+      <itunes:duration>00:57:46</itunes:duration>
       <pubDate>Thu, 03 Mar 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/naestekaerlighed-11162218094</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6212cbc6333ea64fc8746956/ac6a383e4f34b49f654d5db1b9bec9fab14f1f26a9cd327a0c9e2952628d6849" length="83206171" type="audio/mpeg"/>
@@ -400,7 +400,7 @@ Tilrettelægger og producer: Mikkel Clausen.</description>
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:57:01</duration>
+      <itunes:duration>00:57:01</itunes:duration>
       <pubDate>Thu, 24 Feb 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/at-elske-sig-selv-11162218084</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:620990f4e56c810819f1d883/3dcb8c8afafc26426e27cbd3a3f8d0d43015c6b8716d1dd6c90b7f743328b73c" length="82104859" type="audio/mpeg"/>
@@ -412,7 +412,7 @@ Gæst: Christian Tafdrup, filminstruktør
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:39</duration>
+      <itunes:duration>00:56:39</itunes:duration>
       <pubDate>Thu, 17 Feb 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/den-foerste-kaereste-11162218074</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6200552d0a76e7fcf4075e4d/09accc75db86dddb5dd8543bf59e0cd5127bd1d930c2fa8763979d573c06c13c" length="81595099" type="audio/mpeg"/>
@@ -424,7 +424,7 @@ Gæst: Lea Linstow, dokumentarist.
 Vært Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:43</duration>
+      <itunes:duration>00:56:43</itunes:duration>
       <pubDate>Thu, 10 Feb 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/den-foerste-forelskelse-11162218064</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61f71b800431527cb30b4e99/0b00c764ee31e28466f19e224b589c05c9010c05333c8c836d780886d3fb9165" length="81687835" type="audio/mpeg"/>
@@ -436,7 +436,7 @@ Gæst: Leonora Christina Skov, forfatter.
 Vært: Sørine Gotfredsen.
 Tilrettelægger og producer: Mikkel Clausen.
 Redaktør: Christoffer Emil Bruun.</description>
-      <duration>00:56:57</duration>
+      <itunes:duration>00:56:57</itunes:duration>
       <pubDate>Thu, 03 Feb 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/kaerligheden-mellem-venner-11162218054</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61ede2354230c009a3e1161d/2a15e54807f43d95826b0fe12b227fd1937274ab7508aa11c87a4105ac5d73ff" length="82016155" type="audio/mpeg"/>
@@ -445,7 +445,7 @@ Redaktør: Christoffer Emil Bruun.</description>
       <title>Sønnens kærlighed til far</title>
       <description>At modtage sin fars anerkendelse, er for mange sønner noget, der stræbes efter livet igennem. Men hvad gør man, når fars gerninger ikke er værd at stræbe mod, kan man ændre mønsteret, og hvad stiller man op med tvivlen om hvorvidt kærligheden er gengældt? Gæst: René Fredensborg, forfatter og journalist. 
 Vært: Sørine Gotfredsen.</description>
-      <duration>00:57:12</duration>
+      <itunes:duration>00:57:12</itunes:duration>
       <pubDate>Thu, 27 Jan 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/soennens-kaerlighed-til-far-11162218044</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61e4a74f9a2a1f7f47980923/98710d846621bbfdd7089289d2632d9a462d1dee490f28160a89c613f7fcbdec" length="82372699" type="audio/mpeg"/>
@@ -455,7 +455,7 @@ Vært: Sørine Gotfredsen.</description>
       <description>Den altopofrende moderkærlighed kan potentielt også være farlig, når moderen for at give alt til sit barn, er villig til at opgive sin identitet, og i yderste konsekvens betale med sit liv. 
 Gæst: Mathilde Falch, sanger og musiker.
 Vært: Sørine Gotfredsen.</description>
-      <duration>00:57:11</duration>
+      <itunes:duration>00:57:11</itunes:duration>
       <pubDate>Thu, 20 Jan 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/moderkaerlighed-11162218034</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61db6c8cd85eaf8391cc6b95/23b5f8426fa24a0a12c1da0e292c0d2cee325b45bd7cb1dab8f23e25f66bd578" length="82355995" type="audio/mpeg"/>
@@ -465,7 +465,7 @@ Vært: Sørine Gotfredsen.</description>
       <description>At blive far kan føles som meningen med selve livet. Alligevel kan det forekomme unaturligt at fortælle vores børn, at vi elsker dem. Faderkærligheden er ofte forbundet med forholdet til vores egen far, en far som ikke altid er et forbillede eller den rette autoritet.
 Vært: Sørine Gotfredsen.
 Gæst: Henrik Jensen, forfatter og historiker.</description>
-      <duration>00:57:12</duration>
+      <itunes:duration>00:57:12</itunes:duration>
       <pubDate>Thu, 13 Jan 2022 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/soerine-og-kaerligheden/soerine-og-kaerligheden-2022/faderkaerlighed-11162218024</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61d418f88b0de6f2cbd8b0f3/6755dcd980e1ecdc504f7ed8334f41069900e485de9e3ae54e988a5e0d5c45a3" length="82372123" type="audio/mpeg"/>

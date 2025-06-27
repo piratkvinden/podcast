@@ -6,7 +6,7 @@
     <description>I en helt ny podcast med vært Morten Resen, skal du møde Danmarks største visionærer og lade dig fascinere af hæsblæsende erhvervseventyr, vilde investeringer og et liv i milliardklassen.
 I &quot;Visionærerne&quot; fortæller blandt andre Johan Bülow, Martin Thorborg, Malene Birger etc. om visioner og millioner, stolthed og fortrydelser og giver lytterne et unikt indblik i, hvad det egentlig kræver at blive en af Danmarks største visionærer. For succes kommer altid med en pris! Lyt med!
 Produceret for DR af GoLittle Creative.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023cf4fd6dd215a9b319d7.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2d91e0398987b2b0321"/>
     <item>
       <title>I kløerne på Anne Stampe og Louise Herping Ellegaard</title>
       <description>I sæsonens sidste episode har vi inviteret Anne Stampe og Louise Herping tilbage i podcaststudiet.
@@ -17,7 +17,7 @@ Du kan også møde Louise Ferslev fra MyMonii, der fik nej fra investorerne i 20
 Vært: Morten Resen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:01:23</duration>
+      <itunes:duration>01:01:23</itunes:duration>
       <pubDate>Thu, 09 Mar 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-anne-stampe-og-louise-herping-ellegaard-16122393309</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8c9c2c142ce191c4b7/c73070bfdf4507cea52c24c8760753f8b939beec24f8370c9826a9e2406b447f" length="88410331" type="audio/mpeg"/>
@@ -32,7 +32,7 @@ Og så kan du høre, hvorfor de tre investorer egentlig valgte at stoppe på TV.
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche. 
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:49:03</duration>
+      <itunes:duration>00:49:03</itunes:duration>
       <pubDate>Thu, 02 Mar 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-christian-stadil-birgit-aaby-og-jan-lehrmann-del-ii-16122393308</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8cb23ac67e5b4316bd/30a3fbc00e74ee0bf28136791f242aa4b1d31993c67eedd45e0f02c77a1265a0" length="70646491" type="audio/mpeg"/>
@@ -46,7 +46,7 @@ Du kan også høre hvorfor Birgit Aaby aldrig læser de investeringsaftaler igen
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche. 
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:56:26</duration>
+      <itunes:duration>00:56:26</itunes:duration>
       <pubDate>Thu, 23 Feb 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-christian-stadil-birgit-aaby-og-jan-lehrmann-del-i-16122393307</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8a9c2c142ce191c4ad/8351b8dcf945f13c464be3958c96ba9908c62e6aa5a1a9ad5f534422cf809888" length="81279451" type="audio/mpeg"/>
@@ -60,7 +60,7 @@ Hør historien om den kæmpe nedtur, der blev vendt til en stor optur, og hvorfo
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche. 
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:57:21</duration>
+      <itunes:duration>00:57:21</itunes:duration>
       <pubDate>Thu, 16 Feb 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-jesper-buch-del-ii-16122393306</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d899c2c142ce191c4a6/e98e2f695441659d3db16beecb34eb7ebe8c310e7751c0bd35a2e283f54d526e" length="82608283" type="audio/mpeg"/>
@@ -71,7 +71,7 @@ Produceret for DR af GoLittle Creative.</description>
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche. 
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:50:27</duration>
+      <itunes:duration>00:50:27</itunes:duration>
       <pubDate>Thu, 09 Feb 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-louise-herping-16122393305</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d89b23ac67e5b4316ad/71ff4e7090d7e9a9cfe7e93f3f0893bae87ad10f6b0baaa1f262ac459d38255d" length="72653851" type="audio/mpeg"/>
@@ -84,7 +84,7 @@ Alt det får du svar på i denne første episode af to med Jesper Buch, hvor du 
 Vært: Morten Resen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:59:22</duration>
+      <itunes:duration>00:59:22</itunes:duration>
       <pubDate>Thu, 02 Feb 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-jesper-buch-del-i-16122393304</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8d9c2c142ce191c4c0/7e17d3a5aa74ffd32ba273e2307fe7bad2d411f66ec3e544053b4c039a10a28f" length="85492315" type="audio/mpeg"/>
@@ -94,7 +94,7 @@ Produceret for DR af GoLittle Creative.</description>
       <description>Tommy Ahlers er tilbage! Hør den tilbagevendte investor fortælle om sine egne største opture og nedture som iværksætter. Om millionerne og om at klæde sig ud som.. Buzz Lightyear! Du kan også møde Jesper fra Firtal Group, der fik investering fra Tommy, Christian Stadil og Jesper Buch i den allerførste sæson i 2015. To år senere solgte han og vennen Mikkel deres virksomhed for 150 millioner!
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche.</description>
-      <duration>00:58:17</duration>
+      <itunes:duration>00:58:17</itunes:duration>
       <pubDate>Thu, 26 Jan 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-tommy-ahlers-16122393303</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8eb23ac67e5b4316cc/c31eedfe66a4cca5b0ecd3551964afa0207bec6d846846a6f3b965cf10c2b3c7" length="83939419" type="audio/mpeg"/>
@@ -106,7 +106,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Astrid Bruun Bonnén. 
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:43:36</duration>
+      <itunes:duration>00:43:36</itunes:duration>
       <pubDate>Thu, 12 Jan 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-christian-arnstedt-16122393302</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d899c2c142ce191c49f/1278b34f816c525727e79105966d953461bd3ef719cdf2b6d37616f96f650bf7" length="62797339" type="audio/mpeg"/>
@@ -117,7 +117,7 @@ Produceret for DR af GoLittle Creative.</description>
 Vært: Morten Resen. 
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:40:46</duration>
+      <itunes:duration>00:40:46</itunes:duration>
       <pubDate>Thu, 05 Jan 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2023/i-kloeerne-paa-anne-stampe-16122393301</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a58d8db23ac67e5b4316c6/062a292ea7429e48c3bfdbafd2e078b216e8fc42f1d0ebc832355f32be618f49" length="58719835" type="audio/mpeg"/>
@@ -144,7 +144,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:12:45</duration>
+      <itunes:duration>01:12:45</itunes:duration>
       <pubDate>Thu, 11 Apr 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/mathilde-mackowski-sexlegetoejets-gazelle-16122492675</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836301c26aeca6fa61bf65/0edd4c2040c25af63b74789333e608ac95c140adf7ba4d6bf4b2637d37947f6d" length="104765627" type="audio/mpeg"/>
@@ -177,7 +177,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:29:34</duration>
+      <itunes:duration>01:29:34</itunes:duration>
       <pubDate>Thu, 04 Apr 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/mikkel-bjergsoe-bryggeren-der-gik-all-in-16122492674</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363074c508f7c5e3f6734/69e8ca91c672eb988f3df1a30ed04443b2645fd97f0b65c6258788773b4fdcee" length="128992190" type="audio/mpeg"/>
@@ -199,7 +199,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:08:54</duration>
+      <itunes:duration>01:08:54</itunes:duration>
       <pubDate>Thu, 28 Mar 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/flemming-oestergaard-loeven-broeler-endnu-16122492673</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836304c26aeca6fa61bf79/5f38fb8aa373b8ceedc249204f6f97075f77af0da677feebe61edb1ab51705ed" length="99238332" type="audio/mpeg"/>
@@ -213,7 +213,7 @@ Medtilrettelægger: Nina Pedersen.
 Klip: Astrid Bruun Bonnén.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:58:29</duration>
+      <itunes:duration>00:58:29</itunes:duration>
       <pubDate>Thu, 21 Mar 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/tahir-siddique-moensterbryderen-16122492672</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836304163dfa22d542fd84/9a2d35294efb217f21ac16d9595212da69ed4ebfcfabc2895fb1e2ac17c7f214" length="84231207" type="audio/mpeg"/>
@@ -226,7 +226,7 @@ Medtilrettelægger: Nina Pedersen.
 Klip: Astrid Bruun Bonnén.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:59:38</duration>
+      <itunes:duration>00:59:38</itunes:duration>
       <pubDate>Thu, 14 Mar 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/mette-lykke-en-forretning-too-good-to-go-16122492671</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363079973a9c837f619c8/4e3c947029f6b6fdc73afcf80cc7f392af604ef909ca7b3ca5b3f08c296e3e22" length="85895847" type="audio/mpeg"/>
@@ -238,7 +238,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:11:30</duration>
+      <itunes:duration>01:11:30</itunes:duration>
       <pubDate>Thu, 07 Mar 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/lennart-lajboschitz-fra-en-10-er-til-en-milliard-16122492670</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836306c26aeca6fa61bf86/a7b6676d3484a4556f5495a6b55d4e2a6e9712480a207d8377fe5199671fe229" length="102981735" type="audio/mpeg"/>
@@ -250,7 +250,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:05:23</duration>
+      <itunes:duration>01:05:23</itunes:duration>
       <pubDate>Thu, 29 Feb 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/nikolaj-nyholm-nej-til-100-000-000-dollars-16122492669</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836306c26aeca6fa61bf81/e72746468fed3e43b0754ac37fb5a29c1459e222152649bd9c43ae0bf7c9949d" length="94157415" type="audio/mpeg"/>
@@ -262,7 +262,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:02:47</duration>
+      <itunes:duration>01:02:47</itunes:duration>
       <pubDate>Thu, 22 Feb 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/klaus-riskaer-det-er-krig-16122492668</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363039973a9c837f619aa/263f455cde4a04496b71a03c0c6b1d34665dbf6d31f2bb41e96fa62c6549b40f" length="90431877" type="audio/mpeg"/>
@@ -274,7 +274,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:14:16</duration>
+      <itunes:duration>01:14:16</itunes:duration>
       <pubDate>Thu, 15 Feb 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/andrea-elisabeth-rudolph-kampen-for-succes-16122492667</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363059973a9c837f619c0/6d5db0ac90136926ab2c23117236cc7ae67d33b8aaf82b41118d251afec4063b" length="106968807" type="audio/mpeg"/>
@@ -286,7 +286,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:59:10</duration>
+      <itunes:duration>00:59:10</itunes:duration>
       <pubDate>Thu, 08 Feb 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/asger-aamund-83-aar-og-stadig-ivaerksaetter-16122492666</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363049973a9c837f619b6/4ae90a8b56603e201205dbf37e1a497fcd2582f92e34c9375af0b5b268e519aa" length="85206395" type="audio/mpeg"/>
@@ -298,7 +298,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:58:17</duration>
+      <itunes:duration>00:58:17</itunes:duration>
       <pubDate>Thu, 01 Feb 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/ole-henriksen-the-american-dream-16122492665</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363049973a9c837f619b2/1e75c32f98a5c95d2695ac658344410ce569ea8c1965efe00af547679248de22" length="83948417" type="audio/mpeg"/>
@@ -310,7 +310,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:59:59</duration>
+      <itunes:duration>00:59:59</itunes:duration>
       <pubDate>Thu, 25 Jan 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/morten-larsen-det-vilde-takeaway-eventyr-16122492664</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836305163dfa22d542fd89/01ad0d380c28973dfbe627bfdbdddbd6b840569cb649dbd9dd0ef07639388f8b" length="86383719" type="audio/mpeg"/>
@@ -329,7 +329,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:56:24</duration>
+      <itunes:duration>00:56:24</itunes:duration>
       <pubDate>Thu, 18 Jan 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/malene-birger-fra-fyring-til-modedronning-16122492663</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836306c26aeca6fa61bf8d/3f03719a46b7ebefebe802ead9c0a126ec0220fb2594831c0c51afb48ce4f35d" length="81236583" type="audio/mpeg"/>
@@ -345,7 +345,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>01:00:00</duration>
+      <itunes:duration>01:00:00</itunes:duration>
       <pubDate>Thu, 11 Jan 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/martin-thorborg-solgt-for-800-millioner-16122492662</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65836307c26aeca6fa61bf91/d1451793e636270da80eed4eef6d1ce02b0d727ab9d7342ce6741177e4ca5a80" length="86406183" type="audio/mpeg"/>
@@ -361,7 +361,7 @@ Vært: Morten Resen.
 Medtilrettelægger: Nina Pedersen.
 Musik: Thomas Banke Brenneche.
 Produceret for DR af GoLittle Creative.</description>
-      <duration>00:55:11</duration>
+      <itunes:duration>00:55:11</itunes:duration>
       <pubDate>Thu, 04 Jan 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/visionaererne/visionaererne-2024/johan-bulow-danmarks-stoerste-lakridseventyr-16122492661</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:658363044c508f7c5e3f6723/c4865da855762124fd1a1b72bfd2d6740b38a115948c8ec83466b428c75cf2fe" length="79476903" type="audio/mpeg"/>

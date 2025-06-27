@@ -4,7 +4,7 @@
     <title>Parnasset</title>
     <link>https://www.dr.dk/lyd/p1/parnasset-6058412957000</link>
     <description>Når de taler, bliver der lyttet. Når de udkommer, bliver de omtalt og anmeldt. De påvirker os med deres beslutninger og deres kunst; de flytter på vores opfattelser. Men vi beder dem sjældent om at analysere og debattere de store dagsordner. Det ændrer sig nu, hvor parnasset får en ugentlig plads på P1. Her giver kunstnerne, teaterdirektørerne, museumsfolkene og digterne deres særlige kulturblik på verden. De er kort sagt kulturparnasset - og på skift er der tre på besøg hos vært Karen Secher.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:674973baad2d428de789991c.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2e110626a60f8e28bf3"/>
     <item>
       <title>Mordere som helte</title>
       <description>Luigi Magione er tiltalt for at dræbt direktøren for den udskældte sundhedssikringskoncern United Healthcare på åben gade. Nu ikoniseres han blandt millioner af især amerikanere, og en film er allerede undervejs. Parnasset diskuterer kunstens rolle og ansvar i sager, hvor skurke bliver til helte.
@@ -12,7 +12,7 @@ Vært: Karen Secher.
 Gæst: Forfatter Peder Frederik Jensen, dramatiker Line Knutzon og museumsdirektør Karen Grøn.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:43:35</duration>
+      <itunes:duration>00:43:35</itunes:duration>
       <pubDate>Wed, 18 Dec 2024 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2024/mordere-som-helte-11032462703</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462fdb6565d571840dc88f/c30a2c3428b2ca3d28934ad3ac0790063f2f74ccda3c01f703185accf54b089d" length="62761979" type="audio/mpeg"/>
@@ -24,7 +24,7 @@ Vært: Karen Secher.
 Gæst: Simon Pasternak, Iben Albinus, Katrine Wiedemann.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:44:59</duration>
+      <itunes:duration>00:44:59</itunes:duration>
       <pubDate>Wed, 11 Dec 2024 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2024/kunsten-og-det-menneskelige-moerke-11032462702</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462fdb6565d571840dc889/8a9a903a44efca028061d63762057b2953fc297027df97d45bb491dfe3da1404" length="64795239" type="audio/mpeg"/>
@@ -36,7 +36,7 @@ Vært: Karen Secher
 Gæst: Kasper Holten, chef Det Kgl Teater, Asta Olivia Nordenhof, forfatter, Esben Weile Kjær, billedkunstner
 Producer: Katrine Hornstrup Yde
 Redaktør: Lasse Lauridsen</description>
-      <duration>00:45:48</duration>
+      <itunes:duration>00:45:48</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2024/litteratur-der-saarer-11032462701</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462fdb6565d571840dc885/5cf7dd8ef88c2a58ad71eb76490eb24036add32ffb3ed7871f6ecba2d36b5c59" length="65959911" type="audio/mpeg"/>
@@ -60,7 +60,7 @@ Kunstværket 'Blue Women Art' (1962)
 Kunstværket 'Ecosex Wedding Happenings' af Annie Sprinkle og Beth Stephens.
  
 Send ris, ros og spørgsmål til parnasset her: parnasset@dr.dk</description>
-      <duration>00:44:20</duration>
+      <itunes:duration>00:44:20</itunes:duration>
       <pubDate>Wed, 25 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/at-betragte-andres-lidelser-11032562734</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0a81654c75b6f45459/ae7a3044cf7cfb1b1b47a2ecc9ae9fc715568849dfec2d7ca90c0762c596a8fc" length="63849468" type="audio/mpeg"/>
@@ -72,7 +72,7 @@ Vært: Karen Secher
 Gæster: Forfatter Leif Davidsen, skuespiller Mette Horn og forfatter og tegner Maren Uthaug
 Producer: Jesper Dein
 Redaktør: Lasse Lauridsen</description>
-      <duration>00:43:10</duration>
+      <itunes:duration>00:43:10</itunes:duration>
       <pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/koebenhavnersnuder-og-jydetampe-11032562733</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0981654c75b6f45448/8e0e7cbafe35ff8de990d58021ecef0db9fad22dbb42aff176bf365eccd16bcf" length="62176167" type="audio/mpeg"/>
@@ -88,7 +88,7 @@ Redaktør: Mette-Line Thorup.
 Anbefalede værker: Robert James Wallers roman 'Broerne i Madison County' fra 1992, Nick Cassavetes' spillefilm 'The Notebook' fra 2004 og Karen Blixens novelle 'Babettes Gæstebud' fra 1952.
 
 Send ris, ros og spørgsmål til Parnasset på: parnasset@dr.dk</description>
-      <duration>00:44:20</duration>
+      <itunes:duration>00:44:20</itunes:duration>
       <pubDate>Wed, 11 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/mens-vi-venter-paa-en-kaerlighedsrevolution-11032562732</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab09193e25da397b18d4/995cf2f8f335b35566d2555a80d9af9057b0b781cc589235c2ad5fdfc94a6364" length="63858690" type="audio/mpeg"/>
@@ -101,7 +101,7 @@ Gæster: Komponist Louise Alenius, teaterinstruktør Niels Erling og manuskriptf
 Producer: Thea Egestrand 
 Redaktør: Lasse Lauridsen 
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:39</duration>
+      <itunes:duration>00:44:39</itunes:duration>
       <pubDate>Wed, 04 Jun 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/fravaerende-foraeldre-naervaerende-kunst-11032562731</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0d81654c75b6f4547f/92aa103540d318577508c03c702faf22436b1c6fd954bb9edcac778dc8a3a2b9" length="64313723" type="audio/mpeg"/>
@@ -117,7 +117,7 @@ Reporter: Magnus Møller
 Redaktør: Lasse Lauridsen
 Anbefalede værker: Hanna-Barberas tegnefilm 'Tom og Jerry' (1940), Out of Balanz' cirkusforestilling 'Going Nowhere' (2023) og Herlinde Koelbls fotoserie 'Spuren der Macht' (1999)
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:48</duration>
+      <itunes:duration>00:44:48</itunes:duration>
       <pubDate>Wed, 28 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/dogmeleg-i-parnasset-11032562730</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0881654c75b6f45440/540f6b762a217d02f5bb23705bdbb9b7f58c0a1e0b50f15e4e9e5912b528eb8e" length="64534330" type="audio/mpeg"/>
@@ -134,7 +134,7 @@ Redaktør: Lasse Lauridsen
 
 Refererede værker: 'Lykke-Peer' af Henrik Pontoppidan, 'Romeo og Julie' af William Shakespeare i Niels Brunses oversættelse, 'Lyser i mørke' af Medina.
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:45:06</duration>
+      <itunes:duration>00:45:06</itunes:duration>
       <pubDate>Wed, 21 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/hvilken-magt-har-et-navn-11032562729</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0681654c75b6f45430/024473d1c21591c31133eaa0630875330bc96746a1ccf54e30ca215e73b994e6" length="64959413" type="audio/mpeg"/>
@@ -149,7 +149,7 @@ I redaktionen: Magnus Møller
 Redaktør: Lasse Lauridsen
 Omtalte værker: Tv-serien 'The Dropout' på Netflix, spillefilmen 'Young Promising Woman' af Emerald Fennell og teaterstykket 'Lés Miserables' på Betty Nansen Teatret
 Send ris, ros og spørgsmål til: parnasset@dr.dk</description>
-      <duration>00:45:10</duration>
+      <itunes:duration>00:45:10</itunes:duration>
       <pubDate>Wed, 14 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/tys-tys-kulturens-guldalder-11032562728</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0e81654c75b6f4548b/b7fadfeada34c1e82653f915b35bc221701038f954feb03bd83b124665c06196" length="65053299" type="audio/mpeg"/>
@@ -165,7 +165,7 @@ Reporter: Magnus Møller
 Redaktør: Lasse Lauridsen
 Anbefalede værker: PJ Harvey og Björks cover af '(I Can't Get No) Satisfaction', Hoziers 'Take Me To Church', Victor Klemperers 'LTI' og Jesper Tynells 'Mørkelygten'
 Send ris, ros og spørgsmål til Parnassets medlemmer på: parnasset@dr.dk</description>
-      <duration>00:42:35</duration>
+      <itunes:duration>00:42:35</itunes:duration>
       <pubDate>Wed, 07 May 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/hvad-kan-man-laere-af-at-dumpe-11032562727</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0d193e25da397b18f3/0950c7080df90525a124bd37b8a190e3fb353aafee971b2e4bfaa18dd56fea7d" length="61323135" type="audio/mpeg"/>
@@ -180,7 +180,7 @@ I redaktionen: Magnus Møller
 Redaktør: Lasse Lauridsen
 Anbefalede værker: 'Grønspættebogen', 'Vinden i piletræerne' af Kenneth Grahame og Yahya Hassans forfatterskab
 Send ris, ros og spørgsmål til Parnassets medlemmer på: parnasset@dr.dk</description>
-      <duration>00:46:40</duration>
+      <itunes:duration>00:46:40</itunes:duration>
       <pubDate>Wed, 30 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/emma-gad-hvad-gider-vi-11032562726</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0b81654c75b6f45469/d5172fd610cbf717254a220d9cfbb5b38faebfc666029a84d16162e13ecb4f9c" length="67222521" type="audio/mpeg"/>
@@ -195,7 +195,7 @@ Reporter: Magnus Møller
 Redaktør: Lasse Lauridsen
 Anbefalede værker: Michael Hanekes film 'Det hvide bånd' (2009), Stephen Kings novelle 'Apt Pupil' (1982) og Bob Dylans nummer 'The Times They Are A-Changin' (1962)
 Send ris, ros og spørgsmål til Parnassets medlemmer på: parnasset@dr.dk</description>
-      <duration>00:43:22</duration>
+      <itunes:duration>00:43:22</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/kan-boern-vaere-onde-11032562725</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0c193e25da397b18e9/4f8d012477ee27f521fd1149b2d7550ab75b28ebcb5ea28465de36947d70437b" length="62457831" type="audio/mpeg"/>
@@ -209,7 +209,7 @@ Producer: Katrine Hornstrup Yde
 Reporter: Magnus Møller
 Redaktør: Lasse Lauridsen
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:45:36</duration>
+      <itunes:duration>00:45:36</itunes:duration>
       <pubDate>Wed, 16 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/kaere-brevkasse-11032562724</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0b81654c75b6f45465/cad4d9589a012c151e1547bf94e2c6ea0480b3deafa21a0edc14b54fc8823b8a" length="65671923" type="audio/mpeg"/>
@@ -227,7 +227,7 @@ Suzanne Brøgger, 'Creme Fraiche'
 Rachel Cusk, 'Parade'
 Simone de Beauvoir, 'Det andet køn'
 Send ris, ros og spørgsmål til Parnassets medlemmer på: parnasset@dr.dk</description>
-      <duration>00:44:08</duration>
+      <itunes:duration>00:44:08</itunes:duration>
       <pubDate>Wed, 09 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/hvem-vinder-kvindekampen-11032562723</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0781654c75b6f45434/eaa55081f649e715023a5425b8cb66b142dacf0f3602e95c20df9ae2d1d01524" length="63563189" type="audio/mpeg"/>
@@ -243,7 +243,7 @@ Reporter: Magnus Møller.
 Redaktør: Lasse Lauridsen.
 Anbefalede værker: Johann Sebastian Bachs 'Goldberg-variationerne', 'Tillid' af Hernan Diaz og 'The Blindboy Podcast'
 Send ris, ros og spørgsmål til Parnassets medlemmer på: parnasset@dr.dk</description>
-      <duration>00:45:11</duration>
+      <itunes:duration>00:45:11</itunes:duration>
       <pubDate>Wed, 02 Apr 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/anerkender-parnasset-karen-secher-11032562722</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0581654c75b6f45424/8305007abcf270533c47e89c4b2afa98bce6a4c0334b806ac7d690694ac4c52a" length="65066551" type="audio/mpeg"/>
@@ -259,7 +259,7 @@ Reporter: Magnus Møller.
 Redaktør: Lasse Lauridsen.
 Brugt musik: &quot;...Double Rainbow&quot; af Antonio Carlos Jobim fra albummet Terra Brasilis
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:02</duration>
+      <itunes:duration>00:44:02</itunes:duration>
       <pubDate>Wed, 26 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/laeser-du-min-dagbog-11032562721</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0781654c75b6f45438/11e350dc7878358192d5680cc6926cff405d1a8d77de6770d53cc2be62359fc2" length="63417468" type="audio/mpeg"/>
@@ -274,7 +274,7 @@ Producer: Katrine Hornstrup Yde.
 Reporter: Magnus Møller.
 Redaktør: Lasse Lauridsen.
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:54</duration>
+      <itunes:duration>00:44:54</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/sig-du-ka-li-mig-11032562720</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0a81654c75b6f45461/bfa30d9bb74d8cfbe4e3f9d96c94040c6bb858b91af74fbe55240ff15fd57257" length="64671992" type="audio/mpeg"/>
@@ -289,7 +289,7 @@ Reporter: Magnus Møller
 Redaktør: Lasse Lauridsen
 Kulturanbefalinger: Stefan Zweigs roman &quot;Verden af i går&quot; (1942), Asger Jorns maleri &quot;Stalingrad&quot; (1972) samt kogebogen &quot;In Memory's Kitchen: A Legacy from the Women of Terezin&quot; (2006)
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:54</duration>
+      <itunes:duration>00:44:54</itunes:duration>
       <pubDate>Wed, 12 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/klar-parat-krig-11032562719</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0d81654c75b6f45487/fe31d64c22e0a2ab43021ac3384f15954b5fc221f16ee7ca3a00a905b019d806" length="64671975" type="audio/mpeg"/>
@@ -302,7 +302,7 @@ Gæster: Forfatter Asta Olivia Nordenhof, billedkunstner Julie Nord og filmskole
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.
 Send ris, ros og nysgerrige brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:42:11</duration>
+      <itunes:duration>00:42:11</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/barndommen-er-en-dyster-sag-11032562718</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0a81654c75b6f45454/83a90f57fd5a3b625db083a010a48cbe4aa92ed99709ab0a2f72356b66f46118" length="60756922" type="audio/mpeg"/>
@@ -316,7 +316,7 @@ Gæster: Forfatter Haidar Ansari, musiker og forfatter Benjamin Koppel og forlag
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.
 Ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:08</duration>
+      <itunes:duration>00:44:08</itunes:duration>
       <pubDate>Wed, 26 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/en-dunst-af-hvid-sved-11032562717</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0b81654c75b6f45471/b718f52c50a8a88b979406048ae62aa63552f61868fd46960e02d0f64116b714" length="63561464" type="audio/mpeg"/>
@@ -330,7 +330,7 @@ Gæster: Billedkunstner Esben Weile Kjær, klassisk komponist Louise Alenius og 
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.
 Ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:04</duration>
+      <itunes:duration>00:44:04</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/hvorfor-er-samtidskunsten-saa-roevsyg-11032562716</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab05193e25da397b18c0/a72c821ecfb7a79042302116dfa6470e5fe5e70c6c38e21c820a5b9a9a1ee55d" length="63476219" type="audio/mpeg"/>
@@ -344,7 +344,7 @@ Producer: Nanna van Toornburg.
 Redaktør: Lasse Lauridsen.
  
 Send ris, ros og nysgerrige brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:43:57</duration>
+      <itunes:duration>00:43:57</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/er-lediggang-roden-til-alt-kunst-11032562715</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0681654c75b6f45428/f1cde3b85535fbfb7a110a731a2545b3b5cc7b2b3cdc74ae1c4a046ed64f7a7b" length="63295934" type="audio/mpeg"/>
@@ -357,7 +357,7 @@ Vært: Karen Secher.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen
 Send ris, ros og nysgerrige brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:43:19</duration>
+      <itunes:duration>00:43:19</itunes:duration>
       <pubDate>Wed, 05 Feb 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/har-kulturanmeldere-mistet-deres-autoritet-11032562714</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab04193e25da397b18b4/06b33f3cfab662d9a2e9d21012621e5b0df324a86b5986be34fbd8921a1c1826" length="62400231" type="audio/mpeg"/>
@@ -370,7 +370,7 @@ Gæst: Forfatter Eva Tind, billedkunstner Ida Kvetny og kreativ direktør Christ
 Producer: Katrine Hornstrup Yde. 
 Redaktør: Lasse Lauridsen.
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:32</duration>
+      <itunes:duration>00:44:32</itunes:duration>
       <pubDate>Wed, 29 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/metoo-ofre-i-modvind-11032562713</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab04193e25da397b18b8/b9a615cdabc496ea9570ca6ecab4ad5b0efe2a68b9197427ea882de4066727b2" length="64133415" type="audio/mpeg"/>
@@ -383,7 +383,7 @@ Gæst: Katrine Wiedemann, Elias Sadaq og Johan Klint Sandberg.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.
 Send ris, ros og brevkassespørgsmål til: parnasset@dr.dk</description>
-      <duration>00:44:04</duration>
+      <itunes:duration>00:44:04</itunes:duration>
       <pubDate>Wed, 22 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/er-parnasset-paa-tiktok-11032562712</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0a193e25da397b18dc/4b13d6e3bcbb497a9c0c000fe1c880fbb8b44dd39c0d9a23173c6b38a3557c49" length="63467003" type="audio/mpeg"/>
@@ -395,7 +395,7 @@ Vært: Karen Secher.
 Gæst: Lone Scherfig, Glenn Bech og Leonora Christina Skov.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:44:30</duration>
+      <itunes:duration>00:44:30</itunes:duration>
       <pubDate>Wed, 15 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/hvem-vil-ikke-gerne-vaere-parnas-11032562711</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0981654c75b6f45450/a0bc853360e4177db3e88813b6a8300234bbf3160fcba70d0b4c372f242cadf6" length="64094247" type="audio/mpeg"/>
@@ -407,7 +407,7 @@ Vært: Karen Secher.
 Gæst: Liv Helm, teaterchef, Benjamin Koppel, musiker, Jane Mylenberg, kulturkonsulent.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:45:06</duration>
+      <itunes:duration>00:45:06</itunes:duration>
       <pubDate>Wed, 08 Jan 2025 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/parnasset/parnasset-2025/coronalaere-og-hellige-stemmer-11032562710</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677bab0581654c75b6f4541c/0e4c48ce8d8758369ee215b6f7c96245822f4cf7e982a6879cab70c1b3dc2967" length="64950759" type="audio/mpeg"/>

@@ -15,7 +15,7 @@ Redaktør: Jesper Hyhne.
 God fornøjelse med denne eller én af de mange andre P1 Podcastserier.
 Har du en historie, vi bør undersøge nærmere? 
 Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66ffe9cf075f927899284846.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2b14e7084207418d602"/>
     <item>
       <title>1:9 - Terrordroner</title>
       <description>Et møde på en cafe med en hemmelig kilde leder Journalist Troels Kingo på sporet af, at flere danskere har sendt droneudstyr til Islamisk Stat - og at en af Danmarks mest eftersøgte mænd mistænkes for at sidde i IS-Kalifatet og styre et netværk i Danmark. 
@@ -23,7 +23,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:30:56</duration>
+      <itunes:duration>00:30:56</itunes:duration>
       <pubDate>Wed, 03 Apr 2019 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/1-9-terrordroner-11801936001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c98330eac2f135b5549/7b09c3085e35583f3c415b3e7637e78a4b9a3d4b71b064f7eb9f6f5ed82a995a" length="44561179" type="audio/mpeg"/>
@@ -35,7 +35,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:31:18</duration>
+      <itunes:duration>00:31:18</itunes:duration>
       <pubDate>Wed, 03 Apr 2019 23:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/2-9-paa-hemmelig-mission-for-pet-11801936002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c98330eac2f135b5550/85f77fe29ac44f67fc9a402af286437b5661cac48e35d8046ab917467a2e82df" length="45088795" type="audio/mpeg"/>
@@ -47,7 +47,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:37:29</duration>
+      <itunes:duration>00:37:29</itunes:duration>
       <pubDate>Wed, 03 Apr 2019 23:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/3-9-danmarks-farligste-terrorist-11801936003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c99330eac2f135b5556/d5fe3c52e530cdab4a5b529bd17f8fb449dc7314c85c8ee4a38662bac52385e0" length="53978779" type="audio/mpeg"/>
@@ -59,7 +59,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:35:07</duration>
+      <itunes:duration>00:35:07</itunes:duration>
       <pubDate>Wed, 03 Apr 2019 23:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/4-9-bombemaalet-basil-hassan-11801936004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9a330eac2f135b555d/853a3e758f87e3cebd8316513f1659399d03790b503e14055d210510fc4993a5" length="50569435" type="audio/mpeg"/>
@@ -71,7 +71,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:37:39</duration>
+      <itunes:duration>00:37:39</itunes:duration>
       <pubDate>Sun, 07 Apr 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/5-9-krigsfangerne-i-basils-hus-11801936005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9b330eac2f135b5562/1ac8fabe06048d49a9f5ba3bfb2ca23b7fbf53a4c4d336e8021f534506d93f13" length="54237979" type="audio/mpeg"/>
@@ -83,7 +83,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:33:41</duration>
+      <itunes:duration>00:33:41</itunes:duration>
       <pubDate>Thu, 11 Apr 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/6-9-forklaedt-som-basil-hassan-11801936006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9c330eac2f135b556a/aa07dc5428c70f89df5f9d9c7df876b28a7bab0e2d60641689e947ba695c83bd" length="48511387" type="audio/mpeg"/>
@@ -95,7 +95,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:21:54</duration>
+      <itunes:duration>00:21:54</itunes:duration>
       <pubDate>Thu, 11 Apr 2019 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/7-9-anholdt-paa-arbejde-11801936007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9d330eac2f135b556f/187a27941675c88fd81a99c0911fc54294507ba7a7144a73a6d784ebd3ff86c8" length="31549915" type="audio/mpeg"/>
@@ -107,7 +107,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:30:30</duration>
+      <itunes:duration>00:30:30</itunes:duration>
       <pubDate>Sun, 14 Apr 2019 18:50:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/8-9-bilvaskeren-i-bursa-11801936008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9e330eac2f135b5576/42668b93bbdb3ac000c73951367420e036d54cb538ff70d5aedd1653a67ad82e" length="43924699" type="audio/mpeg"/>
@@ -119,7 +119,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim.
 Klip og lyddesign: Signe Mansdotter.
 Redaktør: Jesper Hyhne.</description>
-      <duration>00:23:55</duration>
+      <itunes:duration>00:23:55</itunes:duration>
       <pubDate>Mon, 15 Apr 2019 20:40:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/9-9-bomben-i-koedhakkeren-11801936009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25c9f330eac2f135b557d/ab0fbefd44340cec8ce28332f9e6dff7d5466e24d40514936e49bcaeeae67540" length="34456411" type="audio/mpeg"/>
@@ -131,7 +131,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim. 
 Klip og lyddesign: Ida Skjerk og Signe Mansdotter. 
 Redaktør: Jens Vithner Hansen.</description>
-      <duration>00:32:11</duration>
+      <itunes:duration>00:32:11</itunes:duration>
       <pubDate>Fri, 20 Sep 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-10-et-usb-stik-to-danske-kameraer-og-27-draebte-soldater-11801936010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca0330eac2f135b5584/48590c359fce1c98e71c2796c5fbdc323532e23866ac62d40205566563059f02" length="46354797" type="audio/mpeg"/>
@@ -141,7 +141,7 @@ Redaktør: Jens Vithner Hansen.</description>
       <description>Hvorfor har underviseren og cykelhandleren bidraget til at købe en masse droneudstyr, der ifølge anklagemyndigheden er endt hos Islamisk Stat? 
 Nu skal de to for første gang afhøres i dronesagen. Den første i vidneskranken er underviseren, og hans forklaring overrasker os. For hans forsvar handler om vindmøller og grøn energi. 
 Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Hansen. Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim. Klip og lyddesign: Ida Skjerk og Signe Mansdotter. Redaktør: Jens Vithner Hansen.</description>
-      <duration>00:28:09</duration>
+      <itunes:duration>00:28:09</itunes:duration>
       <pubDate>Fri, 11 Oct 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-11-droner-til-et-groent-formaal-11801936011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca0330eac2f135b558a/eb00b99e28ba5b3c29c5a9d48026910dedb4ca376642eb4a4641c0b77824feda" length="40537608" type="audio/mpeg"/>
@@ -154,7 +154,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og
 Jens Vithner Hansen.
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim. Klip og lyddesign: Ida Skjerk og Signe Mansdotter. 
 Redaktør: Jens Vithner Hansen.</description>
-      <duration>00:32:07</duration>
+      <itunes:duration>00:32:07</itunes:duration>
       <pubDate>Mon, 21 Oct 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-12-dronedele-floedeboller-og-chips-til-b-11801936012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca1330eac2f135b558f/b3c66678f9dbfa288fb7e8266456f4a74ca6042858852c9e792350d79c2e739e" length="46265517" type="audio/mpeg"/>
@@ -166,7 +166,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim. 
 Klip og lyddesign: Ida Skjerk og Signe Mansdotter. 
 Redaktør: Jens Vithner Hansen.</description>
-      <duration>00:39:28</duration>
+      <itunes:duration>00:39:28</itunes:duration>
       <pubDate>Fri, 01 Nov 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-13-post-river-sig-i-haaret-11801936013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca2330eac2f135b5597/15c28eb9b11551636da8b374471dd896edf102581b16ab5861b9c307e95861f5" length="56848365" type="audio/mpeg"/>
@@ -174,7 +174,7 @@ Redaktør: Jens Vithner Hansen.</description>
     <item>
       <title>Eps. 14 - &quot;Et slagtilbud, han ikke kan sige nej til&quot;</title>
       <description>PET beder, ifølge de to dronesælgere Toke og Frederik, flere gange om, at prisen på droneudstyret bliver sat så billigt, at de er sikre på at taxachaufføren køber det hos dem. Men det er et brud på PETs beføjelser, mener taxachaufførens advokat. Samtidig opdager han, at der er en masse materiale han ikke har modtaget.</description>
-      <duration>00:19:47</duration>
+      <itunes:duration>00:19:47</itunes:duration>
       <pubDate>Mon, 25 Nov 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-14-et-slagtilbud-han-ikke-kan-sige-nej-til-11801936014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca3330eac2f135b559c/edae04e045d5741b5f03f98e1b61ff731ce2991f701c7b94b1eb8170b885a4df" length="28509211" type="audio/mpeg"/>
@@ -182,7 +182,7 @@ Redaktør: Jens Vithner Hansen.</description>
     <item>
       <title>Eps. 15 - Den dræbende bombe</title>
       <description>I 2015 eksploderer et passagerfly over Sinai-ørkenen i Egypten. Nu sættes Basil Hassan i forbindelse med eksplosionen fra en noget uventet kant.</description>
-      <duration>00:10:47</duration>
+      <itunes:duration>00:10:47</itunes:duration>
       <pubDate>Mon, 25 Nov 2019 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-15-den-draebende-bombe-11801936015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca4330eac2f135b55a2/bab8d535624d1a07dd8af1b3b9631b1657d3eea9adcb6240603444614f6e7b14" length="15530779" type="audio/mpeg"/>
@@ -194,7 +194,7 @@ Medvirkende: Puk Damsgård, Troels Kingo, Mette Mayli Albæk og Jens Vithner Han
 Redaktion: Louise Dalsgaard, Sara Munck Aabenhus og Mahmoud Shiekh Ibrahim. 
 Klip og lyddesign: Ida Skjerk og Signe Mansdotter. 
 Redaktør: Jens Vithner Hansen.</description>
-      <duration>00:27:12</duration>
+      <itunes:duration>00:27:12</itunes:duration>
       <pubDate>Fri, 13 Dec 2019 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/dronekrigeren/dronekrigeren-1/eps-16-dommen-11801936016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ca5330eac2f135b55a8/3254c6dc05ec8ce37194f0d4c4391321d64dfaf48e3aa3d2aa94b9d1ff2bd7e5" length="39174427" type="audio/mpeg"/>

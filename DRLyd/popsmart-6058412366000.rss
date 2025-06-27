@@ -4,7 +4,7 @@
     <title>Popsmart</title>
     <link>https://www.dr.dk/lyd/p1/popsmart-6058412366000</link>
     <description>Popkultur er meget mere end glitrende overflader og flimrende støj. Popkultur er et forstørrelsesglas på vores tid, der kan fortælle om alt fra storpolitik til parforhold. Men hvilke popfænomener er det egentlig, der vækker vores begær og nysgerrighed og afslører, hvem vi er lige nu? Det undersøger Chris Pedersen hver uge i programmet Popsmart, hvor han i selskab med en begavet gæst dissekerer og forklarer tidens populærkultur.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67497499ad2d428de7899c95.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2c9fd5adfcbf958e820"/>
     <item>
       <title>Kris Jenners nye ansigt</title>
       <description>Engang skjulte berømtheder deres plastikoperationer, men nu vrimler popkulturen med berømtheder, der stolt fremviser deres nye ansigter, som var de dyrebare luksusobjekter.
@@ -12,7 +12,7 @@ Ugens Popsmart undersøger, hvordan vores forhold til plastikkirurgi har forandr
 Gæster: Franziska Bork-Petersen, lektor på Institut for Kunst og kulturvidenskab og plastikkirurg Marie Louise von Sperling.
 Vært Chris Pedersen
 Redaktør Lasse Lauridsen</description>
-      <duration>00:36:25</duration>
+      <itunes:duration>00:36:25</itunes:duration>
       <pubDate>Tue, 24 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/kris-jenners-nye-ansigt-11032562634</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae6381654c75b6ca5963/5b73ac870e5352342c9b52d1a7c1a901b7c0b304f2b1fe8b36182a2cd17b7bda" length="52456185" type="audio/mpeg"/>
@@ -24,7 +24,7 @@ Vært; Chris Pedersen
 Reporter; Gustav Hagild
 Redaktør; Lasse Lauridsen
 Gæster; filmanmelder Ann Lind Andersen og religionsforsker Jesper Sørensen</description>
-      <duration>00:32:30</duration>
+      <itunes:duration>00:32:30</itunes:duration>
       <pubDate>Tue, 17 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/er-brad-pitt-den-sidste-filmstjerne-11032562633</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae6081654c75b6ca5950/ddbf876fcba7e08b51848c2a786b3b262cde9d55280b323f8947a88f35000f44" length="46817718" type="audio/mpeg"/>
@@ -39,7 +39,7 @@ Vært og lyddesign Chris Pedersen.
 Redaktør Lasse Lauridsen.
 Gæster Bodil Skovgaard Nielsen, kulturkritiker og
 Devika Sharma, lektor på visuel kommunikation på Københavns Universitet.</description>
-      <duration>00:39:37</duration>
+      <itunes:duration>00:39:37</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/saa-nuttet-at-det-goer-ondt-11032562632</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae53e60bfb1c9b6a223a/4dc01b02e0635dc1d0569d390f92e01e20aba7b8c4037c2bb27701d44c53c5cf" length="57056115" type="audio/mpeg"/>
@@ -55,7 +55,7 @@ Gæster: Kasper Opstrup, adjunkt i moderne kultur på Københavns Universitet, o
 Reporter: Magnus Møller.
 Lyddesign: Chris Pedersen og Magnus Møller.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:34:43</duration>
+      <itunes:duration>00:34:43</itunes:duration>
       <pubDate>Tue, 03 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/tarotkort-og-tryllestave-11032562631</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae57e60bfb1c9b6a2253/a1726f95d134728571bd492f7d6156046a189c3f3326bfc126545e790144276e" length="50008761" type="audio/mpeg"/>
@@ -69,7 +69,7 @@ Gæster: Anna Ullman, kritiker, og Klaus Lynggaard, skribent og forfatter.
 Reporter: Magnus Møller.
 Lyddesign: Chris Pedersen og Magnus Møller.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:39:20</duration>
+      <itunes:duration>00:39:20</itunes:duration>
       <pubDate>Tue, 27 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/ingen-kan-hoere-hvem-du-er-11032562630</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5e81654c75b6ca5941/f4ab9f21aa23a8cd85c87200200f5d348e8fcd42352e6eea477e6e84320197c6" length="56654070" type="audio/mpeg"/>
@@ -83,7 +83,7 @@ Gæster: Gudrun Marie Schmidt, kulturjournalist på Politiken, og Else Skjold, l
 Reporter: Magnus Møller. 
 Lyddesign: Chris Pedersen og Magnus Møller.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:35:29</duration>
+      <itunes:duration>00:35:29</itunes:duration>
       <pubDate>Tue, 20 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/dit-toej-taler-til-dig-11032562629</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5be60bfb1c9b6a2273/d5867d7487903eab5ab1982416e93a423011ccf1d0a5663ce1154a006731caca" length="51114104" type="audio/mpeg"/>
@@ -97,7 +97,7 @@ Gæster: Emma Rosenzweig, kunstner og forfatter, og Mette Byriel-Thygesen, etnol
 Reporter: Magnus Møller. 
 Lyddesign: Chris Pedersen og Magnus Møller.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:37:54</duration>
+      <itunes:duration>00:37:54</itunes:duration>
       <pubDate>Tue, 13 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/koldt-smoer-varme-kroppe-11032562628</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae50e60bfb1c9b6a2216/59e66becdba593610ef06fae5e63bd2daf62471abb54530a1659d6cfc4392e45" length="54578157" type="audio/mpeg"/>
@@ -106,7 +106,7 @@ Redaktør: Lasse Lauridsen.</description>
       <title>Lesbisk poprevolution!</title>
       <description>Musikere som Billie Eilish og Chappell Roan synger eksplicit om lesbisk sex - og viser verden en ny måde at være popstjerne, kvinde og forbillede på i 2025. Deres åbenhed afspejler en bredere tendens i popkulturen, hvor flere stjerner omfavner deres køn og seksualitet.
 Men hvad fortæller det om vores tid, at nogle af vores allerstørste stjerner er lesbiske? Og hvad er det for kønsnormer, de lesbiske popstjerner skubber til lige nu? Det undersøger Popsmart i selskab med P3-vært Marie Hobitz og Rikke Andreassen, professor i kultur og medier ved Roskilde Universitet.</description>
-      <duration>00:35:11</duration>
+      <itunes:duration>00:35:11</itunes:duration>
       <pubDate>Tue, 06 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/lesbisk-poprevolution-11032562627</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae65e60bfb1c9b6a22ce/3e2da0a2ca210ff5c55b9852d6ad1375f98a5c0c6fb0c1a227bc2f7bc0916aec" length="50678074" type="audio/mpeg"/>
@@ -119,7 +119,7 @@ Vært: Chris Pedersen.
 Gæster: Mikka Tecza, digital redaktør på Weekendavisen, og Pernille Svare Nygaard, Ph.d. i uddannelseshistorie fra Aarhus Universitet.
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller. 
 Lyddesign: Chris Pedersen.</description>
-      <duration>00:32:20</duration>
+      <itunes:duration>00:32:20</itunes:duration>
       <pubDate>Tue, 29 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/de-kittelklaedte-helte-11032562626</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5be60bfb1c9b6a226f/32574eb64b25066f6b704449d59942acfd2427e73707028312ff61a0b8f3e145" length="46575794" type="audio/mpeg"/>
@@ -129,7 +129,7 @@ Lyddesign: Chris Pedersen.</description>
       <description>Hun mistede hovedet i 1793, men popkulturen e stadig besat af den franske modedronning. Popsmart undersøger myten om Marie Antoinette i selskab med teaterinstruktøren Anna Balslev.  De taler om Marie Antoinette som &quot;den perfekte tidskamæleon&quot;, og hvorfor hun minder om moderne influencere.
 Gæster: Anna Balslev;  husinstruktør ved Det kongelige teater.
 Jørn Bøisen; lektor i fransk historie, kultur og litteratur ved Københavns Universitet.</description>
-      <duration>00:39:18</duration>
+      <itunes:duration>00:39:18</itunes:duration>
       <pubDate>Tue, 22 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/marie-antoinette-den-evige-it-girl-11032562625</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5ce60bfb1c9b6a227b/3333f5a53c7c0ad3ed700717c95ee5e588bfc7f9b4c07968b3e4f7b80f210c37" length="56607991" type="audio/mpeg"/>
@@ -142,7 +142,7 @@ Vært: Chris Pedersen.
 Gæster: Anders Morgenthaler, filmskaber og satiriker, og Dennis Meyhoff Brink, satireforsker.
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller.
 Lyddesign: Chris Pedersen.</description>
-      <duration>00:36:31</duration>
+      <itunes:duration>00:36:31</itunes:duration>
       <pubDate>Tue, 15 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/maga-humor-slaar-igen-paa-netflix-11032562624</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae4ee60bfb1c9b6a2209/28fc16580d62f64b6625a715d78e0c94109a82fe224fd93dd67d13f71afb635f" length="52601898" type="audio/mpeg"/>
@@ -156,7 +156,7 @@ Gæster: Kristine Virén, arkitekt og formidlingschef i Bolius, og Claus Meyer, 
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller.
 Lyddesign: Chris Pedersen.
 Redaktør: Lasse Lauridsen</description>
-      <duration>00:29:16</duration>
+      <itunes:duration>00:29:16</itunes:duration>
       <pubDate>Tue, 08 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/meghan-markle-og-det-ubrugte-koekken-11032562623</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5fe60bfb1c9b6a2290/0baac3682b913a948edf3ec0cf4780036afcea4e68a3e8aaa96c7d26c96617b9" length="42149241" type="audio/mpeg"/>
@@ -170,7 +170,7 @@ Gæster: Henrik Jøker Bjerre, lektor i anvendt filosofi på Aalborg Universitet
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller.
 Lyddesign: Chris Pedersen.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:31:25</duration>
+      <itunes:duration>00:31:25</itunes:duration>
       <pubDate>Tue, 01 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/den-farlige-nostalgi-11032562622</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae65e60bfb1c9b6a22d2/970df2eb39cebfe36b45e18efbd7e5110dae3c70a20fda03efd0440a8e51fbc2" length="45259639" type="audio/mpeg"/>
@@ -183,7 +183,7 @@ Vært: Chris Pedersen.
 Gæster: Billedkunstner Maja Malou Lyse og Louise Yung Nielsen, forsker og lektor på RUC.
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller.
 Lyddesign: Chris Pedersen.</description>
-      <duration>00:36:47</duration>
+      <itunes:duration>00:36:47</itunes:duration>
       <pubDate>Tue, 25 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/intimitet-til-salg-11032562621</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5381654c75b6ca58ff/204ea396840bda2594669b9b7e6876854246efeb25c1172f626341283c2c6f18" length="52979768" type="audio/mpeg"/>
@@ -197,7 +197,7 @@ Vært: Chris Pedersen
 Gæster: Kunstner Cecilie Waagner Falkenstrøm og Maria Månson, kulturjournalist og vært på What2Watch.
 Reportere: Natasha Dyasi Kleinschmidt og Magnus Møller.
 Lyddesign: Chris Pedersen</description>
-      <duration>00:33:36</duration>
+      <itunes:duration>00:33:36</itunes:duration>
       <pubDate>Tue, 18 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/de-kvindelige-draeberobotter-gaar-amok-11032562620</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae6481654c75b6ca5968/ab89c4448675493716006e8d2c04ad97a428fdeed88946f095f0a270218dbb2d" length="48388476" type="audio/mpeg"/>
@@ -209,7 +209,7 @@ Vært Chris Pedersen
 Gæster debattør, kulturkritiker og vært på &quot;Damerne først&quot;, Anne Sophia Hermansen og Rasmus Rosenørn, museumsinspektør på rockmuseet Ragnarock.
 Reportere Natasha Dyasi Kleinschmidt og Magnus Møller
 Redaktør Lasse Lauridsen</description>
-      <duration>00:33:51</duration>
+      <itunes:duration>00:33:51</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/hvem-er-vi-uden-coca-cola-og-kim-kardashian-11032562619</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae5181654c75b6ca58f4/07848cedb22f38a127307d28ae3010d51e73566f155defad789416fb45c0bde1" length="48748458" type="audio/mpeg"/>
@@ -223,7 +223,7 @@ Vært Chris Pedersen.
 Gæster kulturjournalist Lone Nikolajsen fra Dagbladet Information samt psykolog Frej Prahl. 
 Reportere Nanna van Toornburg og Natasha Dyasi Kleinschmidt.
 Lyddesigner Thomas Holmby Hansen.</description>
-      <duration>00:43:01</duration>
+      <itunes:duration>00:43:01</itunes:duration>
       <pubDate>Tue, 04 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/derfor-er-psykologen-et-moderne-orakel-11032562618</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae69e60bfb1c9b6a22ec/acf033acbb4c029efdd08014c57f7358519ce5b6c1da50a38767cb7988f6ed52" length="61953271" type="audio/mpeg"/>
@@ -237,7 +237,7 @@ Gæster: Film og tv-redaktør Christian Monggaard fra dagbladet Information, og 
 Reporter: Nanna Van Toornburg.
 Lyddesigner: Thomas Holmby Hansen.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:41:01</duration>
+      <itunes:duration>00:41:01</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/hollywood-boerster-asken-af-11032562617</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae63e60bfb1c9b6a22bb/681e1e237070dfe338cd36ab3e2760c4b30086887147692e375c4f9c50944109" length="59072697" type="audio/mpeg"/>
@@ -250,7 +250,7 @@ Gæster Kristoffer Dahy Ernst, chefredaktør på Euroman og Gastro, madsociolog 
 Reporter Nanna Van Toornburg.
 Lyddesign Thomas Holmby.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:40:44</duration>
+      <itunes:duration>00:40:44</itunes:duration>
       <pubDate>Tue, 18 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/besat-af-mad-11032562616</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae64e60bfb1c9b6a22c3/124fdfebaa949192d788cb1bcce33233d792637115dc43cbc5f48a060ce38281" length="58664308" type="audio/mpeg"/>
@@ -265,7 +265,7 @@ og Rasmus Ugilt, filosof.
 Reporter Nanna Van Toornburg.
 Lyddesigner Thomas Holmby.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:39:14</duration>
+      <itunes:duration>00:39:14</itunes:duration>
       <pubDate>Tue, 11 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/hvorfor-elsker-vi-at-hade-11032562615</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae56e60bfb1c9b6a224f/ad9821eb10e2170a36db22603f8c4eb3aca98a4133e42ad7c7593f9e5e1a9b0b" length="56502588" type="audio/mpeg"/>
@@ -278,7 +278,7 @@ Gæster Birgitte Borup, kulturredaktør på Berlingske Tidende og Esben Weile Kj
 Reporter Nanna Van Toornburg.
 Lyddesigner Thomas Holmby.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:41:51</duration>
+      <itunes:duration>00:41:51</itunes:duration>
       <pubDate>Tue, 04 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/woke-bevaegelsen-popkulturelle-krampetraekninger-11032562614</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae58e60bfb1c9b6a225f/ce7016f4cd46025ccc68b0def3409a95e74c86d1d8636e10a6af9724be9e8736" length="60273656" type="audio/mpeg"/>
@@ -291,7 +291,7 @@ Vært Chris Pedersen.
 Reporter Nanna Van Toornburg.
 Lyddesign Thomas Holmby.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:37:15</duration>
+      <itunes:duration>00:37:15</itunes:duration>
       <pubDate>Tue, 28 Jan 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/dopaminkulturen-stjaeler-din-tid-11032562613</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae51e60bfb1c9b6a221e/1b2672050292d788d1833e7e485dc9f64d8622af41eded9be6ba4a43cfa71c62" length="53653120" type="audio/mpeg"/>
@@ -304,7 +304,7 @@ Vært Chris Pedersen.
 Reporter Natasha Dyasi.
 Lyddesign Thomas Holmby Hansen.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:37:54</duration>
+      <itunes:duration>00:37:54</itunes:duration>
       <pubDate>Tue, 21 Jan 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/har-luksus-sejret-sig-ihjel-11032562612</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae4d81654c75b6ca58ce/30ff17e0b70266794d99a308ae4657b67bd5dfcde40dd9842b105cbd52536d5f" length="54586809" type="audio/mpeg"/>
@@ -317,7 +317,7 @@ Gæst Bodil Skovgaard Nielsen, litteraturanmelder og kulturjournalist på Dagbla
 Producer Natasha Dyasi.
 Lyddesign Thomas Holmby Hansen.
 Redaktør Lasse Lauridsen.</description>
-      <duration>00:36:45</duration>
+      <itunes:duration>00:36:45</itunes:duration>
       <pubDate>Tue, 14 Jan 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/det-politiske-fjaes-11032562611</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae51e60bfb1c9b6a2222/abea0dc1c09b03d5250a1e2567049c7d7b345979c02c86139b6adb1d72afd3e4" length="52934837" type="audio/mpeg"/>
@@ -327,7 +327,7 @@ Redaktør Lasse Lauridsen.</description>
       <description>En ny generation af mandlige Hollywoodstjerner som Paul Mescal, Josh O'Connor og Timothée Hal Chalamet har taget kampen op mod filmbyens hårdtslående action mænd og skruer nu op for både følelser og sexappeal i roller som homoseksuelle mænd. Popsmart undersøger hvorfor Hollywood nu omfavner bøssen på film, og hvad det fortæller om tidens nye manderoller, når James Bond-ikonet  Daniel Craig har hed sex med Drew Starkey i filmen &quot;Queer&quot;. 
 Gæst Christian Monggaard, film og tv-redaktør på Dagbladet Information og kønsforsker Cecilie Nørgaard.
 Vært: Chris Pedersen. Producer Katrine Hornstrup Yde. Lyddesign Thomas Holmby Hansen. Redaktør Lasse Lauridsen.</description>
-      <duration>00:37:11</duration>
+      <itunes:duration>00:37:11</itunes:duration>
       <pubDate>Tue, 07 Jan 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2025/hed-homosex-i-hollywood-11032562610</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6772ae53e60bfb1c9b6a2232/aba26003298d1f5f94306829238cd8958d5fddc409a0e91d5b50db5cba264812" length="53552894" type="audio/mpeg"/>
@@ -339,7 +339,7 @@ Vært: Chris Pedersen.
 Gæster: Mikka Tecza, digital redaktør på Weekendavisen og Eva Skafte Jensen, sprogforsker hos Dansk Sprognævn.
 Producer: Katrine Hornstrup Yde.
 Redaktør: Lasse Lauridsen.</description>
-      <duration>00:33:24</duration>
+      <itunes:duration>00:33:24</itunes:duration>
       <pubDate>Tue, 17 Dec 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2024/ordet-der-fangede-tidsaanden-11032462603</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462f05aa7bc2beae013672/b484d81a89649af1ebd3a6d6303b3a33e3c2192c61197a6f8a7db11d4708bc64" length="48101629" type="audio/mpeg"/>
@@ -348,7 +348,7 @@ Redaktør: Lasse Lauridsen.</description>
       <title>Overgangsalderen er blevet hot</title>
       <description>Overgangsalderen er blevet &quot;hot topic&quot; i popkulturen, hvor filmstjerner, influencere, komikere og tv-serier sætter fokus på et fænomen, der ellers har været tæt på usynlig. Det er blandt andre filmstjerner som Naomi Watts og Halle Berry, der kaster lys på overgangsalderen, men hedeture, søvnløshed og  tv-serier og standup shows bruger nu også hedeture og søvnløshed som punchlines. 
 Filmanmelder og phd-studerende Katrine Sommer Boysen forsker i overgangsalderen som popkulturelt fænomen, og hun er gæst hos Chris Pedersen i Popsmart.</description>
-      <duration>00:39:48</duration>
+      <itunes:duration>00:39:48</itunes:duration>
       <pubDate>Tue, 10 Dec 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2024/overgangsalderen-er-blevet-hot-11032462602</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462f05f43ee13a09ac2dae/4644e1f7d08848bbd52d91e442271975846c51b2de46f19ca53d5dbc3c7b2818" length="57317610" type="audio/mpeg"/>
@@ -356,7 +356,7 @@ Filmanmelder og phd-studerende Katrine Sommer Boysen forsker i overgangsalderen 
     <item>
       <title>Popkulturen er gået i barndom</title>
       <description>Popkulturen er gået i barndom og dyrker alt fra computerspil, Lego og Barbie universet nærmest uden skam. Men hvad er det ved vores tid, der får os til at proppe os med gourmet skumfiduser, dyrke det indre barn og den instinktive nydelse. Det undersøger Chris Pedersen i dagens Popsmart i selskab med filosof og forfatter Rasmus Ugilt.</description>
-      <duration>00:34:45</duration>
+      <itunes:duration>00:34:45</itunes:duration>
       <pubDate>Tue, 03 Dec 2024 12:16:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/popsmart/popsmart-2024/popkulturen-er-gaaet-i-barndom-11032462601</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67462f05aa7bc2beae01366a/7e03de512fe463ae8910f0a67b05d6500cc21293aec7b392ac82919e4827b869" length="50065212" type="audio/mpeg"/>

@@ -3,10 +3,10 @@
   <channel>
     <title>Lægens bord</title>
     <link>https://www.dr.dk/lyd/p1/laegens-bord-4053955599000</link>
-    <description>I denne sæson af Lægens Bord kigger Peter Qvortrup Geisling på demenssygdomme. Demens er den fjerde mest almindelige dødsårsag i Danmark, og alligevel er sygdommen omgivet af myter og misforståelser. 
-I serien får Peter besøg af forskellige eksperter, der hjælper os med at forstå forskellen på normal aldring og demens, hvad man egentlig kan gøre for at forebygge sygdommen, og hvornår det er tid for et menneske med demens at komme på plejehjem. Vi besøger også Tom, Peter, Lotte og deres pårørende, der hver især giver et indblik i de tanker, følelser og dilemmaer, en hverdag med demens i forskellige stadier giver. 
-Vært: Peter Qvortrup Geisling.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67015e04075f9278992e1644.jpg"/>
+    <description>I denne sæson af Lægens Bord handler det om at være voksen med ADHD. 
+For alle kender den stereotype forestilling af en skoledreng, der har svært ved at sidde stille og høre efter. Men hvordan ser ADHD ud i et voksenliv? Hvordan påvirker det arbejde, relationer, parforhold og forældreskab? Og hvordan slår det særligt hårdt, hvis man er voksen og kvinde?
+Det undersøger DR's sundhedskorrespondent, Peter Qvortrup Geisling, i disse fire afsnit, hvor han også får svar på, om den store stigning i antallet af voksne med ADHD, som vi oplever for tiden, skyldes, at diagnosen er blevet et modefænomen?</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2c4454d565d1ad75bfe"/>
     <item>
       <title>Psykiatri: Når mørket tager over</title>
       <description>Peter Øvig Knudsen, journalist og forfatter, bliver i 2018 ramt af en svær psykotisk depression. 
@@ -15,7 +15,7 @@ Peter får en serie på 7 elektrochokbehandlinger på Rigshospitalet, og vi er m
 Op mod hver 5. dansker får på et tidspunkt i livet en depression, og det er vigtigt at være opmærksom på symptomerne, for hjernen kan tage skade af ikke at få den rigtige behandling.  
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:55:32</duration>
+      <itunes:duration>00:55:32</itunes:duration>
       <pubDate>Thu, 12 Jan 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-naar-moerket-tager-over-11802300802</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63b213ca9c2c142ce1cfadda/77388401b6572c103dd90e8296a0b9ec74cc1c98c9749523fa7d948cbd01c1e2" length="79968475" type="audio/mpeg"/>
@@ -29,7 +29,7 @@ Flere end 300.000 børn og unge vokser op med en mor eller far med psykisk sygdo
 Så hvad skal voksne være opmærksomme på?
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:55:42</duration>
+      <itunes:duration>00:55:42</itunes:duration>
       <pubDate>Thu, 19 Jan 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-mor-har-en-psykisk-sygdom-11802300803</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63bb4f16d2052f8a0131a28f/a0b61b446514eef3287a5da67ff935bdd4e2f530b761489695e9f4b4e62a292a" length="80211547" type="audio/mpeg"/>
@@ -44,7 +44,7 @@ Men hvorfor er der sket så stor en stigning, hvorfor får nogle først diagnose
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 (Sendt første gang 26. januar).</description>
-      <duration>00:55:15</duration>
+      <itunes:duration>00:55:15</itunes:duration>
       <pubDate>Thu, 26 Jan 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-mit-liv-med-adhd-11802300804</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63c4894b5d446604cb9360c8/0c4780a4875daa9de771937960f911bc5b2e791386c2dc396f9af133dee2757e" length="79562971" type="audio/mpeg"/>
@@ -58,7 +58,7 @@ Du kan også komme med forbi den Psykiatriske Akutmodtagelse i Roskilde. Her bim
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 (Sendt første gang 2. februar).</description>
-      <duration>00:55:40</duration>
+      <itunes:duration>00:55:40</itunes:duration>
       <pubDate>Thu, 02 Feb 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-psykiatrisk-hjaelp-nu-11802300805</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63cdc3143a290c242ecb8b7f/1ac69a253fca7f06a312de9062d21842e0afbc56cc1ad528e0799742b02d8e8d" length="80180443" type="audio/mpeg"/>
@@ -72,7 +72,7 @@ Men hvem er det, der bliver indlagt? Hvordan er det at være på en lukket afdel
 Vært: Peter Qvortrup Geisling. 
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann. 
 (Sendt første gang 9. februar).</description>
-      <duration>00:54:51</duration>
+      <itunes:duration>00:54:51</itunes:duration>
       <pubDate>Thu, 09 Feb 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-indlagt-paa-en-lukket-afdeling-11802300806</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63d6fed8a1531f34960ea137/1f5656ae025c22e739835788c141ef8363f639cd37cdb5903cc0a8ad5b96d7ee" length="78984667" type="audio/mpeg"/>
@@ -85,7 +85,7 @@ I Danmark har cirka 30.000 mennesker skizofreni. Mange lever et liv med lette sy
 Vært: Peter Qvortrup Geisling. 
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann. 
 (Sendt første gang 16. februar).</description>
-      <duration>00:55:36</duration>
+      <itunes:duration>00:55:36</itunes:duration>
       <pubDate>Thu, 16 Feb 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-skizofreniens-mange-ansigter-11802300807</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63e03975814bbe16385146de/f391c72b51fe434300c569aec675d55b99621184ba1e59732ca33f866bec154d" length="80069851" type="audio/mpeg"/>
@@ -97,7 +97,7 @@ Når studerende på Roskilde Universitet har det skidt, så kan de komme til stu
 Næsten halvdelen af alle unge oplever en grad af mistrivsel. I dag taler vi om, hvilke advarselstegn forældre skal være opmærksomme på. Og hvornår er der egentlig tale om mistrivsel? 
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:54:56</duration>
+      <itunes:duration>00:54:56</itunes:duration>
       <pubDate>Thu, 23 Feb 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-mistrives-mit-barn-11802300808</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63e973b44412e3b8c36f22d2/3293462189b2d7925f0211a31a17fa27f212c5461f1ec6b343cf76a814bb871f" length="79121755" type="audio/mpeg"/>
@@ -111,7 +111,7 @@ Vi mødte nu 34-årige Jannik Olsen og 32-årige Louise Anderskou, der begge har
 Nu - mere end tre år senere - kan du møde alle fire igen. Har deres psykiske sygdom stået i vejen for deres drømme? 
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:55:29</duration>
+      <itunes:duration>00:55:29</itunes:duration>
       <pubDate>Thu, 02 Mar 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/psykiatri/psykiatri-kampen-for-et-bedre-liv-11802300809</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63f63f14fe6a65856b1628fd/d710166704c17bbed324dbb5ef8a1b19a6319f3d602d359d9c87f9912d1aaa5e" length="79913179" type="audio/mpeg"/>
@@ -124,7 +124,7 @@ Internationale tal tyder på, at op mod hver tiende mand eksempelvis rammes af P
 Du kommer også til at møde Erik, der har kæmpet med skæv penis, og vi er med, når han skal behandles for det. For der ér faktisk noget at gøre.   
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Vært: Peter Qvortrup Geisling.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Fri, 11 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-problemer-med-penis-11802200801</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636b91aa29364a6f99a081c8/cc72c6d603c1353de5f8fb69912799e9f8e3f3c917a307bc0e673bb9f1fb2541" length="82089307" type="audio/mpeg"/>
@@ -136,7 +136,7 @@ Christian gik til genoptræning 3 gange om ugen, og vi er også hoppet op på mo
 Cirka 85.000 mennesker lever med en demenssygdom herhjemme - men kun 40.000 har en diagnose. Så hvilke symptomer skal du være opmærksom på, når det handler om demens?
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:57:12</duration>
+      <itunes:duration>00:57:12</itunes:duration>
       <pubDate>Thu, 05 Jan 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-sygdom-i-hjernen-11802300801</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63a8d9efb23ac67e5b5388c0/e20ad69cbaba9c9275473657275f1c38b0c623b450baffc441c22ae0bae94477" length="82377883" type="audio/mpeg"/>
@@ -151,7 +151,7 @@ Og sammen med vores ekspert i studiet vil vi gøre dig klogere på advarselstegn
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann. 
 Vært: Peter Qvortrup Geisling.
 (Sendt førte gang 18. november).</description>
-      <duration>00:57:09</duration>
+      <itunes:duration>00:57:09</itunes:duration>
       <pubDate>Fri, 18 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-pas-paa-psykopaten-11802200802</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636b91aa29364a6f99a081cc/909946687671fd7282856e6208b42a248c3ca06482efec379536d454e9ebfb1b" length="82317979" type="audio/mpeg"/>
@@ -164,7 +164,7 @@ Op mod en halv million danskere har knogleskørhed uden at vide det, men diagnos
 Og sammen med vores ekspert i studiet bliver vi klogere på de advarselstegn, du skal være opmærksom på, og hvordan man sagtens kan leve et godt liv med knogleskørhed.  
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:57:10</duration>
+      <itunes:duration>00:57:10</itunes:duration>
       <pubDate>Fri, 25 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-de-skroebelige-knogler-11802200803</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636d25f1be335ada05b2db78/8fd15420b62057eb3438a2ad23c556e13f2a7cb111eaea5ff4f9f2cc9b543db1" length="82343899" type="audio/mpeg"/>
@@ -176,7 +176,7 @@ Vi møder også Flemming Schou på Hovedbanegården i København, hvor Diabetesb
 Cirka 80.000 danskere har type 2-diabetes - uden at vide det. Den sygdom forårsager skader mange steder i kroppen, hvis den ikke bliver konstateret, og derfor er det vigtigt, at du kender advarselstegnene på den.  
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:56:41</duration>
+      <itunes:duration>00:56:41</itunes:duration>
       <pubDate>Fri, 02 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-blodsukker-paa-rutsjetur-11802200804</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636d25f12b7e3ab8c2f4e1a3/9279f9254a5346d4da5c875337be2eaedcbb65fb7649bedfaf728fc1fabc1380" length="81643483" type="audio/mpeg"/>
@@ -188,7 +188,7 @@ En forsker undersøger, om det kan bruges i behandlingen af lungesygdom at gå i
 400.000 danskere har KOL, men de 200.000 af dem ved det ikke. Og det duer ikke, for reagerer du på symptomerne i tide, kan du leve et godt liv med KOL. Så hvilke symptomer skal du være opmærksom på? 
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:56:34</duration>
+      <itunes:duration>00:56:34</itunes:duration>
       <pubDate>Fri, 09 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-lunger-paa-overarbejde-11802200805</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636d25f4be335ada05b2db81/e1652fb0f65460ce349ab46157c0f5f72405182f581f920bd0405daa0d6c92c8" length="81475867" type="audio/mpeg"/>
@@ -202,7 +202,7 @@ Endometriose rammer hver tiende yngre kvinde, men under to procent får en diagn
 Vi kommer også omkring PCOS, en sygdom i æggestokkene, som rammer mellem fem og ti procent af alle kvinder. Men mange ved ikke, at det er den, de har. 
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.</description>
-      <duration>00:57:10</duration>
+      <itunes:duration>00:57:10</itunes:duration>
       <pubDate>Fri, 16 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-av-mit-underliv-11802200806</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636d25f2be335ada05b2db7c/de976131fb74e1ea8d8bdc2b41a0f23d484a8214af5649f68a1434884c623d4c" length="82327771" type="audio/mpeg"/>
@@ -216,7 +216,7 @@ En million danskere har for højt blodtryk, men 300.000 af dem ved det ikke.
 Mindst halvdelen af de 15.000 strokes - blodpropper i hjernen og hjerneblødninger - der hvert år ses herhjemme, skyldes for højt blodtryk, der ikke er behandlet. Hvilke advarselstegn skal du være opmærksom på, og hvordan hjælper du i det hele taget dit hjerte?  
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Vært: Peter Qvortrup Geisling.</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Fri, 23 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/lyt-til-din-krop/lyt-til-din-krop-hjaelp-dit-hjerte-11802200807</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6397b6fb872fcf1b9808f05b/651dfc34274dba8adce5894acc23a98bbe19b5fcee72033b4cbf49ba2888ce47" length="82199899" type="audio/mpeg"/>
@@ -228,7 +228,7 @@ Vært: Peter Qvortrup Geisling.</description>
 Vært: Peter Qvortrup Geisling. 
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:31:00</duration>
+      <itunes:duration>00:31:00</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/adhd/adhd-1-4-har-jeg-altid-haft-adhd-11802400811</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746e8ede61fb353153f9e69/44c88665cfad847348980c960ba7c928f21622e74cd14d665ba83399863859cf" length="44653418" type="audio/mpeg"/>
@@ -240,7 +240,7 @@ Lyddesigner: Jakob Franck.</description>
 Vært: Peter Qvortrup Geisling. 
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:34:47</duration>
+      <itunes:duration>00:34:47</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/adhd/adhd-2-4-kvinder-og-adhd-11802400812</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746e8ee4a42ce2aa3653014/e854e859f751e41998248a1fe3c66b3d0ebd6baadfe97f8b4cfe762834c37780" length="50101802" type="audio/mpeg"/>
@@ -252,7 +252,7 @@ Lyddesigner: Jakob Franck.</description>
 Vært: Peter Qvortrup Geisling.
 Tilrettelægger: Louise Raundahl. 
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:35:03</duration>
+      <itunes:duration>00:35:03</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 05:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/adhd/adhd-3-4-et-modefaenomen-11802400813</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746e8ef6565d5718410eb98/57d2fe296c0ea18e00c513cd76dd606610cf3925dd366a834f01c170b75aeb44" length="50485418" type="audio/mpeg"/>
@@ -264,7 +264,7 @@ Lyddesigner: Jakob Franck.</description>
 Vært: Peter Qvortrup Geisling.
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:35:31</duration>
+      <itunes:duration>00:35:31</itunes:duration>
       <pubDate>Wed, 04 Dec 2024 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/adhd/adhd-4-4-behandling-11802400814</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6746e8eda5616e00844359bc/cf7f7c2ed8655df6dd2fce5e77f2c0c5d7f97912493171ada8381365b8b16adc" length="51168554" type="audio/mpeg"/>
@@ -275,7 +275,7 @@ Lyddesigner: Jakob Franck.</description>
 Vært: Peter Qvortrup-Geisling.
 Tilrettelægger: Louise Raundahl.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:25:37</duration>
+      <itunes:duration>00:25:37</itunes:duration>
       <pubDate>Sun, 25 Aug 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/demens/demens-1-4-advarselstegn-11802400801</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c610cf136d664ca871b791/8d9cf2e1a6e7e3941a6ab12cee9127db892b487a9053743bf2759671d6185376" length="36897286" type="audio/mpeg"/>
@@ -287,7 +287,7 @@ Vi besøger også Lotte, der har alzheimers i et tidligt stadie, og hendes datte
 Vært: Peter Qvortrup Geisling.
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:25:24</duration>
+      <itunes:duration>00:25:24</itunes:duration>
       <pubDate>Sun, 01 Sep 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/demens/demens-2-4-forebyggelse-11802400802</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c85105a56be59b02d4f508/0b47f6be094b2088370e885370765e37df72b0c271512750fc5e1056a9144b1f" length="36579336" type="audio/mpeg"/>
@@ -299,7 +299,7 @@ Vi besøger også Tom og hans kone, Silje, der lige nu står midt i den svære b
 Vært: Peter Qvortrup Geisling.
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:30:03</duration>
+      <itunes:duration>00:30:03</itunes:duration>
       <pubDate>Sun, 08 Sep 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/demens/demens-3-4-tid-til-plejehjem-11802400803</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c85103a127df4c0a29bb49/4489d70e25ce0da752a9b1c7b59c5993e933154b12aa8bd45c7ee6a5f0c2d427" length="43281107" type="audio/mpeg"/>
@@ -311,7 +311,7 @@ Vi møder også Peter og hans kone, Lene. De fortæller, hvordan de navigerer i 
 Vært: Peter Qvortrup Geisling.
 Tilrettelægger: Louise Raundahl.
 Lyddesigner: Jakob Franck.</description>
-      <duration>00:28:05</duration>
+      <itunes:duration>00:28:05</itunes:duration>
       <pubDate>Sun, 15 Sep 2024 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/demens/demens-4-4-haabet-om-en-behandling-11802400804</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c85103a56be59b02d4f500/bb67e35e5e3c1f5ee762df886e5fee0d0651989e4ae4d469681deb97d95cc761" length="40448907" type="audio/mpeg"/>
@@ -323,7 +323,7 @@ Den tidligere skuespiller Søren Byder oplevede sig selv som en tom skal, da han
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:21:22</duration>
+      <itunes:duration>00:21:22</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-1-6-kaos-i-kulissen-11802300810</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6526840f1a54214de9967504/15fd99379a823ec00d5ea70cfdabf98222a6e16bd953d5c3127fcbadacf3f66a" length="30961819" type="audio/mpeg"/>
@@ -336,7 +336,7 @@ Det har krævet flere ting at indrette sig på den måde, for samtidig skal der 
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann. 
 Lyddesign: Jakob Franck.</description>
-      <duration>00:24:52</duration>
+      <itunes:duration>00:24:52</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-2-6-en-krop-i-alarm-11802300811</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63f63d13f97d042fe6a42a48/b63f115596803cdc1ac4b016f04d5bdf575bf2967ceaf58454efd041a9ed47db" length="36013915" type="audio/mpeg"/>
@@ -348,7 +348,7 @@ Vi besøger den brasilianskfødte kagenørd for at finde ud af, hvordan det lykk
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:24:35</duration>
+      <itunes:duration>00:24:35</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-3-6-en-afgoerende-fyreseddel-11802300812</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6526840dbe1d50a861594c97/151806cf6a2d2a84e2e699eb08cae0dec581b32cfb5a1e49fa108cf86b96e5cd" length="35606107" type="audio/mpeg"/>
@@ -361,7 +361,7 @@ Tores historie handler blandt andet om at sige nej til Folketinget og ja til næ
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:24:12</duration>
+      <itunes:duration>00:24:12</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-4-6-koert-over-af-succes-11802300813</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6526840c1a54214de99674ef/d4b86e275ac969c9b76b5a8dd9185576249bf703c2b0860edac83db2a01ea6db" length="35045659" type="audio/mpeg"/>
@@ -373,7 +373,7 @@ Det, der gør os mennesker smukke, er, når vi udlever vores drømme. Så nu ska
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:21:12</duration>
+      <itunes:duration>00:21:12</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:04:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-5-6-mormor-vaekker-droemmene-11802300814</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6526840dbe1d50a861594c9b/c6477ee5e987afeebcf3358f8bf0c1c571803819c620a0d2de39d65bfb94624b" length="30722203" type="audio/mpeg"/>
@@ -385,7 +385,7 @@ Det kender Jane Madvig til. I sit drømmejob som Esbjerg Kommunes turistchef, og
 Vært: Peter Qvortrup Geisling.
 Tilrettelæggere: Louise Raundahl og Cathrine Lakmann.
 Lyddesign: Jakob Franck.</description>
-      <duration>00:26:50</duration>
+      <itunes:duration>00:26:50</itunes:duration>
       <pubDate>Mon, 23 Oct 2023 05:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/laegens-bord/u-vending/u-vending-6-6-altid-andre-foerst-11802300815</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6526840b4518f25beeb6c858/2154d624484d42613afc603cb8877dfae7e441d8e79ea4a83737579b630d9ccf" length="38846107" type="audio/mpeg"/>

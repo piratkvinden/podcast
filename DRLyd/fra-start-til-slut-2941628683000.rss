@@ -7,7 +7,7 @@
 Første kunstner er David Bowie.
 Vært og tilrettelægger: Jesper Borup.
 Lydproduktion: Steen Svendsen.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67001c3efd6dd215a9aa9beb.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2c210626a60f8e28a99"/>
     <item>
       <title>1:28 - 'David Bowie'</title>
       <description>En ung mand med mange talenter leder efter sit eget udtryk. Han har de forkerte forbilleder og de forkerte samarbejdspartnere, og musikalsk går det den helt forkerte vej.
@@ -33,7 +33,7 @@ Velvet Underground: Sunday Morning
 Little Richard: Tutti Frutti
 Fats Domino: Blueberry Hill
 The Platters: Only You</description>
-      <duration>00:25:06</duration>
+      <itunes:duration>00:25:06</itunes:duration>
       <pubDate>Tue, 05 Jan 2021 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/1-28-david-bowie-16452170001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173806c12863ced19ec29/b8864e0c2adea637164c70c3599677426f3e682011b0a63e9d617b554ae35657" length="36158445" type="audio/mpeg"/>
@@ -55,7 +55,7 @@ David Bowie: Space Oddity
 David Bowie: The Man Who Sold the World
 Feathers: Ching-a-ling
 Tyrannosaurus Rex: Chariots of Silk</description>
-      <duration>00:30:09</duration>
+      <itunes:duration>00:30:09</itunes:duration>
       <pubDate>Fri, 08 Jan 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/2-28-space-oddity-16452170002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173816c12863ced19ec2c/8eb8d4f873cf1c7b9a0a2a2172eb2bf2071db0312f9df6d3bc6486dbbc2522cf" length="43418925" type="audio/mpeg"/>
@@ -79,7 +79,7 @@ Nirvana: The Man Who Sold the World
 Led Zeppelin: Whole Lotta Love
 Cream: Sunshine of Your Love
 Black Sabbath: War Pigs</description>
-      <duration>00:26:26</duration>
+      <itunes:duration>00:26:26</itunes:duration>
       <pubDate>Fri, 08 Jan 2021 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/3-28-the-man-who-sold-the-world-16452170003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173826c12863ced19ec2f/29abe10b05e18c8bf7075b9f5843bc582d900ce4ed7a2de62b27a5a1668df38f" length="38086893" type="audio/mpeg"/>
@@ -108,7 +108,7 @@ The Beatles: Hey Jude
 Queen: Bohemian Rhapsody
 Frank Sinatra: My Way
 Yes: Close to the Edge</description>
-      <duration>00:33:22</duration>
+      <itunes:duration>00:33:22</itunes:duration>
       <pubDate>Fri, 08 Jan 2021 06:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/4-28-hunky-dory-16452170004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173836c12863ced19ec31/f50d12974f8829b468a109637af90e626db4658106831d10fadb130d2a5e1371" length="48072429" type="audio/mpeg"/>
@@ -138,7 +138,7 @@ Pink Floyd: Comfortably Numb
 Eagles: Hotel California 
 Walkers: Sha La La La La
 Vengaboys: : Sha La La La La</description>
-      <duration>00:33:53</duration>
+      <itunes:duration>00:33:53</itunes:duration>
       <pubDate>Tue, 19 Jan 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/5-28-ziggy-stardust-16452170005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173846c12863ced19ec35/bfec06fcf867dd7832e7db4ac518cf0a8d024ad64e4adaa067ab9f5e94dc38eb" length="48793581" type="audio/mpeg"/>
@@ -164,7 +164,7 @@ Rolling Stones: Let's Spend the Night Together
 New York Dolls: Jet Boy
 C.V. Jørgensen: Bellevue
 C.V. Jørgensen: Abonnenten</description>
-      <duration>00:33:32</duration>
+      <itunes:duration>00:33:32</itunes:duration>
       <pubDate>Tue, 26 Jan 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/6-28-aladdin-sane-16452170006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173856c12863ced19ec3c/6fac5fc209826e515694579e791dbb0b5c09e404cde0ecddcb6721025c057ee8" length="48297069" type="audio/mpeg"/>
@@ -196,7 +196,7 @@ David Bowie: All the Young Dudes
 Bruce Dickinson: All the Young Dudes
 Mott the Hoople: All the Young Dudes
 Ozzy Osbourne: All the Young Dudes</description>
-      <duration>00:32:33</duration>
+      <itunes:duration>00:32:33</itunes:duration>
       <pubDate>Tue, 02 Feb 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/7-28-pin-ups-16452170007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173866c12863ced19ec43/9cf80a2834bb2a11474540df0dd5568c9f9dbfc97eb9941ab416379d8788b9c0" length="46886445" type="audio/mpeg"/>
@@ -223,7 +223,7 @@ Larkin Poe - God Moves on the Water
 Mötley Crüe: In the Beginning
 David Bowie: We Are the Dead
 Prince: Let's Go Crazy</description>
-      <duration>00:35:30</duration>
+      <itunes:duration>00:35:30</itunes:duration>
       <pubDate>Tue, 09 Feb 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/8-28-diamond-dogs-16452170008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173876c12863ced19ec47/a910fc0d630d6d851100b874102a27609e97460bad66cf3852c59001f5a1b78f" length="51139053" type="audio/mpeg"/>
@@ -259,7 +259,7 @@ Roxy Music: Love Is the Drug
 ABC: The Look of Love
 The Beatles: Across the Universe
 The Beatles: A Day in the Life</description>
-      <duration>00:35:30</duration>
+      <itunes:duration>00:35:30</itunes:duration>
       <pubDate>Tue, 16 Feb 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/9-28-young-americans-16452170009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173886c12863ced19ec4e/af6214f0f08dbf708232ae9ae374c1cf782b34a46b5d8066f90569816a883402" length="51125229" type="audio/mpeg"/>
@@ -289,7 +289,7 @@ Gary Glitter: Rock and Roll (Part 1 &amp; 2)
 Slade: Cum On Feel the Noize 
 T.Rex: I Love to Boogie
 Suzi Quatro: Rock Hard</description>
-      <duration>00:35:12</duration>
+      <itunes:duration>00:35:12</itunes:duration>
       <pubDate>Tue, 23 Feb 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/10-28-station-to-station-16452170010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173896c12863ced19ec52/0d8263e7741f023a692b0d015a701d20d02d6d705c842bb81c1deacfd786fa3c" length="50700141" type="audio/mpeg"/>
@@ -322,7 +322,7 @@ Iggy Pop: Mass Production
 Iggy Pop: The Passenger
 Bad Company:  Burnin' Sky
 Thin Lizzy: Johnny</description>
-      <duration>00:35:18</duration>
+      <itunes:duration>00:35:18</itunes:duration>
       <pubDate>Tue, 02 Mar 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/11-28-low-16452170011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001738a6c12863ced19ec57/5e61d83eb49591efd1841f4e757edd76367811ce21a6243d2dbbfda545ffd081" length="50839533" type="audio/mpeg"/>
@@ -359,7 +359,7 @@ Iggy Pop: Lust For Life
 Iggy Pop: The Passenger
 OMD: Sailing on the Seven Seas
 Siouxsie &amp; The Banshees: Spellbound</description>
-      <duration>00:35:45</duration>
+      <itunes:duration>00:35:45</itunes:duration>
       <pubDate>Tue, 09 Mar 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/12-28-heroes-16452170012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001738c6c12863ced19ec5b/3fc5a20986ba83e86217737c57abb963f11bc9364eb7c65041d95d78f84034a5" length="51499053" type="audio/mpeg"/>
@@ -394,7 +394,7 @@ Rocket Juice and the Moon: 1-2-3-4-5-6
 Rocket Juice and the Moon: Poison
 Mott The Hoople: All the Young Dudes
 Gorillaz ft. Del the Funky Homosapien: Clint Eastwood</description>
-      <duration>00:34:18</duration>
+      <itunes:duration>00:34:18</itunes:duration>
       <pubDate>Tue, 16 Mar 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/13-28-lodger-16452170013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001738d6c12863ced19ec62/e494769e4f8814995943992280a15dcde0b75808b290752958e509207b493d3e" length="49394925" type="audio/mpeg"/>
@@ -433,7 +433,7 @@ Spandau Ballet: Lifeline
 Bananarama: Venus
 ABC: The Look of Love
 Marilyn: Calling Your Name</description>
-      <duration>00:36:48</duration>
+      <itunes:duration>00:36:48</itunes:duration>
       <pubDate>Tue, 23 Mar 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/14-28-scary-monsters-16452170014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001738e6c12863ced19ec67/4150f09209f87b8b4d3c6e8de74d260c7dcaa29e73e679fc75f962f4d86b1842" length="53009901" type="audio/mpeg"/>
@@ -472,7 +472,7 @@ Diana Ross: Upside Down
 Madonna: Holiday
 Ultravox: Vienna
 Midge Ure: Vienna (Acoustic The Late Show 2014)</description>
-      <duration>00:35:46</duration>
+      <itunes:duration>00:35:46</itunes:duration>
       <pubDate>Tue, 30 Mar 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/15-28-let-s-dance-16452170015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001738f6c12863ced19ec6d/991d78247ffe0d438cf8db64eb59b0388e06635214decb21e553e219a7808ad2" length="51525549" type="audio/mpeg"/>
@@ -509,7 +509,7 @@ Culture Club: Do You Really Want to Hurt Me
 Mötley Crüe: Shout at the Devil
 Ibens: Ølstykke I november
 Roger Chapman: I Keep Forgettin'</description>
-      <duration>00:38:20</duration>
+      <itunes:duration>00:38:20</itunes:duration>
       <pubDate>Tue, 06 Apr 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/16-28-tonight-16452170016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173916c12863ced19ec77/62454f6665d8118a5cbc55fcefa4aeec802d066c80b953468bb299451cbbc39d" length="55217709" type="audio/mpeg"/>
@@ -552,7 +552,7 @@ Whitesnake: Here I Go Again
 Genesis: Land of Confusion
 Iggy Pop: Real Wild Child
 Iggy Pop: Tonight</description>
-      <duration>00:38:09</duration>
+      <itunes:duration>00:38:09</itunes:duration>
       <pubDate>Tue, 13 Apr 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/17-28-never-let-me-down-16452170017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173926c12863ced19ec7b/3bbdbec3694bdbdc96a14208541dfe54faaa3244f4b06eca17cc05f40d187ec2" length="54950445" type="audio/mpeg"/>
@@ -584,7 +584,7 @@ Nirvana: Smells Like Teen Spirit
 Nirvana: Come As You Are 
 Nirvana: The Man Who Sold the World
 Pixies: Monkey's Gone to Heaven</description>
-      <duration>00:38:09</duration>
+      <itunes:duration>00:38:09</itunes:duration>
       <pubDate>Tue, 20 Apr 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/18-28-tin-machine-16452170018</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173936c12863ced19ec7f/34e76a97e00f6e1f218435bc3ea5ffd6d57f123518c46dcd22cc270495df5ca4" length="54954477" type="audio/mpeg"/>
@@ -618,7 +618,7 @@ Red Hot Chili Peppers: Give It Away
 U2: So Cruel
 Michael Jackson: Dangerous
 Michael Jackson: Black or White</description>
-      <duration>00:36:50</duration>
+      <itunes:duration>00:36:50</itunes:duration>
       <pubDate>Tue, 27 Apr 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/19-28-tin-machine-ii-16452170019</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173946c12863ced19ec84/4b4e51a33d117331faa674def3ae663b45c03de31a72f5e0af910ea70a2139a2" length="53058285" type="audio/mpeg"/>
@@ -654,7 +654,7 @@ Juluka: Scatterlings of Africa
 Aphex Twin: Alberto Balsalm
 Morrissey: I Know It's Gonna Happen Someday
 The Eclectic Moniker: Easter Island</description>
-      <duration>00:40:47</duration>
+      <itunes:duration>00:40:47</itunes:duration>
       <pubDate>Tue, 04 May 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/20-28-black-tie-white-noise-16452170020</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173956c12863ced19ec88/1b51a895ac6f59237d6fda3d0df8342b0d60dfcfa2961d6a194e8e06408d853b" length="58743981" type="audio/mpeg"/>
@@ -681,7 +681,7 @@ David Bowie: The Laughing Gnome
 
 Lenny Kravitz: Are You Gonna Go My Way
 Kraftwerk: We Are the Robots</description>
-      <duration>00:34:12</duration>
+      <itunes:duration>00:34:12</itunes:duration>
       <pubDate>Tue, 11 May 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/21-28-the-buddha-of-suburbia-16452170021</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173966c12863ced19ec8b/f7e47abe4a3d554a9bd45ac626583cf9286d5c11790207e0d30f24abf1993a7d" length="49269933" type="audio/mpeg"/>
@@ -720,7 +720,7 @@ Prodigy: Voodoo People
 Underworld: Born Slippy
 Aqua: Barbie Girl
 808 State og David Bowie: Sound and Vision</description>
-      <duration>00:38:59</duration>
+      <itunes:duration>00:38:59</itunes:duration>
       <pubDate>Tue, 18 May 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/22-28-outside-16452170022</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173976c12863ced19ec91/aa88ad736e4b1b571562b57d88ce71d595c47203e767aa99714a818d7b067267" length="56149101" type="audio/mpeg"/>
@@ -755,7 +755,7 @@ Nephew: Movie Klip
 PATINA: Drømmefanger
 Gramsespektrum: Intro
 Gramsespektrum: Kontrollørerne (Vi jagter dig)</description>
-      <duration>00:38:31</duration>
+      <itunes:duration>00:38:31</itunes:duration>
       <pubDate>Tue, 25 May 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/23-28-earthling-16452170023</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173986c12863ced19ec98/93248608ee668fc5239b04ed8ad098386fad0c20c4c46712b6eb67379136e593" length="55471725" type="audio/mpeg"/>
@@ -780,7 +780,7 @@ David Bowie: What's Really Happening
 David Bowie: Space Oddity
 TLC: Waterfalls
 Richard Strauss: Also Sprach Zarathustra</description>
-      <duration>00:32:20</duration>
+      <itunes:duration>00:32:20</itunes:duration>
       <pubDate>Tue, 01 Jun 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/24-28-hours-16452170024</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001739a6c12863ced19ec9d/f1e5a6a5f7b446faf055241126ae10adf1db3a0d1e457ee74dbd3aa7c0b16ba6" length="46562733" type="audio/mpeg"/>
@@ -810,7 +810,7 @@ Neil Young: I've Been Waiting for You
 Pixies: Cactus
 John Lennon: God
 The Legendary Stardust Cowboy: I Took a Trip on a Gemini Spaceship</description>
-      <duration>00:38:10</duration>
+      <itunes:duration>00:38:10</itunes:duration>
       <pubDate>Tue, 08 Jun 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/25-28-heathen-16452170025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001739b6c12863ced19eca5/f7a423ad51ac1b56ac76deeee290383ce8c97bd3582a88bffe7c3c79ff310f82" length="54974637" type="audio/mpeg"/>
@@ -842,7 +842,7 @@ Heart: Alone
 Berlin: Take My Breath Away
 Toni Braxton: Un-break My Heart 
 Whitney Houston: I Will Always Love You</description>
-      <duration>00:39:06</duration>
+      <itunes:duration>00:39:06</itunes:duration>
       <pubDate>Tue, 15 Jun 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/26-28-reality-16452170026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001739c6c12863ced19ecab/e4670b3131e13300cda619eaa3b9d8b3db895e0a0e184f580d802095499fa38d" length="56317869" type="audio/mpeg"/>
@@ -887,7 +887,7 @@ David Bowie: Where Are We Now? (DVD track)
 David Bowie: Wild Is the Wind
 David Bowie: You Feel So Lonely You Could Die
 Alicia Keys: Wild Is the Wind</description>
-      <duration>00:40:51</duration>
+      <itunes:duration>00:40:51</itunes:duration>
       <pubDate>Tue, 22 Jun 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/27-28-the-next-day-16452170027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001739d6c12863ced19ecb1/1b61ddc7914d0725d2086c5e7a410b0019a00b4662c423d9bf0a7afdd5e7c8ee" length="58839597" type="audio/mpeg"/>
@@ -924,7 +924,7 @@ Kendrick Lamar: For Free? (Interlude)
 Kendrick Lamar: For Sale? (Interlude)
 Louis Armstrong: La vie en rose
 Isam B: Faking a Smile</description>
-      <duration>00:46:41</duration>
+      <itunes:duration>00:46:41</itunes:duration>
       <pubDate>Tue, 29 Jun 2021 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/28-28-blackstar-16452170028</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6001739f6c12863ced19ecb4/7ec04a15899e1fbfc8442cda86e973e23d0f604d3b1480867a616e42bf760beb" length="67239405" type="audio/mpeg"/>
@@ -944,7 +944,7 @@ You've Got a Habit of Leaving
 Karma Man
 Conversation Piece
 I Dig Everything</description>
-      <duration>00:52:49</duration>
+      <itunes:duration>00:52:49</itunes:duration>
       <pubDate>Wed, 22 Dec 2021 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/fra-start-til-slut/fra-start-til-slut-1/29-28-toy-16452170029</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:600173a06c12863ced19ecb9/34fc3b00f60e4820bac8eeb1cfd534521d2ddf71745edd26e64fa973f5b974a1" length="76074093" type="audio/mpeg"/>

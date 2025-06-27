@@ -3,21 +3,12 @@
   <channel>
     <title>P3 Pulten</title>
     <link>https://www.dr.dk/lyd/p3/p3-pulten-4934927974000</link>
-    <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6731d3506f7124fa6de5643a.jpg"/>
-    <item>
-      <title>KATO #4</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-KATO er bag pulten.</description>
-      <duration>03:00:30</duration>
-      <pubDate>Fri, 27 Dec 2024 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/kato-4-13332416525</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6760b941f55b9722f8a1f2b2/f2825d66c143d2b579445398e5685ff074903db32100bf6b27e964cb832e2dca" length="259942878" type="audio/mpeg"/>
-    </item>
+    <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Sanjari, Adidaddi, DJ Lilli og Youss skiftes til at tage din fredagsfest til det næste niveau!</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6f1bcd5634992e72eae74"/>
     <item>
       <title>Youss #6</title>
       <description>Din fredag aften er reddet, for Youss er bag pulten og holder pulsen. Læn ørerne ind i et to timers gnidningsløst mix af al den bedste elektroniske musik, han har samlet op den seneste måned.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-6-13332516255</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68475c1d50790136dd4eb66b/001ac59f7bf10133a502e6a8b0a9606fe13de94848a58105f12c86acc300c5bf" length="172802110" type="audio/mpeg"/>
@@ -25,7 +16,7 @@ KATO er bag pulten.</description>
     <item>
       <title>DJ Lilli #6</title>
       <description>Så er det lige ind i weekenden med det helt gode humør og DJ Lilli bag 'P3 Pulten'.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-6-13332516245</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683e2557f526fd481f8beda5/b6703300a06b6b6d6835712d1eea42766726f259b284219597750766c2f951b2" length="172802003" type="audio/mpeg"/>
@@ -33,7 +24,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Adidaddi #6</title>
       <description>Uanset hvad vejret kalder det: Det er sommer, og Adidaddi har taget plads bag 'P3 Pulten' for at sætte lyd til din fredag. Forvent god energi og musikalsk solskin i et to timers mix.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-6-13332516235</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6834e6e2c45cad5aa27b5ffc/9fd1861ab48cc385c3177a15383311af12f41aecfebd9ca465703c14918beae4" length="172802100" type="audio/mpeg"/>
@@ -41,7 +32,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Sanjari #6</title>
       <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 30 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-6-13332516225</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682bab6861175376c1268d4e/3e3b0c1253888b21be40431aaf9c8a48923d6149aa61aa2a8376a078d67af338" length="172802129" type="audio/mpeg"/>
@@ -49,7 +40,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Youss #5</title>
       <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Youss din fredagsfest til det næste niveau!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 23 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-5-13332516215</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682271443723e0ca773a7812/656fea5b34b70e42b9ff8cd3669efbe9080ce0f083b7c183d331ef915f5882f7" length="172802125" type="audio/mpeg"/>
@@ -57,7 +48,7 @@ KATO er bag pulten.</description>
     <item>
       <title>DJ Lilli #5</title>
       <description>Soundtracket til din fredag aften er landet! Vi bevæger os ind i weekenden til lyden af bailefunk, drum'n'bass og r'n'b, når DJ Lilli mixer os ind og ud af nyt og velkendt.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 16 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-5-13332516205</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819370f0766aecd9d8fef19/d76d134c2d02ab11c6d434bf8ce0911be087b26d2f7eacdbfdc4b90c90218d75" length="172801511" type="audio/mpeg"/>
@@ -65,7 +56,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Adidaddi #5</title>
       <description>Bounce ind i weekenden med Adidaddi, der smeder fredagen varm med et r'n'b-spækket DJ-set.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 09 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-5-13332516195</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680ffc1bb564004141bd3fb8/07727c3a60c679fe83d8e7d211b550cde1a5603803833d03d42276bc2d318f46" length="172802006" type="audio/mpeg"/>
@@ -73,7 +64,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Sanjari #5</title>
       <description>Sommeren er på vej, og Sanjari har ladt 'P3 Pulten' med nye - især danske - tracks, der peger mod lyset.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 02 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-5-13332516185</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6806c1eeaf5624554fb63bdf/77f2e319a40ad579233f9864ab95a3703e7ebd2705252761cac57ead55fa8aad" length="172802017" type="audio/mpeg"/>
@@ -81,7 +72,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Youss #4</title>
       <description>Du har ikke hørt Chers 'Believe' sådan her før - for nu bare at tage én af de ting Youss skruer op for, når han i et to-timers væg-til-væg mix, sender dig godt ind i weekenden. Få din fredag på og forvent det uventede.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 25 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-4-13332516175</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fd86bafb4a2cffe598a29c/4916fdc0a3bff14ccb34a3fdbbafa0e9c4dc530013ce968f3c1eebef71ffb2ea" length="172801557" type="audio/mpeg"/>
@@ -89,7 +80,7 @@ KATO er bag pulten.</description>
     <item>
       <title>DJ Lilli #4</title>
       <description>Klassikere og nye ting møder hinanden - nogle gange samtidig - når DJ Lilli kaster sig ind over 'P3 Pulten' og sætter skub i Påsken.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 18 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-4-13332516165</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f44ccca15bd18cce0bfdd0/3d75a7d5efcb7b4360a8e96e037839a50b8c127788e2e6b4201d0508d4d78084" length="172801474" type="audio/mpeg"/>
@@ -97,7 +88,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Adidaddi #4</title>
       <description>Kom helt ind i fredagen og bliv weekendklar, når Adidaddi sender god energi ud af P3 Pulten. Lyt med og få optur, bailefunk, dancehall og afarter af elektronisk musik i et mix, der twister dine påskeæg.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 11 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-4-13332516155</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb1223ab50e584ac31fd39/8f1260692ce98a0c12816b03cefcf5523132b0f1606e0bfc2fa3a90eabf32d80" length="172801546" type="audio/mpeg"/>
@@ -105,7 +96,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Sanjari #4</title>
       <description>Du har fortjent verdens bedste weekend! Sanjari mixer dig godt ind i den med en fræk blanding af klassikere og nye ting, når han hopper bag 'P3 Pulten'.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 04 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-4-13332516145</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e4f84e70842074133657/ba71654075fef44ba14ad5e322c0af11d5ce396185c7f3ebd4e0de032d013a31" length="172801493" type="audio/mpeg"/>
@@ -113,7 +104,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Youss #3</title>
       <description>P3 Pulten går elektronisk med Youss på knapperne. Aktivér subwooferen, når en af vores resident DJ's varmer op under fredagen med kendte og aldrig tidligere spillede tracks fra blandt andre Tripolism, Elsked og Dennis Horvat.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-3-13332516135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d8ab2cb9256eefac87c62e/113598eda943a3437ba89c173921864bc4e3eb18c42f5e9d7b154a7a83789433" length="172801565" type="audio/mpeg"/>
@@ -121,7 +112,7 @@ KATO er bag pulten.</description>
     <item>
       <title>DJ Lilli #3</title>
       <description>Sæt fredagen i gear med DJ Lilli, som har pakket 'P3 Pulten' og giver dig lyden af weekend. Der er optur til dine ører med klassikere, nye hits, remixes og mash-ups - lyt med, skru op!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 21 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-3-13332516125</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67cf709bb5636e1a31cf9b39/0d9ef736fbe97faaa6a529af1445b804d9229b150aaa4baf24f37f0274682d5e" length="172802096" type="audio/mpeg"/>
@@ -129,7 +120,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Adidaddi #3</title>
       <description>Temperaturen og humøret får et stort hak opad, når Adidaddi skyder weekenden i gang med et brandvarmt DJ-set med fokus på afro house. Skru op, og bliv et bedre menneske!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 14 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-3-13332516115</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c636901109412063e1e5c7/f6074d0ac6adf589360bba381e511d924114905aeae4875f4a6722ef6223a763" length="172801513" type="audio/mpeg"/>
@@ -137,7 +128,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Sanjari #3</title>
       <description>Du vil egentlig ikke gå glip af det, når Sanjari tænder op for fredagen. Der er klassikere, nyopdagelse og remixes af hurtige bangers og tunge beats, så stik ørene i 'P3 Pulten' og få noget, du ikke finder andre steder.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 07 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-3-13332516105</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bcfb4c7f407d0e8d773435/7b0f26af52ca11a77e031c515abc713fde487c33318e35ba24d9e0452f8e74ae" length="172801562" type="audio/mpeg"/>
@@ -145,7 +136,7 @@ KATO er bag pulten.</description>
     <item>
       <title>Youss #2</title>
       <description>Vi mixer hverdag til weekend, når Youss er bag P3 Pulten. I aften er det varmt med hip hop og r'n'b fra flere verdenshjørne  - og lytter du godt efter, er der også totalt hemmelige ting fra Sivas og Noah Carter, som du aldrig har hørt før.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-2-13332516095</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0c2f064e1e888b8e76b/10ae0aa489a94f1dee0b1e35d9266b6ddb4b4666e7861df04860600f0ee86f77" length="172801577" type="audio/mpeg"/>
@@ -153,7 +144,7 @@ KATO er bag pulten.</description>
     <item>
       <title>DJ Lilli #2</title>
       <description>Weekenden er her snart, og DJ Lilli mixer humøret det helt rigtige sted hen. Opdag nyt, og hør velkendte bangers få nyt tøj på, når vi sætter stikket i 'P3 Pulten' og skruer op.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 21 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-2-13332516085</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67aa86bfd64d3ae9f402b9b3/1fce2dd2fc1c05f65f5944dd212b9bcf1cfb5864a44a68f642002251c7f6d097" length="172802099" type="audio/mpeg"/>
@@ -163,7 +154,7 @@ KATO er bag pulten.</description>
       <description>Happy Valentine's!
 Adidaddi lægger lyd til din fredag aften, og når det nu er den lige netop den her dag, så bliver det lidt ekstra smovset i et mix af r'n'b', bailefunk og jersey club &lt;3
 Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weekenden alene og i dit eget tempo.</description>
-      <duration>01:59:59</duration>
+      <itunes:duration>01:59:59</itunes:duration>
       <pubDate>Fri, 14 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-2-13332516075</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a14c21c81363cf2d48720d/e30d825c1411fcd446b026faf6099feef2ff73e8ecc3ecf1b30a05e83403793c" length="172800438" type="audio/mpeg"/>
@@ -171,7 +162,7 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
     <item>
       <title>Sanjari #2</title>
       <description>Det ruller i hofterne og banker på væggene, når Sanjari er bag 'P3 Pulten' og smelter house sammen med r'n'b', rap og pop. Opdag dine nye favoritter og hør sange, du allerede kender, få noget nyt og remixet tøj på, mens weekenden rykker helt tæt på.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-2-13332516065</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811ac2251f10a24a7440b/ef11473885dd04f3d70adcf56f96e2c4cba8f02323992d553991f1b9444bb1bf" length="172801591" type="audio/mpeg"/>
@@ -179,7 +170,7 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
     <item>
       <title>Youss #1</title>
       <description>Din fredag er i de bedste hænder, når Youss er bag 'P3 Pulten'. Tænd op for køkken- eller for-festen, for pulten er pakket med elektroniske perler, der sender dig på en tur fra Danmark til Tyrkiet til Sydafrika og lige ind i weekenden.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/youss-1-13332516055</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7213a199d52753f2a86/fad7a46ed18280ef03147a140bce61edbc5901c51bf7c92555ffe47a9cf9d3da" length="172801572" type="audio/mpeg"/>
@@ -187,7 +178,7 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
     <item>
       <title>DJ Lilli #1</title>
       <description>DJ Lilli er for første gang bag 'P3 Pulten', og vi skal mange steder hen, når hun river i knapperne. Fra rap- og pop-hits i anderledes forklædning til drum'n'bass og baile-funk. Kom ind!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 24 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/dj-lilli-1-13332516045</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859bbf682669bee5754320/8653d80cab0045241c19c62280c8be83551bc65d845fb702284eb663988d70a0" length="172801521" type="audio/mpeg"/>
@@ -195,7 +186,7 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
     <item>
       <title>Adidaddi #1</title>
       <description>Adidaddi er bag 'P3 Pulten' og ruller os ind i weekenden med et varmt mix af dancehall, afro-house og amapiano.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/adidaddi-1-13332516035</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c61988540867cc0a0b698/0a9c1936cdd34188f9c0281563fc85fe4c44a65cd276e74f264d9c5ae6eb80e5" length="172802025" type="audio/mpeg"/>
@@ -203,10 +194,19 @@ Lyt med - uanset om du er med din kæreste, ven, veninde eller bare rammer weeke
     <item>
       <title>Sanjari #1</title>
       <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står nogle af landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. I aften tager Sanjari din fredagsfest til det næste niveau!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2025/sanjari-1-13332516025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278081654c75b6cc9845/19cc99835f20bc40c205d1eb753b3285c67bd7cf0266f43a2eea2d28addb305b" length="172801554" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>KATO #4</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+KATO er bag pulten.</description>
+      <itunes:duration>03:00:30</itunes:duration>
+      <pubDate>Fri, 27 Dec 2024 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/kato-4-13332416525</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6760b941f55b9722f8a1f2b2/f2825d66c143d2b579445398e5685ff074903db32100bf6b27e964cb832e2dca" length="259942878" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

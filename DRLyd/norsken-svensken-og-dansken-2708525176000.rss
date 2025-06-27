@@ -4,11 +4,11 @@
     <title>Norsken, svensken og dansken</title>
     <link>https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken-2708525176000</link>
     <description>Ugentlig, pan-skandinavisk familieterapi med forfatter og journalist Åsa Linderborg (S), radiovært og forfatter Hassan Preisler (DK) og programleder/samtaleterapeut Hilde Sandvik (N).</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3362ab75d19480fa71e53.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e8d0938b2e4877eddbef93"/>
     <item>
       <title>Et truet demokrati</title>
       <description>Mette Frederiksens med dystre spådomme, kulturlivets mægtigste er kåret, og er det liberale demokrati sin egen største trussel?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 28 Dec 2024 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/et-truet-demokrati-16122414527</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676355d822268ec65aa379cf/4a23767990e8cd4f902ecb4aeb9374528e3c0f35d8c133a23b343bcbd85b761b" length="82081481" type="audio/mpeg"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Socialdemokratisk fascisme?</title>
       <description>Mette Frederiksen har skruet op for indvandringsretorikken, de kongelige slår territoriale sværdslag i Nordatlanten, og kulturtips til sommerferien.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/socialdemokratisk-fascisme-16122514257</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6849fdfe864cf94f9520a3a8/b27f0acc826a9b1d3bc2317e05cb3a9029704db5398ebba0b79c91ab2083ce05" length="82082078" type="audio/mpeg"/>
@@ -24,7 +24,7 @@
     <item>
       <title>Kokainen flyder i Nordens kloakker</title>
       <description>Spildevandstests afslører stort Coke-forbrug, Greta Thunbergs bådaktion for Gaza stoppet af Israel, og alternative medier udelukkes fra fællesskabet.</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/kokainen-flyder-i-nordens-kloakker-16122514247</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840c43f5f16b69830a912dc/00a23f030288422549f35b5acdc8f7bbb96d6be464dc1585972c21e4a42c28d3" length="80725599" type="audio/mpeg"/>
@@ -32,7 +32,7 @@
     <item>
       <title>Atomvåben ja tak!</title>
       <description>Skal vi satse på fælles fredsforskning eller skabe en nordisk atomparaply? Og hvorfor mister den danske Pride sin støtte?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/atomvaaben-ja-tak-16122514237</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683789495f16b698306c5dc7/abad444d36d327a5444befafd902b9979f5b708aeef7dcf124d8a2d5cb839ce0" length="80725572" type="audio/mpeg"/>
@@ -40,7 +40,7 @@
     <item>
       <title>Ja, vi elsker olie</title>
       <description>Den nordiske familie slår revner, Rusland opruster langs vores grænser, og er nordmænd blevet blinde klimahyklere?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 31 May 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/ja-vi-elsker-olie-16122514227</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682e4e7c317c38c5aa40d00f/4c6fd88968b285447de12ecf9df982533cd5b37e24c6451c06e92830e0f1ac7a" length="82082044" type="audio/mpeg"/>
@@ -48,7 +48,7 @@
     <item>
       <title>Elitens hævn</title>
       <description>Palæstina-debatten knebles i skoleklasserne, den kreative klasse ser ned på de rige - og er nordiske politikere blev korrupte?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 24 May 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/elitens-haevn-16122514217</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825146361175376c1fa6e3b/b9cf263cdaa1f63eceb6852a6a35b36a933a430e472633a0866b3288d745a2dd" length="82081477" type="audio/mpeg"/>
@@ -56,7 +56,7 @@
     <item>
       <title>Kampen om sandheden</title>
       <description>Det blæser atter op til strid om statskanalerne, gamle uvaner dør ikke let på Herlufsholm, og skal man fyre embedsmænd for deres seksuelle præferencer?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 17 May 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/kampen-om-sandheden-16122514207</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681bd9b6a75c4b583508f5b6/b4f43af9fff337489f968943bcbbc3091a42dbd1c47b744c13c08556637e1eb3" length="80725603" type="audio/mpeg"/>
@@ -64,7 +64,7 @@
     <item>
       <title>Racisme i kø</title>
       <description>Stockholms natteliv siger nej til gæster med mørk hud, dansk vinder af EM i mågeskrig, og politikere Norden over bues ud på 1. maj.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 10 May 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/racisme-i-koe-16122514197</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68129f132d2b2fe91b80b1c2/2a6d2ad9d20d8589f77919d0a80d0116f6fd37e443ee666fe9e3221b4d2c9766" length="82081487" type="audio/mpeg"/>
@@ -72,7 +72,7 @@
     <item>
       <title>Nordisk skam</title>
       <description>Sverige mener, Norge bør skamme sig efter Trump-leflen, danske kvinder går ned i tid for børnenes skyld, og har Sverige mon ofret en af sine egne?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 03 May 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/nordisk-skam-16122514187</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680963e9745f7ddb8f54bdb6/2305d4bbf97d33a8c45a5899436d1eca6804ccadf5b62eac082284c76e07477d" length="80725594" type="audio/mpeg"/>
@@ -80,7 +80,7 @@
     <item>
       <title>Anoreksi og dæmoner</title>
       <description>Danmark og Finland har fået sexdukkebordeller, techmilliardærerne vil indtage Grønland, og er det tilladt at blive rasende på personer med spiseforstyrrelser?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/anoreksi-og-daemoner-16122514177</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68002937aa49e222d59aa431/f70bcbd4bd3e81797ecf163ebcbd7e071d1e8d6e51308a1233527e6560a5b651" length="80725609" type="audio/mpeg"/>
@@ -88,7 +88,7 @@
     <item>
       <title>Tro, håb og naboskab</title>
       <description>Naboskab kan være i kernen af både trivsel og evige konflikter. Og vil man virkelig være lakaj til skolegårdens største bølle?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 19 Apr 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/tro-haab-og-naboskab-16122514167</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f6eec9d17fb6e69635f534/673cc6c168cd6695ab34f5b188616b03cae1ccaddb96d7f7825e79434670e168" length="82082061" type="audio/mpeg"/>
@@ -96,7 +96,7 @@
     <item>
       <title>Tonsvis af lort</title>
       <description>Trump møder nordisk modstand, dansk journalist får karantæne fra Folketinget, og ejerne af økologisk hotel stak af fra gæld og afføring.</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 12 Apr 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/tonsvis-af-lort-16122514157</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb57bf15fbe15e57e3ca9/50220fc379a0c11d577935b68b9211a8d33b4aeefffda98a9f713f20f3ab0a33" length="80725590" type="audio/mpeg"/>
@@ -104,7 +104,7 @@
     <item>
       <title>Golfdiplomati og kaninhul</title>
       <description>Finlands præsident spiller golf med Trump, svensk journalist fængsles i Tyrkiet, og er vi alle faldet ned i kaninhullet?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/golfdiplomati-og-kaninhul-16122514147</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e4881b52248c98a43e1ab1/1da6e48503295d3afa5be764776f132992c1d8616008ab225c2317f93cabf595" length="80725622" type="audio/mpeg"/>
@@ -112,7 +112,7 @@
     <item>
       <title>Putins perspektiv</title>
       <description>Skal man lytte til sine meningsmodstandere og holde sig skarp, pædofiliskandale rammer Danmark, og bør kunst være opbyggelig?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/putins-perspektiv-16122514137</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67db4e19711e98720c879dfd/4f851b5269e9c5e62026325150a5b2156652e93f34cf035429e9b793fe78b425" length="80725622" type="audio/mpeg"/>
@@ -120,7 +120,7 @@
     <item>
       <title>Vi mænd</title>
       <description>Den venstreorienterede mand skal finde sig selv, karrieremanden bør dyrke topidræt, og mandeforfatter Dag Solstad er død - men hans hverdagshelte lever videre.</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/vi-maend-16122514127</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d214395a443496f50d0557/18567b914153af9348a223dce4485dcf644b1a66f6024baa84a81cdd4e022548" length="80725608" type="audio/mpeg"/>
@@ -128,7 +128,7 @@
     <item>
       <title>Snyd og bedrag</title>
       <description>Fem år efter corona slikker vi stadig sår, politisk sneskred i Grønland, og kunne alt ikke bare være tilladt indenfor idræt?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 15 Mar 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/snyd-og-bedrag-16122514117</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c8da58d42d59035e956e42/d5a038787d4cd955b230d3b0ecd1c8c51479f3d867e9ca955726a02507ab81fa" length="80725576" type="audio/mpeg"/>
@@ -136,7 +136,7 @@
     <item>
       <title>Nordic noir</title>
       <description>Det er blevet farligere af have upopulære meninger, i Grønland forstærkes idéen om selvstændighed, og ski-VM i Norge kører af sporet i fuldskab.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 08 Mar 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/nordic-noir-16122514107</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bf9f085475915f7328567f/637e961c9f71e35daa118d9ff5c3b1f6fc238963c7fa50df9ddce619d08ec92d" length="82081499" type="audio/mpeg"/>
@@ -144,7 +144,7 @@
     <item>
       <title>Entusiasme og fascisme</title>
       <description>Det går an at føle en slags entusiasme i disse tider, det yderste højre træder ind i vor midte, og hvilket dyr identificerer du dig med?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/entusiasme-og-fascisme-16122514097</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b6655f5a2f57d1ea40719b/ee22ca803b7f86ae7247e73d544fe7c1280e772f755989740203b2f080228111" length="82082067" type="audio/mpeg"/>
@@ -152,7 +152,7 @@
     <item>
       <title>Europa forladt</title>
       <description>Trump vækker den nordiske kampånd, norsk advokat kalder &quot;sovevoldtægt&quot; for årtiets justitsmord, og dømt svensk forfatter nægter at gå i fængsel.</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 22 Feb 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/europa-forladt-16122514087</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad2931ce460fe583eb2d2f/0a3d52ce878d7c377c33a764280b59c61db107956af38dcf90035de5c9054bd1" length="80725598" type="audio/mpeg"/>
@@ -160,7 +160,7 @@
     <item>
       <title>Trump-angst</title>
       <description>Unge får angst af Trump, Grønlands forhold til Danmark forværres, Hassan står midt i en ny metoo-sag, og vi har besøg af programmets husfinne.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 15 Feb 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/trump-angst-16122514077</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a3eeb3636f3c2854c3d4c6/6fc606714d6b2fb617679eabfba661b45af812aac134e9c7abe5f24a2d9de9e4" length="82082073" type="audio/mpeg"/>
@@ -168,7 +168,7 @@
     <item>
       <title>Gensynsglæde</title>
       <description>Uventet politisk comeback til norske Stoltenberg, Sverige er i sorg, og vicepresident Vance får Mette Frederiksen til at rase.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 08 Feb 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/gensynsglaede-16122514067</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ab49ef55fd549ecfdc146/99276f211b2aac636e82eb68d84de3f4f7a8209f195b30880aabbbd19769392b" length="82081479" type="audio/mpeg"/>
@@ -176,7 +176,7 @@
     <item>
       <title>Kaldet til kamp</title>
       <description>Den svenske kulturminister lægger sig ud med sin filmbranche, regeringskrisen i Norge skærper EU-debatten. Og skal danske medier nu under statslig kontrol?</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 01 Feb 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/kaldet-til-kamp-16122514057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6791796bec59142e6731208b/ae8f7aba48d3ef874248fc91d1be14b0179efad52f2b9ebf56eeb689fb327a6a" length="80725622" type="audio/mpeg"/>
@@ -184,7 +184,7 @@
     <item>
       <title>Den lille verden</title>
       <description>Danmark mener, Norge bør punge ud til krigen i Ukraine, Sverige og Norge står alene i kampen mod VAR, og hvad er et hjem, hvis alting brænder?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/den-lille-verden-16122514047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883ee56d7761289b06732f/69aef163c2b58c1df3a667522923fa0b1851cbe259d282cbe11bc9198987b3f6" length="82081494" type="audio/mpeg"/>
@@ -192,7 +192,7 @@
     <item>
       <title>Nordens Forenede Stater</title>
       <description>Skal vi have en nordisk union? Er Norge så rigt, at det er et problem. Og hvorfor har svenskerne ikke tidligere grinet af den havarerede sovjetiske ubåd i skærgården?</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/nordens-forenede-stater-16122514037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f057f81654c75b603f236/5fb0dc8b63c03544eb8633641f5e7f92011d864c97c662bd43c09f9b019ec2ca" length="82082097" type="audio/mpeg"/>
@@ -200,7 +200,7 @@
     <item>
       <title>Farvel Grønland?</title>
       <description>Trumps blik på Grønland skaber stor uro, højrebølgen slår ind over de nordiske lande, og &quot;svenske tilstande&quot; er årets nyord - for svenskerne!</description>
-      <duration>00:56:03</duration>
+      <itunes:duration>00:56:03</itunes:duration>
       <pubDate>Sat, 11 Jan 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2025/farvel-groenland-16122514027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cac15e5e1a6ed3e2c862/531b984cc9d3551851596937641ecc451e96e709769c563721f07043cf51c7e9" length="80725590" type="audio/mpeg"/>

@@ -3,14 +3,22 @@
   <channel>
     <title>Tættere på himlen</title>
     <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen-2553137358000</link>
-    <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:673311991869e162729c130c.jpg"/>
+    <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e69e148b2e4877edcda2ca"/>
+    <item>
+      <title>med Residensen: Kasper Reippurt og Nynne Givskov</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Pelle Peter Jencel har dig. Kom nu!</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-residensen-kasper-reippurt-og-nynne-givskov-16122539265</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6850959e9b0d242d0ff54b70/30a0869144cd96a169a814dacb8ac4d9f493fd625684ff0b5fe8b552750491ba" length="168482057" type="audio/mpeg"/>
+    </item>
     <item>
       <title>med Katherine Diez &amp; Ericka Jane</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-katherine-diez-og-ericka-jane-16122539245</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683e2561f526fd481f8bee9a/b7e771cc5a542fccec7f498cab319448aafed548c14360f449b40bea59776786" length="168481481" type="audio/mpeg"/>
@@ -19,7 +27,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Drømmeholdet</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-droemmeholdet-16122539235</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6834e705c45cad5aa27b61dd/7905edf23faac3252f045a56064a9e56fcf1635eec76dd4ed47046562289a907" length="168482058" type="audio/mpeg"/>
@@ -27,7 +35,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
     <item>
       <title>Nik &amp; Jay vs. Morten</title>
       <description>I denne særlige udgave af Tættere på Himlen overtager vi Drømmeholdet med en decideret drøm af en DJ Battle! Nik &amp; Jay folder armene ud i studiet og går sang-for-sang mod MORTEN i en kamp om, hvem der bedst kan sende lytterne i musikalsk ekstase. Det er fest, det er følelser, det er bangers fra start til slut!</description>
-      <duration>00:59:05</duration>
+      <itunes:duration>00:59:05</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/nik-og-jay-vs-morten-16122539530</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68416fe0052e78b6ec40ddc6/c3073d77822fbf9a0037e5b6140e374f2ba724b8b0ffbb453f914c6085f0c20a" length="85092921" type="audio/mpeg"/>
@@ -36,7 +44,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med bacheloretterne Emma &amp; Mai</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 30 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-bacheloretterne-emma-og-mai-16122539225</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682bab657b626ea9bb2d4af1/2bed7304ee3357514ec35890dbc5ee8a850be15e6a3beafed658843d4a5e44c6" length="168481481" type="audio/mpeg"/>
@@ -45,7 +53,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med APHACA</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 23 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-aphaca-16122539215</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6822714c002e131c0a97483f/fdf1bfb4a185c8285753caaabe37af7e3e722c251c4cf8fc307caba417a9fcd3" length="168482055" type="audio/mpeg"/>
@@ -54,7 +62,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Martin Johannes Larsen &amp; PIND</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 16 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-martin-johannes-larsen-og-pind-16122539205</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681937010766aecd9d8fee22/d2ab13493735c8da0f4352bb403c7cc33b0ff9fb06b8d3d9003d97ba0ec017c3" length="168481481" type="audio/mpeg"/>
@@ -63,7 +71,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Dos Santos &amp; Nicki Pooyandeh</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 09 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-dos-santos-og-nicki-pooyandeh-16122539195</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680ffc1bb21aafec6d9c307d/985d3991d19caac0b6e0041b65a3ad41f4bd598a2a7512c34ef7993618d792d8" length="168482057" type="audio/mpeg"/>
@@ -72,7 +80,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med FVN &amp; Klumben</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 02 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-fvn-og-klumben-16122539185</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6806c1eed01bd66cf4865861/ae5badc4b4e76703f26393da7aefc9484f28a53c4d3a18c9b6e1651c69205b3f" length="168482055" type="audio/mpeg"/>
@@ -81,7 +89,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Skinz &amp; Joachim Boldsen</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 25 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-skinz-og-joachim-boldsen-16122539175</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fd86ba7d7adad6f651716f/564a49479af84acac8fde0cfe1503952b962ad79c7d92a2a092bbef950c2b297" length="168482056" type="audio/mpeg"/>
@@ -91,7 +99,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!
 Medvirkende:  Nikolaj Manuel Vonsild &amp; Silas Bjerregaard.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Fri, 18 Apr 2025 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-when-saints-go-machine-og-turboweekend-16122539165</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f44cdd0058129f09de8583/14c35e7c76e0a5e9dfa7a06be0d1c7e5964b705dde771025ad932c9e54469447" length="172802111" type="audio/mpeg"/>
@@ -100,7 +108,7 @@ Medvirkende:  Nikolaj Manuel Vonsild &amp; Silas Bjerregaard.</description>
       <title>med Christopher &amp; Thor Farlov</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 11 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-christopher-og-thor-farlov-16122539155</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb1223ab50e584ac31fd2f/31ff83ec889414df0d3ebec27a30124cdc4277d73cf70b8999dedbb9235763f0" length="168481481" type="audio/mpeg"/>
@@ -109,7 +117,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Blæst</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 04 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-blaest-16122539145</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e4efe600d52af1a1f648/32e1ceaeaca65a855b788182adcd14a8349fde7c75c156994c520bca9c1eae58" length="168482055" type="audio/mpeg"/>
@@ -118,7 +126,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Martin Jensen &amp; Hedegaard</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-martin-jensen-og-hedegaard-16122539135</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d8ab165a443496f536e59a/a12c2fd6a48b5512408f2c8591c428a16845093c1c7674c669d52542e13757a2" length="168481481" type="audio/mpeg"/>
@@ -127,7 +135,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Andreas Odbjerg &amp; Daniel Scheffmann</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 21 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-andreas-odbjerg-og-daniel-scheffmann-16122539125</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67cf70903c672e012f0f0c30/2b875ff43b7fad39b88671fb18a5ad33d5a9721480fa99f3a747e739b7b89532" length="168481482" type="audio/mpeg"/>
@@ -136,7 +144,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med DAYYANI &amp; Saveus</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 14 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-dayyani-og-saveus-16122539115</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c6367a1109412063e1e476/9fea013cc8d8f6b58ad9b10db5f24ad2ec2fe437716a99c0db4a7dcce81fbf1b" length="168482058" type="audio/mpeg"/>
@@ -145,7 +153,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Anthon Edwards &amp; Kris</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 07 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-anthon-edwards-og-kris-16122539105</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bcfb4df97607151976c634/d6f309fc6006f87b28bcfa8f305da6c0c9691b99023ab45199181c7af2cb24c6" length="168481481" type="audio/mpeg"/>
@@ -154,7 +162,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>med Malte Ebert &amp; Didde-Mie</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-malte-ebert-og-didde-mie-16122539095</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0c35c4819e47a1e8e62/ec96fb37f3d20dd39592ebd410f144165e58cd4a7a8a8c7a9393d73ef5c75991" length="168481468" type="audio/mpeg"/>
@@ -163,7 +171,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>Med Saint clara &amp; Sarah-Sofie Boussnina</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:56:59</duration>
+      <itunes:duration>01:56:59</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-saint-clara-og-sarah-sofie-boussnina-16122539065</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679811ac4a69d0ba3a937391/5256888b821afa192848baa3573b9efb16ffe66f65218d6865cf0e0ca35fba37" length="168474569" type="audio/mpeg"/>
@@ -172,7 +180,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>Med Ena Cosovic &amp; Emil Lange</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-ena-cosovic-og-emil-lange-16122539055</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:678ed7216f7b8ee316ae9ab1/ab544b94a089339fff6db9357b3337b0b3bf22d220270b52f27059fc933ca4b2" length="168482057" type="audio/mpeg"/>
@@ -181,7 +189,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>Med Annika og Anton Westerlin</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 24 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-annika-og-anton-westerlin-16122539045</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859bd2ae34e26cb9d46cec/3dec3b11e0152c4c86933980626d51e01fea9deb52a1b74cff82d0927c296096" length="168481481" type="audio/mpeg"/>
@@ -190,7 +198,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>Med Emil Kruse og Wads</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-emil-kruse-og-wads-16122539035</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677c618f81654c75b6f7b240/23d44ba479eb2b83da7d7f7d7657db485c12a7d99ca3690fa6a496cb72f18a76" length="168481481" type="audio/mpeg"/>
@@ -199,7 +207,7 @@ Pelle Peter Jencel har dig. Kom nu!</description>
       <title>Med Stéphanie Surrugue og Sara Bro</title>
       <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
 Pelle Peter Jencel har dig. Kom nu!</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2025/med-stephanie-surrugue-og-sara-bro-16122539025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6773278249480cb466bff564/6e9c61193dbc630a553f130f193808d1ada390ee0df1abdc41a4814b049f828b" length="168481480" type="audio/mpeg"/>

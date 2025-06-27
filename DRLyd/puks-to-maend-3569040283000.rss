@@ -7,7 +7,7 @@
 Tilrettelæggelse: Mette Willumsen.
 Klip og lyddesign: Ole Fugl. 
 Redaktører: Hanne Barslund og Jesper Langballe.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023cb2075f927899318ee3.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2d645195cb5169de990"/>
     <item>
       <title>1:4: Hjertestop</title>
       <description>Telefonen ringer og en læge beder Puk komme til Hjerteafdelingen på Skejby Sygehus med det samme. Hendes mand Lasse har fået hjertestop. 
@@ -15,7 +15,7 @@ Medvirkende: Puk Qvortrup Bianchi, Piermatteo Qvortrup Bianchi, Elmer, Kaj og Pa
 Tilrettelæggelse: Mette Willumsen. 
 Klip og lyddesign: Ole Fugl. 
 (Sendt første gang 9. juli 2022).</description>
-      <duration>00:26:42</duration>
+      <itunes:duration>00:26:42</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/puks-to-maend/puks-to-maend-1/1-4-hjertestop-11032210010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628cc7f6785739fe0309671f/ffd87e1d4c4fe1e8d792eec03ba8556af12ba64377e320f1a18d6cf05fd9dba7" length="38463067" type="audio/mpeg"/>
@@ -27,7 +27,7 @@ Medvirkende Puk Qvortrup Bianchi og Piermatteo Qvortrup Bianchi.
 Tilrettelæggelse: Mette Willumsen. 
 Klip og lyddesign: Ole Fugl.  
 (Sendt første gang 16. juli 2022).</description>
-      <duration>00:27:12</duration>
+      <itunes:duration>00:27:12</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/puks-to-maend/puks-to-maend-1/2-4-smaa-motorer-11032210011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628cc7f6db0d2c644d939fc2/f54f104144ec50b4f9de0af50cb7d2caa6fd9fe14487de1febd41dfabaa0c521" length="39188251" type="audio/mpeg"/>
@@ -39,7 +39,7 @@ Medvirkende: Puk Qvortrup Bianchi og Piermatteo Qvortrup Bianchi.
 Tilrettelæggelse: Mette Willumsen.
 Klip og lyddesign: Ole Fugl.  
 (Sendt første gang 23. juli 2022).</description>
-      <duration>00:25:54</duration>
+      <itunes:duration>00:25:54</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 05:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/puks-to-maend/puks-to-maend-1/3-4-kroppen-vaagner-11032210012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628cc7f4db0d2c644d939fbc/56f6d48af8f312447357bb0520c650fa1371434d76f580cfbe697d7e66717d96" length="37307035" type="audio/mpeg"/>
@@ -51,7 +51,7 @@ Medvirkende Puk og Piermatteo Qvortrup Bianchi. Elmer, Kaj, Paolo og Ernest.
 Tilrettelæggelse: Mette Willumsen.
 Klip og lyddesign: Ole Fugl.
 (Sendt første gang 30. juli 2022).</description>
-      <duration>00:26:25</duration>
+      <itunes:duration>00:26:25</itunes:duration>
       <pubDate>Tue, 21 Jun 2022 05:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/puks-to-maend/puks-to-maend-1/4-4-familien-11032210013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:628cc7f5785739fe0309671c/dce187c96b144cb96a1633293c2135185a946676f412afa88957e9c93cbbbcc2" length="38044891" type="audio/mpeg"/>

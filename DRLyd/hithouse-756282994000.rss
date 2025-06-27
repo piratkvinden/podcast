@@ -6,13 +6,13 @@
     <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2e32eb75d19480fa5d33d.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433bdc039d56f04e24d7a"/>
     <item>
       <title>Torsdag 26. jun. 2025</title>
       <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <duration>00:55:04</duration>
+      <itunes:duration>00:55:04</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/torsdag-26-jun-2025-15452523264</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684f452b9b0d242d0fea11b1/edf61f2f385c05bc259461529a09339a26fec0e4c230438cfc5714367e6d7e77" length="79310836" type="audio/mpeg"/>
@@ -22,7 +22,7 @@ Vært: Jørgen de Mylius.</description>
       <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <duration>00:55:04</duration>
+      <itunes:duration>00:55:04</itunes:duration>
       <pubDate>Wed, 25 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/onsdag-25-jun-2025-15452523263</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684df3c224124c1efc8bf120/366c840454357e4f0123307495abe3bdd2e0c95e906a1dbacd8c02be442c7ebc" length="79307956" type="audio/mpeg"/>
@@ -32,7 +32,7 @@ Vært: Jørgen de Mylius.</description>
       <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <duration>00:55:03</duration>
+      <itunes:duration>00:55:03</itunes:duration>
       <pubDate>Tue, 24 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/tirsdag-24-jun-2025-15452523262</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684ca25e0e36bd61c0a14a13/a2ad566fb048ec5780aefe74c92908cf4c2833683259b877a16d606816bfb1a4" length="79292980" type="audio/mpeg"/>
@@ -42,7 +42,7 @@ Vært: Jørgen de Mylius.</description>
       <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <duration>00:55:04</duration>
+      <itunes:duration>00:55:04</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/mandag-23-jun-2025-15452523261</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684b5066610fd0a84ee60276/2668450e9a76db9acbcf569ac0f26dcaf14b3e8725bc50c22e29af9c6e82edc7" length="79300468" type="audio/mpeg"/>

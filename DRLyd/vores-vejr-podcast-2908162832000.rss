@@ -4,11 +4,11 @@
     <title>Vores Vejr - podcast</title>
     <link>https://www.dr.dk/lyd/special-radio/vores-vejr-podcast-2908162832000</link>
     <description>I Vores Vejr podcast elsker vi vejret. DR Vejrets værter går i dybden med vejrfænomener og ekstremt vejr og taler med danskere, som har haft det helt inde på livet.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023ccbfd6dd215a9b3191c.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2c045195cb5169de87f"/>
     <item>
       <title>Forår</title>
       <description>Foråret kan have mange ansigter med både kulde og sne samt sol og varme. Vi dykker ned i den skønne og lumske årstid og bliver klogere på det danske forår.</description>
-      <duration>00:58:44</duration>
+      <itunes:duration>00:58:44</itunes:duration>
       <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/vores-vejr-podcast/vores-vejr-podcast-2/foraar-11802242001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6214b42a711ffb12d1513def/891b4961adfbfb6ead4f0daa5e2e4bcf626d25fb445ba48d1a0826f0e5e2c30c" length="84585691" type="audio/mpeg"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Sommer</title>
       <description>Hvor i landet er der mest sommerligt og hvad er den danske sommer vejrmæssigt?</description>
-      <duration>01:09:36</duration>
+      <itunes:duration>01:09:36</itunes:duration>
       <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/vores-vejr-podcast/vores-vejr-podcast-2/sommer-11802242002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6214b42b711ffb12d1513dfd/4ae5c919fe2e02aaf276d4d5c769ca1e3760044cd015fd033f96a6fa0214afb9" length="100225819" type="audio/mpeg"/>
@@ -24,7 +24,7 @@
     <item>
       <title>Efterår</title>
       <description>Efteråret er den korteste årstid i Danmark. Vi går årstiden i sømmene og undersøger dets lidt blakkede ry og rygte.</description>
-      <duration>00:55:03</duration>
+      <itunes:duration>00:55:03</itunes:duration>
       <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/vores-vejr-podcast/vores-vejr-podcast-2/efteraar-11802242003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6214b42958378910948be19b/bf261129aef04f80ea8197e11c99d604993fab53da7abb040523e0189a74571c" length="79273819" type="audio/mpeg"/>
@@ -32,7 +32,7 @@
     <item>
       <title>Skyer</title>
       <description>Skyer er en hyppig gæst på himlen over Danmark. De optræder smukke til tider farverige, men de kan også gøre dagen våd, grå og mørk. Hvad er skyer og hvordan opstår de?</description>
-      <duration>00:47:40</duration>
+      <itunes:duration>00:47:40</itunes:duration>
       <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/vores-vejr-podcast/vores-vejr-podcast-2/skyer-11802242004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6214b42b58378910948be1a4/021d549f106a9c117dc26b083f723f7bc528b934222e3ceb22ec49e4114b4beb" length="68654107" type="audio/mpeg"/>
@@ -40,7 +40,7 @@
     <item>
       <title>Hvordan og hvorfor opstår vejret?</title>
       <description>Solen skinner, vinden suser og regnen pisker ned i det ganske land. Men hvordan og hvorfor opstår vejret i Danmark?</description>
-      <duration>00:58:47</duration>
+      <itunes:duration>00:58:47</itunes:duration>
       <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/vores-vejr-podcast/vores-vejr-podcast-2/hvordan-og-hvorfor-opstaar-vejret-11802242005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6214b42c711ffb12d1513e07/b6f6476bc3046c0c0d05f5c3398292c75807dd6f3313bf6808df343efa8ec08a" length="84653083" type="audio/mpeg"/>

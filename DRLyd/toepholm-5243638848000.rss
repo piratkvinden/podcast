@@ -3,7 +3,15 @@
   <channel>
     <title>Tøpholm</title>
     <link>https://www.dr.dk/lyd/p5/toepholm-5243638848000</link>
-    <description>Vært: Ole Tøpholm</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f517d9075f927899fd0ed6.jpg"/>
+    <description>Vært: Ole Tøpholm.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6baabd5634992e72d42f2"/>
+    <item>
+      <title>Fredag 27. jun. 2025</title>
+      <description>Vært: Ole Tøpholm.</description>
+      <itunes:duration>01:50:01</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/toepholm/toepholm-2025/fredag-27-jun-2025-15452541265</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685153be9b0d242d0ffb9973/f8271f76d278133524bec1a56ab9a86ce1dc380d7ac905003dbbab2e3dedef3f" length="158448584" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>Morgenandagten</title>
     <link>https://www.dr.dk/lyd/p2/morgenandagten-754467967000</link>
     <description>Hver dag direkte fra Københavns Domkirke.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0"/>
+    <item>
+      <title>Fredag 27. jun. 2025</title>
+      <description>Præludium:	Théodore Dubois: Élévation D-dur
+Fra det G.T.:	Salme 36, 6-10
+Salme: 31 &quot;Til himlene rækker din miskundhed, Gud&quot;
+Fra det N.T.:	Matthæusevangeliet 5, 13-16
+Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
+Salme: 398 &quot;Dybe, stille, stærke, milde&quot;
+Postludium: Christian Cappelen: Postludium F-dur</description>
+      <itunes:duration>00:24:57</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-27-jun-2025-11042505265</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd967036df1a93c66e0c8/6359e38690cddd0985329673d820c2fbe9c135419d3f4ce6fcf772e412a271f6" length="35931880" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Torsdag 26. jun. 2025</title>
       <description>Præludium:	Christian Erbach: Canzona
@@ -14,7 +28,7 @@ Fra det N.T.:	Matthæusevangeliet 5, 8-12
 Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
 Salme: 708 &quot;Gud lade rolighed og fred&quot;
 Postludium: Dietrich Buxtehude: Wär Gott nicht mit uns diese Zeit</description>
-      <duration>00:25:00</duration>
+      <itunes:duration>00:25:00</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-26-jun-2025-11042505264</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9679405a621fb40b63e/bcc6b00cfc3eb40f9d943a86d458f4e1e647a9522a7366df9dd693a6d0a31824" length="36017129" type="audio/mpeg"/>
@@ -28,7 +42,7 @@ Fra det N.T.:	Matthæusevangeliet 5, 1-7
 Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
 Salme: 376, vers 4-6
 Postludium: Dietrich Buxtehude: Fuga i e-mol</description>
-      <duration>00:25:00</duration>
+      <itunes:duration>00:25:00</itunes:duration>
       <pubDate>Wed, 25 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-25-jun-2025-11042505263</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd98d9405a621fb40b77e/0c3b407b7e7e43d17e05a187a83a891ec8f1a9f9eed4ac03499408ab576ff570" length="36015406" type="audio/mpeg"/>
@@ -42,7 +56,7 @@ Fra det N.T.:	Matthæusevangeliet 4, 23-25
 Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
 Salme: 54 &quot;Hvad mener I om Kristus?&quot;
 Postludium: Johann Sebastian Bach: 1. sats fra Concerto G-dur, BWV 592</description>
-      <duration>00:25:03</duration>
+      <itunes:duration>00:25:03</itunes:duration>
       <pubDate>Tue, 24 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-24-jun-2025-11042505262</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966aa49e222d584d5f4/5ff5ae23fa6cdba5257609d9c0b427e0fdee0760c0a77219ce23aa79a81e43b3" length="36081645" type="audio/mpeg"/>
@@ -56,7 +70,7 @@ Fra det N.T.:	Matthæusevangeliet 4, 18-22
 Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
 Salme: 59 &quot;Jesus os til trøst og gavn&quot;
 Postludium: Anton Heiller: Jesus os til trøst og gavn</description>
-      <duration>00:24:55</duration>
+      <itunes:duration>00:24:55</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-23-jun-2025-11042505261</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966984fa2f265693106/aa5f4606503d14be573ec5570ab9b836e523f47f01cc5d801e49bfc43e38bff4" length="35900209" type="audio/mpeg"/>
@@ -70,7 +84,7 @@ Fra det N.T.:	1. Johannesbrev 4, 16b-21
 Trosbekendelsen	
 Salme: 671 &quot;O du min Immanuel&quot;
 Postludium: Théodore Salomé: Mélodie</description>
-      <duration>00:24:59</duration>
+      <itunes:duration>00:24:59</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-21-jun-2025-11042505256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970aa49e222d584d680/5372dec444b68b2202d59a53e4fb5957ffbf57281700027ce61b5aeb49341aec" length="35990033" type="audio/mpeg"/>
@@ -84,7 +98,7 @@ Fra det N.T.:	Matthæusevangeliet 4, 12-17
 Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
 Salme: 582 &quot;At tro er at komme&quot;
 Postludium: Johann Sebastian Bach: In dir ist Freude, BWV 615</description>
-      <duration>00:25:00</duration>
+      <itunes:duration>00:25:00</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-20-jun-2025-11042505255</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966984fa2f2656930f9/0e17052a4215aa098c66e856629134ec2edb5c61bf4c9ab4300b8da381c2c958" length="36014250" type="audio/mpeg"/>
@@ -98,7 +112,7 @@ Fra det N.T.:	Matthæusevangeliet. 4, 1-11
 Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
 Salme: 634 &quot;Du ved det nok, mit hjerte&quot;
 Postludium: Johann Sebastian Bach: Aria</description>
-      <duration>00:25:00</duration>
+      <itunes:duration>00:25:00</itunes:duration>
       <pubDate>Thu, 19 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-19-jun-2025-11042505254</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966036df1a93c66e0b3/47badfc329a44ca6f4c70a7cd039affc867855d1ddd57baec92bf7d4d667621d" length="36001582" type="audio/mpeg"/>
@@ -112,7 +126,7 @@ Fra det N.T.:	Matthæusevangeliet. 3, 13-17
 Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
 Salme: 142, vers 7-9
 Postludium: Joseph Gabriel Rheinberger: Monolog e-dur</description>
-      <duration>00:24:59</duration>
+      <itunes:duration>00:24:59</itunes:duration>
       <pubDate>Wed, 18 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-18-jun-2025-11042505253</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970036df1a93c66e136/a45f006e159622194b4c58b33b83831b0f23b9ac229b7636850021e627969070" length="36000424" type="audio/mpeg"/>
@@ -126,7 +140,7 @@ Fra det N.T.:	Matthæusevangeliet 3, 7-11
 Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
 Salme: 635 &quot;Vær stærk, min sjæl, i denne tid&quot;
 Postludium: Leif Kayser: Vivo</description>
-      <duration>00:25:01</duration>
+      <itunes:duration>00:25:01</itunes:duration>
       <pubDate>Tue, 17 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-17-jun-2025-11042505252</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970aa49e222d584d67b/1250e7e133a92241841d2bcaef261a1ea2f2def0ecbb9c9a43852e8b255b80df" length="36046505" type="audio/mpeg"/>
@@ -140,7 +154,7 @@ Fra det N.T.:	Matthæusevangeliet 3, 1-6
 Vekselsang	Dit ord består, Herre (Sl. 119, 89-90 &amp; 23, 1-2) 
 Salme: 316 &quot;Helligånd, hør, hvad vi bede&quot;
 Postludium: Johann Pachelbel: Toccata i e-mol</description>
-      <duration>00:24:58</duration>
+      <itunes:duration>00:24:58</itunes:duration>
       <pubDate>Mon, 16 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-16-jun-2025-11042505251</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966aa49e222d584d5e4/67906d18505d3ed2946cd52bc1d88ca5e07b161725eaf190af07eb281c8e1cc6" length="35971047" type="audio/mpeg"/>
@@ -154,7 +168,7 @@ Fra det N.T.: Romerbrevet 11, 32-36
 Vekselsang	Dit ord består, Herre (Sl. 119, 89-90 &amp; 23, 1-2)
 Salme: 308 &quot;Helligånd, vor sorg du slukke&quot;
 Postludium: Johann Sebastian Bach: Aleneste Gud i Himmerig</description>
-      <duration>00:24:58</duration>
+      <itunes:duration>00:24:58</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-14-jun-2025-11042505246</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966984fa2f2656930f0/976c6e29ffc702cc3782cbbb142a54c63c697df21e261dde0903097fa64a9ec1" length="35970468" type="audio/mpeg"/>
@@ -168,7 +182,7 @@ Fra det N.T.: Romerbrevet 8, 31-39
 Korvers: John Frandsen: Kom, sandheds Ånd, og vidne giv (Tekst: Grundtvig)
 Salme: 55 &quot;Ved Jesu navn forlades alle synder&quot;
 Postludium: Cécile Chaminade: Offertoire au Christ-Roi</description>
-      <duration>00:25:02</duration>
+      <itunes:duration>00:25:02</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-13-jun-2025-11042505245</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd965036df1a93c66e0ad/ef931ffe24e0e0ffbd080110b3eeddc9ea60c1714a6b6f7505ece41f964d1b98" length="36061482" type="audio/mpeg"/>
@@ -182,7 +196,7 @@ Fra det N.T.: Romerbrevet 8, 18-27
 Korvers: John Frandsen: Kom, sandheds Ånd, og vidne giv (Tekst: Grundtvig)
 Salme: 588 &quot;Herre, gør mit liv til bøn&quot;
 Postludium: Johann Sebastian Bach: Komm, Gott Schöpfer, heiliger Geist</description>
-      <duration>00:25:02</duration>
+      <itunes:duration>00:25:02</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-12-jun-2025-11042505244</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9659405a621fb40b627/bdaa2e9834e01c63d782f56165a87d63696f7608c39852b3266719c5d5670373" length="36059175" type="audio/mpeg"/>
@@ -196,7 +210,7 @@ Fra det N.T.: Romerbrevet 8, 11-17
 Korvers: John Frandsen: Kom, sandheds Ånd, og vidne giv (Tekst: Grundtvig)
 Salme: 301 &quot;Kom, Helligånd, Gud Herre from&quot;
 Postludium: Emil Sjögren: Legende i F-Dur</description>
-      <duration>00:25:03</duration>
+      <itunes:duration>00:25:03</itunes:duration>
       <pubDate>Wed, 11 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-11-jun-2025-11042505243</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd965036df1a93c66e0a5/aa1ba7134de433a9b035e8b6df700133ddf7e37be36df1238762f3d6eca0b8e3" length="36080489" type="audio/mpeg"/>
@@ -210,7 +224,7 @@ Fra det N.T.: Romerbrevet 8,1-11
 Vekselsang: Ånden selv vidner med vor ånd (Rom. 8, 16-17.26)
 Salme: 290, vers 5-7
 Postludium: Maurice Duruflé: Veni Creator - Final</description>
-      <duration>00:25:01</duration>
+      <itunes:duration>00:25:01</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-10-jun-2025-11042505242</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970aa49e222d584d672/2ba71c2e055ffac3bcff5d68dcd4600f32e82b2c84450530ed4307a6af4c49a3" length="36028072" type="audio/mpeg"/>
@@ -224,7 +238,7 @@ Fra det NT.:	Apostlenes Gerninger 2, 1-11
 Vekselsang:	Ånden selv vidner med vor ånd (Rom. 8, 16-17.26)
 Salme: 281, vers 6 - 10
 Postludium: Georg Philipp Telemann: Kom Helligånd, Gud Herre from</description>
-      <duration>00:24:59</duration>
+      <itunes:duration>00:24:59</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-7-jun-2025-11042505236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd965984fa2f2656930d8/32f31df09b408d8e5f2e25965b25b8a3f8ddd1621ab785939187874df80c56b8" length="35983143" type="audio/mpeg"/>
@@ -238,7 +252,7 @@ Fra det N.T.:	Johannesevangeliet 16, 23-28
 Korvers: Rued Langgaard: Helligånd! Du samle folket (Tekst: Efter Grundtvig)
 Salme: 723, vers 5-6
 Postludium: Flor Peeters: Fuga og toccata over 'Kom, sandheds Ånd! og vidne giv'</description>
-      <duration>00:25:01</duration>
+      <itunes:duration>00:25:01</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-6-jun-2025-11042505235</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9649405a621fb40b60d/2279278e6a9fb4a92f506b78866e62e5bfe4a8b4e5082cc652b2d7486aa65ace" length="36028649" type="audio/mpeg"/>
@@ -252,7 +266,7 @@ Fra det N.T.:	Johannesevangeliet 16, 16-22
 Korvers: Rued Langgaard: Helligånd! Du samle folket (Tekst: Efter Grundtvig)
 Salme: 38, vers 1-3 &quot;På alle dine veje&quot;
 Postludium: Frode Bitsch: Toccata over 'Kom, Gud Helligånd, kom brat!'</description>
-      <duration>00:25:01</duration>
+      <itunes:duration>00:25:01</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-5-jun-2025-11042505234</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96faa49e222d584d66d/db967337dd3b940b0a1e80d05aca073084a82852e170364beae7106b12a414b7" length="36037289" type="audio/mpeg"/>
@@ -266,7 +280,7 @@ Fra det N.T.: Johannesevangeliet 16, 12-15
 Korvers: Rued Langgaard: Helligånd! Du samle folket (Tekst: Efter Grundtvig)
 Salme: 313, vers 4-6
 Postludium: Paul Ayres: Toccatina on 'Here comes the Sun'</description>
-      <duration>00:24:58</duration>
+      <itunes:duration>00:24:58</itunes:duration>
       <pubDate>Wed, 04 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-4-jun-2025-11042505233</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd96f984fa2f265693176/c8eee0df781d7ad20de76704f47bfda407f34c832905a45246f160727121f97e" length="35968167" type="audio/mpeg"/>
@@ -280,7 +294,7 @@ Fra det N.T.:	Johannesevangeliet 16, 5-11
 Korvers: Rued Langgaard: Helligånd! Du samle folket (Tekst: Efter Grundtvig)
 Salme: 287 &quot;Kraften fra det høje&quot;
 Postludium: Laurids Lauridsen: Kom Helligånd, Gud skaber from</description>
-      <duration>00:24:59</duration>
+      <itunes:duration>00:24:59</itunes:duration>
       <pubDate>Tue, 03 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-3-jun-2025-11042505232</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd964aa49e222d584d5cb/6eda20f81b76160dcded0aece0545a35ccf967f182ab0a2d1609b58d91ebabba" length="35989474" type="audio/mpeg"/>
@@ -294,7 +308,7 @@ Fra det N.T.:	Johannesevangeliet 15,18-27
 Korvers: Rued Langgaard: Helligånd! Du samle folket (Tekst: Efter Grundtvig)
 Salme: 724 &quot;Solen stråler over vang&quot;
 Postludium: Felix Mendelssohn Bartholdy: Finale fra Orgelsonate i A-dur</description>
-      <duration>00:25:02</duration>
+      <itunes:duration>00:25:02</itunes:duration>
       <pubDate>Mon, 02 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-2-jun-2025-11042505231</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9649405a621fb40b608/be0302e0aa5644595f75c917f968b11158124c361c635a45a4610ca112cb127b" length="36068977" type="audio/mpeg"/>
@@ -308,7 +322,7 @@ Fra det N.T.:	1. Petersbrev 4, 7b-11
 Trosbekendelsen	
 Salme: 722, vers 4 - 6 
 Postludium: Rued Langgaard: Kristi Himmelfart</description>
-      <duration>00:24:55</duration>
+      <itunes:duration>00:24:55</itunes:duration>
       <pubDate>Sat, 31 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-31-maj-2025-11042505226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd964aa49e222d584d5c6/39de19f2324a22c1874fe5cd062f20d35e601e9e3cdef5d74dbb036879634848" length="35886360" type="audio/mpeg"/>
@@ -322,7 +336,7 @@ Fra det N.T.:	Lukasevangeliet 24,44-53
 Vekselsang:	Kristus opfór til det høje (Ef. 4, 8.10)
 Salme: 264 &quot;Herre Jesus, du, som troner&quot;
 Postludium: Jesper Madsen: Til Himmels fór den ærens drot</description>
-      <duration>00:25:02</duration>
+      <itunes:duration>00:25:02</itunes:duration>
       <pubDate>Fri, 30 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-30-maj-2025-11042505225</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9649405a621fb40b5ff/3ff3fcc71cbbfa0456e7c1b2a95e1747ab5dd58002a9fd33468f62394b3f1ebe" length="36057449" type="audio/mpeg"/>
@@ -336,7 +350,7 @@ Fra det N.T.:	Apostlenes Gerninger 1,6-12
 Vekselsang:	Kristus opfór til det høje (Ef. 4, 8.10)
 Salme: 251 &quot;Jesus, himmelfaren&quot;
 Postludium: Healey Willan: Ascension</description>
-      <duration>00:25:00</duration>
+      <itunes:duration>00:25:00</itunes:duration>
       <pubDate>Wed, 28 May 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-28-maj-2025-11042505223</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9a59405a621fb40b856/5ce391d3c722032f6f6e045e6dae6f465a249182eae7a1c9aaa3468c554a6270" length="36005026" type="audio/mpeg"/>

@@ -7,14 +7,14 @@
 Produceret af: Thomas Bugge og Oliver Seppo
 Lyddesign: Ilmo Simonsen
 Redaktør: Anders Stegger</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67001d7efd6dd215a9aaa0ee.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2ce454d565d1ad75c51"/>
     <item>
       <title>Livet er rejsekort</title>
       <description>De to DR-journalister, Oliver Seppo og Thomas Bugge, bliver sat til at opklare en henlagt mordsag. Mordet på den purunge homoseksuelle Morten Tulander - er det mere end de kan magte? 
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:41:28</duration>
+      <itunes:duration>00:41:28</itunes:duration>
       <pubDate>Mon, 15 Aug 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/livet-er-rejsekort-11162210001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d94e666aba4ef4094a9/607f068f793aac282949bdff6cc8fb1b222dba83931f35b18c233b15ee72d36d" length="59726683" type="audio/mpeg"/>
@@ -25,7 +25,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:35:56</duration>
+      <itunes:duration>00:35:56</itunes:duration>
       <pubDate>Mon, 15 Aug 2022 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/det-hele-rambla-sammen-11162210002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d9ce666aba4ef4094b7/3d89e2055ea864dbfe95b6edc5ee5ee343b77a4558e212ac0cb2bb70f186fc83" length="51748507" type="audio/mpeg"/>
@@ -36,7 +36,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo
 Lyddesign: Ilmo Simonsen
 Redaktør: Anders Stegger</description>
-      <duration>00:26:38</duration>
+      <itunes:duration>00:26:38</itunes:duration>
       <pubDate>Mon, 22 Aug 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/serum-x-on-the-beach-11162210003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d9b2454ca40b1a9e9f0/3b78604b2d5293397a541b6d9c8c813c16324d1454a90689010b1d7a49008ddb" length="38366299" type="audio/mpeg"/>
@@ -47,7 +47,7 @@ Redaktør: Anders Stegger</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:31:35</duration>
+      <itunes:duration>00:31:35</itunes:duration>
       <pubDate>Mon, 29 Aug 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/frederik-dirks-mig-i-laasen-11162210004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d982454ca40b1a9e9e8/947604f22aa82c159bbec710d628784452aeecd1588d9be625e8df84e6b3ca3f" length="45499483" type="audio/mpeg"/>
@@ -58,7 +58,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo
 Lyddesign: Ilmo Simonsen
 Redaktør: Anders Stegger</description>
-      <duration>00:33:25</duration>
+      <itunes:duration>00:33:25</itunes:duration>
       <pubDate>Mon, 05 Sep 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/jes-no-maybe-11162210005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d9ee666aba4ef4094bb/560a95e6f7669ca84f4b016d346318495ac0ef3969e4fbe9c537739c74174721" length="48128347" type="audio/mpeg"/>
@@ -69,7 +69,7 @@ Redaktør: Anders Stegger</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger-</description>
-      <duration>00:31:49</duration>
+      <itunes:duration>00:31:49</itunes:duration>
       <pubDate>Mon, 12 Sep 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/aarhus-state-of-mind-11162210006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d96e666aba4ef4094b2/e2be42c848f348bfa2c35559771942153209a1c70467c4a09cd3c2822bf31ff0" length="45828955" type="audio/mpeg"/>
@@ -80,7 +80,7 @@ Redaktør: Anders Stegger-</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:20:40</duration>
+      <itunes:duration>00:20:40</itunes:duration>
       <pubDate>Mon, 19 Sep 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/kryptex-mex-og-daemoner-11162210007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d9fe666aba4ef4094bf/66386d5da607c4cf3df3da644e4806ff39ddc8c07e0edf86d957e378356abfe7" length="29778139" type="audio/mpeg"/>
@@ -91,7 +91,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:22:47</duration>
+      <itunes:duration>00:22:47</itunes:duration>
       <pubDate>Mon, 26 Sep 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/det-er-da-ramsloegn-11162210008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25da1e666aba4ef4094c3/c33f91fd1e1dd752c840bd4919a50591fb15ed79688d08e68feb940b466f8662" length="32817115" type="audio/mpeg"/>
@@ -102,7 +102,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:28:27</duration>
+      <itunes:duration>00:28:27</itunes:duration>
       <pubDate>Mon, 03 Oct 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/heist-geist-guys-11162210009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d942454ca40b1a9e9d3/292a29eacb21cfb7cb73bcd8778ee732502d839b0bab1915d2b4904424a6447e" length="40968667" type="audio/mpeg"/>
@@ -113,7 +113,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:19:20</duration>
+      <itunes:duration>00:19:20</itunes:duration>
       <pubDate>Mon, 10 Oct 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/dr-s-the-jinx-11162210010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d922454ca40b1a9e9d0/179661d78cbeb0dd8806e29b0219b39aa6adaca8db3b4ad1adb25a26f2cbebd0" length="27842203" type="audio/mpeg"/>
@@ -124,7 +124,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:43:30</duration>
+      <itunes:duration>00:43:30</itunes:duration>
       <pubDate>Mon, 17 Oct 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/adam-holm-paa-hat-og-briller-11162210011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d972454ca40b1a9e9e1/64b5dc6532de69f9f5ff3c6d73615ef4796880135efdabfd52cd85700770f082" length="62661403" type="audio/mpeg"/>
@@ -135,7 +135,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:38:38</duration>
+      <itunes:duration>00:38:38</itunes:duration>
       <pubDate>Mon, 24 Oct 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/we-are-boston-to-something-11162210012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25da02454ca40b1a9ea00/2fa4c65ebedb1d5f311b0c1d66f500049f75f4743b62d5980e71d164f916a729" length="55646299" type="audio/mpeg"/>
@@ -146,7 +146,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:41:21</duration>
+      <itunes:duration>00:41:21</itunes:duration>
       <pubDate>Mon, 31 Oct 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/away-11162210013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25da22454ca40b1a9ea05/c1c5243720b5d4412671935b9d7d28a0efb4cfeafec8f83f5555bf9da652ffae" length="59566555" type="audio/mpeg"/>
@@ -157,7 +157,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:34:38</duration>
+      <itunes:duration>00:34:38</itunes:duration>
       <pubDate>Mon, 07 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/moby-big-dick-energy-11162210014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d9a2454ca40b1a9e9ed/446ca967dc5b0671ae8343a8c8d07932a58e50f4ae6b815e6f5bac844f3a090d" length="49894939" type="audio/mpeg"/>
@@ -168,7 +168,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:25:28</duration>
+      <itunes:duration>00:25:28</itunes:duration>
       <pubDate>Mon, 14 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/flugten-fra-skaeldudfaengslet-11162210015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d95e666aba4ef4094ac/21f6297aa78bebac9e2255d46f9f9c3c40f253af8344865f1097291770a55dc3" length="36687835" type="audio/mpeg"/>
@@ -179,7 +179,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:44:00</duration>
+      <itunes:duration>00:44:00</itunes:duration>
       <pubDate>Mon, 21 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/foelg-efter-adam-holm-for-enhver-paris-11162210016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d982454ca40b1a9e9e4/5af7a1f9d113a7d38136cc284f461b7a16a33a76522f6588742aff0b46e7bdf9" length="63374491" type="audio/mpeg"/>
@@ -190,7 +190,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:19:58</duration>
+      <itunes:duration>00:19:58</itunes:duration>
       <pubDate>Mon, 28 Nov 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/der-er-koldt-paa-stenbakken-11162210017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25da3e666aba4ef4094c7/c71a506b8cdef3f981fb1025363162e50ae4a3dac60ee46dfeea4341bb34e13d" length="28756891" type="audio/mpeg"/>
@@ -201,7 +201,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:28:29</duration>
+      <itunes:duration>00:28:29</itunes:duration>
       <pubDate>Mon, 05 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/bruger-i-maelk-11162210018</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d92e666aba4ef4094a6/65cd3ac3a41ad38b1839e8a3a7348063bad534493be35856f35f2584b3cf5431" length="41018203" type="audio/mpeg"/>
@@ -213,7 +213,7 @@ Men Prins Henrik er ikke den eneste prominente kapacitet i bygningen...
 Produceret af: Thomas Bugge og Oliver Seppo.
 Lyddesign: Ilmo Simonsen.
 Redaktør: Anders Stegger.</description>
-      <duration>00:41:47</duration>
+      <itunes:duration>00:41:47</itunes:duration>
       <pubDate>Mon, 12 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/19-20-nik-og-jays-bond-11162210019</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d952454ca40b1a9e9da/82493d492f53b725fc4c57b49757c3acceffeee7ee197244e69e7bea8a9cdfb1" length="60170203" type="audio/mpeg"/>
@@ -224,7 +224,7 @@ Redaktør: Anders Stegger.</description>
 Produceret af: Thomas Bugge og Oliver Seppo
 Lyddesign: Ilmo Simonsen
 Redaktør: Anders Stegger</description>
-      <duration>00:26:30</duration>
+      <itunes:duration>00:26:30</itunes:duration>
       <pubDate>Mon, 19 Dec 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/et-skud-i-boessen/et-skud-i-boessen-1/20-20-downsizing-syndrome-11162210020</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:62f25d952454ca40b1a9e9d7/72202d93de2a459b0edeb05d6f04249218fb6900c8cce36896c6f629e9eb3120" length="38162395" type="audio/mpeg"/>

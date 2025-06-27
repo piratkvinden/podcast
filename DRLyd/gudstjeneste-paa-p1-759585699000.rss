@@ -4,7 +4,7 @@
     <title>Gudstjeneste på P1</title>
     <link>https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1-759585699000</link>
     <description>Direkte transmission af dagens højmesse fra en af landets kirker.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f48930fd6dd215a97c52eb.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e8fab7d5634992e73bd0e7"/>
     <item>
       <title>Søndag 22. jun. 2025</title>
       <description>Eliaskirken, Vesterbro. Københavns stift. 1.s. e Trinitatis
@@ -27,7 +27,7 @@ Komponist CV Jørgensen
 Postludium
 Chance song 
 Komponist: Herbie Hancock</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Sun, 22 Jun 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/soendag-22-jun-2025-11042504257</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd8ee036df1a93c66dd54/b745101d31dd9ae7786909ac2263b7c9bd352f3d880279fd6718c33d36775922" length="82177786" type="audio/mpeg"/>
@@ -55,7 +55,7 @@ Komponist:  Teitur
 Postludium:
 I går var hveden moden
 Komponist: Hans Sydow</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Sun, 15 Jun 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/soendag-15-jun-2025-11042504247</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd8f79405a621fb40b2d9/800c1f6d131b3d780cf82393e594e1dcbf408bec550f8e08ba355b6f7fd6a107" length="82177784" type="audio/mpeg"/>
@@ -79,7 +79,7 @@ Improvisation over I al sin glans nu stråler solen
 
 Postludium
 Improvisation over: Alt står i Guds faderhånd</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Mon, 09 Jun 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/mandag-9-jun-2025-11042504241</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682443996f051f913cfbfe3d/fd8817a7010f9d88873348bd8ac29b2b1183417da60e9ca0d7df33b9a1c06415" length="82177784" type="audio/mpeg"/>
@@ -105,7 +105,7 @@ Komponist: Samuel Wesley
 Postludium
 Kom, sandheds Ånd! og vidne giv
 Komponist: J. S. Bach</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Sun, 08 Jun 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/soendag-8-jun-2025-11042504237</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd8f7984fa2f265692dae/91ee4f345fb17fdddb5516660d4c9b5ebc408dd313db0af4fe40daa02e8ab1a9" length="82177782" type="audio/mpeg"/>
@@ -130,7 +130,7 @@ Solo:
 &quot;Vi er din levende krop og kirke&quot;. 
 Marianne Velling Bordinggaard/Martin Lysholm Hornstrup
 Vært: Katarina Lewkovitch</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Sun, 01 Jun 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/soendag-1-jun-2025-11042504227</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd8ed984fa2f265692d51/b357dace25e9e13c730db917e0028d1aa5d9408b901f05e678b8b5c705b78c09" length="82177786" type="audio/mpeg"/>
@@ -145,7 +145,7 @@ Musik:
 &quot;Never walk alone&quot; - Hillsong Worship, Mi-kaisha Rose
 &quot;King of Kings&quot; - Hillsong Worship, Brooke Ligertwood
 &quot;One And Only&quot; - TAYA</description>
-      <duration>00:57:04</duration>
+      <itunes:duration>00:57:04</itunes:duration>
       <pubDate>Thu, 29 May 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2025/torsdag-29-maj-2025-11042504224</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680a42f51544cf0a2b5a0448/4dd8da927b1984a8fbaf51191ef50fed3b83014aa8e7112e52363db2b774f9ff" length="82177773" type="audio/mpeg"/>

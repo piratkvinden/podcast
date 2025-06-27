@@ -6,14 +6,14 @@
     <description>I en uge har Mikael Bertelsen boet på Danmarks største plejehjem, Sølund, ved Søerne i København.
 
 I en serie på seks afsnit oplever Bertelsen livet på Sølund, med åben mikrofon, og hans helt særlige og originale interviewteknik.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67015de6fd6dd215a9af9f93.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2b68e0723688e3ce15e"/>
     <item>
       <title>P1 på Plejehjem 1:6</title>
       <description>Mikael Bertelsen taler med forskellige beboere og ansatte på Plejecenter Sølund. 
 Bl.a. Ellen på 99 år der har bået på Sølund i 13 år. Mikael Bertelsen tager med Ellen til litteratur. Derudover er Mikael Bertelsen også til fastelavnsfest på Plejecenter Sølund.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:56:38</duration>
+      <itunes:duration>00:56:38</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-1-6-13411132001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26033330eac2f135b6934/c084a3618a4257b2e076607c8226c9596eeb8aecef7b38e1626ce0a2ae229952" length="81570697" type="audio/mpeg"/>
@@ -23,7 +23,7 @@ Teknik og produktion: Kim G. Hansen.</description>
       <description>På plejehjemmet er der god tid og Mikael Bertelsen er begyndt at slæbe på sine fødder. I dette andet afsnit er der gule ærter på menuen.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:55:59</duration>
+      <itunes:duration>00:55:59</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-2-6-13411132002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26034330eac2f135b6937/81536d28b81323f598803a2ec22db638981eca2bb4c9aebc9d7f8c695c0cd1bc" length="80620823" type="audio/mpeg"/>
@@ -33,7 +33,7 @@ Teknik og produktion: Kim G. Hansen.</description>
       <description>Mikael Bertelsen er på vareuddeling på plejehjemmet Sølund. Der uddeles bl.a. Lotto-kuponer, is og hvidvin. Vi møder en frimærkesamler, en tatoveret sømand og én som ønsker at gå i seng om aftenen og ikke vågne op igen.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:56:44</duration>
+      <itunes:duration>00:56:44</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-3-6-13411132003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26035330eac2f135b693c/3264ddbbaf15303f9a54da77c8394ed7b4972dcec2b94deffe993946d2570dce" length="81707780" type="audio/mpeg"/>
@@ -43,7 +43,7 @@ Teknik og produktion: Kim G. Hansen.</description>
       <description>Turen går rundt i alle kroge af plejehjemmet Sølund, da en beboer er blevet væk.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:56:48</duration>
+      <itunes:duration>00:56:48</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-4-6-13411132004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26036330eac2f135b6944/24d4b47a9e4d83bd843c8a08a2383d52b0ea08b775cce4a2b7a9d7935208d7fd" length="81809627" type="audio/mpeg"/>
@@ -53,7 +53,7 @@ Teknik og produktion: Kim G. Hansen.</description>
       <description>Det er en travl dag på plejehjemmet Sølund. Mikael Bertelsen er til welness i plejehjemmets roligste rum. Senere er han til bridge i spillebulen Blomsterbo, så gymnastik og til sidst flygelspil.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:56:42</duration>
+      <itunes:duration>00:56:42</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:04:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-5-6-13411132005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26037330eac2f135b694a/18cc112dd24a72146bd68d305655bc7e1af275a9c4de6481418addfd4ff29691" length="81651328" type="audio/mpeg"/>
@@ -63,7 +63,7 @@ Teknik og produktion: Kim G. Hansen.</description>
       <description>Mikael Bertelsen møder op mod 100 beboere og ansatte på plejehjemmet Sølund, hvor han bor i en hel uge. Han får sig bl.a. en snak om demens, og om hvad vi for eksempel kan huske, hvis sygdommen rammer os.
 Tilrettelæggelse: Mikael Bertelsen. 
 Teknik og produktion: Kim G. Hansen.</description>
-      <duration>00:56:21</duration>
+      <itunes:duration>00:56:21</itunes:duration>
       <pubDate>Mon, 17 Aug 2015 13:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-paa-plejehjem/p1-paa-plejehjem-1/p1-paa-plejehjem-6-6-13411132006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26038330eac2f135b6951/61897ac58afc54bdb8da4e490e1fe90515ea1f2a53dd97d50df60a1d35b41cd4" length="81152511" type="audio/mpeg"/>

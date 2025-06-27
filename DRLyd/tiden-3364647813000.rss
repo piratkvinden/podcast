@@ -3,9 +3,9 @@
   <channel>
     <title>Tiden</title>
     <link>https://www.dr.dk/lyd/special-radio/tiden-3364647813000</link>
-    <description>Bliv klar til dagen med tidens tre vigtigste nyhedshistorier på 15 minutter. Alle hverdage fra klokken 05.00. 
-Vært: Annika Wetterling.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2d15eb75d19480fa58c2e.jpg"/>
+    <description>Bliv klar til dagen med tidens tre vigtigste nyhedshistorier på 15 minutter. Alle hverdage fra klokken 03.00. 
+Værter: Adrian Busk og Amalie Schroll Munk.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6855d9e1ae4ae955fafccc73"/>
     <item>
       <title>Premierministerens plan, Porno og Poga¶ar</title>
       <description>Premierminister Netanyahu bliver kaldt en krigshelt af USAs præsident, men har han med sine angreb på Iran sikret sig en politisk genrejsning, eller presser problemerne sig stadig på? 
@@ -16,7 +16,7 @@ Medvirkende:
 Lasse Winther Jensen, skribent, Weekendavisen. 
 David Madsen, psykolog med speciale i digital sundhed.
 Bastian Emil Goldschmidt, forfatter og cykelkommentator, Eurosport.</description>
-      <duration>00:16:57</duration>
+      <itunes:duration>00:16:57</itunes:duration>
       <pubDate>Fri, 27 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/premierministerens-plan-porno-og-poga-ar-11802551126</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5ee84f02ac24293956/694e72c74d1c9d89b37cf4c543be9deaa78ba1e9cc6837ee16b2dfc1641ee3f5" length="24410761" type="audio/mpeg"/>
@@ -30,7 +30,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Matias Seidelin, sikkerhedspolitisk seniorkorrespondent OLFI.
 Ida Gjellerup Stroemgren og Ida-Louise Kirkegaard Simonsen, gymnasieelever.</description>
-      <duration>00:16:50</duration>
+      <itunes:duration>00:16:50</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trump-hviskeren-spoerg-chat-og-kfc-fidusen-11802551125</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb55ae0bf619c87ad6a7/890916c273bea6e5256c60e07e01877ed66ffcde7e66877baef79e28cf8315ee" length="24258695" type="audio/mpeg"/>
@@ -44,7 +44,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Sune Engel Rasmussen, korrespondent på Wall Street Journal. 
 Carina Ren, turismeforsker ved Aalborg Universitet.</description>
-      <duration>00:16:45</duration>
+      <itunes:duration>00:16:45</itunes:duration>
       <pubDate>Wed, 25 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/presset-praestestyre-maengden-af-manosfaeren-og-venedigs-vrede-11802551124</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3ae84f02ac2429387d/8c5a6f1453196b2e85b34114198469b394415630bcab16ac26a1d8acf0de03f0" length="24136005" type="audio/mpeg"/>
@@ -58,7 +58,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Rasmus Brun pedersen, Lektor, institut for statskundskab, Aarhus Universitet.
 Izabella Rasmussen, nyuddannet lærer.</description>
-      <duration>00:17:36</duration>
+      <itunes:duration>00:17:36</itunes:duration>
       <pubDate>Tue, 24 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/miga-festivaltragedie-og-flugten-fra-folkeskolen-11802551123</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3a792941dbb148c536/71c47fa61c0f9e744caa3a4b33a3c4974e000365476343a23b8daa6908731083" length="25348488" type="audio/mpeg"/>
@@ -70,7 +70,7 @@ Medvirkende:
 Peter Viggo, Lektor ved Forsvarsakademiet.
 Jesper Tynell, undersøgende journalist på DR.
 Vært: Adrian Busk.</description>
-      <duration>00:17:24</duration>
+      <itunes:duration>00:17:24</itunes:duration>
       <pubDate>Mon, 23 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/usa-bomber-iran-din-hud-og-miljoefarlig-ministerie-11802551122</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb354c47f2aac4ad3269/7bdd3ac5745812ef3cb385661a1684aa9f1d4df504dcd1a604ebd49b04b8c376" length="25063374" type="audio/mpeg"/>
@@ -84,7 +84,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Karsten Marrup, major og chef for center for luft og rumoperationer ved Forsvarsakademiet.
 Niels Damgaard, Chef for kommuneservice og kommunikation, AffaldPlus.</description>
-      <duration>00:17:16</duration>
+      <itunes:duration>00:17:16</itunes:duration>
       <pubDate>Fri, 20 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/det-israelske-luftforsvar-staten-snager-og-et-affaldsopraab-11802551121</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5d4c47f2aac4ad335f/3a79505395e4e4ae9f83d8df0620ada79fe3fdbde7252310515636d4075d64f4" length="24873867" type="audio/mpeg"/>
@@ -96,7 +96,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Ditte Lynge, freelancejournalist og bosat i USA.
 Matias Seidelin, sikkerhedspolitisk seniorkorrespondent på netmediet Olfi og USA-ekspert.</description>
-      <duration>00:17:47</duration>
+      <itunes:duration>00:17:47</itunes:duration>
       <pubDate>Thu, 19 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ice-age-daarlig-kemi-og-trumps-dilemma-11802551120</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb51ce6d3443e4020a70/9330b87ddc853161ff91e6857594105f822201fff31b197554672c2fdbd92387" length="25631310" type="audio/mpeg"/>
@@ -110,7 +110,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Rasmus Elling, Iran-forsker.
 Rikke Gjøl Mansø, politisk analytiker i DR.</description>
-      <duration>00:17:00</duration>
+      <itunes:duration>00:17:00</itunes:duration>
       <pubDate>Wed, 18 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/fonsecas-hemmelige-optagelse-iransk-krigsjubel-og-kairo-tur-retur-11802551119</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4de84f02ac242938f1/1e1ae8c4892301a041df45181f89f3f34d8a3897db3653e20c457dd1aa886bba" length="24495425" type="audio/mpeg"/>
@@ -124,7 +124,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Sune Haugbølle, professor i mellemøststudier på RUC.
 Mira Lie Nielsen, mangeårig boligøkonom.</description>
-      <duration>00:16:39</duration>
+      <itunes:duration>00:16:39</itunes:duration>
       <pubDate>Tue, 17 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/afledningskrig-menneskejagt-i-minnesota-og-et-uroerligt-boligmarked-11802551118</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3e81654c75b6b33483/c6f0a34ef5d49221bfcb9e2fc1836c0acabd497ae717579b2d9b47e895fa0e14" length="23997192" type="audio/mpeg"/>
@@ -138,7 +138,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Jacob Kaarsbo,sikkerhedsanalytiker, tidl. Mellemøstchef, FE.
 Garbi Schmidt, professor på Roskilde Universitet.</description>
-      <duration>00:16:11</duration>
+      <itunes:duration>00:16:11</itunes:duration>
       <pubDate>Mon, 16 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/fjender-for-evigt-gaatur-til-gaza-og-dansk-eller-ej-11802551117</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb32ce6d3443e40209ab/37fb58b642c77475b96563658f4f33053ba41504754e084aed2281b668fba4fb" length="23311176" type="audio/mpeg"/>
@@ -152,7 +152,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Michael Bang Petersen, professor i statskunstskab, AU.
 Janni Ree, mops-ejer.</description>
-      <duration>00:16:41</duration>
+      <itunes:duration>00:16:41</itunes:duration>
       <pubDate>Fri, 13 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/et-tykt-lobby-lag-janni-rees-mops-og-spraengfarlige-forhandlinger-11802551116</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb62ae0bf619c87ad6f4/d194c7f0cb0182732de11a1f68e252880026b92ad63c20e8ee30c20a212bfe1d" length="24045000" type="audio/mpeg"/>
@@ -166,7 +166,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Louise Dalsgaard, DR's retsanalytiker.
 Niels Bjerre-Poulsen, lektor, amerikanske studier, SDU.</description>
-      <duration>00:17:29</duration>
+      <itunes:duration>00:17:29</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/den-sorte-svane-flyver-igen-tvangsflugt-i-gaza-og-trumps-nationalhaer-11802551115</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb44932399dae77cd008/0f6f3fbac19abca833dc62eac1b349393aab960c4fb8f6a9903e10abd7a5e916" length="25187789" type="audio/mpeg"/>
@@ -180,7 +180,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Lasse Engelbrecht, udlandsjournalist DR.
 Louise Olifent, journalist Version2.</description>
-      <duration>00:17:16</duration>
+      <itunes:duration>00:17:16</itunes:duration>
       <pubDate>Wed, 11 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/rap-fyr-i-l-a-gretas-sandwich-og-ud-med-microsoft-11802551114</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5581654c75b6b33509/76497ae9da0cca2d264c5b7fc075ecc695353cf4c7007f4cb55ce75ab9b0bec9" length="24881350" type="audio/mpeg"/>
@@ -192,7 +192,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Andreas Krog, forsvarsredaktør, Altinget.
 Anna Thygesen, kommunikationsrådgiver.</description>
-      <duration>00:16:58</duration>
+      <itunes:duration>00:16:58</itunes:duration>
       <pubDate>Fri, 06 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/sass-krisekommunikation-transkoennede-ud-af-troejen-og-militaere-milliarder-11802551111</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb48e84f02ac242938cf/1d429c3109a48df00805d86d65e07a3bb04bcfa98bf8b636c926b1988b343497" length="24441864" type="audio/mpeg"/>
@@ -206,7 +206,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Sidsel Nyholm, udlandsredaktør på Kristeligt Dagblad.
 Troels Elverskov, prepper.</description>
-      <duration>00:17:27</duration>
+      <itunes:duration>00:17:27</itunes:duration>
       <pubDate>Thu, 05 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/elons-exit-risiko-rygsaekken-og-moede-med-merz-11802551110</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb55e84f02ac24293925/1b98d2fceeba7d72ba221499ad49fd5220986a31ad4dd2772e0eb2e7a9ed70a5" length="25150342" type="audio/mpeg"/>
@@ -220,7 +220,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Cecilie Kallestrup, udlandsjournalist på DR.
 Ditte Brasso Sørensen, vicedirektør Tænketanken Europa.</description>
-      <duration>00:15:55</duration>
+      <itunes:duration>00:15:55</itunes:duration>
       <pubDate>Wed, 04 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/noedhjaelp-under-angreb-antiklimatisk-og-poland-first-11802551109</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2f4c47f2aac4ad3248/37e585ab13e6d61357acf6583151496f68f4532f35ce9e23460ee7514b35af1b" length="22944846" type="audio/mpeg"/>
@@ -234,7 +234,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Andreas Graae, militæranalytiker ved Forsvarsakademiet.
 Amalie Bøgild, pårørende til selvmord.</description>
-      <duration>00:17:24</duration>
+      <itunes:duration>00:17:24</itunes:duration>
       <pubDate>Tue, 03 Jun 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/operation-edderkoppespind-taco-trump-og-sarahs-selvmord-11802551108</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3e792941dbb148c552/d7b5fc152bfbf2244ae528e3f27012bf35b2c3b0579ab4662b03589044c3154b" length="25080072" type="audio/mpeg"/>
@@ -248,7 +248,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Hans-Jørgen Albrechtsen, professor på DTU.
 Nidal Abu Arif, dansk-palæstinenser, født og opvokset i Gaza.</description>
-      <duration>00:15:59</duration>
+      <itunes:duration>00:15:59</itunes:duration>
       <pubDate>Wed, 28 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/nidals-soester-shein-svindel-og-vores-rene-drikkevand-11802551104</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb46ce4efd03562e9d87/b195c3ddf27a0b2680f35f4b70c05ee6b495a60efbe21de951a22f75ab94d2d1" length="23040456" type="audio/mpeg"/>
@@ -262,7 +262,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Marc Sabatier, ph d.studerende på Harvard University.
 Flemming Splidsboel, seniorforsker på DIIS med speciale i Rusland.</description>
-      <duration>00:16:57</duration>
+      <itunes:duration>00:16:57</itunes:duration>
       <pubDate>Tue, 27 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/heunickes-rap-harvard-forbud-og-playbook-fra-putin-11802551103</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2fa63ac1c49a49e58d/f0927695806ab9a769c171e6523857b793ba470b554ae3bb9e668b7a433a86ec" length="24415370" type="audio/mpeg"/>
@@ -276,7 +276,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Annette Olesen, kriminolog ved Aalborg Universitet.
 Silla Bakalus, kongehusekspert og podcaster.</description>
-      <duration>00:16:08</duration>
+      <itunes:duration>00:16:08</itunes:duration>
       <pubDate>Mon, 26 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/royale-reels-big-beautiful-bill-og-klippekort-til-brummen-11802551102</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3de84f02ac2429388f/7b0eba15b40b59d7bfe68c934dcaf035c59023ad85978cc1b856c1c2fcfa6315" length="23234566" type="audio/mpeg"/>
@@ -290,7 +290,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:  
 Rasmus Bitsch, freelance journalist, har boet i Sydafrika i 10 år.
 Hans Fynbo, professor i eksperimentel kernefysik på Aarhus Universitet.</description>
-      <duration>00:17:01</duration>
+      <itunes:duration>00:17:01</itunes:duration>
       <pubDate>Fri, 23 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/magas-fake-folkemord-roeveriet-mod-kardashian-og-atomkraft-nej-tak-eller-maaske-11802551101</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb55a63ac1c49a49e674/f9c93805821a38f79a2fcd6c78492988b558196e2d05ff22bf5f8b228aee669a" length="24516746" type="audio/mpeg"/>
@@ -304,7 +304,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Anders Jerichow, seniorkorrespondent, Politiken.
 Louise Olifent, journalist Version2.</description>
-      <duration>00:17:12</duration>
+      <itunes:duration>00:17:12</itunes:duration>
       <pubDate>Thu, 22 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ude-af-outlook-ustoppelig-netanyahu-og-pet-i-salen-11802551100</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb34a63ac1c49a49e5ab/b45ffd8ff506d7f1d0a8382c2df2b7706545452bcbfc1d3ecb0484416fe9f3a9" length="24777671" type="audio/mpeg"/>
@@ -319,7 +319,7 @@ Medvirkende:
 Mathias Sindberg, journalist på Information.
 Filip Knaack Kirkegaard, klimaanalytiker DR.
 Jens Ringberg, politisk analytiker DR.</description>
-      <duration>00:17:49</duration>
+      <itunes:duration>00:17:49</itunes:duration>
       <pubDate>Wed, 21 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/foerst-til-vind-moelle-joe-biden-i-forfald-og-en-facebookopdatering-11802551098</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb44ae0bf619c87ad636/e1307483c1cbc6f7a2def7cbb2b7ca5e48228e5f16d5ca4dc712574705c6bcd7" length="25675082" type="audio/mpeg"/>
@@ -333,7 +333,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Astrid Opstrup, sygeplejerske.
 Peter Qvortrup Geisling, DR's sundhedskorrespondent.</description>
-      <duration>00:17:07</duration>
+      <itunes:duration>00:17:07</itunes:duration>
       <pubDate>Tue, 20 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trump-i-oeret-en-ny-psykiatri-og-sygeplejersken-i-gaza-11802551097</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb30e84f02ac24293831/1ef7eabb015edb3dbd457c5c0bdff0395fb7a6ca197701d1da963764bb2bc477" length="24650384" type="audio/mpeg"/>
@@ -347,7 +347,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Louise Dalsgaard, DR's retsanalytiker.
 Julie Søltoft, journalist Berlingske Business.</description>
-      <duration>00:17:37</duration>
+      <itunes:duration>00:17:37</itunes:duration>
       <pubDate>Mon, 19 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/hvidvask-paa-vesterbro-kryptiske-beviser-og-palaestina-forbud-i-folkeskolen-11802551096</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5d792941dbb148c62b/a8b9783662421c4716d9bcf76d1608bf8237654e18b10507ac10a0fe4a228f39" length="25383051" type="audio/mpeg"/>
@@ -362,7 +362,7 @@ Medvirkende:
 Jacob Bruun, tidligere rådgiver for Lars Løkke Rasmussen.
 Mathias Findalen, historiker og forfatter til bogen 'Det Tyrkiet der splitter'.
 Zakarias de los Reyes, bestyrelsesmedlem, Melodigrandprixfans.dk.</description>
-      <duration>00:17:40</duration>
+      <itunes:duration>00:17:40</itunes:duration>
       <pubDate>Fri, 16 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/moderat-comeback-pkk-ollaps-og-syng-svensk-11802551095</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb454c47f2aac4ad32d8/4a0faf11fdbda0d2df6cb2afc0a0acd54f13e9f22fbe06c90d2899cf98aaae06" length="25446983" type="audio/mpeg"/>
@@ -376,7 +376,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Michael Zilmer-Johns, tidligere NATO-ambassadør og mangeårig diplomat.
 Bo Albertus, pædagogisk leder på en specialskole i Skovlunde og boykotter amerikanske varer.</description>
-      <duration>00:15:07</duration>
+      <itunes:duration>00:15:07</itunes:duration>
       <pubDate>Thu, 15 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/diplomatiets-kunst-great-syria-og-bo-boykotter-stadig-11802551094</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb59792941dbb148c60b/19efba7bf00615dca026e4bb826538fd75f48f25fd29b20444d935b5b794bf03" length="21774404" type="audio/mpeg"/>
@@ -390,7 +390,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Sandra Brovall, kulturkorrespondent, DR.
 Casper Schrøder, økonomikorrespondent, DR.</description>
-      <duration>00:17:50</duration>
+      <itunes:duration>00:17:50</itunes:duration>
       <pubDate>Wed, 14 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/gades-kasketter-diddy-ved-domstolen-og-en-aflyst-handelskrig-11802551093</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb40792941dbb148c560/2a007eb1a5353f0dbbdb29045667c8a0a8a1fca54bc601e9e192ca347c0a009a" length="25703878" type="audio/mpeg"/>
@@ -402,7 +402,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Charlotte Flindt Pedersen, direktør, Det udenrigspolitiske selskab.
 Rasmus Sinding Søndergaard, seniorforsker på Dansk Institut for Internationale Studier.</description>
-      <duration>00:15:45</duration>
+      <itunes:duration>00:15:45</itunes:duration>
       <pubDate>Tue, 13 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/putins-invitation-no-stresso-og-donalds-dage-11802551092</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4d046e23510ef0531d/fb8d96cc6d5b2d04b9ff585f983e3b8f8549382e0a4b774fa5d4f83e4eff96eb" length="22691399" type="audio/mpeg"/>
@@ -414,7 +414,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Rikke Gjøl Mansø, politisk analytiker, DR.
 Andreas Skovbo Meng, feltpræst.</description>
-      <duration>00:16:48</duration>
+      <itunes:duration>00:16:48</itunes:duration>
       <pubDate>Mon, 12 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kristen-kampvilje-bills-billions-og-et-dansk-overvaagningssamfund-11802551091</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3f046e23510ef052ca/c04e7f2bbb349d4ae5b3905ed2accd5d6f56fe6d78f38a39a26155fbc87b6da3" length="24213768" type="audio/mpeg"/>
@@ -427,7 +427,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Hans Davidsen-Nielsen, forfatter og journalist på Politiken.
 Henrik Them, løbeekspert og tidligere landsholdsløber.</description>
-      <duration>00:17:32</duration>
+      <itunes:duration>00:17:32</itunes:duration>
       <pubDate>Fri, 09 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/spionage-mellem-venner-ulvejagten-og-3-2-1-loeb-11802551090</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5aae0bf619c87ad6c7/ae1f310d372eb9a201f10fa2cee36f7a4e1a1842af5ad7cafadec0a9c829d8ba" length="25258634" type="audio/mpeg"/>
@@ -439,7 +439,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Per Bang Thomsen, EU-analytiker i DR.
 Mads Jedzini, analytiker, Tænketanken Europa.</description>
-      <duration>00:16:01</duration>
+      <itunes:duration>00:16:01</itunes:duration>
       <pubDate>Thu, 08 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/russisk-gaslighting-konflikten-i-kashmir-og-det-tyske-stempel-11802551089</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb50792941dbb148c5ca/253caec320cd2688144251f3919f7b3d25e49a0a0df176b5252e69de250d2275" length="23080203" type="audio/mpeg"/>
@@ -453,7 +453,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:  
 Daniel Nørgaard, katolsk skolepræst på Niels Steensen Grundskole og Gymnasium.
 Sune Haugbølle, professor i globale studier og mellemøstforsker ved Roskilde Universitet.</description>
-      <duration>00:16:58</duration>
+      <itunes:duration>00:16:58</itunes:duration>
       <pubDate>Wed, 07 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/pavedise-hotel-merz-mareridt-og-gru-i-gaza-11802551088</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb53792941dbb148c5da/d9f27a9d8e522d1640a6ed0980525c0ca4a9afc492d919ffaedbf7dc0f229ccc" length="24447046" type="audio/mpeg"/>
@@ -467,7 +467,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende: 
 Cecilie Kallestrup, journalist på DRs udlandsredaktion.
 Louise Dalsgaard, retsanalytiker i DR.</description>
-      <duration>00:15:26</duration>
+      <itunes:duration>00:15:26</itunes:duration>
       <pubDate>Tue, 06 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/fanget-i-somalia-et-aktivt-alcatraz-og-russisk-tortur-11802551087</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb46ae0bf619c87ad647/971c9368995f66c7be8321c8d216af0f42674217c7abcf7682dc7b44c20a180c" length="22226570" type="audio/mpeg"/>
@@ -481,7 +481,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Mikael Olai Milhøj, økonom og chefstrateg i Sterna Capital Partners.
 Thomas Læssøe, mykolog ved Københavns Universitet.</description>
-      <duration>00:15:06</duration>
+      <itunes:duration>00:15:06</itunes:duration>
       <pubDate>Mon, 05 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/fortryllet-af-novo-gift-i-beef-wellington-og-ekstreme-afd-11802551086</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5a046e23510ef05385/aceb20fbd15f4a4171a94da8152a92d866cbfc743f76e302649026a9fce93f37" length="21768074" type="audio/mpeg"/>
@@ -495,7 +495,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Ditte Brasso Sørensen, vicedirektør ved Tænketanken Europa.
 Mathias Mencke, undersøgende journalist på Zetland.</description>
-      <duration>00:14:49</duration>
+      <itunes:duration>00:14:49</itunes:duration>
       <pubDate>Fri, 02 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/dirty-deal-romaga-og-diagnosekoeen-11802551085</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb34046e23510ef05284/a0941931a8a56dbccb117069dbf138f9ff694e0464de77868b657946ae5349bf" length="21359117" type="audio/mpeg"/>
@@ -509,7 +509,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Johan Varning Bendtsen, nordisk korrespondent for Kristeligt Dagblad.
 Christian Friis Bach, energiordfører i Venstre.</description>
-      <duration>00:15:33</duration>
+      <itunes:duration>00:15:33</itunes:duration>
       <pubDate>Thu, 01 May 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/bandefrygt-i-uppsala-had-paa-havard-og-kernekraftige-overvejelser-11802551084</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb38ae0bf619c87ad5f3/9b71a96f7e4fe32cd14aedcd26e0cbb8e46a116bf379d7533200b46a674461cc" length="22401670" type="audio/mpeg"/>
@@ -523,7 +523,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende:
 Alexander Jonassen, journalist i DR.
 Sine Plambech, seniorforsker på DIIS.</description>
-      <duration>00:17:01</duration>
+      <itunes:duration>00:17:01</itunes:duration>
       <pubDate>Wed, 30 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/naar-stroemmen-gaar-sultedoede-dyr-og-forskerflugt-11802551083</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3ca63ac1c49a49e5e7/f166a81c7737602308889fd4d90a91a8ce65dd5e9c43469f501f9ab9e956b88a" length="24523665" type="audio/mpeg"/>
@@ -537,7 +537,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende:
 Jakob Steen Olsen, kongehuskommentator på Berlingske.
 Christoph Ellersgaard, lektor ved CBS.</description>
-      <duration>00:13:55</duration>
+      <itunes:duration>00:13:55</itunes:duration>
       <pubDate>Tue, 29 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kongen-i-nuuk-plan-ulv-og-vredens-virus-11802551082</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2fa63ac1c49a49e585/e8fdb8de0e1e9091f8467f597ae023a90b4768f710a7f85d97fd29edba75f5db" length="20061387" type="audio/mpeg"/>
@@ -550,7 +550,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende: 
 David Vestenskov, chefkonsulent, Forsvarsakademiet.
 Emil Ludvigsen, specialkonsulent, Center for Digital Pædagogik.</description>
-      <duration>00:17:17</duration>
+      <itunes:duration>00:17:17</itunes:duration>
       <pubDate>Mon, 28 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kamp-om-paradis-canadas-valg-og-kvinder-som-fjender-11802551081</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3b81654c75b6b33462/5279ca2cd45beaeb0e905bc52492a79a04c614c58c3bfb83777b33610ea364be" length="24896904" type="audio/mpeg"/>
@@ -564,7 +564,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende: 
 Cæcilie Hjelt, sundhedsformidler, Læger uden Grænser.
 Line Sand, journalist, Zetland.</description>
-      <duration>00:15:44</duration>
+      <itunes:duration>00:15:44</itunes:duration>
       <pubDate>Fri, 25 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/usikre-ukraine-kashmirkonflikt-og-4chan-4ever-11802551080</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb55792941dbb148c5f1/cb68fa01ba5e8d95253235f8c851c52805b85110300a338ada4d6eaaadb55683" length="22681035" type="audio/mpeg"/>
@@ -578,7 +578,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Matias Seidelin, sikkerhedspolitisk seniorkorrespondent, Olfi.
 Kristina Pedersen, postdoc, Copenhagen Business School.</description>
-      <duration>00:17:18</duration>
+      <itunes:duration>00:17:18</itunes:duration>
       <pubDate>Thu, 24 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/gavmilde-putin-faergefejde-og-signalfejl-11802551079</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb54ce6d3443e4020a7e/6ffa1e89763edaa0c6e550efb69d472b23c29cf02ed6ee26870158ca9dca6f11" length="24924559" type="audio/mpeg"/>
@@ -592,7 +592,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende: 
 Malthe Sommerand, DR's journalist i New York.
 Alberte Bové Rud, analytiker, Tænketanken Europa.</description>
-      <duration>00:16:07</duration>
+      <itunes:duration>00:16:07</itunes:duration>
       <pubDate>Wed, 23 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/harvard-vs-trump-fremtidens-flaade-og-pavens-magt-11802551078</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb33e84f02ac24293849/016c819e318653f8ece1be26d3ad57b8d73ca02429ab641b917885888bb40771" length="23214987" type="audio/mpeg"/>
@@ -606,7 +606,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende:
 Jørn Brøndal, professor ved SDU.
 Ole Pedersen, formand i foreningen Ulvetime.</description>
-      <duration>00:17:30</duration>
+      <itunes:duration>00:17:30</itunes:duration>
       <pubDate>Wed, 16 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/garcia-i-klemme-ulve-ole-og-paasketiden-11802551073</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb394c47f2aac4ad3281/40e32b11154309e8975798ef4257337af905bbacd879ff0258a812e6f881f49a" length="25205066" type="audio/mpeg"/>
@@ -620,7 +620,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Steen Kjærgaard, lektor ved forsvarsakademiet. 
 Jeppe Bentzen, journalist ved Frihedsbrevet.</description>
-      <duration>00:17:07</duration>
+      <itunes:duration>00:17:07</itunes:duration>
       <pubDate>Tue, 15 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/missiler-i-sumy-farvel-til-hpv-og-orbans-pride-11802551072</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb64046e23510ef053c3/b2d83989f118c53cd1f740b64285f54c6238ba92c801968d58b2a31e3538b819" length="24654414" type="audio/mpeg"/>
@@ -632,7 +632,7 @@ Kommunerne skal ifølge ministeren for samfundssikkerhed stoppe med at lukke bes
 En mand er ved en fejl blevet sendt fra USA til et berygtet fængsel i El Salvador. Nu er den amerikanske højesteret gået ind i sagen og kræver, at han bliver hentet tilbage til USA. 
 Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende: Thomas Ploug, professor ved Aalborg Universitet.</description>
-      <duration>00:14:10</duration>
+      <itunes:duration>00:14:10</itunes:duration>
       <pubDate>Mon, 14 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ulovligt-snageri-lukkede-beskyttelsesrum-og-fanget-i-el-salvador-11802551071</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb43046e23510ef052df/e9dd08e622bf93a7c859caf52551d075561692bcd958e70c19da1bb2c3e835c6" length="20411016" type="audio/mpeg"/>
@@ -646,7 +646,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende:
 Christine Cordsen, DR's politiske korrespondent.
 Helle Malmvig, seniorforsker ved DIIS.</description>
-      <duration>00:16:17</duration>
+      <itunes:duration>00:16:17</itunes:duration>
       <pubDate>Fri, 11 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/herren-bag-handelskrigen-uoenskede-soldater-og-doedsfjende-moede-11802551070</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4b932399dae77cd02e/8541968835b2d9a32d4c95231cd5d0db177caea2f00d7c8c2ec7d8563278a010" length="23455755" type="audio/mpeg"/>
@@ -660,7 +660,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Phillip Roin, DR's korrespondent i Asien.
 Eline Lorenzen, professor i molekylær naturhistorie på Københavns Universitet.</description>
-      <duration>00:16:40</duration>
+      <itunes:duration>00:16:40</itunes:duration>
       <pubDate>Thu, 10 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/til-den-bitre-ende-fremmede-soldater-og-et-hyl-fra-fortiden-11802551069</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3f4c47f2aac4ad32ad/7454e7e3491dee36da8681bd374e4f88ee02212f5b2f5c19a407a4916aa5b90a" length="24004682" type="audio/mpeg"/>
@@ -674,7 +674,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Per Bang, DR's EU-analytiker.
 Jarl Cordua, debattør og podcast-vært.</description>
-      <duration>00:14:35</duration>
+      <itunes:duration>00:14:35</itunes:duration>
       <pubDate>Wed, 09 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/bazooka-en-fredet-lars-og-cordua-i-troejen-11802551068</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb36a63ac1c49a49e5bb/e0d4ce26fc6dcd3a3edf8634b4f1a6166e17b75baf6eee14e14b1014ba2f7ed2" length="21012362" type="audio/mpeg"/>
@@ -688,7 +688,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende: 
 Casper Schrøder, DR's økonomikorrespondent. 
 Lasse Engelbrecht, udlandsjournalist, DR.</description>
-      <duration>00:16:18</duration>
+      <itunes:duration>00:16:18</itunes:duration>
       <pubDate>Tue, 08 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/blodroede-tal-kennedys-kovending-og-fentanyl-i-bildoeren-11802551067</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb34e84f02ac24293851/cb444fa49cf74c32f0e41208830d80fa6c8d3e83a5a7ad652e09686ef88b830c" length="23477642" type="audio/mpeg"/>
@@ -702,7 +702,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Philip Roin, DR's korrespondent i Asien.
 Theis Molin, undersøgende journalist på Zetland.</description>
-      <duration>00:15:05</duration>
+      <itunes:duration>00:15:05</itunes:duration>
       <pubDate>Mon, 07 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/en-minister-i-nettet-koreansk-kupmager-og-exit-elon-11802551066</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3f792941dbb148c55a/7a3d8d8c470c99ca06df72b07cc227f2e85142260455a53abc7b2d1f61e6d1c3" length="21742153" type="audio/mpeg"/>
@@ -716,7 +716,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Jakob Ussing, DRs erhvervskorrespondent.
 Adam Diderichsen, lektor i efterretning på Forsvarsakademiet.</description>
-      <duration>00:17:12</duration>
+      <itunes:duration>00:17:12</itunes:duration>
       <pubDate>Fri, 04 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/new-tariff-in-town-kokken-er-doed-og-maa-pet-se-med-11802551065</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb47e84f02ac242938c7/8c622ff3a8d76edacde9c204e0268a89fb8df2a62d01d190d423e05ab8ff04fd" length="24788613" type="audio/mpeg"/>
@@ -730,7 +730,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Jacob Gerner Hariri, professor ved Københavns Universitet.  
 Claudia Steenhard, journaliststuderende på Columbia University.</description>
-      <duration>00:16:31</duration>
+      <itunes:duration>00:16:31</itunes:duration>
       <pubDate>Thu, 03 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/four-more-years-bandidos-paa-kro-og-uni-fejde-i-usa-11802551064</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5a81654c75b6b33526/c9ccd0a1e60664835b8e5e3c1757517deb6a91c5853bfaec9042e40ce09fe01d" length="23790409" type="audio/mpeg"/>
@@ -744,7 +744,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende:
 Helene Maria Kyed om. Hun er seniorforsker på DIIS.
 Tinne Hjersing Knudsen, DR's korrespondent i Storbritannien.</description>
-      <duration>00:17:06</duration>
+      <itunes:duration>00:17:06</itunes:duration>
       <pubDate>Wed, 02 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/et-hemmeligt-jordskaelv-befrielsens-dag-og-adolescence-i-england-11802551063</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2f792941dbb148c504/4c42bb14e9a7902ad912212470fd3c10c8ae7bce45cdab2947ba3bad46dccd60" length="24635406" type="audio/mpeg"/>
@@ -758,7 +758,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende:
 Lars Trier Mogensen, politisk analytiker.
 Ulrik Bie, økonomisk redaktør på Berlingske.</description>
-      <duration>00:16:15</duration>
+      <itunes:duration>00:16:15</itunes:duration>
       <pubDate>Tue, 01 Apr 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/mettes-tur-je-suis-marine-og-canadisk-selvforsvar-11802551062</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb404c47f2aac4ad32bc/ef5d7e642d5cbb571639e21269bb8b9e7102b0b46fbdfd80f695db83b9433afe" length="23413712" type="audio/mpeg"/>
@@ -772,7 +772,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Amelie Theussen, lektor ved Forsvarsakademiet.
 Alberte Bové Rud, analytiker ved tænketanken Europa.</description>
-      <duration>00:15:55</duration>
+      <itunes:duration>00:15:55</itunes:duration>
       <pubDate>Mon, 31 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/putins-polare-planer-et-fatalt-cykelloeb-og-adieu-le-pen-11802551061</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb64ae0bf619c87ad701/348d84320d7064a33af9e28be41a7806ce9a1355e6417eb97ae9d1e2d7032ed9" length="22938506" type="audio/mpeg"/>
@@ -786,7 +786,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Matias Seidelin, forsvar- og sikkerhedspolitisk seniorkorrespondent, OLFI.
 Karin Mørch, journalist på DR's udlandsredaktør.</description>
-      <duration>00:15:09</duration>
+      <itunes:duration>00:15:09</itunes:duration>
       <pubDate>Fri, 28 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/pistol-pete-saedkontrol-og-en-grov-gerard-11802551060</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4fe84f02ac242938fd/62f6acd4b2256cd10df990664f33559f68349d0b0b98139e73e6751b53259111" length="21835466" type="audio/mpeg"/>
@@ -800,7 +800,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Jon Rahbek-Clemmensen, lektor ved forsvarsakademiet.
 Henrik Them, løbeekspert og tidligere langdistanceløber.</description>
-      <duration>00:16:30</duration>
+      <itunes:duration>00:16:30</itunes:duration>
       <pubDate>Thu, 27 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/basen-i-groenland-loeber-fra-sin-far-og-sydkoreansk-sandhed-11802551059</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5481654c75b6b33501/8df16e6891702ffa4e68831b73b12efb13ec08199cc28a379f3043f70b67017e" length="23771406" type="audio/mpeg"/>
@@ -814,7 +814,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende:
 Matias Seidelin, sikkerhedspolitisk seniorkorrespondent, netmediet Olfi.
 Matilde Kimer, DR's Rusland- og Ukrainekorrespondent.</description>
-      <duration>00:16:40</duration>
+      <itunes:duration>00:16:40</itunes:duration>
       <pubDate>Wed, 26 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/en-bombe-i-chatten-mettes-modpres-og-ude-af-kursk-11802551058</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5be84f02ac24293946/09121bdbd4338e21ae2297472bfc1eb9c0c3ed84c90ed987c4bedad6e4d56c5b" length="24002955" type="audio/mpeg"/>
@@ -828,7 +828,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende: 
 Sidsel Nyholm, udlandsredaktør, Kristeligt Dagblad.
 Kåre Pihlmann, forsvarsadvokat og formand for landsforeningen af forsvarsadvokater.</description>
-      <duration>00:17:17</duration>
+      <itunes:duration>00:17:17</itunes:duration>
       <pubDate>Tue, 25 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/henriks-navn-boellediplomati-og-erdogans-aerkerival-11802551057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb43792941dbb148c575/c877594fa5d8a3db7632fae7d0d454c2ac2d134f6ffc0d55d7f9f85c3be50df2" length="24911878" type="audio/mpeg"/>
@@ -842,7 +842,7 @@ Vært: Amalie Schroll Munk.
 Medvirkende:
 Line Gertsen, DR's undersøgende korrespondent .
 Ruben Toft Sindahl, advokat og analytiker på netmediet Kongressen.dk.</description>
-      <duration>00:16:31</duration>
+      <itunes:duration>00:16:31</itunes:duration>
       <pubDate>Mon, 24 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/politiloegn-ol-formand-og-trumps-raadne-retsstat-11802551056</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5a81654c75b6b3352e/e7b5e80ca3d7606a80a1f545cafe2685f7e65e988e3afb6b0ed2836e77c3a133" length="23805962" type="audio/mpeg"/>
@@ -857,7 +857,7 @@ Medvirkende:
 Selin Türker, journalist på DR's udlandsredaktionen med særlig indsigt i Tyrkiet. 
 Jakob Ussing, DR's erhvervskorrespondent. 
 Ditte Lynge, journalist bosat i New York.</description>
-      <duration>00:17:33</duration>
+      <itunes:duration>00:17:33</itunes:duration>
       <pubDate>Fri, 21 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kupforsoeg-ytringsfrihed-og-fejlene-staar-i-koe-hos-skat-11802551055</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb39046e23510ef052a0/81159e549d785ab190488c8990d8db65da1e5258edcafbb420a439b01c1ebf0a" length="25290317" type="audio/mpeg"/>
@@ -871,7 +871,7 @@ Værter: Amalie Munk og Adrian Busk.
 Medvirkende: 
 Mads Korsager, DR's forsvarskorrespondent.
 Mathilde Johanne Kristiansen, journalist ved Soundvenue.</description>
-      <duration>00:16:01</duration>
+      <itunes:duration>00:16:01</itunes:duration>
       <pubDate>Thu, 20 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/putin-paa-linjen-f35-og-snehvides-shitstorm-11802551054</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4e932399dae77cd03d/db1da31f2f5e41c3dccd2b9602a87f823c110653f64534fbbc436d3821bdfb35" length="23066952" type="audio/mpeg"/>
@@ -885,7 +885,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Jakob Feldt, professor ved Roskilde Universitet.
 Johan Varning Bendtsen, korrespondent på Kristeligt Dagblad.</description>
-      <duration>00:17:14</duration>
+      <itunes:duration>00:17:14</itunes:duration>
       <pubDate>Wed, 19 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/vaklende-vaabenhvile-erjegstadigdansk-og-en-flad-batterifabrik-11802551053</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb30792941dbb148c50c/994c40bd1d7e699b0d7899bd0440c0c1b5c609dfd42b906cd9a91eb727cd80b9" length="24823755" type="audio/mpeg"/>
@@ -900,7 +900,7 @@ Medvirkende:
 Nanna Muus Steffensen, DR's mellemøstkorrespondent.
 Maria Andersen, DR's klimakorrespondent.
 Ole Hall, journalist i DR og forfatter til bogen &quot;Techmogulen Elon Musk&quot;.</description>
-      <duration>00:16:48</duration>
+      <itunes:duration>00:16:48</itunes:duration>
       <pubDate>Tue, 18 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ild-is-og-en-beautiful-bil-11802551052</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5b046e23510ef0538d/014921cb8b92c80a83d04d638230da8079559e0fd32bf469644957e699001a28" length="24194188" type="audio/mpeg"/>
@@ -914,7 +914,7 @@ Værter: Amalie Schroll Munk og Adrian Busk.
 Medvirkende:
 Jonas Gejl Kaas, adjunkt ved Forsvarsakademiet. 
 Steffen Jensen, seniorforsker, DIGNITY og professor ved Aalborg Universitet.</description>
-      <duration>00:17:28</duration>
+      <itunes:duration>00:17:28</itunes:duration>
       <pubDate>Mon, 17 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/krejler-putin-kartoffelprotest-i-retten-og-en-morderisk-praesident-11802551051</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb46ce6d3443e4020a2d/0ac8a3eef52e5dab98f616452656c4545f10353abd6a15287823cbccf9962398" length="25162446" type="audio/mpeg"/>
@@ -928,7 +928,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende:
 Iben Bjørnsson, adjunkt ved forsvarsakademiet.
 Mads Jedzini, analytiker ved tænketanken Europa.</description>
-      <duration>00:16:48</duration>
+      <itunes:duration>00:16:48</itunes:duration>
       <pubDate>Fri, 14 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/atomvaaben-ja-tak-serbiske-statister-og-forgaeld-mig-ej-11802551050</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb37e84f02ac24293865/6124ce69274cc3c8cea618ef561ea737cc220ee86e069ad419583d10e196dba0" length="24201673" type="audio/mpeg"/>
@@ -943,7 +943,7 @@ Medvirkende:
 Trine Juncher, politisk journalist på Sermitsiaq.
 Lars Trier Mogensen, politisk kommentator.
 Casper Schrøder, DR's økonomikorrespondent.</description>
-      <duration>00:15:09</duration>
+      <itunes:duration>00:15:09</itunes:duration>
       <pubDate>Thu, 13 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/jens-frederiks-sejr-putins-vaabenhvile-og-usa-i-oekonomisk-krise-11802551049</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4f4c47f2aac4ad330e/dbaa14ac8262428731586f8fb893f62a87e0963cf17dc51fac2f38a0f0edc372" length="21826245" type="audio/mpeg"/>
@@ -958,7 +958,7 @@ Medvirkende:
 Ole Wæver, professor ved Københavns Universitet.
 Mads Korsager, DR's forsvarskorrespondent.
 Puk Damsgaard, DR's mellemøstkorrespondent.</description>
-      <duration>00:17:17</duration>
+      <itunes:duration>00:17:17</itunes:duration>
       <pubDate>Wed, 12 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/en-selvstaendig-vej-angreb-paa-alawitter-og-fredssoldater-i-ukraine-11802551048</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb62046e23510ef053ba/21ca48a770627ef97f525e2ce5936123c0a93718bc2b257336a46074fc32d852" length="24913036" type="audio/mpeg"/>
@@ -972,7 +972,7 @@ Værter: Adrian Busk og Amalie Schroll Munk.
 Medvirkende:
 Trine Juncher, politisk journalist på Sermitsiaq.
 Anders Heissel, DR's sundhedsanalytiker.</description>
-      <duration>00:17:51</duration>
+      <itunes:duration>00:17:51</itunes:duration>
       <pubDate>Tue, 11 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/magten-i-groenland-carneys-canada-og-rod-i-randers-psykiatri-11802551047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb59ce4efd03562e9dfd/6bddcb39713abc76a01d0bffe9d2f0769237f529e1497d757b034b284f141427" length="25719439" type="audio/mpeg"/>
@@ -987,7 +987,7 @@ Medvirkende:
 Michael Zilmer Johns, tidligere NATO-ambassadør for Danmark og diplomat.
 Steffen Kretz, DR's internationale korrespondent.
 David Horne, læge og PhD.</description>
-      <duration>00:16:14</duration>
+      <itunes:duration>00:16:14</itunes:duration>
       <pubDate>Mon, 10 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/diplomati-101-spoegelset-i-groenland-og-videnskabens-aargang-nul-11802551046</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3ea63ac1c49a49e5f3/60e09bc0ddd26d4d42e31b73a842f14cba4034a3ee603cc9614dbb5f5397f388" length="23380299" type="audio/mpeg"/>
@@ -1001,7 +1001,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Lykke Friis, direktør i Tænketanken Europa.
 Andreas Graae, militæranalytiker ved Forsvarsakademiet.</description>
-      <duration>00:15:11</duration>
+      <itunes:duration>00:15:11</itunes:duration>
       <pubDate>Fri, 07 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/unionens-store-ord-brevet-til-postnord-og-et-blindt-ukraine-11802551045</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb30ae0bf619c87ad5c1/d3e85def4cdacbb1c9d23fbb30c5e2ba4242c46f900d65c937805b179b2f6aed" length="21879818" type="audio/mpeg"/>
@@ -1016,7 +1016,7 @@ Medvirkende:
 Mathias Sindberg, journalist ved dagbladet Information. 
 Maria C. Andersen, DR's klimakorrespondent.
 Tobias Stern Johansen, korrespondent i Tyskland for Kristeligt Dagblad.</description>
-      <duration>00:16:55</duration>
+      <itunes:duration>00:16:55</itunes:duration>
       <pubDate>Thu, 06 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/pink-modstand-tysk-frygt-og-fiskeriministerens-soeforklaring-11802551044</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb48792941dbb148c596/5ac2589d2da90f15116c4ad4814d1c19aca429fe8943953d628977e77ef190e7" length="24383686" type="audio/mpeg"/>
@@ -1030,7 +1030,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Rasmus Sinding Søndergaard, forsker ved DIIS.
 Camilla Nørup Sørensen, lektor ved Institut for Strategi og Krigsstudier.</description>
-      <duration>00:16:35</duration>
+      <itunes:duration>00:16:35</itunes:duration>
       <pubDate>Wed, 05 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trumps-tommelskrue-tosset-toldkrig-og-i-oesten-stiger-magten-11802551043</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3a4c47f2aac4ad3289/746affdfedd11c5c6bc7040b1d64649a55070ccdf4033f54ecfa6899432848bb" length="23897542" type="audio/mpeg"/>
@@ -1044,7 +1044,7 @@ Vært: Adrian Busk
 Medvirkende:
 Kristina Pedersen, postdoc ved CBS. 
 Aaja Chemnitz, Folketingsmedlem for partiet IA.</description>
-      <duration>00:15:08</duration>
+      <itunes:duration>00:15:08</itunes:duration>
       <pubDate>Tue, 04 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/munterhed-i-moskva-en-laast-vaabenhvile-og-ridsen-i-riget-11802551042</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4be84f02ac242938e1/7a673452269b3922f0d0886742072025f4875891ac9f8d13b84d52b1f061c61e" length="21807824" type="audio/mpeg"/>
@@ -1058,7 +1058,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Henrik Moltke, DR's techkorrespondent.
 Doris Kruckenberg, fredsvagt.</description>
-      <duration>00:17:14</duration>
+      <itunes:duration>00:17:14</itunes:duration>
       <pubDate>Mon, 03 Mar 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/skaenderi-for-aaben-skaerm-doge-derudad-og-fredsvagt-i-krigstid-11802551041</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb35ae0bf619c87ad5df/5b5e6b4daddee3c4ec1e349f7e1348b3faa794cfa37a283c62a221ea28649698" length="24835282" type="audio/mpeg"/>
@@ -1072,7 +1072,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Sebastian Mernild, professor i klimaforandringer, Syddansk Universitet og medlem af FN's klimapanel. 
 Thomas Stengaard, sangskriver og producer.</description>
-      <duration>00:14:53</duration>
+      <itunes:duration>00:14:53</itunes:duration>
       <pubDate>Fri, 28 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/hockeystaven-spoeger-poroes-fred-og-eurovision-fomo-11802551040</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3e046e23510ef052c2/49516753759cfc6ab07a94fb1134cef11814611e5dc314fc493697882c6361d9" length="21447817" type="audio/mpeg"/>
@@ -1086,7 +1086,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Lise Wiederholdt Christensen, ph.d.-studerende og tidl. forsvarsanalytiker ved Københavns Universitet.
 Bo Albertus, pædagogisk leder og USA-boykotter.</description>
-      <duration>00:16:33</duration>
+      <itunes:duration>00:16:33</itunes:duration>
       <pubDate>Thu, 27 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/gramse-diplomati-boykot-bo-og-politianmeldt-satire-11802551039</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb31e84f02ac24293839/5ebc262a7d15f78af1263ab37d9c0d498119579a9eb7f7f720acd6abca5a74fd" length="23849164" type="audio/mpeg"/>
@@ -1100,7 +1100,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Mads Korsager, DR's forsvarskorrespondent.
 Torben Kousgaard, fåreavler i Varde og næstformand i Dansk Fåreavl.</description>
-      <duration>00:16:02</duration>
+      <itunes:duration>00:16:02</itunes:duration>
       <pubDate>Wed, 26 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/300-000-soldater-i-underskud-telefonfri-skole-og-et-ulvemoede-11802551038</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb47046e23510ef052f9/6c464ecde36593a5b284ec8d9b49bf76d950c7ea565d37368c7a443d0ba2137c" length="23110730" type="audio/mpeg"/>
@@ -1114,7 +1114,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Mads Jedzeni, analytiker i tænketanken Europa.
 Sidsel Nyholm, udlandsredaktør på Kristeligt Dagblad.</description>
-      <duration>00:14:42</duration>
+      <itunes:duration>00:14:42</itunes:duration>
       <pubDate>Tue, 25 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/giver-20-procent-magt-hej-mor-svindel-og-migranter-i-haandjern-11802551037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb39ce6d3443e40209e4/31ba9e4b6c6fc915456c351a10a3db5be127d00b2ac12834b2152fab8fbed080" length="21193800" type="audio/mpeg"/>
@@ -1126,7 +1126,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Philipp Ostrowicz, dr.phil i tysk litteratur og kultur, CBS.
 Christine Nissen, senioranalytiker i tænketanken Europa.</description>
-      <duration>00:15:06</duration>
+      <itunes:duration>00:15:06</itunes:duration>
       <pubDate>Mon, 24 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/tysklands-moerke-stund-musks-motorsav-og-eu-haeren-11802551036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb58792941dbb148c603/0be9825b64ef3327e81fed6b92a6cacb833ab746b28108d653a9a3ce9f370bfd" length="21749644" type="audio/mpeg"/>
@@ -1140,7 +1140,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Yevgeniy Golovchenko, adjunkt ved Københavns Universitet.
 Andreas Rasch-Christensen, forskningschef ved Forskningscenter for pædagogik og dannelse, VIA.</description>
-      <duration>00:14:47</duration>
+      <itunes:duration>00:14:47</itunes:duration>
       <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trumps-kreml-tunge-gidsler-i-kister-og-en-afsked-med-10-klasse-11802551035</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb34ae0bf619c87ad5d6/9a3a3446f10aa8f40414108a826871f75e1596945ea1ba9bff31ba10123d3295" length="21296903" type="audio/mpeg"/>
@@ -1154,7 +1154,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Andreas Krogh, forsvarsredaktør på Altinget.
 Anders Overvad, cheføkonom i ingeniørforeningen IDA.</description>
-      <duration>00:17:31</duration>
+      <itunes:duration>00:17:31</itunes:duration>
       <pubDate>Thu, 20 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/mer-magt-til-forsvaret-sexsomia-og-ukraines-guldgrube-11802551034</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb634c47f2aac4ad3386/5e2a58a256e74b89c051bb9396701528a7f053a072b1c0029aaf6bdfe056a698" length="25234444" type="audio/mpeg"/>
@@ -1168,7 +1168,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Charlotte Flindt Pedersen, direktør i Udenrigspolitisk Selskab.
 Mads Jedzini, analytiker, Tænketanken Europa.</description>
-      <duration>00:14:46</duration>
+      <itunes:duration>00:14:46</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/poker-med-putin-krigskassen-og-et-strammere-tyskland-11802551033</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb64ae0bf619c87ad708/2cef2d37c9fe6d54edba297deed24ea15d098bf979336f5f59767b27d793e848" length="21278472" type="audio/mpeg"/>
@@ -1182,7 +1182,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Mads Korsager, DR's forsvarskorrespondent.
 Tine Choi, chefstrateg i PFA-pension.</description>
-      <duration>00:16:09</duration>
+      <itunes:duration>00:16:09</itunes:duration>
       <pubDate>Tue, 18 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/eu-taeller-vaaben-fredssnak-i-saudi-arabien-og-prisen-paa-aegget-11802551032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb39932399dae77ccfc3/2b0dbe5f06d2a20ecc4fda396830905f78394f2b68ce65f8fe1549958f80bc07" length="23270863" type="audio/mpeg"/>
@@ -1196,7 +1196,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Matilde Kimer, DR's Ukraine- og Ruslandskorrespondent. 
 Rasmus Sinding Søndergaard, seniorforsker ved DIIS.</description>
-      <duration>00:16:19</duration>
+      <itunes:duration>00:16:19</itunes:duration>
       <pubDate>Mon, 17 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/zelenskyjs-ukraine-ulighed-i-straf-og-trumps-projekter-11802551031</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3281654c75b6b3342a/6132e9f8c54f0a0b358f157589989750826c4a1d6c20233de4664bbece2f3e14" length="23498377" type="audio/mpeg"/>
@@ -1210,7 +1210,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Vibe Termansen, journalist og historiker.
 Leonora Marienlund Klint, EU-korrespondent, Børsen.</description>
-      <duration>00:15:44</duration>
+      <itunes:duration>00:15:44</itunes:duration>
       <pubDate>Fri, 14 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/vor-tids-fred-tragedie-i-munchen-og-merz-mission-11802551030</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb58ae0bf619c87ad6b8/8d7ae286b3574af31bca3b95231f4e783871fd782e8b25ea6ad9f8f99292a42c" length="22659721" type="audio/mpeg"/>
@@ -1224,7 +1224,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Per Bang Thomsen, DR's EU korrespondent.
 Henrik Toft Jensen, lektor ved Roskilde Universitet.</description>
-      <duration>00:15:40</duration>
+      <itunes:duration>00:15:40</itunes:duration>
       <pubDate>Thu, 13 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/nervoese-nato-dna-droemme-og-en-sloej-foedselsrate-11802551029</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5f4c47f2aac4ad3371/ae98fb640fc716f8257f603cb53c782e9b261219b2d84f896d258bd5cad78166" length="22576780" type="audio/mpeg"/>
@@ -1239,7 +1239,7 @@ Medvirkende:
 Claus Pilehave, dokumentarinstruktør bag &quot;Grønlands hvide guld&quot;.
 Mads Korsager, DR's forsvarskorrespondent.
 Søren Linding, redaktør på finans.dk.</description>
-      <duration>00:16:31</duration>
+      <itunes:duration>00:16:31</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/400-milliarder-til-danmark-storkrig-om-fem-aar-og-novo-vs-eli-lilly-11802551028</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb44ce4efd03562e9d7a/40e1db1e21cdfdb03f5f7c1414a1cc004ce8d3e3685fe1e6112bc2af8adc11b4" length="23809416" type="audio/mpeg"/>
@@ -1253,7 +1253,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Henrik Hoffmann, politisk redaktør på Kristeligt Dagblad.
 Thomas Mandrup, forskningsleder, Forsvarsakademiet.</description>
-      <duration>00:16:16</duration>
+      <itunes:duration>00:16:16</itunes:duration>
       <pubDate>Tue, 11 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/selvstaendige-siumut-en-traeg-part-og-congo-paa-kogepunktet-11802551027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5ba63ac1c49a49e695/767ceeb0c575429fa8f68e9d3b5c6a8c52de4cb605d38d96e0e23323273d1601" length="23434446" type="audio/mpeg"/>
@@ -1267,7 +1267,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Naja Graugaard, lektor, Københavns Universitet.
 Rikke Gjøl Mansø, politisk analytiker, DR.</description>
-      <duration>00:16:43</duration>
+      <itunes:duration>00:16:43</itunes:duration>
       <pubDate>Mon, 10 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/groenlands-hvide-guld-tesla-non-grata-og-varm-krigskartoffel-11802551026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb39e84f02ac24293875/e1338ee2e16d346a6b6f857aaffc8707151656a28b83f98c2edd55afe50eec7a" length="24094541" type="audio/mpeg"/>
@@ -1281,7 +1281,7 @@ Vært: Adrian Busk.
 Medvirkende:  
 Peter Viggo Jakobsen, lektor, Forsvarsakademiet. 
 Hans Peter Hansen, seniorforsker, Aarhus Universitet.</description>
-      <duration>00:15:22</duration>
+      <itunes:duration>00:15:22</itunes:duration>
       <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/yankees-i-brugsen-efterforskning-i-orebro-og-hans-peter-og-ulven-11802551025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb32932399dae77ccf9f/977be56f5a9e03f34fe044a308b2867ebdf1efef9f54e319fd1fb708a3a0d08a" length="22152263" type="audio/mpeg"/>
@@ -1295,7 +1295,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Matias Seidelin, tidligere USA-korrespondent på Jyllandsposten.
 Jakob Linnet Schmidt, phd-studerende på DIIS.</description>
-      <duration>00:17:50</duration>
+      <itunes:duration>00:17:50</itunes:duration>
       <pubDate>Thu, 06 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/mellemoestens-riviera-svenske-vaaben-og-last-og-brast-med-usa-11802551024</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3d046e23510ef052ba/99fda9898c4348a265d69f99c8df8cec4c4444e3bf866a69fffa174d0227a5c5" length="25683718" type="audio/mpeg"/>
@@ -1309,7 +1309,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Jonas Nøddekær, Generalsekretær Folkekirkens Nødhjælp.
 Alberte Bove Rud, Ph.D og analytiker, Dansk Institut for Internationale Studier.</description>
-      <duration>00:15:48</duration>
+      <itunes:duration>00:15:48</itunes:duration>
       <pubDate>Wed, 05 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/noedhjaelp-i-noed-groenlands-valg-og-alice-i-afd-land-11802551023</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb37a63ac1c49a49e5cb/80c84db8e9d8729203ba872d9d7dab558366640774a271d85698b21bbe5b5ffe" length="22758797" type="audio/mpeg"/>
@@ -1322,7 +1322,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Poul Fritz Kjær, professor ved CBS.
 Rasmus Meyer, formand for trivsels kommissionen.</description>
-      <duration>00:15:29</duration>
+      <itunes:duration>00:15:29</itunes:duration>
       <pubDate>Tue, 04 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/eu-s-nyreslag-benjamin-i-det-hvide-hus-og-lad-de-unge-trives-11802551022</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb52792941dbb148c5d4/6354bfc552bd40713d30c0466e9066814c0155d866779f1e0532ba633955ade6" length="22301449" type="audio/mpeg"/>
@@ -1336,7 +1336,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Peter Ernstved Rasmussen, redaktør på forsvarsmediet OLFI.
 Hjalte Kragesteen, redaktør ved Altinget.</description>
-      <duration>00:16:41</duration>
+      <itunes:duration>00:16:41</itunes:duration>
       <pubDate>Mon, 03 Feb 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/opbakning-til-oprustning-syrisk-sameksistens-og-tabersagen-om-tange-soe-11802551021</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb42046e23510ef052db/ca4c86a787443ab051608a6ad64ef587ee2d231ce740a64c5f839a72e68edca6" length="24043847" type="audio/mpeg"/>
@@ -1350,7 +1350,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Peter Suppli Benson, nordisk korrespondent på Berlingske.
 Theis Molin, undersøgende journalist på Zetland.</description>
-      <duration>00:15:11</duration>
+      <itunes:duration>00:15:11</itunes:duration>
       <pubDate>Fri, 31 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/draebt-korankritiker-uforklarlig-luft-kollision-og-the-return-of-the-mink-11802551020</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb444c47f2aac4ad32d4/7cea956b897b8b2da8c8a84ed7a2019c6d5a7e60bbd950fbb7f417cd0125c9a0" length="21868296" type="audio/mpeg"/>
@@ -1364,7 +1364,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Birgitte Borup, kulturredaktør på Berlingske og tidl. USA korrespondent og udlandsredaktør. 
 Christian Liebergreen, tidligere medlem i Siruispatruljen.</description>
-      <duration>00:16:23</duration>
+      <itunes:duration>00:16:23</itunes:duration>
       <pubDate>Thu, 30 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/flood-the-zone-en-syg-psykiatri-og-sirius-business-11802551019</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb52e84f02ac24293911/de745ab49313aafc17882e646d1c41cfd09b1531478d409aa91bf92d2becba96" length="23607239" type="audio/mpeg"/>
@@ -1378,7 +1378,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Tobias Liebetrau, forsker ved Københavns Universitet.
 Brian Saugberg, gymnasielærer.</description>
-      <duration>00:16:41</duration>
+      <itunes:duration>00:16:41</itunes:duration>
       <pubDate>Wed, 29 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ai-s-sputnik-oejeblik-mettes-europaturne-og-hvem-draebte-jfk-11802551018</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3e4c47f2aac4ad32a5/0df411e094dae8f9bb11e792bf7e6e0a1bd53217704fc1f5a4e1045be05c871b" length="24038088" type="audio/mpeg"/>
@@ -1392,7 +1392,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Jens Ringberg, DR's politiske korrespondent.
 Cecilie Sand Nørholm, astrofysiker og videnskabelig ansvarlig på Planetarium.</description>
-      <duration>00:16:39</duration>
+      <itunes:duration>00:16:39</itunes:duration>
       <pubDate>Tue, 28 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/iskoldt-diplomati-succesfuld-toldtrussel-og-en-kosmisk-lineal-11802551017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5fae0bf619c87ad6e1/8b44da5df15e14774b5f3fb78dde40c3405baf064ed154a02988d64d0ebfa7d2" length="23979912" type="audio/mpeg"/>
@@ -1406,7 +1406,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Line Gertsen, DR's undersøgende korrespondent.
 Mads Eberhardt, kryptoanalytiker, Steeno Research.</description>
-      <duration>00:16:51</duration>
+      <itunes:duration>00:16:51</itunes:duration>
       <pubDate>Mon, 27 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/politiets-vaskeri-inuit-listen-og-trump-dollar-11802551016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb31932399dae77ccf97/f77a9eb58e5de811480145fbaedfcd57c25f032172fd8b8711e94feffe5230bd" length="24269640" type="audio/mpeg"/>
@@ -1420,7 +1420,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Jens Ladefoged, lektor ved Københavns Universitet.
 Tinne Hjersing Knudsen, DR's Storbritannien-korrespondent.</description>
-      <duration>00:16:02</duration>
+      <itunes:duration>00:16:02</itunes:duration>
       <pubDate>Fri, 24 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kyllingekrigen-dansk-lejesoldat-og-harrys-haevn-11802551015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb34ce6d3443e40209bf/521a50d54bba2139df6bd640088dddc466cb0b295958cc3b061e4d7fb049a288" length="23090567" type="audio/mpeg"/>
@@ -1434,7 +1434,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Kristian Almblad, DR's sydamerikakorrespondent.
 Amalie Olga Lyngsted, ph.d.-studerende ved Københavns Universitet.</description>
-      <duration>00:15:19</duration>
+      <itunes:duration>00:15:19</itunes:duration>
       <pubDate>Thu, 23 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/kanaliseret-vrede-en-solstraalemelding-og-englemagersken-dagmar-11802551014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5b792941dbb148c61b/77205880906fb6fbda22123e5b25905fdbb2f4f0a600def77b26aead5ef82c3a" length="22080839" type="audio/mpeg"/>
@@ -1448,7 +1448,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Steffen Kretz, DR's internationale korrespondent. 
 Rune Møller Stahl, adjunkt ved CBS.</description>
-      <duration>00:14:56</duration>
+      <itunes:duration>00:14:56</itunes:duration>
       <pubDate>Wed, 22 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/fra-skurk-til-patriot-groenlandskrisen-fortsaetter-og-politiske-pengemaend-11802551013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4dae0bf619c87ad676/040b572539ed9e329b256e3cfeccdd0b666e0c5f38543a2a444993d99f9c8ce4" length="21511180" type="audio/mpeg"/>
@@ -1462,7 +1462,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Katrine Krogh Pedersen, ekstern lektor i medievidenskab ved Københavns Universitet.
 Lasse Engelbrecht, journalist på DR's udlandsredaktion.</description>
-      <duration>00:15:42</duration>
+      <itunes:duration>00:15:42</itunes:duration>
       <pubDate>Tue, 21 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/usa-vil-vinde-og-vinde-trumps-hjerne-og-tiktok-flygtninge-11802551012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3d81654c75b6b3347b/7f74c94e55fec9c94a0db4a1080341f0178c8187f7460a0e5a478c414b9e1996" length="22624007" type="audio/mpeg"/>
@@ -1476,7 +1476,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Lasse Engelbrecht, journalist på DR's udlandsredaktion.
 Cecilie Kallestrup, journalist DR's udlandsredaktion.</description>
-      <duration>00:14:59</duration>
+      <itunes:duration>00:14:59</itunes:duration>
       <pubDate>Mon, 20 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/trump-er-tilbage-haab-paa-gidselpladsen-og-vip-i-washington-11802551011</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb44ae0bf619c87ad63a/1012f777e0ecf7c6530cd4df6574ba959b171981f7219d0656e845455e61dcbe" length="21597580" type="audio/mpeg"/>
@@ -1490,7 +1490,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Matias Seidelin, journalist og forfatter.
 Nidal Abu Arif, dansk-palæstinenser.</description>
-      <duration>00:15:24</duration>
+      <itunes:duration>00:15:24</itunes:duration>
       <pubDate>Fri, 17 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/praesidentens-slutspil-trump-i-telefonen-og-sorgfuld-glaede-i-gaza-11802551010</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb604c47f2aac4ad3379/c1bc13269bc9d70bea2f285474693b713c1ea3ec85d7bffbb6c4dfe5b5f26197" length="22201804" type="audio/mpeg"/>
@@ -1504,7 +1504,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Jakob Kjøgx Bohr, journalist på Danwatch.
 Malte Tellerup, forfatter og håndboldskribent.</description>
-      <duration>00:16:03</duration>
+      <itunes:duration>00:16:03</itunes:duration>
       <pubDate>Thu, 16 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/vaabenhvilen-er-her-maritim-gemmeleg-og-de-nye-haandboldstjerner-11802551009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb314c47f2aac4ad3255/5c0e36af7ccc8a0a3ad3b0204550e9856b947f9fef1628f6004e333e6d3e3447" length="23129743" type="audio/mpeg"/>
@@ -1518,7 +1518,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Trine Juncher Jørgensen, journalist for mediehuset Sermitsiaq.
 Rune Kristian Lundedal Nielsen, psykolog og lektor ved IT-Universitetet.</description>
-      <duration>00:15:07</duration>
+      <itunes:duration>00:15:07</itunes:duration>
       <pubDate>Wed, 15 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/guldet-under-groenland-rockerretssag-og-diablo-i-detaljen-11802551008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2ee84f02ac24293825/c00d2927cb122445f3c01a0a94ad8d1fe1fc447ebf213e594b8ad5ca80faea26" length="21793996" type="audio/mpeg"/>
@@ -1532,7 +1532,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Laurids Møller, psykolog, Dansk Stalking Center og ekstern lektor, Københavns Universitet.
 Flemming Splidsboel, Seniorforsker, Dansk Institut for Internationale Studier.</description>
-      <duration>00:16:06</duration>
+      <itunes:duration>00:16:06</itunes:duration>
       <pubDate>Tue, 14 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/stop-stalkerne-havsnak-i-helsinki-og-zelenskyjs-fanger-11802551007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb5281654c75b6b334f9/bb3685ac63b93b714ef571f676cc7f586e0a7cbb65a6f7b500e16f22e9df78d9" length="23192522" type="audio/mpeg"/>
@@ -1546,7 +1546,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Simon Kruse, sikkerhedskorrespondent Berlingske.
 Torben M. Andersen, økonomiprofessor, Aarhus Universitet, formand for Grønlands Økonomiske Råd.</description>
-      <duration>00:17:01</duration>
+      <itunes:duration>00:17:01</itunes:duration>
       <pubDate>Mon, 13 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/ny-erobringstrang-et-vaadt-huskoeb-og-prisen-for-selvstaendighed-11802551006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb644c47f2aac4ad3396/4724ef060ee081bf93435d951c715450a6ca6d4e5fcaffb39f21a9227a852647" length="24515594" type="audio/mpeg"/>
@@ -1561,7 +1561,7 @@ Medvirkende:
 David Trads, tidligere USA-korrespondent for Berlingske og debattør.
 Mads Korsager, DR's forsvarskorrespondent.
 Henrik Moltke, DR's techkorrespondent.</description>
-      <duration>00:16:07</duration>
+      <itunes:duration>00:16:07</itunes:duration>
       <pubDate>Fri, 10 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/hollywood-i-brand-zuckerburgs-nye-kurs-og-fesne-forsvarsforhandlinger-11802551005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3c932399dae77ccfd0/6725b854fadcf96b3d7e83434a929db1273f656824c9d3bf6f9dbedee4389b08" length="23228235" type="audio/mpeg"/>
@@ -1575,7 +1575,7 @@ Vært: Adrian Busk.
 Medvirkende: 
 Jakob Kaarsbo, sikkerhedspolitisk kommentator.
 Lykke Friis, direktør i Tænketanken Europa.</description>
-      <duration>00:16:11</duration>
+      <itunes:duration>00:16:11</itunes:duration>
       <pubDate>Thu, 09 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/en-utaet-allieret-kunstige-overgreb-og-musk-gegen-deutschland-11802551004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb3881654c75b6b33452/299b54621925b6a3e3c7cab12fc6d5c74de078f1d4cc14d540bc1a7764cd5421" length="23310028" type="audio/mpeg"/>
@@ -1589,7 +1589,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Rasmus Sinding Søndergaard, seniorforsker DIIS.
 Claus Mathiesen, lektor ved forsvarsakademiet.</description>
-      <duration>00:16:06</duration>
+      <itunes:duration>00:16:06</itunes:duration>
       <pubDate>Wed, 08 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/maga-groenland-ret-ridser-i-rigsfaellesskabet-og-kamp-i-kursk-11802551003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb4f4c47f2aac4ad3304/3df6ac8e25697309611a915a30862bba532b5063dd5621141c001b79f10a5e54" length="23191941" type="audio/mpeg"/>
@@ -1603,7 +1603,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Nanna Muus, DR's mellemøstkorrespondent.
 Lone Simonsen, professor ved Roskilde Universitet.</description>
-      <duration>00:16:08</duration>
+      <itunes:duration>00:16:08</itunes:duration>
       <pubDate>Tue, 07 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/noedraab-til-netanyahu-fra-fugl-til-mennesker-og-bidens-drilling-drillerier-11802551002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb2eae0bf619c87ad5b1/2ba9c8a1e37cbffe097ad2cf2ab3cc8fb33ce9c7d9bc44728a7dd8566cdf886b" length="23249545" type="audio/mpeg"/>
@@ -1617,7 +1617,7 @@ Vært: Adrian Busk.
 Medvirkende:
 Mona Sheikh, forsker ved DIIS.
 Peter Christian Bech-Nielsen, redaktør ved techmediet Radar.</description>
-      <duration>00:15:08</duration>
+      <itunes:duration>00:15:08</itunes:duration>
       <pubDate>Mon, 06 Jan 2025 03:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/tiden/tiden-2025/et-is-flag-paa-bilen-flere-mink-og-snedige-siri-11802551001</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676dcb35ce6d3443e40209c7/24c7b5e70f2c85810fa5fa3bcfd20b3925199b2bc43c1c81d8df5ccb44de458d" length="21796873" type="audio/mpeg"/>

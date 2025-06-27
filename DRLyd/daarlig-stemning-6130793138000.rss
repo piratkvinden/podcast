@@ -4,8 +4,8 @@
     <title>Dårlig stemning</title>
     <link>https://www.dr.dk/lyd/p1/daarlig-stemning-6130793138000</link>
     <description>Den dårlige stemning rumsterer på internettet, i det politiske landskab, i det store udland og rundt omkring i lille Danmark. Den optræder i nyhedsbilledet, afslører magtkampe og driver folk til tasterne på sociale medier. Hvem har skabt den dårlige stemning? Og hvordan kunne det gå så galt?
-Det undersøger journalisterne Adina Ren og Anna Olrik, når de hver uge afdækker den dårlige stemning og konfronterer de involverede. Her får du serveret de bedste nyheder med de værste vibes gennem skæve analyser og et kritisk blik.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67937e147e1af586a1d55af0.jpg"/>
+Det undersøger journalisterne Adina Ren og Anna Olrik, når de hver uge afdækker den dårlige stemning med et satirisk glimt i øjet og konfronterer de involverede. Her får du serveret de bedste nyheder med de værste vibes gennem skæve analyser og et kritisk blik.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e819bcd5634992e73622dc"/>
     <item>
       <title>Hvem ka'? Fonseca!</title>
       <description>Der var dårlig stemning i et kælderlokale hos Moderaterne, da Lars Løkke forsøgte at købe Mike Fonsecas mandat. Men hvem var det egentlig, der afpressede hvem? 
@@ -15,7 +15,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Anna Olrik og Karoline Juul.
 Producer: Thea Egestrand. 
 Redaktør: Silke Fensman.</description>
-      <duration>00:41:27</duration>
+      <itunes:duration>00:41:27</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/hvem-ka-fonseca-11162509032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5887ab50e584ac2d18ec/e279d2606372a3379f187d4ec06771c7db61c4d4c60757304d2a2fef28bbecc0" length="59705722" type="audio/mpeg"/>
@@ -29,7 +29,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Redaktion: Thea Egestrand og Anna Olrik.
 Redaktør: Silke Fensman.</description>
-      <duration>00:36:21</duration>
+      <itunes:duration>00:36:21</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/korsfaestede-fugle-og-mette-folkemor-frederiksen-11162509031</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5886ab50e584ac2d18cb/33163c398e532f11d257400b89bf84dac05a1adf127d3608421e54b2801d4fca" length="52358842" type="audio/mpeg"/>
@@ -43,7 +43,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Redaktion: Thea Egestrand og Anna Olrik.
 Redaktør: Silke Fensman.</description>
-      <duration>00:45:02</duration>
+      <itunes:duration>00:45:02</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/mobbe-memes-molslinjen-jingle-og-mc-heunicke-11162509030</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5887ee7033184f6a17d7/409b86c87d37f76c4c73dd13a4bc37f047d175c3aa5aede3f93a6fe899a80f62" length="64865530" type="audio/mpeg"/>
@@ -58,7 +58,7 @@ Vært: Karoline Juul
 Gæster: Gustav Hagild &amp; Sebastian Kanani
 Producer: Thea Egestrand
 Redaktør: Silke Fensman</description>
-      <duration>00:36:00</duration>
+      <itunes:duration>00:36:00</itunes:duration>
       <pubDate>Sat, 24 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/hoejrefloejens-kaelegris-og-sass-larsens-kinesiske-dukke-11162509028</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5887ee7033184f6a17e3/6184e000368c214d156df89dd99e37429679b76b13a3ac1025ad7b4e44ff6ce0" length="51854266" type="audio/mpeg"/>
@@ -73,7 +73,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:46:56</duration>
+      <itunes:duration>00:46:56</itunes:duration>
       <pubDate>Sat, 17 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/lorteble-eurovision-drama-og-kirkegaardsinfluencer-11162509027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5886ab50e584ac2d18d1/44574067d7e5dbb632eee28d28543df6d2a444d57299f4108cd9aaeb79a4988b" length="67605561" type="audio/mpeg"/>
@@ -89,7 +89,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Producer: Christian Ulloriaq Jeppesen 
 Redaktør: Silke Fensman.</description>
-      <duration>00:35:43</duration>
+      <itunes:duration>00:35:43</itunes:duration>
       <pubDate>Sat, 10 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/nepobaby-dickslaps-og-moerkets-fyrste-11162509026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5887ab50e584ac2d18da/efdabd6ba7c5db2270decbb595ddddd216911d08cfecc4db904b445fe4b5fa25" length="51449336" type="audio/mpeg"/>
@@ -103,7 +103,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:37:22</duration>
+      <itunes:duration>00:37:22</itunes:duration>
       <pubDate>Sat, 03 May 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/at-slikke-isse-og-nye-borgerliges-genopstandelse-11162509025</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5887ab50e584ac2d18e0/605dc063f09634babf2a3ec18e0c448fdf08bd7d59438aa43008867813489787" length="53816702" type="audio/mpeg"/>
@@ -117,7 +117,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:35:14</duration>
+      <itunes:duration>00:35:14</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/koldkrigspatter-influencerland-og-en-doed-pave-11162509024</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f7859e42308537cfa0f564/613023e92b16b2503e448b481617cae5415769d7e50c1b4fbde3c8139b87155c" length="50749498" type="audio/mpeg"/>
@@ -131,7 +131,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:33</duration>
+      <itunes:duration>00:56:33</itunes:duration>
       <pubDate>Sat, 12 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/158-toender-menneskelort-og-sexede-koncerter-for-boern-11162509023</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ea5886ab50e584ac2d18c5/cde23883d0dd971e7168274ef5b1f9886b009745240a3b4b44509693633536a4" length="81448008" type="audio/mpeg"/>
@@ -145,7 +145,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:55:48</duration>
+      <itunes:duration>00:55:48</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/dennis-knudsens-koensskifte-og-ketamin-i-puff-bars-11162509022</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e3375de132d0959ccd6b3d/f4d949e486e7b3b42f8149408fb029b5e7905374eaf4ac718e84bd3ebe063dc1" length="80370319" type="audio/mpeg"/>
@@ -161,7 +161,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:29</duration>
+      <itunes:duration>00:56:29</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/solcelle-drama-hos-frisoeren-og-sass-larsens-research-11162509021</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d9fdaeea334c10b3dcf953/633eb8f479a57ce6aa13e8b7f2030e9f1f49340b84e23e59bf2ca9dd48d7166e" length="81359882" type="audio/mpeg"/>
@@ -176,7 +176,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Karoline Juul.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:33</duration>
+      <itunes:duration>00:56:33</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/snehvideskandale-momfluencers-og-messerschmidts-dyre-vin-11162509020</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c3567733feedac0f054a/5e0241f618222459c8cdd8af0f388b3e2974e771c18a8ac0fac974fa04c1b26a" length="81445122" type="audio/mpeg"/>
@@ -191,7 +191,7 @@ Værter: Adina Ren og Filiz Yasar.
 Tilrettelægger: August Stenbroen.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:55:37</duration>
+      <itunes:duration>00:55:37</itunes:duration>
       <pubDate>Sat, 08 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/miss-universe-blackface-og-doede-pattegrise-11162509018</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67be4d46042d0091f76b3811/c60b879c646daf06707df19eaa3c799afadbc8091a26122f683feb8b7d3ba015" length="80112846" type="audio/mpeg"/>
@@ -205,7 +205,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:31</duration>
+      <itunes:duration>00:56:31</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/kebabser-og-trumps-haandskade-11162509017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b51250f064e1e888c1d293/74c8367fde424c619a7601e6ce8d5696160db21321518004177e9317ed416aa1" length="81396169" type="audio/mpeg"/>
@@ -220,7 +220,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:55:50</duration>
+      <itunes:duration>00:55:50</itunes:duration>
       <pubDate>Sat, 22 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/identitetstyveri-og-krisetider-11162509016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd78bda05ac55ba189f81/6b542289f832f45562189e6b71b4f0ed654f9038c08b9e0acd2575903ac9edf4" length="80415812" type="audio/mpeg"/>
@@ -235,7 +235,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:38</duration>
+      <itunes:duration>00:56:38</itunes:duration>
       <pubDate>Sat, 15 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/netfisse-vanopslagh-og-flying-superkids-11162509015</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a29d027d6b01199e976e3d/376090b4eb3b4b271a9609bea09a1cba93fc82ca7e9ee96b0c21602f13ebe22a" length="81560907" type="audio/mpeg"/>
@@ -249,7 +249,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:29</duration>
+      <itunes:duration>00:56:29</itunes:duration>
       <pubDate>Sat, 08 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/naboen-fra-helvede-og-russisk-eurovision-11162509014</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679962746b71a1e7bbd2a4bd/0bf6f2a863386fb804373b46c03f64b19b8b65a96b8bce462616b10c29131fbc" length="81343753" type="audio/mpeg"/>
@@ -263,7 +263,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Charlotte Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:56:13</duration>
+      <itunes:duration>00:56:13</itunes:duration>
       <pubDate>Sat, 01 Feb 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/luder-og-doed-over-woke-11162509013</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790322b2a51e1bacbbf1153/9469b193e50d410855edd43fdea7028e16c25b0982ecfa7dc959b59d02ec59dc" length="80957833" type="audio/mpeg"/>
@@ -275,7 +275,7 @@ Skriv til: daarligstemning@dr.dk
 Værter: Adina Ren og Anna Olrik.
 Producer: Thea Charlotte Egestrand.
 Redaktør: Silke Fensman.</description>
-      <duration>00:55:55</duration>
+      <itunes:duration>00:55:55</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p1/daarlig-stemning/daarlig-stemning-2025/skolepigefnis-ulve-og-muslimer-11162509012</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed5dcd469c2e406ecef3/f040d5b8534eab984ee61dfda730d7286aced9675f34cb010205a2f9d4a85656" length="80532171" type="audio/mpeg"/>

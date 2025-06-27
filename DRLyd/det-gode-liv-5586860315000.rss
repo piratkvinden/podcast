@@ -3,12 +3,12 @@
   <channel>
     <title>Det Gode Liv</title>
     <link>https://www.dr.dk/lyd/p3/det-gode-liv-5586860315000</link>
-    <description>De to vigtigste ting i et godt liv er selvfølgelig god musik og at have de gode mennesker omkring sig. Derfor sørger Mo og Andrew Moyo for, at du får den allerfriskeste hiphop og det bedste selskab i ørerne, når du tuner ind på P3 lørdag aften.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33813f0388a679955052b.jpg"/>
+    <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e8433d8b2e4877edd858c1"/>
     <item>
       <title>Roskilde forberedelse</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/roskilde-forberedelse-13332543256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8f00766aecd9d94a38f/94f0c2c5431a903299e3ef3860b404ec18b4c6ec1635b6c7e667c7b7370271b4" length="172802170" type="audio/mpeg"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Ren hygge i huset</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/ren-hygge-i-huset-13332543246</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8f0005cc6aa547b24af/403d824097d163884354ce0845098b42bbd2f7eee861a91c47f3b4be8f9e12c2" length="172802170" type="audio/mpeg"/>
@@ -24,7 +24,7 @@
     <item>
       <title>Stor stemning - Mo er helt varm</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/stor-stemning-mo-er-helt-varm-13332543236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8ef0766aecd9d94a388/7026fc834b786878c78d26094065546539df16ead13152778cdff63e4cacc04b" length="172802170" type="audio/mpeg"/>
@@ -32,7 +32,7 @@
     <item>
       <title>med Josef - Kom ind og lær ham bedre at kende</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 31 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/med-josef-kom-ind-og-laer-ham-bedre-at-kende-13332543226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8ef0766aecd9d94a379/89f53668da22c9235bb0d99a2960eb31080095ab7c483362d23565ab31f517d7" length="172802186" type="audio/mpeg"/>
@@ -40,7 +40,7 @@
     <item>
       <title>x Anton Westerlin - Nyt Album, Ny Vibe</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 24 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/x-anton-westerlin-nyt-album-ny-vibe-13332543216</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8f0005cc6aa547b24a8/370eb2b64a0e2e6a0157209e78d0da642666059b940a4607a9af44ea5cd50b59" length="172802188" type="audio/mpeg"/>
@@ -48,7 +48,7 @@
     <item>
       <title>Vi skal forberede os til sommeren - Jeg har dig, kom ind!</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 17 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/vi-skal-forberede-os-til-sommeren-jeg-har-dig-kom-ind-13332543206</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e8ef0766aecd9d94a374/9cd1b67a91ae6e9a8ebce55ee9f40cca6efec5e5745549f5986accbfd0661cb6" length="172801612" type="audio/mpeg"/>
@@ -56,7 +56,7 @@
     <item>
       <title>Mo skal på festival i år, han glæder sig</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 10 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/mo-skal-paa-festival-i-aar-han-glaeder-sig-13332543196</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68114ceeac55d09aca8800ff/6d29eafdf165709ad6bee3a3b50a3c7fcadf5ea12e43511327ee9f978e9725fb" length="172802170" type="audio/mpeg"/>
@@ -64,7 +64,7 @@
     <item>
       <title>Vi skal bare hygge i aften</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 03 May 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/vi-skal-bare-hygge-i-aften-13332543186</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68081266b21aafec6d699c5f/c03ce221a20d692975bd91eb4a5de93bf89b4b84d2fd423d6e8bb8b3d3724228" length="172802170" type="audio/mpeg"/>
@@ -72,7 +72,7 @@
     <item>
       <title>Vi skal spille smart og høre bilmusik</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/vi-skal-spille-smart-og-hoere-bilmusik-13332543176</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fed819036df1a93c73b7b5/a6c5820f562476542d6c9f1294cd306edbe0b2f4b2503ae0940702f9deaa06b9" length="172801594" type="audio/mpeg"/>
@@ -80,7 +80,7 @@
     <item>
       <title>Mo er i hans kærlige hjørne</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 19 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/mo-er-i-hans-kaerlige-hjoerne-13332543166</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f59d73ae7f396c9ddbed96/e73ede396619eb4574cdef83e48ff13dcf7611f6c0f0515c84ede729b6549c5d" length="172801594" type="audio/mpeg"/>
@@ -90,7 +90,7 @@
       <description>Denne lørdag i Det Gode Liv har Mo besøg af Omar i første time, hvor vi lærer ham lidt bedre at kende. I anden time skal Mo øve sig i at være DJ - for i aften skal han nemlig ud at spille for allerførste gang!
 Han har taget sin musik med i studiet og giver jer en forsmag på, hvad han har tænkt sig at spille. Det bliver to timer fyldt med gode vibes, god musik og masser af stemning - præcis som vi bedst kan li' det.
 Hop med ind og lev Det Gode Liv sammen med os.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 12 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/moed-omar-og-hoer-mo-varme-op-til-sit-foerste-dj-saet-13332543156</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ecc02dc14ec5cf165390b3/78c1091ecb8c6a914162f7059648647f47fa4a75fe7cfaa009034f0b75db3ea9" length="172801594" type="audio/mpeg"/>
@@ -98,7 +98,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 5. apr. 2025</title>
       <description>På lørdag har vi en helt særlig gæst i studiet! Gobs, den populære kunstner, som lige nu topper hitlisterne med sit nye nummer, der ligger nummer 1 på Top 50. Men Gobs er ikke kun kendt for sin musik - han er også en mand med kærlighed, og vi kommer til at tale om det gode liv, kærlighed, og hans kommende bryllup. Han har endda en ny sang med sig, som endnu ikke er ude! Kom og vær med til at lære Gobs bedre at kende, og lev det gode liv sammen med os. Det bliver en uforglemmelig oplevelse!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-5-apr-2025-13332543146</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e337451a04e7b53e064f6c/eff38881f4d31febf5d2f28157f9e283c10714bbe5c6b5378bbb411fd203ae3d" length="172801592" type="audio/mpeg"/>
@@ -106,7 +106,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 29. mar. 2025</title>
       <description>På lørdag får vi besøg af den upcoming artist, Fvn, som har lavet et stort comeback efter et års pause. Nu er hun klar til at starte på en ny rejse - og det er på dansk! Kom og vær med, når vi taler om hendes musik, og hvordan Fvn lever det gode liv. Vi dykker ned i, hvad det betyder for hende, og hvad vi kan forvente af hendes næste skridt. Kom ind og lær Fvn bedre at kende - det bliver en spændende og inspirerende snak!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-29-mar-2025-13332543136</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d9fd96ea334c10b3dcf743/26cc188698dddcd90aa2afe716212daa6fd3546fbcc79b0ed98aefa7db53f80b" length="172801594" type="audio/mpeg"/>
@@ -114,7 +114,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 22. mar. 2025</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-22-mar-2025-13332543126</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c3307733feedac0f020a/30f2ce93b7d14e84d62eb05d87bf046aee6a5194163667525f090a6a711037cb" length="172801594" type="audio/mpeg"/>
@@ -122,7 +122,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 15. mar. 2025</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 15 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-15-mar-2025-13332543116</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c7876ad42d59035e8cfa99/708e40aecae79de2d8a359b4166b0822ed92ea5a74a5e09faf6a17c33ab22564" length="172801594" type="audio/mpeg"/>
@@ -130,7 +130,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Besøg af Ozzy - Opkomling Artist med Nyt Nummer</title>
       <description>Er du klar til at møde en ny stjerne? I denne uge får vi besøg af Ozzy, den opkommende artist, som lige har udgivet sit nyeste nummer sammen med Anton Westerlin og Lamin. Kom tættere på Ozzy, når han hopper ind i studiet og deler sin musikalske rejse og de historier, der har formet ham. Det bliver en afslappet og hyggelig samtale - alt hvad du behøver for at lære denne talentfulde kunstner at kende. Gå ikke glip af en god snak og endnu bedre selskab!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 08 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/besoeg-af-ozzy-opkomling-artist-med-nyt-nummer-13332543106</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67be4d175475915f731f7407/e4008eb5f3a704a6b9bf4ae153a1995868cecb86eff81825d8fff48b21bac4c4" length="172802146" type="audio/mpeg"/>
@@ -138,7 +138,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 1. mar. 2025</title>
       <description>Tag en pause fra hverdagen, og hop ind i det gode liv med Mo! Lørdag aften betyder lækre, sprøde sange og de sygeste historier, når Mo fylder din aften med den perfekte stemning. Få det bedste selskab, og vær med til at skabe de uforglemmelige øjeblikke, der gør din weekend lidt bedre. Kom og vær en del af noget større - det er god musik, fantastisk atmosfære og det bedste af det hele!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-1-mar-2025-13332543096</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b512161c492b0104966dae/367801b43c0bfc6d103074e503b818dbe6381632387aa3937f565ed90a1826a9" length="172802146" type="audio/mpeg"/>
@@ -146,7 +146,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 22. feb. 2025</title>
       <description>De to vigtigste ting i et godt liv er selvfølgelig god musik og at have de gode mennesker omkring sig. Derfor sørger Mo for, at du får den allerfriskeste hiphop og det bedste selskab i ørerne, når du tuner ind på P3 lørdag aften.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 22 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-22-feb-2025-13332543086</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd765ae3655e6cc58aafb/4db70dff56c6e59ca5fbf1a5e9fbbc5eda51a6714fcdd5e9159236a83ea20a05" length="172801570" type="audio/mpeg"/>
@@ -154,7 +154,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
     <item>
       <title>Lørdag 15. feb. 2025</title>
       <description>De to vigtigste ting i et godt liv er selvfølgelig god musik og at have de gode mennesker omkring sig. Derfor sørger Mo for, at du får den allerfriskeste hiphop og det bedste selskab i ørerne, når du tuner ind på P3 lørdag aften.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 15 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-15-feb-2025-13332543076</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a29ce855602a64248c348c/ec5485992cd1c8f9a1277a29d536fd1354d3acff84c5172a39e013d0e5c1e327" length="172801570" type="audio/mpeg"/>
@@ -163,7 +163,7 @@ Hop med ind og lev Det Gode Liv sammen med os.</description>
       <title>Valentinsdag, Grammy-vindere og spritny musik!</title>
       <description>I denne udgave af Det Gode Liv dykker vi ned i valentinsdag, ser på, hvem der har vundet årets Grammys, og selvfølgelig sørger Mo for at spille noget af det helt nyeste musik for dig.
 Vil du gøre din lørdag endnu bedre? Så hop med Mo og få en fest, du ikke kan sige nej til!</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 08 Feb 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/valentinsdag-grammy-vindere-og-spritny-musik-13332543066</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996247ac0bc33df261a5b7/ce27d69ff4aae751eb30dcdad9620fc9035995670fb56017a8077f94756cec8e" length="172801570" type="audio/mpeg"/>
@@ -172,7 +172,7 @@ Vil du gøre din lørdag endnu bedre? Så hop med Mo og få en fest, du ikke kan
       <title>Zuloo på besøg!</title>
       <description>Mo kæler for din lørdag og har besøg af ét styks brandvarm, upcoming rapper.  Det er ham, de andre vil være sammen og lave noget med. Mød Zuloo!
 Medvirkende: Zuloo.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/zuloo-paa-besoeg-13332543046</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed292f0b0eb5a9cd8fd4/b815641a5f2730614ea3771fa34d11a2bbfc2814c14b38d57215d0abf557e1f7" length="172801517" type="audio/mpeg"/>
@@ -181,7 +181,7 @@ Medvirkende: Zuloo.</description>
       <title>Lørdag 18. jan. 2025</title>
       <description>Mo forkæler din lørdag med hip hop og r'n'b - og har lige her åbnet studiedøren for den album-aktuelle rapper MAS.  
 Store spørgsmål trænger sig på: Hvad roder han med på en fridag - og er han egentlig Black Man, Chocolate eller G?</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-18-jan-2025-13332543036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677db2d9193e25da39846465/45733f5b56988b22348bf02fd7d1fbe4507ea9b1e2960f0303dc699704b81b43" length="172801581" type="audio/mpeg"/>
@@ -189,7 +189,7 @@ Store spørgsmål trænger sig på: Hvad roder han med på en fridag - og er han
     <item>
       <title>Lørdag 11. jan. 2025</title>
       <description>De to vigtigste ting i et godt liv er selvfølgelig god musik og at have de gode mennesker omkring sig. Derfor sørger Mo for, at du får den allerfriskeste hiphop og det bedste selskab i ørerne, når du tuner ind på P3 lørdag aften.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 11 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-11-jan-2025-13332543026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677478a0df6315276b4c01e0/6b20461ab531cdfdf386a9590bae8a41eb0bc9748cf945dca95ed0c7142f8cea" length="172802146" type="audio/mpeg"/>
@@ -197,7 +197,7 @@ Store spørgsmål trænger sig på: Hvad roder han med på en fridag - og er han
     <item>
       <title>Lørdag 4. jan. 2025</title>
       <description>De to vigtigste ting i et godt liv er selvfølgelig god musik og at have de gode mennesker omkring sig. Derfor sørger Mo for, at du får den allerfriskeste hiphop og det bedste selskab i ørerne, når du tuner ind på P3 lørdag aften.</description>
-      <duration>02:00:00</duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <pubDate>Sat, 04 Jan 2025 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/det-gode-liv/det-gode-liv-2025/loerdag-4-jan-2025-13332543016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3de2b4143ed398b51706/9011cb8f7162d760308fd1495d7c0fbd0b2816f8282db4bb334ad7f5d71b7229" length="172801570" type="audio/mpeg"/>

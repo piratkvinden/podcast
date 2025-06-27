@@ -4,11 +4,11 @@
     <title>LIGA</title>
     <link>https://www.dr.dk/lyd/p4/liga-760470867000</link>
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6"/>
     <item>
       <title>Torsdag 26. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>04:00:03</duration>
+      <itunes:duration>04:00:03</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/torsdag-26-jun-2025-13652502264</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682b0bce7b626ea9bb2919f6/d648e62280a369fbad812fccf55a479a94c1af7526a89710e812e24f2ef35df8" length="345685496" type="audio/mpeg"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Søndag 22. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>03:57:00</duration>
+      <itunes:duration>03:57:00</itunes:duration>
       <pubDate>Sun, 22 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/soendag-22-jun-2025-13652502257</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682b0ab17b626ea9bb29130e/d0071defc7e5246a77f7127df16eadf8bfa246deeb20aec6152a79cce7494288" length="341281976" type="audio/mpeg"/>
@@ -24,7 +24,7 @@
     <item>
       <title>Lørdag 21. jun. 2025</title>
       <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-      <duration>02:00:03</duration>
+      <itunes:duration>02:00:03</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/loerdag-21-jun-2025-13652502256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6847f4e250790136dd52bbb7/5882a415f0abb1806193b3bae1279893af0eb77fc37c079de52a3429828635e0" length="172885626" type="audio/mpeg"/>
@@ -32,7 +32,7 @@
     <item>
       <title>Torsdag 12. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>02:53:33</duration>
+      <itunes:duration>02:53:33</itunes:duration>
       <pubDate>Thu, 12 Jun 2025 20:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/torsdag-12-jun-2025-13652502244</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682af60d61175376c121e184/5c505f7cee10eaa87df216efa0e5be27f16f8257cef763aa5c6b688af2cf6231" length="249915704" type="audio/mpeg"/>
@@ -40,7 +40,7 @@
     <item>
       <title>Tirsdag 10. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>03:55:05</duration>
+      <itunes:duration>03:55:05</itunes:duration>
       <pubDate>Tue, 10 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/tirsdag-10-jun-2025-13652502242</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6813719fd45b2192f00a3dae/d71882e2e3fbfb8162edc6dd4ab0c9295e4b7281ffba907bd44038751fd29ac0" length="338524664" type="audio/mpeg"/>
@@ -48,7 +48,7 @@
     <item>
       <title>Søndag 8. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>02:00:03</duration>
+      <itunes:duration>02:00:03</itunes:duration>
       <pubDate>Sun, 08 Jun 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/soendag-8-jun-2025-13652502237</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68137030e97dc1fcf1e23433/38c65468e2ba310fa9530001c35b7b81e7be3857791215bdb66be35146205146" length="172885496" type="audio/mpeg"/>
@@ -56,7 +56,7 @@
     <item>
       <title>Lørdag 7. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>04:00:03</duration>
+      <itunes:duration>04:00:03</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 18:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/loerdag-7-jun-2025-13652502236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681330171c1ed8ee33ad8445/6d54e82f3318ce43959e4db072176f97bbd8527c63383b3310349905b5bc6573" length="345685496" type="audio/mpeg"/>
@@ -64,7 +64,7 @@
     <item>
       <title>Tirsdag 3. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>03:51:47</duration>
+      <itunes:duration>03:51:47</itunes:duration>
       <pubDate>Tue, 03 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/tirsdag-3-jun-2025-13652502232</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68132f2e1c1ed8ee33ad7e50/381ce9bb28d6fa68a19eb1e37558bbc04b7efc76ed5f729284648f7a437da791" length="333792824" type="audio/mpeg"/>
@@ -72,7 +72,7 @@
     <item>
       <title>Søndag 1. jun. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>02:53:07</duration>
+      <itunes:duration>02:53:07</itunes:duration>
       <pubDate>Sun, 01 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/soendag-1-jun-2025-13652502227</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68132e621c1ed8ee33ad797c/9beb09fc6cbcc26483f2b6afe030767f03ffcf8804624055813278117f588ec4" length="249307448" type="audio/mpeg"/>
@@ -80,7 +80,7 @@
     <item>
       <title>Lørdag 31. maj. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>02:57:03</duration>
+      <itunes:duration>02:57:03</itunes:duration>
       <pubDate>Sat, 31 May 2025 18:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/loerdag-31-maj-2025-13652502226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68131ef72d2b2fe91b8414cc/fd86b07de635ca670bc709379a32511b5c12ecb725b88817db94aaa52603834b" length="254972408" type="audio/mpeg"/>
@@ -88,7 +88,7 @@
     <item>
       <title>Fredag 30. maj. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>04:00:03</duration>
+      <itunes:duration>04:00:03</itunes:duration>
       <pubDate>Fri, 30 May 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/fredag-30-maj-2025-13652502225</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682496d561175376c1f7325f/b7b75afbeefea34d9e8f85b0340368a27edec1c7a8fa5fcf4e0edd894762c8dc" length="345685496" type="audio/mpeg"/>
@@ -96,7 +96,7 @@
     <item>
       <title>Torsdag 29. maj. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <duration>04:59:37</duration>
+      <itunes:duration>04:59:37</itunes:duration>
       <pubDate>Thu, 29 May 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga/torsdag-29-maj-2025-13652502224</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682495277b626ea9bbfcc1dd/50ef00ec58808b8eeec240adc3a53d23dae023f4172067008e58c1271a36b555" length="431463992" type="audio/mpeg"/>

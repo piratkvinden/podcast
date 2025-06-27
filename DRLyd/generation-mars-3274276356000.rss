@@ -11,7 +11,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67001d7afd6dd215a9aaa0dd.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2cd460d3c8a77770ed2"/>
     <item>
       <title>Andreas Mogensen: den første danske mand på Mars</title>
       <description>Når den første dansker skal til Mars, hvem sender vi så afsted? Det er selvfølgelig vores egen astronaut Andreas Mogensen, der har en mission til den internationale rumstation foran sig i sommeren 2023. Vi taler i denne sæsonfinale af Generation Mars med Andreas Mogensen om hans store passion for Mars, og han lægger ikke skjul på, at han vil være klar på opgaven, hvis chancen for en rejse til Mars, tilbyder sig.
@@ -21,7 +21,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:04:48</duration>
+      <itunes:duration>01:04:48</itunes:duration>
       <pubDate>Mon, 11 Jul 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/andreas-mogensen-den-foerste-danske-mand-paa-mars-16122292615</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3e017255fccfabc673/3338c5196fd27bb9643765bc15cddbf0c59a113095c0bea34a3ea25bc13c763a" length="93313819" type="audio/mpeg"/>
@@ -35,7 +35,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>00:52:57</duration>
+      <itunes:duration>00:52:57</itunes:duration>
       <pubDate>Mon, 04 Jul 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvad-kan-mars-stenen-black-beauty-fortaelle-os-om-universet-16122292614</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba423776e47b9d59af52/17dec350aebace811ea36817ac881d3d0254cb99c3d17536baf9ffce9e89671b" length="76250395" type="audio/mpeg"/>
@@ -49,7 +49,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>00:59:15</duration>
+      <itunes:duration>00:59:15</itunes:duration>
       <pubDate>Mon, 27 Jun 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvem-har-juridisk-raaderet-over-rummet-16122292613</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba42017255fccfabc6ab/a5d3386b89e2e4901a3eed8711d627485fa8fa7491e2e69ba9bbcc291542c7f9" length="85321243" type="audio/mpeg"/>
@@ -63,7 +63,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:01:25</duration>
+      <itunes:duration>01:01:25</itunes:duration>
       <pubDate>Mon, 20 Jun 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/de-danske-marsmaend-16122292612</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba41017255fccfabc6a5/46a8f3b973ebd9b6c96a8e62326acc2eded86a792d666884610243d5fd4cac0f" length="88449499" type="audio/mpeg"/>
@@ -77,7 +77,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:02:04</duration>
+      <itunes:duration>01:02:04</itunes:duration>
       <pubDate>Mon, 13 Jun 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvad-faar-mennesket-til-at-begive-sig-til-mars-16122292611</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba41017255fccfabc69f/47421e49c74cba87fcb74ac001c2e67502ba124fbae5afe41290561c55a60c83" length="89395867" type="audio/mpeg"/>
@@ -91,7 +91,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:00:16</duration>
+      <itunes:duration>01:00:16</itunes:duration>
       <pubDate>Mon, 06 Jun 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/er-robotter-med-kunstig-intelligens-vores-bedste-bud-paa-de-foerste-marsboere-16122292610</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba413776e47b9d59af43/d783e4b5f4c0a5b57ea39507d19469424d08776d388b3afb2f2a6617ee4bdece" length="86790619" type="audio/mpeg"/>
@@ -105,7 +105,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:01:48</duration>
+      <itunes:duration>01:01:48</itunes:duration>
       <pubDate>Mon, 30 May 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvordan-ser-en-by-paa-mars-ud-16122292609</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba40017255fccfabc695/e1e06265662b84b718bbc95b95ca96c18dc95a6aa4e53a61fe57480dff21e880" length="89000731" type="audio/mpeg"/>
@@ -119,7 +119,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>00:56:09</duration>
+      <itunes:duration>00:56:09</itunes:duration>
       <pubDate>Mon, 23 May 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/kan-den-menneskelige-krop-tilpasse-sig-mars-16122292608</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba403776e47b9d59af3c/7e53cdc9ff1d759c435c21ba163619595a2f10f4a288a6336fbe3e2c8c14cfdb" length="80858395" type="audio/mpeg"/>
@@ -133,7 +133,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:06:49</duration>
+      <itunes:duration>01:06:49</itunes:duration>
       <pubDate>Mon, 16 May 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/er-rumkapitalisten-elon-musk-den-sikreste-vej-til-mars-16122292607</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba40017255fccfabc68c/d87c9719e537f604244a92c04b762c5acf1acf1331a4349b16e16c5ef7193099" length="96232987" type="audio/mpeg"/>
@@ -147,7 +147,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:00:03</duration>
+      <itunes:duration>01:00:03</itunes:duration>
       <pubDate>Mon, 09 May 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/science-fiction-eller-virkelighed-16122292606</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3f3776e47b9d59af33/45011f81b8cde3f1ecc69bc78fa1dbb3ab2da5ce7e261f9602681c0427432ed3" length="86475547" type="audio/mpeg"/>
@@ -161,7 +161,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>00:48:06</duration>
+      <itunes:duration>00:48:06</itunes:duration>
       <pubDate>Mon, 02 May 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/kan-vi-skabe-groent-liv-paa-mars-16122292605</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3f017255fccfabc682/ded20a43101fead251a5b1f30ff28b0e01c7d08d0fc52c9d543ab015eee7a8f1" length="69284827" type="audio/mpeg"/>
@@ -175,7 +175,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:03:03</duration>
+      <itunes:duration>01:03:03</itunes:duration>
       <pubDate>Mon, 25 Apr 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvor-langt-er-rumteknologien-fra-mars-16122292604</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3e3776e47b9d59af2b/d9dd84f443093330cfc0b0dfcb791c881d87f081e226693f4792abdc6859ddbe" length="90795547" type="audio/mpeg"/>
@@ -189,7 +189,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:04:48</duration>
+      <itunes:duration>01:04:48</itunes:duration>
       <pubDate>Mon, 18 Apr 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/hvordan-skal-vi-bo-paa-mars-16122292603</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3c017255fccfabc662/97eb2fd219e41bf191ec5101de7bcd6515eec991ab086aad5dc679b4daa62675" length="93322459" type="audio/mpeg"/>
@@ -203,7 +203,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:05:55</duration>
+      <itunes:duration>01:05:55</itunes:duration>
       <pubDate>Mon, 11 Apr 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/bliver-elon-musk-foerste-mand-paa-mars-16122292602</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3e3776e47b9d59af27/0df5603b4bff101087c0d964498a9cc3a5eed186eba23e42cdc90d2f57d98b90" length="94923163" type="audio/mpeg"/>
@@ -217,7 +217,7 @@ Medvært: Anja C. Andersen.
 Klipper: Nikolaj Kirk.
 Al musik af Selina Gin.
 Produceret for DR af Firkantede Øjne ApS.</description>
-      <duration>01:00:46</duration>
+      <itunes:duration>01:00:46</itunes:duration>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/generation-mars/generation-mars-2022/rumkaploebet-til-mars-er-i-gang-16122292601</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6224ba3d017255fccfabc669/ed335ea06964de9003155738dcff27a8658bcac2fb1796c58904cdc3b7523826" length="87527899" type="audio/mpeg"/>

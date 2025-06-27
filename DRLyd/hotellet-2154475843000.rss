@@ -4,11 +4,20 @@
     <title>Hotellet</title>
     <link>https://www.dr.dk/lyd/p5/hotellet-2154475843000</link>
     <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2b3ebf0388a679952f3e9.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e592ddd5634992e7258d03"/>
+    <item>
+      <title>Søndag 21. apr. 2024</title>
+      <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.
+(Sendt første gang den 21. april).</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Sun, 22 Jun 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet-2024/soendag-21-apr-2024-15452425167</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66170daa59026887b29924f0/f4bd5abaa5e74608da5f49cdd4cd62372761c72db869961d7cfe28e8655975fb" length="168482163" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Søndag 15. jun. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 15 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-15-jun-2025-15452525247</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840c43d7462cbd87420ed58/79de4abf13961b74d0f68d36dd4909502175ceef3f09e41f2ce63b5cd8f69ccb" length="168482153" type="audio/mpeg"/>
@@ -16,7 +25,7 @@
     <item>
       <title>Søndag 8. jun. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 08 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-8-jun-2025-15452525237</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683789472174f5590b18889e/3ef30358ade19bdb384c56baeec02cd1432e614985daa678304cdd14652f90cb" length="168481577" type="audio/mpeg"/>
@@ -24,7 +33,7 @@
     <item>
       <title>Søndag 1. jun. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 01 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-1-jun-2025-15452525227</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682e4ed1317c38c5aa40d53c/584be67932dc976a7e5bb485fd7b8c53eada7cef1beab45484a24be7157b3b97" length="168482153" type="audio/mpeg"/>
@@ -32,7 +41,7 @@
     <item>
       <title>Søndag 25. maj. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 25 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-25-maj-2025-15452525217</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825145f61175376c1fa6dc3/bbd64233c729412866b0eaa99fccf5445a15a10e53e25d04624315113fae29bf" length="168482153" type="audio/mpeg"/>
@@ -40,7 +49,7 @@
     <item>
       <title>Søndag 18. maj. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 18 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-18-maj-2025-15452525207</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681bd9b3923dffbb19722dd1/5203e87e3b9af2a8dcc8e45a873c43b150de6674b4d06bbbf49704fa9eb4b2b1" length="168482153" type="audio/mpeg"/>
@@ -48,7 +57,7 @@
     <item>
       <title>Søndag 11. maj. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 11 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-11-maj-2025-15452525197</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68129f1b1c1ed8ee33a9b097/6db9ac4c1a0767d2a8487478cfe111a11ca2cdace1f8fcb0e4368c7a1efaf62d" length="168482153" type="audio/mpeg"/>
@@ -56,7 +65,7 @@
     <item>
       <title>Søndag 4. maj. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 04 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-4-maj-2025-15452525187</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6809640c4b4b6ae5a02a133e/e1d7a838e541975293b76f0e67848795ad7e6604246921f8cdfd24441e634ad6" length="168481577" type="audio/mpeg"/>
@@ -64,7 +73,7 @@
     <item>
       <title>Søndag 27. apr. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 27 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-27-apr-2025-15452525177</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68002959af5624554f8bc6cf/d3893e532c32ad94cdea23873337de4816424a4af7a10ff647e3fa484f4fd2b9" length="168481577" type="audio/mpeg"/>
@@ -72,7 +81,7 @@
     <item>
       <title>Søndag 13. apr. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 13 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-13-apr-2025-15452525157</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb591034014f39113aa2b/3bfabc1100af2da92ce01de648169c2feb74107309c5d15242551276d5459a8e" length="168482153" type="audio/mpeg"/>
@@ -80,7 +89,7 @@
     <item>
       <title>Søndag 6. Apr. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 06 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-6-apr-2025-15452525147</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e48843c7555875182deeb1/fcf15b88e398f7b32533aa6ef6218c495db81bac77b420bc9f87157a919ba6e8" length="168482153" type="audio/mpeg"/>
@@ -88,7 +97,7 @@
     <item>
       <title>Søndag 30. Mar. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 30 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-30-mar-2025-15452525137</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67db4e0b711e98720c879c45/b76aad3691d2ed3b88491d134fff0f3b3f453fd60e3b4513667326c1129ea7b1" length="168481577" type="audio/mpeg"/>
@@ -96,7 +105,7 @@
     <item>
       <title>Søndag 23. Mar. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 23 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-23-mar-2025-15452525127</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d21435eb0a841dec981607/520bf38870b49e221bf4ded7231e1daa78651cf624863f85cc510803603abd92" length="168481577" type="audio/mpeg"/>
@@ -104,7 +113,7 @@
     <item>
       <title>Søndag 16. Mar. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 16 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-16-mar-2025-15452525117</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c8da543c672e012fe450a5/425776272e715282308d649fa9e8dd284dd572917932874f025c7baef1bb04be" length="168481577" type="audio/mpeg"/>
@@ -112,7 +121,7 @@
     <item>
       <title>Søndag 9. Mar. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 09 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-9-mar-2025-15452525107</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bf9f03e66a8972944c61d7/7456524ca327a438a6875acfd23fd56a2e448571b6c24d6446f4cc650336669a" length="168481577" type="audio/mpeg"/>
@@ -120,7 +129,7 @@
     <item>
       <title>Søndag 2. Mar. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 02 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-2-mar-2025-15452525097</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b6655aff5c53172ffa8c04/f15ccaf25f71e65c71e07a7471217731abfd6083ce4f339adf172400f3498e56" length="168481577" type="audio/mpeg"/>
@@ -128,7 +137,7 @@
     <item>
       <title>Søndag 23. Feb. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 23 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-23-feb-2025-15452525087</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad29341d7c64dc6d7412cc/cd9b96c2265307bc115a5eb337c2b41ebbcd7c3ad2556d45fc86023e7a384bab" length="168481577" type="audio/mpeg"/>
@@ -136,7 +145,7 @@
     <item>
       <title>Søndag 16. Feb. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:53:59</duration>
+      <itunes:duration>01:53:59</itunes:duration>
       <pubDate>Sun, 16 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-16-feb-2025-15452525077</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a3eeab636f3c2854c3d48f/e1dc64e62492561e3db0537da747ebdb3878037fc80d88e0514cd185a532944a" length="164151785" type="audio/mpeg"/>
@@ -144,7 +153,7 @@
     <item>
       <title>Søndag 9. Feb. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 09 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-9-feb-2025-15452525067</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ab49c212b1e6bec90ee9b/232cbd76acbed7ac38318184ca2eceb3a769e0cdb430cb1516044209fb9716c7" length="168481577" type="audio/mpeg"/>
@@ -152,7 +161,7 @@
     <item>
       <title>Søndag 2. Feb. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 02 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-2-feb-2025-15452525057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917968ec59142e67312076/e45fc3003e7258284211c2a94c6d43a4b4c93e3e70c9b2a0e50c02aadac2e154" length="168481577" type="audio/mpeg"/>
@@ -160,7 +169,7 @@
     <item>
       <title>Søndag 26. Jan. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 26 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-26-jan-2025-15452525047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883f05d55808f9ce5fa189/5e5729bb2c68738d22ccbf38f1fc8e136894fec6044e55d94c69f33bfab5d08e" length="168481577" type="audio/mpeg"/>
@@ -168,7 +177,7 @@
     <item>
       <title>Søndag 19. Jan. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 19 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-19-jan-2025-15452525037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f057d6a4c16c5b9478a99/13393c70c2f00ba17e2bff209af22ef1daf3bb4cba08d1c4f70d7c58e997f2bc" length="168481577" type="audio/mpeg"/>
@@ -176,7 +185,7 @@
     <item>
       <title>Søndag 12. Jan. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 12 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-12-jan-2025-15452525027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cabd5e5e1a6ed3e2c83f/39146fdc008f006394e1ada0bfe18c22c7c35be57f2a7068bed945821485ec6f" length="168481577" type="audio/mpeg"/>
@@ -184,19 +193,10 @@
     <item>
       <title>Søndag 5. Jan. 2025</title>
       <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sun, 05 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet/soendag-5-jan-2025-15452525017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f846834bae6b8c5ae0c/f8ca7f3dbee25bc0f8f019b1e9e8b125e1383007a6d5b8ddc01519294ac6cd40" length="168481577" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 21. apr. 2024</title>
-      <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.
-(Sendt første gang den 21. april).</description>
-      <duration>01:57:00</duration>
-      <pubDate>Sun, 22 Jun 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hotellet/hotellet-2024/soendag-21-apr-2024-15452425167</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66170daa59026887b29924f0/f4bd5abaa5e74608da5f49cdd4cd62372761c72db869961d7cfe28e8655975fb" length="168482163" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

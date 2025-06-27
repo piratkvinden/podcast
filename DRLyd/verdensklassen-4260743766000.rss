@@ -6,7 +6,7 @@
     <description>Hvad gør man, når Danmark bliver for lille? Hvor flytter man hen, hvis ens livsværk og passion sprænger rammerne for vores lille land? Og hvad skal der egentlig til, for at tro på at vingerne kan bære - helt derude tæt på ækvator?
 Stéphanie Surrugue og Anders Agger taler med nogen af de danskere, der har bosat sig i den store verden, fordi de ikke kan lade være - og deler ud af oplevelser om alt fra undtagelsestilstand i Niger til bed bugs og tour de France.
 Værter: Stéphanie Surrugue og Anders Agger.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67023cf1fd6dd215a9b319c8.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2e510626a60f8e28c1d"/>
     <item>
       <title>1:8 - Mørkt stof og børn i Guinea</title>
       <description>Er mørkt stof det samme som sorte huller? Hvad laver man på en onsdag i Guinea Bissau? Og hvad er næste skridt egentligt i en karriere, hvor &quot;headhuntet af NASA&quot; allerede er tjekket af listen?
@@ -15,7 +15,7 @@ Gæster: Sarah Pearson og Peter Aaby
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:41:25</duration>
+      <itunes:duration>00:41:25</itunes:duration>
       <pubDate>Sun, 12 Mar 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/1-8-moerkt-stof-og-boern-i-guinea-11032395002</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64070056f10257267bcc26b4/d941f7e31423e0e6acccce0468c0898a3fbb973033b713c1749ac5b3c939348c" length="59645467" type="audio/mpeg"/>
@@ -28,7 +28,7 @@ Gæster: Dorthe Kollo og Kasper Winding
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:40:23</duration>
+      <itunes:duration>00:40:23</itunes:duration>
       <pubDate>Sun, 12 Mar 2023 05:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/2-8-schlagerdronning-og-multikunstner-11032395003</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64070062f10257267bcc26f9/663dc656eaf284937d3b7583db873307e2531485ba1ae781a57aca3f07398983" length="58154779" type="audio/mpeg"/>
@@ -41,7 +41,7 @@ Gæster: Ida Preatorius og Josephine Skriver
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:46:15</duration>
+      <itunes:duration>00:46:15</itunes:duration>
       <pubDate>Sun, 19 Mar 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/3-8-supermodel-og-ballerina-11032395004</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64070057f10257267bcc26bc/b1aa5fb9a23562755555981cbbe143a89add1418a73f70810b8048c5aa977ca3" length="66623131" type="audio/mpeg"/>
@@ -54,7 +54,7 @@ Gæster: Helle Thorning og Berit Basse
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:51:52</duration>
+      <itunes:duration>00:51:52</itunes:duration>
       <pubDate>Sun, 26 Mar 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/4-8-kvindekamp-og-diplomati-11032395005</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6407005af10257267bcc26cc/daca7ffc00e1429a0c0cfc93762e2fc13591137fd49a4e43858884f4f67e1868" length="74696347" type="audio/mpeg"/>
@@ -67,7 +67,7 @@ Gæster: Manja Kamw og Gerd Kieffer Døssing
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:37:44</duration>
+      <itunes:duration>00:37:44</itunes:duration>
       <pubDate>Sun, 02 Apr 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/5-8-krigszoner-og-katastrofer-11032395006</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:640700574632547712265e69/d7e0b9b91f445e75d4a5f1edbca1050d26492931993e18dbdc222b93dab885c8" length="54351451" type="audio/mpeg"/>
@@ -80,7 +80,7 @@ Gæster: Susanne Arfeldt og Iver Rosenkrantz.
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:34:55</duration>
+      <itunes:duration>00:34:55</itunes:duration>
       <pubDate>Sun, 09 Apr 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/6-8-diamantjaeger-og-direktoer-11032395007</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:640700584632547712265e71/cc720c0a6a2827df1d56af9df9f74d057cc99b1ed4f5588c627d59c68c64b95f" length="50291227" type="audio/mpeg"/>
@@ -93,7 +93,7 @@ Gæster: Gabriel Iffe Lundberg og Thomas Sørensen.
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:42:04</duration>
+      <itunes:duration>00:42:04</itunes:duration>
       <pubDate>Sun, 16 Apr 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/7-8-hoejt-spil-og-fodbold-down-under-11032395008</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:640700554632547712265e57/5192cf984e04138bbb08b0115313949a7451cb4dad70c2547e791b7cdc88ef0d" length="60592411" type="audio/mpeg"/>
@@ -106,7 +106,7 @@ Gæster: Anja Lovén og Siris Hartkorn.
 Tilrettelæggelse: Mie Frejo Copsø
 Klip: Mikkel Bøgeskov Andersson
 Redaktør: Anne Blume og Cecilie Cedergren</description>
-      <duration>00:43:50</duration>
+      <itunes:duration>00:43:50</itunes:duration>
       <pubDate>Sun, 23 Apr 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/verdensklassen/verdensklassen-1/8-8-sikkerhedschef-og-reservemor-til-100-11032395009</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6407005bf10257267bcc26d3/769853bb73c780313a2a0b069aa05a66c93ad6977d1be98bf7c1fb94a54e6d50" length="63137179" type="audio/mpeg"/>

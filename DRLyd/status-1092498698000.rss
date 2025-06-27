@@ -4,20 +4,12 @@
     <title>Status</title>
     <link>https://www.dr.dk/lyd/p6beat/status-1092498698000</link>
     <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6707d62d075f92789947ec10.jpg"/>
-    <item>
-      <title>På året</title>
-      <description>Værter: Jonas Hansen og Robert Haugsted.</description>
-      <duration>01:57:00</duration>
-      <pubDate>Mon, 30 Dec 2024 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status-2024/paa-aaret-16452425011</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6764a728a92881d1b0b5b6f1/23684e35eb97f14cb73401ce31c74dd0ee3bf89da63741555776aace619e6282" length="168481957" type="audio/mpeg"/>
-    </item>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7ef898e43b46d2840619f"/>
     <item>
       <title>Søndag 22. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 22 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-22-jun-2025-16452525257</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6849fe12a02c6c76eebbba73/650a06a854987c1c49cda05cd420d10f0ac96e5c138cb3cba5a5d1660a033e8c" length="254881419" type="audio/mpeg"/>
@@ -26,7 +18,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 21. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-21-jun-2025-16452525256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6848ada4c209757a33627e1e/6c771338c5ffa11ffb3212428e6eb9f620d877826b81ff8297f826e18b484a4b" length="254881419" type="audio/mpeg"/>
@@ -35,7 +27,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 15. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 15 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-15-jun-2025-16452525247</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840c44f5f16b69830a91531/5165c9d1bfa86f7ddb3ed8156bb5fe6c91352221a9a6fb5190c43957b9f658ed" length="254881419" type="audio/mpeg"/>
@@ -44,7 +36,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 14. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-14-jun-2025-16452525246</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683f72f06108806e0a6cb4fa/4e719c48e59d63d5d4e752ed7bada27b05f3c9835f73ef8f27124d62aedea55f" length="254881419" type="audio/mpeg"/>
@@ -53,7 +45,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 8. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 08 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-8-jun-2025-16452525237</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683789695f16b698306c613e/93aa0eb1a237985f90770e08907d73d2108aa71d55e77cede807d317edf4f1da" length="254881419" type="audio/mpeg"/>
@@ -62,7 +54,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 7. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-7-jun-2025-16452525236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683637735a3887707c3c8502/6978f0acd75cf10bd0408030fe3a81d434e7dec97c1066bb58a7430f1d4fd321" length="254881419" type="audio/mpeg"/>
@@ -71,7 +63,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 1. jun. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 01 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-1-jun-2025-16452525227</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682e4e81317c38c5aa40d06c/e6d8d6a18843b041bede1671be0695de6ef6113295e6a6995b3f6bb14bf231dd" length="254881995" type="audio/mpeg"/>
@@ -80,7 +72,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 31. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 31 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-31-maj-2025-16452525226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682cfcc1f65c9b85107a1a28/e5bf12d12c7542c0af60f18c9daeb9df218ad644ee8f132c56c52743269340ff" length="254881419" type="audio/mpeg"/>
@@ -89,7 +81,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 25. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 25 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-25-maj-2025-16452525217</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825147e61175376c1fa70b3/05f4e0639a317ecb5d6cd0d6c1942f3a8a4b7bfe769c4c11a600093e0b171f22" length="254881419" type="audio/mpeg"/>
@@ -98,7 +90,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 24. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 24 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-24-maj-2025-16452525216</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6823c27e61175376c1f17271/ff98290c49b0e894e3001721b617dc30201838dcb43c0ca027f32d149c204251" length="254881419" type="audio/mpeg"/>
@@ -107,7 +99,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 18. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 18 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-18-maj-2025-16452525207</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681bd9cc923dffbb19723217/7c0d7428478cbb98fcb3e189b90bac68caafe4f592ef8e66fe55eeded9cfc990" length="254881995" type="audio/mpeg"/>
@@ -116,7 +108,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 17. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 17 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-17-maj-2025-16452525206</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a87b40766aecd9d98ce8e/20721b7b3f03062b85260f57a6f2c8bcb5752b23e440a6f3febed2bccc6b24e9" length="254881995" type="audio/mpeg"/>
@@ -125,7 +117,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 11. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 11 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-11-maj-2025-16452525197</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68129f072d2b2fe91b80aff7/e364eb633fbf23c5e1a55dd03b350e59bd2c480fb7192de342ff2a5e39deabdf" length="254881995" type="audio/mpeg"/>
@@ -134,7 +126,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 10. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 10 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-10-maj-2025-16452525196</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68114ce8200e68c83397e381/bbd9a0f6ce75fbbe8e95fe3b2173d5823dedf351749534086109c0e2e6d003c3" length="254881995" type="audio/mpeg"/>
@@ -143,7 +135,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 4. maj. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 04 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-4-maj-2025-16452525187</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6809641db564004141929092/c6db6db0cb154e1f13f5cb71629e6611a8f209841e14eb041a461d0efcb053c0" length="254881995" type="audio/mpeg"/>
@@ -152,7 +144,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 27. apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 27 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-27-apr-2025-16452525177</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68002945e62132670d071c88/7a243251eef31000b66fa2f7a5d591b8ca41963cc76df4ae3163164d62da4e3d" length="254881419" type="audio/mpeg"/>
@@ -161,7 +153,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 26. apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 26 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-26-apr-2025-16452525176</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fed82d036df1a93c73b8b3/43192e55910c5a04a106605af81667b9cfabfdecc29642cc4236cee9677c2fe0" length="254881995" type="audio/mpeg"/>
@@ -170,7 +162,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 13. apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 13 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-13-apr-2025-16452525157</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb591034014f39113aa38/eca1d0962dbdd1cf76a3c547479b3193f5d23fac6fa5ccfcb81fb0caa74d24b6" length="254881419" type="audio/mpeg"/>
@@ -179,7 +171,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 12. Apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 12 Apr 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-12-apr-2025-16452525156</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ec6f2d9e6976d765d62488/fee10c5808b8f988ab3035d36d2a0c17fe7d27225a2e15ae6911b7d68da182d2" length="82081419" type="audio/mpeg"/>
@@ -188,7 +180,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 6. Apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 06 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-6-apr-2025-16452525147</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e48839c7555875182dee5b/70f787cb156968d4fa67db7b901ffabf63990c73ce7a579474ef11318c2f3090" length="254881419" type="audio/mpeg"/>
@@ -197,7 +189,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 5. Apr. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 05 Apr 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-5-apr-2025-16452525146</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e33768e132d0959ccd6bd2/74f367610a7a9ea00c048c6aac0a11fa6de8849eee0c00cff09600cb301e2cb8" length="254881419" type="audio/mpeg"/>
@@ -206,7 +198,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 30. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 30 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-30-mar-2025-16452525137</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67db4e17711e98720c879dc4/57ca81a2716ff4131945172403ef4f08e507bc42a0b9eeea03972abbdc58c4a9" length="254881419" type="audio/mpeg"/>
@@ -215,7 +207,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 29. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 29 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-29-mar-2025-16452525136</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d9fdbd711e98720c7f4788/aa7f4429b6349520acb336490c7e32b8e9332f78d1f4dba0697eb38fd4ce8653" length="254881995" type="audio/mpeg"/>
@@ -224,7 +216,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 23. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 23 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-23-mar-2025-16452525127</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d214365c71c6e35bf97a74/55a396fa473ce2292c4ec53f2812a1a498b9dc23f88a442a9096d52983f6f396" length="254881419" type="audio/mpeg"/>
@@ -233,7 +225,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 22. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 22 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-22-mar-2025-16452525126</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c3537733feedac0f04f3/edbcb4d177d91050e36551fd27e121ebf64a13c8dbe271e34980b7ca1882ac01" length="254881419" type="audio/mpeg"/>
@@ -242,7 +234,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 16. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 16 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-16-mar-2025-16452525117</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c8da55d42d59035e956dfb/01a637ec37f800e58042d5eb712892a3baac82f383e5d45725d4d2b06aff4854" length="254881419" type="audio/mpeg"/>
@@ -251,7 +243,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 15. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 15 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-15-mar-2025-16452525116</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c7879cd42d59035e8cfd96/a066d978c1ed8634e59f3db57213f6aa2a04e60561743a79e7ffbbefa0651571" length="254881419" type="audio/mpeg"/>
@@ -260,7 +252,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 9. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 09 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-9-mar-2025-16452525107</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bf9ef8f0479bde33abc6fc/e5e8a98d3cebf3d61c01fd5c90cedc979e7ddfbe4c1528772c2567bc5e76a233" length="254881419" type="audio/mpeg"/>
@@ -269,7 +261,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 8. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>00:57:00</duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <pubDate>Sat, 08 Mar 2025 16:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-8-mar-2025-16452525106</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67be4d445475915f731f77c9/24d76eda0ea094f792f4957a5bb28f5a3c9de1a3eb146b1f5926686a2f8585cb" length="82081995" type="audio/mpeg"/>
@@ -278,7 +270,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 2. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 02 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-2-mar-2025-16452525097</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b6655cff5c53172ffa8c3d/05822f29c65f5ca25e29ebd505dc43ea1be9096521d9b7ccf9d02f2ae7223f47" length="254881419" type="audio/mpeg"/>
@@ -287,7 +279,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 1. Mar. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 01 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-1-mar-2025-16452525096</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b5122efe5b955d9fabe354/c4224c574f1f37d0526c6bf6f884f2e62369f69f24b9f5991bc54d9187ab1647" length="254881419" type="audio/mpeg"/>
@@ -296,7 +288,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 23. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 23 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-23-feb-2025-16452525087</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad293a22055101a9509120/b03556e9ff0e2cefab6f943f907beb3c8d8b0eeaa08500fa6737a367a35e69c0" length="254881419" type="audio/mpeg"/>
@@ -305,7 +297,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 22. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 22 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-22-feb-2025-16452525086</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67abd7700119fe93c38d4be6/1fab05b4ffa186a1686c61549c2d8db119c526b304fab81e93f7b00cff9c1d11" length="254881419" type="audio/mpeg"/>
@@ -314,7 +306,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 9. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 09 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-9-feb-2025-16452525067</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ab4ae212b1e6bec90f06f/7e5ee208bafcad497d01de1254451321a4b2e064eb3e968c5762e2134f8647c1" length="254881995" type="audio/mpeg"/>
@@ -323,7 +315,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 8. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 08 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-8-feb-2025-16452525066</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6799625fc9234cedd8785267/c08b327cdd68ab695a92302ac7c1ccb3a5a9730448c82d72e3293d723493d31b" length="254881995" type="audio/mpeg"/>
@@ -332,7 +324,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 2. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 02 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-2-feb-2025-16452525057</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917987c01aca4eb3c8f900/bf34f424b052fcbd6eb1ea81b56bcaa2de40c40987a7f5bc1e2b2abe12f04efe" length="254881995" type="audio/mpeg"/>
@@ -341,7 +333,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 1. Feb. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 01 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-1-feb-2025-16452525056</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679032292a51e1bacbbf1130/c7eba5ec56209cf9bd11a770c4357f9cb0158297f9cc9ada07481374f8e5d561" length="254881419" type="audio/mpeg"/>
@@ -350,7 +342,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 26. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 26 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-26-jan-2025-16452525047</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67883f060b153b3916cbfc6f/87d4c75edb0068785526991d93fef1238f6c1e674a532fe46ac900df896af56b" length="254881419" type="audio/mpeg"/>
@@ -359,7 +351,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 25. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 25 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-25-jan-2025-16452525046</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6786ed5a2f0b0eb5a9cd90f2/cc202f3bcdb44b08c65fdef627fa785ab6f954bc8ab66b6495a692611d7bfaee" length="254881419" type="audio/mpeg"/>
@@ -368,7 +360,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 19. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 19 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-19-jan-2025-16452525037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f057e610611936bef0be9/b17d40dc6a3934e8a22bd0379bf3bf82db5261e18757e25408beb15852507cab" length="254881419" type="audio/mpeg"/>
@@ -377,7 +369,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 18. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 18 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-18-jan-2025-16452525036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677db2f78a728fca726ddbc1/1295ccca750caad19cce746e8e2cfa0cb63f6f728aeaf7f7f9051ceaad5b30dc" length="254881419" type="audio/mpeg"/>
@@ -386,7 +378,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 12. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 12 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-12-jan-2025-16452525027</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6775cabe5e5e1a6ed3e2c847/f6d727079d9f28384b996e1e7afc688f2295f8d4318ae43a184dc934488d269b" length="254881419" type="audio/mpeg"/>
@@ -395,7 +387,7 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 11. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 11 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-11-jan-2025-16452525026</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677478cfff6d49364e95b7e2/4a5bf05ef11ad73810e1998d38d3709f27c193ff5861df9400c66f58536902d9" length="254881419" type="audio/mpeg"/>
@@ -404,7 +396,7 @@ Vært: Jonas Hansen.</description>
       <title>Søndag 5. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sun, 05 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-5-jan-2025-16452525017</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f84d81a4d6d6bba904d/1d3628602772ee45124a56474938c4351b8bcceba4ce9023a9ffd4360eb7c795" length="254881419" type="audio/mpeg"/>
@@ -413,10 +405,18 @@ Vært: Jonas Hansen.</description>
       <title>Lørdag 4. Jan. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
-      <duration>02:57:00</duration>
+      <itunes:duration>02:57:00</itunes:duration>
       <pubDate>Sat, 04 Jan 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-4-jan-2025-16452525016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3e050b5d818cc1c8134c/78e5c8b09d8f162d6d45264da8664bb3444c3e9791c05ef58f9118e7f57eb2aa" length="254881419" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>På året</title>
+      <description>Værter: Jonas Hansen og Robert Haugsted.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Mon, 30 Dec 2024 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status-2024/paa-aaret-16452425011</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6764a728a92881d1b0b5b6f1/23684e35eb97f14cb73401ce31c74dd0ee3bf89da63741555776aace619e6282" length="168481957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

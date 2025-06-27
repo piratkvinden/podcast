@@ -12,7 +12,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Gjores.
 Produceret til DR af Munck Studios.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3cd16b75d19480fa978ae.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:685531fe122c951332fd7902"/>
     <item>
       <title>Den store reunion del 2</title>
       <description>Fredagens anden del af vores dobbeltafsnit, er ligeledes med alle 10 deltagere. Parterapeut Trine Hjorth Bønnerup hjælper os med at forstå sammenhængen mellem sex og kommunikation, og hvorfor det faktisk er to sider af samme sag. 
@@ -25,7 +25,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:51:30</duration>
+      <itunes:duration>00:51:30</itunes:duration>
       <pubDate>Fri, 13 Oct 2023 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/den-store-reunion-del-2-16122393509</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d10478cbeaa1a167f/c328ca02891ffcd3c2d72225467bccaeb59440edefe3d67021e0eebc9b7a4c08" length="74359387" type="audio/mpeg"/>
@@ -42,7 +42,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>01:05:14</duration>
+      <itunes:duration>01:05:14</itunes:duration>
       <pubDate>Thu, 12 Oct 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/den-store-reunion-del-1-16122393508</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0dab438639ce26bbc8/6342a259dd2be4c1fc36fa9740bb34d73838550ca4a3321af25ca4190f4a2ece" length="94149595" type="audio/mpeg"/>
@@ -59,7 +59,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Morten Nabild.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:56:27</duration>
+      <itunes:duration>00:56:27</itunes:duration>
       <pubDate>Thu, 05 Oct 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/store-skaenderier-store-foelelser-16122393507</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0dab438639ce26bbc2/686f8939086921afcf61340c3d363c481735a98cd78e85493e4c7bd2a0501d60" length="81491419" type="audio/mpeg"/>
@@ -76,7 +76,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:52:55</duration>
+      <itunes:duration>00:52:55</itunes:duration>
       <pubDate>Thu, 28 Sep 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/hvorfor-har-vi-ikke-haft-sex-16122393506</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d10478cbeaa1a167b/c439449f5a72c90622ea5e563e8ad7d11f69d2873a67cd584c5b548bde3c5c38" length="76400731" type="audio/mpeg"/>
@@ -92,7 +92,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:54:39</duration>
+      <itunes:duration>00:54:39</itunes:duration>
       <pubDate>Thu, 21 Sep 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/naar-det-fysiske-mangler-16122393505</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d6b591b6b9a30f38f/4b896feb306ae8ab48900245f07beaef7d67398735da43bdd5e3e3da9f986877" length="78701851" type="audio/mpeg"/>
@@ -109,7 +109,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Frederik Birch.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:50:21</duration>
+      <itunes:duration>00:50:21</itunes:duration>
       <pubDate>Thu, 14 Sep 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/all-in-paa-bryllupsrejse-16122393504</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d6b591b6b9a30f38b/9468ee8d4cd481a42605f21416a8deedab3cabc260216d93704a9e087029c32a" length="72512155" type="audio/mpeg"/>
@@ -125,7 +125,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Morten Nabild.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:47:12</duration>
+      <itunes:duration>00:47:12</itunes:duration>
       <pubDate>Thu, 07 Sep 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/foerste-date-alt-paa-spil-16122393503</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d6b591b6b9a30f386/06d1f91f49d387f2aee6a8d2eec5d9eaa0d57f584fcbed544590b77518f935ac" length="67969819" type="audio/mpeg"/>
@@ -140,7 +140,7 @@ Gæster: Sara Hove og Anders Reinholdt Jonssen.
 Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Frederik Birch.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:47:11</duration>
+      <itunes:duration>00:47:11</itunes:duration>
       <pubDate>Thu, 31 Aug 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/et-hack-til-kaerligheden-16122393502</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0d6b591b6b9a30f37e/5147d1d3c9fbec4923e5d8eb6de4850d5e3d809478037e510500a1c72a8e48cf" length="67949659" type="audio/mpeg"/>
@@ -157,7 +157,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Askov.
 Produceret for DR af Munck Studios København.</description>
-      <duration>00:50:28</duration>
+      <itunes:duration>00:50:28</itunes:duration>
       <pubDate>Thu, 24 Aug 2023 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2023/datingens-ekstremsport-16122393501</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64e4ad0c6b591b6b9a30f37a/b99f4f1020e949f4e33c78ebd392dfe77a03cb59ce3e52dd9d613a410d1e3bf8" length="72680923" type="audio/mpeg"/>
@@ -174,7 +174,7 @@ Klip: Frieda Krøgholt
 Redaktion: Rune Born Schwartz og Anna Tychsen 
 DR Redaktør: Anna Gjöres 
 Produceret til DR af Munck Studios</description>
-      <duration>00:37:52</duration>
+      <itunes:duration>00:37:52</itunes:duration>
       <pubDate>Thu, 10 Oct 2024 20:04:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/hva-saa-nu-lars-og-lone-16122494415</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e27ce0068ecfaadbd31/10b7ce782caabf414f73675e9306827481312b04dcae933d0b71f21283515b29" length="54548220" type="audio/mpeg"/>
@@ -191,7 +191,7 @@ Klip: Frieda Krøgholt
 Redaktion: Rune Born Schwartz og Anna Tychsen 
 DR Redaktør: Anna Gjöres 
 Produceret til DR af Munck Studios</description>
-      <duration>00:31:52</duration>
+      <itunes:duration>00:31:52</itunes:duration>
       <pubDate>Thu, 10 Oct 2024 20:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/hva-saa-nu-anette-og-frank-16122494414</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e26014e68760011e38c/2d725c8716402abe1215bc1068ce7c3d89cb0bec206f24f96cebd7797c2223ea" length="45904188" type="audio/mpeg"/>
@@ -207,7 +207,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby
 Redaktion: Rune Born Schwartz og Anna Tychsen 
 DR Redaktør: Anna Gjöres 
 Produceret til DR af Munck Studios</description>
-      <duration>00:33:19</duration>
+      <itunes:duration>00:33:19</itunes:duration>
       <pubDate>Thu, 10 Oct 2024 20:02:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/hva-saa-nu-nicolas-og-katrine-16122494413</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e27014e68760011e39c/359c5f2ec8773dcb217fa50f5cec4de5fd3ab4ea126630c6a3c71c3bf66f1660" length="47978363" type="audio/mpeg"/>
@@ -224,7 +224,7 @@ Klip: Frieda Krøgholt
 Redaktion: Rune Born Schwartz og Anna Tychsen 
 DR Redaktør: Anna Gjöres 
 Produceret til DR af Munck Studios</description>
-      <duration>00:43:32</duration>
+      <itunes:duration>00:43:32</itunes:duration>
       <pubDate>Thu, 10 Oct 2024 20:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/hva-saa-nu-nina-og-rolf-16122494412</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e23ce0068ecfaadbd19/8b77e04e21a56e875b43ddc63b5cc6f017c0426c7989129cfccf1e99a1bdec6c" length="62713019" type="audio/mpeg"/>
@@ -241,7 +241,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby
 Redaktion: Rune Born Schwartz og Anna Tychsen 
 DR Redaktør: Anna Gjöres
 Produceret til DR af Munck Studios</description>
-      <duration>01:00:04</duration>
+      <itunes:duration>01:00:04</itunes:duration>
       <pubDate>Thu, 10 Oct 2024 20:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/hva-saa-nu-morten-og-soeren-16122494411</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e24ce0068ecfaadbd1d/340b4a900f653ba3276b2417f61c9e2b74f6329d16feed75c8acd325375d733d" length="86505852" type="audio/mpeg"/>
@@ -256,7 +256,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios.</description>
-      <duration>00:59:16</duration>
+      <itunes:duration>00:59:16</itunes:duration>
       <pubDate>Thu, 03 Oct 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/den-indre-homofob-morten-og-anette-16122494410</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e29014e68760011e3aa/dafbaa03f1b7bd682f817791cdf31c17b87f7e5c1f7f24a3dd6f514ff336493a" length="85360764" type="audio/mpeg"/>
@@ -272,7 +272,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios.</description>
-      <duration>00:56:01</duration>
+      <itunes:duration>00:56:01</itunes:duration>
       <pubDate>Thu, 26 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/skal-vi-overhovedet-fortsaette-sammen-lone-og-soeren-16122494409</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e26014e68760011e391/ec48b378fec41e656f6840c110c10376bdab776843771e00d29532796f903d5c" length="80667514" type="audio/mpeg"/>
@@ -288,7 +288,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios.</description>
-      <duration>00:55:41</duration>
+      <itunes:duration>00:55:41</itunes:duration>
       <pubDate>Thu, 19 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/ingen-steder-at-skjule-sig-morten-og-nicolas-16122494408</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e27014e68760011e395/d5b4c57dbf5aec74f60e06946d5223cab931ab23929d445180f7f06bd10feea5" length="80185979" type="audio/mpeg"/>
@@ -303,7 +303,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios.</description>
-      <duration>00:58:54</duration>
+      <itunes:duration>00:58:54</itunes:duration>
       <pubDate>Thu, 12 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/se-venedig-og-doe-nina-og-katrine-16122494407</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e28ce0068ecfaadbd42/ec7ff5dff4b00982ee1119cdeafb1bf5fe50bbab9e0659391b89885f0eb628c7" length="84827386" type="audio/mpeg"/>
@@ -318,7 +318,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres. 
 Produceret til DR af Munck Studios.</description>
-      <duration>00:56:57</duration>
+      <itunes:duration>00:56:57</itunes:duration>
       <pubDate>Thu, 05 Sep 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/et-froe-der-spirer-anette-og-lars-16122494406</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e28ce0068ecfaadbd3a/e7da5b8b390d3c4f95e46469804257e835d3960b4bcdc4d35bd31da28b0be135" length="82010751" type="audio/mpeg"/>
@@ -334,7 +334,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios</description>
-      <duration>00:49:41</duration>
+      <itunes:duration>00:49:41</itunes:duration>
       <pubDate>Thu, 29 Aug 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/to-forskellige-frekvenser-rolf-og-eivind-16122494405</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e2ace0068ecfaadbd4b/68c902acf4f293c34173879b6dfcc78efd7522220551df91d5c0446da2eb628b" length="71569595" type="audio/mpeg"/>
@@ -352,7 +352,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Gjöres.
 Produceret til DR af Munck Studios.</description>
-      <duration>00:53:11</duration>
+      <itunes:duration>00:53:11</itunes:duration>
       <pubDate>Thu, 22 Aug 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/for-godt-til-at-vaere-sandt-soeren-og-frank-16122494404</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e2a014e68760011e3b2/bf0ea7689b25af9d1a64b919226518cf2817254e68e231e34e3d6510581e93ef" length="76588283" type="audio/mpeg"/>
@@ -369,7 +369,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen.
 DR Redaktør: Anna Gjores. 
 Produceret til DR af Munck Studios.</description>
-      <duration>00:56:05</duration>
+      <itunes:duration>00:56:05</itunes:duration>
       <pubDate>Thu, 15 Aug 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/10-aars-jubilaeum-med-sebastian-lynggaard-og-annika-aakjaer-16122494403</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e25ce0068ecfaadbd29/8dfe52e4ca8ff5e051b68ef2dd25784171a0192502ad0082bf301ba3de6b83d5" length="80767739" type="audio/mpeg"/>
@@ -387,7 +387,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres. 
 Produceret til DR af Munck Studios</description>
-      <duration>00:53:10</duration>
+      <itunes:duration>00:53:10</itunes:duration>
       <pubDate>Thu, 08 Aug 2024 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/10-aars-jubilaeum-med-ane-cortzen-og-caster-henrik-mathiassen-16122494402</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e25014e68760011e381/bc7a31eb7a8ab36d30e8aa674640a2b3da1aa686701121a2e74526133ad39798" length="76564672" type="audio/mpeg"/>
@@ -406,7 +406,7 @@ Tilrettelæggelse og klip: Jens Malthe Næsby.
 Redaktion: Rune Born Schwartz og Anna Tychsen. 
 DR Redaktør: Anna Gjöres. 
 Produceret til DR af Munck Studios.</description>
-      <duration>00:52:09</duration>
+      <itunes:duration>00:52:09</itunes:duration>
       <pubDate>Thu, 08 Aug 2024 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/gift-ved-foerste-blik-podcasten/2024/10-aars-jubilaeum-med-ditte-okman-og-anton-hjejle-16122494401</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667d6e23ce0068ecfaadbd15/58e44ba01aea192ce00b73f91de84ac7985c4cc9ef8d5dcf89d1d3cacdefcf6b" length="75104514" type="audio/mpeg"/>

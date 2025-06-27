@@ -4,11 +4,11 @@
     <title>Det Store Talkshow</title>
     <link>https://www.dr.dk/lyd/p4/det-store-talkshow-4009482608000</link>
     <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f3381bf0388a6799550572.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7ef88d5634992e7351656"/>
     <item>
       <title>Lørdag 21. jun. 2025</title>
       <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sat, 21 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/loerdag-21-jun-2025-15452540256</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6848ad88715313ce9ecbffc9/43c832f572e45e50e2e940a6741077b560cfe8858145c7139ddc1aa802caf702" length="168482094" type="audio/mpeg"/>
@@ -16,7 +16,7 @@
     <item>
       <title>Victor Lander &amp; Katinka</title>
       <description>Den ene er Rick Ashley fan, den anden samler på bamser! Det lyder umiddelbart som om der er langt i mellem de to, men fælles for dem er at de begge man få os til at tænke og smile med deres kunst og det kan de selvfølgelige også når de besøger Nanna og David i Det Store Talkshow.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sat, 14 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/victor-lander-og-katinka-15452540246</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683f72d55f16b69830a077f4/8b143de2011eef1539ffeed6257d0238ec8a1ef2807fc0df84da5e7da3ddbec7" length="168481614" type="audio/mpeg"/>
@@ -24,7 +24,7 @@
     <item>
       <title>Lørdag 7. jun. 2025</title>
       <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sat, 07 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/loerdag-7-jun-2025-15452540236</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683637505a3887707c3c831c/a76c2cf7b7e7e4628cf000e7159f73ed305a820eb1b1134e29c9489f0fe4c933" length="168481518" type="audio/mpeg"/>
@@ -32,7 +32,7 @@
     <item>
       <title>Lørdag 31. maj. 2025</title>
       <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
-      <duration>01:57:00</duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <pubDate>Sat, 31 May 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/loerdag-31-maj-2025-15452540226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682cfcb44674ec5d02cfeb7c/21131d40ad7360b9f6fbff17d68842205b09aafcb17fd3eacee321e37d9b0ce4" length="168482094" type="audio/mpeg"/>
