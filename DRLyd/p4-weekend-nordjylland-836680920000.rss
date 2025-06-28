@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>P4 Weekend Nordjylland</title>
+    <link>https://www.dr.dk/lyd/p4nord/p4-weekend-nordjylland-836680920000</link>
+    <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e5d850d5634992e727560b"/>
+    <item>
+      <title>P4 Weekend</title>
+      <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+      <itunes:duration>02:57:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 06:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-weekend-nordjylland/p4-weekend-nordjylland/p4-weekend-14102540266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc15cfaa49e222d57f8f3e/c3da1e0ba4d8b4991c63138bbfef13305cd29c4d3eacd21f09b253687090d905" length="254881517" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

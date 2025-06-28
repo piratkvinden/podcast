@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>P5 Morgen</title>
+    <link>https://www.dr.dk/lyd/p5/p5-morgen-760476643000</link>
+    <description>Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e5d8608b2e4877edc8591c"/>
+    <item>
+      <title>Lørdag 28. jun. 2025</title>
+      <description>Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.</description>
+      <itunes:duration>02:40:58</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 07:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/p5-morgen/p5-morgen/loerdag-28-jun-2025-15452520266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851530591259fc7e5283d46/63176159d86f41bfa9ecf65c914c002e9e5eb2b7986141db1da77004b294ed71" length="231798797" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

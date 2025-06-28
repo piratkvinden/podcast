@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>P4 Weekend København</title>
+    <link>https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn-1092530777000</link>
+    <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e5d860d5634992e7275725"/>
+    <item>
+      <title>P4 Weekend</title>
+      <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+      <itunes:duration>02:57:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 06:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn/p4-weekend-koebenhavn/p4-weekend-14802540266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e824746bbe7fdc1fe1f7/cf8b7a2745bb05eef6dd62a75da2f2052dc2a11edde9b5379a8fb38b4b85cc04" length="0" type="audio/x-m4a"/>
+    </item>
+  </channel>
+</rss>
