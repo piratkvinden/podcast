@@ -6,6 +6,53 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e46ad8c039d56f04e3b57b"/>
     <item>
+      <title>De gratis glæder</title>
+      <description>Det begynder med glæden ved en sommerfugl, en lørdag aften, luften, ja, alt det som er godt og gratis. 
+Vært: Katrine Ring.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Wed, 25 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/de-gratis-glaeder-12422363251</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:648252758904cd8f08323ae3/c914a66b92fe5e7dd3732e3e5825b023209f7f568216cf42af47ebbabe027e14" length="168482051" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Der er noget i luften</title>
+      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
+Vært: Tina Rømer.
+(Sendt første gang 14. juni 2023).</description>
+      <itunes:duration>02:00:00</itunes:duration>
+      <pubDate>Fri, 20 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/der-er-noget-i-luften-12422363242</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647a6997532696b851681d94/5fbc855b6229be5322c69e58d57296afe48b8b5103081d7068a98eee245be3e1" length="172801528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Midsommer</title>
+      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
+Vært: Katrine Ring.
+(Sendt første gang 5. juni 2023).</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Wed, 18 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/midsommer-12422363227</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646e8c0e295e8f20d1b6b634/c2e12f128a4fb11f24aa0513a34d52b2463df5a20f9370cf7e4209966029c653" length="168482056" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>I ballon over ukendte landskaber</title>
+      <description>Som at svæve i en ballon henover Cappadocia eller Bagans templer og små landsbyer med et soundtrack af Dustin O'Halloran, Aphex Twin, Mendelssohn, Jónsi &amp; Alex, Poppy Ackroyd, Ian Bostridge stemme og Izumi Tatenos snefnug.
+Vært: Minna Grooss.</description>
+      <itunes:duration>02:00:00</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/i-ballon-over-ukendte-landskaber-12422363223</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646945f2c958d7d120fa24bb/f7a378a081261549d26e1d0c3ab863bf8e39cae7ef1573b0bba24e0d98bf34a3" length="172801588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Aftenland</title>
+      <description>Landskaber i det dunkle aftenlys hvor lyde bliver højere når synet svækkes. Var det uglen der tudede, og hvem tilhører øjnene i skovens mørke mellem træstammerne.
+Vært: Tina Rømer.</description>
+      <itunes:duration>01:56:56</itunes:duration>
+      <pubDate>Sun, 29 Jun 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/aftenland-12422363217</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6465515ec958d7d120e66ec2/310075b47e5d6d2dba35b2ed06a218f5e28ad1de2e05bc3bbe556a2df37e9876" length="168398590" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Nattens melodier</title>
       <description>Når dagen lander er der ro, og man lytter på en særlig måde til musikken fordi den får plads. Jeg har fundet melodier, der flakser fra fuglesang, filmhit til sværmende sansebomber af Pablo Casals, Henry Mancini og Caroline Shaw. Det bliver lækkert. 
 Vært: Tina Rømer.</description>
@@ -129,15 +176,6 @@ Vært: Katrine Ring.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819f0400766aecd9d94d3b4/4c152f2a539f356aaa8ac9f99b174fa16811bb8c9a2170c4bb94fcf7410e0488" length="168361019" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Tusind år</title>
-      <description>Tusindårshaver findes. Oldgamle træer og andre vækster, der står længe efter vor tid, og jeg forsøger at sætte musik der klinger af, om ikke evighed, så af tusind år. 
-Vært: Tina Rømer.</description>
-      <itunes:duration>01:56:56</itunes:duration>
-      <pubDate>Fri, 30 May 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/tusind-aar-12422563224</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68148965e52a6803ee0153bf/b30bdc6a7120e4795e2098ec86523aa821d4e9514589c87540645e7407be66c6" length="168407812" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Kimen til natten</title>
       <description>Musik, der stryger dig med hårene, musik, der udfordrer dine ører, og musik, der giver din stemme lyst til at nynne med.
 Vært: Minna Grooss.</description>
@@ -234,44 +272,6 @@ Vært: Katrine Ring.</description>
       <pubDate>Sat, 31 May 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/orkestret-i-natten-12422463226</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664d1a9490281c929ed0e440/71b52f0c154d3996a8abb0bc88a12668b79483b889179adeac9c28ec553a219e" length="168481607" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>De gratis glæder</title>
-      <description>Det begynder med glæden ved en sommerfugl, en lørdag aften, luften, ja, alt det som er godt og gratis. 
-Vært: Katrine Ring.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Wed, 25 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/de-gratis-glaeder-12422363251</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:648252758904cd8f08323ae3/c914a66b92fe5e7dd3732e3e5825b023209f7f568216cf42af47ebbabe027e14" length="168482051" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Der er noget i luften</title>
-      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
-Vært: Tina Rømer.
-(Sendt første gang 14. juni 2023).</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Fri, 20 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/der-er-noget-i-luften-12422363242</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647a6997532696b851681d94/5fbc855b6229be5322c69e58d57296afe48b8b5103081d7068a98eee245be3e1" length="172801528" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Midsommer</title>
-      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
-Vært: Katrine Ring.
-(Sendt første gang 5. juni 2023).</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Wed, 18 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/midsommer-12422363227</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646e8c0e295e8f20d1b6b634/c2e12f128a4fb11f24aa0513a34d52b2463df5a20f9370cf7e4209966029c653" length="168482056" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>I ballon over ukendte landskaber</title>
-      <description>Som at svæve i en ballon henover Cappadocia eller Bagans templer og små landsbyer med et soundtrack af Dustin O'Halloran, Aphex Twin, Mendelssohn, Jónsi &amp; Alex, Poppy Ackroyd, Ian Bostridge stemme og Izumi Tatenos snefnug.
-Vært: Minna Grooss.</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/i-ballon-over-ukendte-landskaber-12422363223</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:646945f2c958d7d120fa24bb/f7a378a081261549d26e1d0c3ab863bf8e39cae7ef1573b0bba24e0d98bf34a3" length="172801588" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
