@@ -6,6 +6,54 @@
     <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c9282b53e8e759bb9cce"/>
     <item>
+      <title>Seneste nyt kl. 11:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-11-30-14102511271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ada45f16b698305fa275/938088d912cf0f3677681251e016199332ee2182c144bb8b1c3de879b23d42e1" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 10:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-10-30-14102510271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b455f16b698305f157c/fa31da0a5d31be17e475d29b804911227e43023ec3fe34d328b827b62cced453" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 09:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-09-30-14102509271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683596ec037aa47a6dd480d8/37399a3b6db03d3f44100fce0cea023ee7db97b9796dae034b4659524f2af5fb" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 08:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-08-30-14102508271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359616bd7f09b343f6b128/aae43b467513bbe71226b3acb164dd10089c3dcdf53894e40442867cb3ac5a35" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 07:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-07-30-14102507271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835954e5f16b698305ed780/7e93a04e320e7dcc6ba71796c110e0d73d9ac4839e16d56b703fdef4216959f9" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 06:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-06-30-14102506271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683586105f16b698305e60db/5753f8c198511f19542bf3e7b501f529d2070909043092026aca556cedbded52" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Seneste nyt kl. 17:30</title>
       <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
       <itunes:duration>00:03:00</itunes:duration>
@@ -84,54 +132,6 @@
       <pubDate>Thu, 26 Jun 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-06-30-14102506264</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684f451afb2d71c8d234bc4c/37628354dbcd7d4b16cfb4c8d17464fa6c62184df672031ccaf46fb21f0fdfdb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 12:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-12-30-14102512266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e802746bbe7fdc1fdf1f/0b04469260fff3760bd970b4467e0c29566e60cb70bd07a05eca57bee0dd28c2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-11-30-14102511266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e816fa5e05d195fa83c1/722d4676b379e0fa9ce8be0833e77a3f2371c92c3093b295ca7d98e7b4d9ce95" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-10-30-14102510266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e8133328261bdf87ad7a/aa85addaaf436b65e2a752e780afaf6d9d4f43dc7303d4c1037c6b8fd8ec37d0" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-09-30-14102509266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e813fa5e05d195fa835d/af131602a7575ed790abf523d3e1c775a85fe9a1c63ce79f955681686a1edf69" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-08-30-14102508266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e8033328261bdf87ac64/5374be8ab673e465e2c170997ede215f1419d55bf082c17d5d5db793f7f5fe00" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-07-30-14102507266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e81c9b0d242d0f00897b/62324f4426608826052220de70ab9fedd4b1677d2ad056d0547233f318084a43" length="0" type="audio/x-m4a"/>
     </item>
     <item>
       <title>Seneste nyt kl. 12:30</title>
@@ -260,6 +260,54 @@
       <pubDate>Fri, 27 Jun 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-06-30-14102506265</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685095c2105d4f4797498954/821ddb90fe810e53a5006ff00dc43f037517f1926719dc3f1ac60382301839a6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 12:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-12-30-14102512266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e802746bbe7fdc1fdf1f/0b04469260fff3760bd970b4467e0c29566e60cb70bd07a05eca57bee0dd28c2" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 11:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-11-30-14102511266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e816fa5e05d195fa83c1/722d4676b379e0fa9ce8be0833e77a3f2371c92c3093b295ca7d98e7b4d9ce95" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 10:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-10-30-14102510266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e8133328261bdf87ad7a/aa85addaaf436b65e2a752e780afaf6d9d4f43dc7303d4c1037c6b8fd8ec37d0" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 09:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-09-30-14102509266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e813fa5e05d195fa835d/af131602a7575ed790abf523d3e1c775a85fe9a1c63ce79f955681686a1edf69" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 08:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-08-30-14102508266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e8033328261bdf87ac64/5374be8ab673e465e2c170997ede215f1419d55bf082c17d5d5db793f7f5fe00" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 07:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Nordjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-nordjylland-regionale-nyheder/p4-nordjylland-regionale-nyheder/seneste-nyt-kl-07-30-14102507266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851e81c9b0d242d0f00897b/62324f4426608826052220de70ab9fedd4b1677d2ad056d0547233f318084a43" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
