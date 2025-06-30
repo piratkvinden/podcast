@@ -5,6 +5,14 @@
     <link>https://www.dr.dk/lyd/p2/stegelmanns-score-2392825415000</link>
     <description>Musik fra film og computerspil.
 Jakob Stegelmann og hans medvært spiller ny og gammel symfonisk musik fra film, spil og tv-serier.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2be11f0388a6799531d4b.jpg"/>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:683ef1dff526fd481f913f3a"/>
+    <item>
+      <title>Superhelte</title>
+      <description>Episk filmsommer med Jakob Stegelmann og Ida Rud, der spiller storslået filmmusik fra episke filmklassikere.</description>
+      <itunes:duration>00:57:03</itunes:duration>
+      <pubDate>Sun, 29 Jun 2025 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/stegelmanns-score/stegelmanns-score-2025/superhelte-16122521001</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683ef1dff526fd481f913f30/b52aa679f62767f69f45d2369a3c289a7953a4658390a30331ba31c145bfe9f9" length="82165557" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>

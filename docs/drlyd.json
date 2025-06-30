@@ -4681,5 +4681,21 @@
     "description": "Historier om dagen i dag, dagens fødselarer, dagens TV-tips og masser af den gode P5-Musik.",
     "program_url": "https://www.dr.dk/lyd/p5/p5-morgen-760476643000",
     "series_hash": "urn:dr:radio:series:5fb6249ef45a4df9a5f9bfdf"
+  },
+  {
+    "name": "Stegelmanns score",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:683ef1dff526fd481f913f3a",
+    "description": "Musik fra film og computerspil.\nJakob Stegelmann og hans medvært spiller ny og gammel symfonisk musik fra film, spil og tv-serier.",
+    "program_url": "https://www.dr.dk/lyd/p2/stegelmanns-score-2392825415000",
+    "series_hash": "urn:dr:radio:series:5fa25d10330eac2f135b585c"
+  },
+  {
+    "name": "Søren Ryges sidste tur i haven",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/soeren-ryges-sidste-tur-i-haven",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:685c008d6c43d38565f1d8dd",
+    "description": "Søren Ryge har brugt det meste af sit liv ude i sin have. Her har han plantet, passet og \nformet en verden, der nu skal videregives til den unge generation. I denne serie deler \nhan sine mest værdifulde haveråd og erfaringer med Asta,en ung journalist, der står \nmidt i det moderne livs travlhed. Kan Søren overbevise den yngre generation om, at det \ngode liv findes blandt planter, muld og langsomhed? I løbet af fem afsnit på en time \nbegiver Søren og Asta sig rundt i hans store have. Med det klare mål at Sørens vigtigste \nhaveråd ikke må gå tabt og for at få formidlet til yngre generationer, hvorfor et haveliv er \net godt liv.\nProduceret for DR af Beam Audio Agency.",
+    "program_url": "https://www.dr.dk/lyd/p1/soeren-ryges-sidste-tur-i-haven-6015117838000",
+    "series_hash": "urn:dr:radio:series:684a9871d9427b607791b8ed"
   }
 ]
