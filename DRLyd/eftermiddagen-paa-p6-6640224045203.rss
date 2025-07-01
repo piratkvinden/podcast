@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Eftermiddagen på P6</title>
+    <link>https://www.dr.dk/lyd/p6beat/eftermiddagen-paa-p6-6640224045203</link>
+    <description>Din garanti for god musik og godt selskab hele sommeren!</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86db3613283fa42d015"/>
+    <item>
+      <title>Mandag 30. jun. 2025</title>
+      <description>Din garanti for god musik og godt selskab hele sommeren!
+Værter: Mette Lindberg og Tilde Bang.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/eftermiddagen-paa-p6/eftermiddagen-paa-p6/mandag-30-jun-2025-16452567271</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68540d2f9b18fe3ce3631bba/ce49ede6d33ad982f6ec8808fb5f069df9aacf0061435a2471e3a30eb5571363" length="0" type="audio/x-m4a"/>
+    </item>
+  </channel>
+</rss>
