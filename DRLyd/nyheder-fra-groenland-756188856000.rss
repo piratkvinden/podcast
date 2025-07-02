@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Nyheder fra Grønland</title>
+    <link>https://www.dr.dk/lyd/p1/nyheder-fra-groenland-756188856000</link>
+    <description>Få de seneste nyheder fra Grønland serveret på dansk.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67ec8d979e6976d765d6e9b2"/>
+    <item>
+      <title>På dansk</title>
+      <description>Få de seneste nyheder fra Grønland serveret på dansk.</description>
+      <itunes:duration>00:05:00</itunes:duration>
+      <pubDate>Tue, 01 Jul 2025 18:55:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/nyheder-fra-groenland/nyheder-fra-groenland/paa-dansk-16122506272</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ee5377f15fbe15e5827bea/0d27940972cd294e8c2f73d93254faa42bf1542620a27e68d37fb8b7e26ff98d" length="0" type="audio/x-m4a"/>
+    </item>
+  </channel>
+</rss>

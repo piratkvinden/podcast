@@ -6,6 +6,16 @@
     <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09c7555875182a643b"/>
     <item>
+      <title>Tirsdag 1. jul. 2025</title>
+      <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
+Vært: Magnus Løppenthin.
+Redaktør: Kasper Overby.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Tue, 01 Jul 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/tirsdag-1-jul-2025-18452565072</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68344af5b55477aa47222dfc/745ba58a3f6f76eb27f0fe9718d09c00d0f44d7d807a4cb09c435c527e20ac7e" length="168482678" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 30. jun. 2025</title>
       <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
 Vært: Magnus Løppenthin.
@@ -204,16 +214,6 @@ Redaktør: Kasper Overby.</description>
       <pubDate>Tue, 03 Jun 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/tirsdag-3-jun-2025-18452565232</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6832070e35191597f7e69861/3ef515698bea7ef8725da353cc1c19e7788adf32cd68f5c2ad12f544b00e42d2" length="168482102" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 2. jun. 2025</title>
-      <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
-Vært: Magnus Løppenthin.
-Redaktør: Kasper Overby.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Mon, 02 Jun 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/mandag-2-jun-2025-18452565231</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682fa03e35191597f7d61666/bf61a89a107ae9b93fdd1c4663ad7b120068fd46bd280ea3b51506e4c252876c" length="168482102" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
