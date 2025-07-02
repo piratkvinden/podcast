@@ -7,6 +7,18 @@
 Produceret for DR af MonoMono.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7fd9d8e43b46d2840bd19"/>
     <item>
+      <title>Deep dive i Svanesøen</title>
+      <description>Alban tager os igennem balletternes ballet, Svanesøen, og fortæller om historien, karakterne og hans oplevelser med værket som danser. 
+
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Producer, klip og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <itunes:duration>01:52:58</itunes:duration>
+      <pubDate>Sat, 28 Jun 2025 16:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/deep-dive-i-svanesoeen-16122423376</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887bf872285eecd9048e/3d5d5a03f657164906257c5eddb7849a6caebf5955cf175fe2efc373b8c0bc62" length="162681282" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mesterpianisten og mørket - Vladimir Horowitz</title>
       <description>Alban og Alex fortæller den vilde historie om en af Alex' store helte, Vladimir Horowitz. Allerede som 6 årig bliver Horowitz set som et geni, der ved tangenterne &quot;leger med mørket, som en kat der leger med sit bytte&quot;. Men det er også et mørke, der senere tvinger den verdensberømte pianist af scenen i 12 år, før Horowitz endelig vender tilbage på podiet med en endnu dybere inderlighed, der tager verden med storm. 
 Vært: Alban Lendorf, balletdanser og skuespiller og Alexander McKenzie, pianist og komponist.
@@ -302,18 +314,6 @@ Produceret for DR af MonoMono.</description>
       <pubDate>Sat, 04 Jan 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden/moderskab-med-sofie-elkjaer-jensen-16122523016</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676b3ded0b5d818cc1c812bc/159e64441c22279873557f77f7c37f046774b19ac10633cfc77ce9cebf24b4e7" length="162703179" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Deep dive i Svanesøen</title>
-      <description>Alban tager os igennem balletternes ballet, Svanesøen, og fortæller om historien, karakterne og hans oplevelser med værket som danser. 
-
-Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
-Producer, klip og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <itunes:duration>01:52:58</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 16:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/deep-dive-i-svanesoeen-16122423376</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d7887bf872285eecd9048e/3d5d5a03f657164906257c5eddb7849a6caebf5955cf175fe2efc373b8c0bc62" length="162681282" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
