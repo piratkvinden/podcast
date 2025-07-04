@@ -7,6 +7,16 @@
 www.dr.dk/lyd/p4</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433be682019fd19874e73"/>
     <item>
+      <title>Torsdag 3. jul. 2025</title>
+      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Louise Dreisig.
+www.dr.dk/lyd/p4</description>
+      <itunes:duration>03:55:00</itunes:duration>
+      <pubDate>Thu, 03 Jul 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/torsdag-3-jul-2025-13652570274</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682b13f48b4fd2d3aecc8ad6/934f46a0d1606410bae542f1a968ea0e02555295084f7fff9019d126cb46df5c" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Onsdag 2. jul. 2025</title>
       <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
 Vært: Anders Bisgaard.
@@ -35,16 +45,6 @@ www.dr.dk/lyd/p4</description>
       <pubDate>Mon, 30 Jun 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/mandag-30-jun-2025-13652570271</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682b13f37b626ea9bb295ad6/6af7a48b346c312eb6018ca297eee15c94bd6fb4e56f1df1ab13372f701c8fc7" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Søndag 29. jun. 2025</title>
-      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Torben Møller.
-www.dr.dk/lyd/p4</description>
-      <itunes:duration>03:57:00</itunes:duration>
-      <pubDate>Sun, 29 Jun 2025 18:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/soendag-29-jun-2025-13652570267</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682b13ee27315892cc27cd32/37b0edd7602e0f4d9ef78a787bf932bd5d3829072dc8d5c6842d7334a22e616a" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
