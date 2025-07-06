@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Den Øde Ø</title>
+    <link>https://www.dr.dk/lyd/p6beat/den-oede-oe-6640224018847</link>
+    <description>Denne sommer sender P6 Den Øde Ø - et musikalsk portrætprogram, hvor kendte musikere vælger 8 sange, én bog og én luksusting til turen til en øde ø. Gennem personlige historier bag musikken dykker vi ned i liv, minder og lydspor. Til sidst udvælger gæsten det ene nummer, der betyder allermest uge for uge.
+Vært: Camilla Jane Lea.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86db3613283fa42d015?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+    <item>
+      <title>Laust Sonne</title>
+      <description>Denne sommer sender P6 Den Øde Ø - et musikalsk portrætprogram, hvor kendte musikere vælger 8 sange, én bog og én luksusting til turen til en øde ø. Gennem personlige historier bag musikken dykker vi ned i liv, minder og lydspor. Til sidst udvælger gæsten det ene nummer, der betyder allermest uge for uge.
+Vært: Camilla Jane Lea.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Sat, 05 Jul 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/den-oede-oe/den-oede-oe-1/laust-sonne-16452562276</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6853b7d9de5d5eb0ff577a54/52104734ef455cfa653f843c6df7856a42577fd8d978eaef85a5825cf596e270" length="0" type="audio/x-m4a"/>
+    </item>
+  </channel>
+</rss>

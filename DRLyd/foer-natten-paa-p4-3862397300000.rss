@@ -6,6 +6,16 @@
     <description>Dit radiofoniske klap på skulderen. Vi siger tak for i dag med god karma og masser af den bedste musik til døgnets sidste timer.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e46b8c52248c98a43d5fcd"/>
     <item>
+      <title>Lørdag 5. jul. 2025</title>
+      <description>Dit radiofoniske klap på skulderen. Vi siger tak for i dag med god karma og masser af den bedste musik til døgnets sidste timer.
+Vært: Sofie Borbiconi.
+www.dr.dk/lyd/p4</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Sat, 05 Jul 2025 22:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/foer-natten-paa-p4/foer-natten-paa-p4/loerdag-5-jul-2025-13652590276</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68394a26b55477aa4743b51d/f9df38c4cc0bc876716ebdd9f159293e928926e2509c017129f5444f6584ce26" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Fredag 4. jul. 2025</title>
       <description>Dit radiofoniske klap på skulderen. Vi siger tak for i dag med god karma og masser af den bedste musik til døgnets sidste timer.
 Vært: Stine Bram.
@@ -34,16 +44,6 @@ www.dr.dk/lyd/p4</description>
       <pubDate>Wed, 02 Jul 2025 22:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/foer-natten-paa-p4/foer-natten-paa-p4/onsdag-2-jul-2025-13652590273</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68394a12b55477aa4743b44d/63ab5d31720f007e946d0977faa7a892c3e9c767a3fc42461375c10cd102eaab" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tirsdag 1. jul. 2025</title>
-      <description>Dit radiofoniske klap på skulderen. Vi siger tak for i dag med god karma og masser af den bedste musik til døgnets sidste timer.
-Vært: Stine Bram.
-www.dr.dk/lyd/p4</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Tue, 01 Jul 2025 22:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/foer-natten-paa-p4/foer-natten-paa-p4/tirsdag-1-jul-2025-13652590272</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68394a075f16b698307805a2/457d7b93747afbbfe7fc38eaa062a717a7c2c40c784534830fa3319bd3ad0c41" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
