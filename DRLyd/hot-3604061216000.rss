@@ -7,6 +7,15 @@
 Vært: Mikkel Bagger.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67ef0668034014f3911c6e8a"/>
     <item>
+      <title>Søndag 6. jul. 2025</title>
+      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
+Vært: Mikkel Bagger.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Sun, 06 Jul 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/hot/hot/soendag-6-jul-2025-15452535277</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851611d91259fc7e528c9d2/d60539bfbcf4b8820b932e5dad9da663122f802fc3bb666410758d037eb8e569" length="82082641" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 5. jul. 2025</title>
       <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
 Vært: Mikkel Bagger.</description>
@@ -32,15 +41,6 @@ Vært: Mikkel Bagger.</description>
       <pubDate>Thu, 03 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/hot/hot/torsdag-3-jul-2025-15452535274</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851610d9b0d242d0ffc17b9/374a3b0c8b52d92e3eed8a02a3b61b6b025960005ea47ec79924e1f055e5f21c" length="82082641" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 2. jul. 2025</title>
-      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
-Vært: Mikkel Bagger.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 02 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/hot/hot/onsdag-2-jul-2025-15452535273</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685160fc9b0d242d0ffc16ae/58527e971ed41b339c88d03c681f829723342f499a764a2baab4f2d9df85376c" length="82083217" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
