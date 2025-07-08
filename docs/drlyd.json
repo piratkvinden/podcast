@@ -4889,5 +4889,61 @@
     "description": "Livet har det med at gå stærkt. I 'Lejrbålet' inviterer vært Emilie Lindhardsen dig til at stoppe op, tage dagens første dybe indånding og slutte dig til P6's radiofoniske bålcirkel, hvor eftertænksomheden og ærligheden styrer slagets gang.\nHer dyrker vi den mest sjæl-udkrængende musiktradition, der findes - singersongwriter-genren - og skaber lydtapetet til dit næste nostalgitrip, mens vi introducerer dig for kunstnere, der krænger hjerte, sårbarhed og livshistorie ud i deres musik.\nKom som du er - velkommen rundt om 'Lejrbålet!",
     "program_url": "https://www.dr.dk/lyd/p6beat/lejrbaalet-5647791312000",
     "series_hash": "urn:dr:radio:series:667c904c682dccf11843ed66"
+  },
+  {
+    "name": "Tæt på Ækvator",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686b94e02505ee322c916890?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Christina Bjørn tager dig 'Tæt På Ækvator' alle hverdage på P5 fra kl 10 -12 og skruer op for temperaturen med sommermusik, der sender dig mod varmere himmelstrøg.",
+    "program_url": "https://www.dr.dk/lyd/p5/taet-paa-aekvator-6640226825640",
+    "series_hash": "urn:dr:radio:series:6842c271db294d2d72750da1"
+  },
+  {
+    "name": "Copenhagen Jazz Festival",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/copenhagen-jazz-festival",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68358689ee10ca2e30e9e569?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Vært:",
+    "program_url": "https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival-5587269486000",
+    "series_hash": "urn:dr:radio:series:667de24e291451e230494000"
+  },
+  {
+    "name": "Musikhjælpen",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686292dc26164da768b759de?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.",
+    "program_url": "https://www.dr.dk/lyd/p3/musikhjaelpen-5653240399000",
+    "series_hash": "urn:dr:radio:series:668479bc34393ed8c6fd2425"
+  },
+  {
+    "name": "Sommer med Mylle",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/sommer-med-mylle",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6836e9fd5f16b698306833bb?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Sommerstemning og sommersange med Jørgen de Mylius.",
+    "program_url": "https://www.dr.dk/lyd/p8jazz/sommer-med-mylle-3656177236000",
+    "series_hash": "urn:dr:radio:series:62b09b37bb718087688a59d0"
+  },
+  {
+    "name": "Sommerhuset på P6",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86db3613283fa42d015?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "P6 rykker ud i sommerlandet! Hver uge flytter en af dine yndlingsværter ind i deres personlige Sommerhus - et sted i Danmark med udsigt til både musik og minder. Vi sender live hver formiddag hele sommeren med masser af P6-lyd, sol på sindet og musikalsk nærvær fra nationens hjørner. Skru op, mærk sommeren, og tag med på tur i det musikalske Danmark.",
+    "program_url": "https://www.dr.dk/lyd/p6beat/sommerhuset-paa-p6-6640224035191",
+    "series_hash": "urn:dr:radio:series:685414f0047dbd9dedf87105"
+  },
+  {
+    "name": "Sommer og Soulskin",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/sommer-og-soulskin",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686276f5ff3cf287f34ef824?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Vært:",
+    "program_url": "https://www.dr.dk/lyd/p8jazz/sommer-og-soulskin-5587263245000",
+    "series_hash": "urn:dr:radio:series:667de23d014e68760013f55c"
+  },
+  {
+    "name": "Jydekrogen",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:682468e07b626ea9bbfb878b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Lasse, Nicholas og Mads har igen i år pakket P3's campingvogn for at tage rundt i Danmark og besøge P3-lytterne. De har bare et problem: De har ikke nogen bil til at trække vognen. Og det er her, at du kommer ind i billedet, hvis du har en jydekrog! Så følg med på P3 hele sommeren mellem 12 og 15 og hjælp drengene med at komme rundt på deres hæsblæsende campingtur i det lille kongerige Danmark!",
+    "program_url": "https://www.dr.dk/lyd/p3/jydekrogen-5558488510000",
+    "series_hash": "urn:dr:radio:series:6674a849a63f4ccc1efdfd9c"
   }
 ]
