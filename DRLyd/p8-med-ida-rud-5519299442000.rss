@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>P8 med Ida Rud</title>
+    <link>https://www.dr.dk/lyd/p8jazz/p8-med-ida-rud-5519299442000</link>
+    <description>Vært: Ida Rud</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f67a38867a0ea6fee7489c?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+    <item>
+      <title>Fredag 18. apr. 2025</title>
+      <description>Vært: Ida Rud</description>
+      <itunes:duration>01:55:00</itunes:duration>
+      <pubDate>Tue, 08 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/p8-med-ida-rud/p8-med-ida-rud/fredag-18-apr-2025-18452541165</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f44ced0058129f09de86e8/c9e8787cbb725426cd463419efd833a5d80918a6084d82a757d07d68b87832ea" length="165603080" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

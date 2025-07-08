@@ -7,15 +7,6 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9830"/>
     <item>
-      <title>Ro</title>
-      <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-7/ro-12422433431</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67084ff86c4277012d1e64e8/266ce9b81d63edb1846f135aa5848919e30414ba273fe846dba395772d2a23bb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Melankoli</title>
       <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
 Vært: Claus Berthelsen.</description>
@@ -194,6 +185,15 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Tue, 10 Jun 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/leg-12422533032</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67786d0d67520aadf9194276/2e8a3be7934e4d2924bad536d9ec6812b2986e9a6e1fc0703cd2e4a38dc4d042" length="64885608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ro</title>
+      <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
+Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-7/ro-12422433431</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67084ff86c4277012d1e64e8/266ce9b81d63edb1846f135aa5848919e30414ba273fe846dba395772d2a23bb" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
