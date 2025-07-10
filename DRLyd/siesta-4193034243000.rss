@@ -7,6 +7,24 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9830"/>
     <item>
+      <title>Drama</title>
+      <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
+Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-11/drama-12422433453</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d6872c0065080aae04eb2/7ef12543794ac561750667809a713f22e4f1d509a10bf74c5630bed35602c640" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Ro</title>
+      <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
+Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-7/ro-12422433431</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67084ff86c4277012d1e64e8/266ce9b81d63edb1846f135aa5848919e30414ba273fe846dba395772d2a23bb" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Melankoli</title>
       <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
 Vært: Claus Berthelsen.</description>
@@ -50,6 +68,15 @@ Vært: Carsten Wolf Andersen.</description>
       <pubDate>Wed, 11 Jun 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422533243</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c742fc25e32179ec871ff/c8526fc14ef48f46a6be0d0435f3c44fd58517d5c17302787d8082177d3b591e" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Melankoli</title>
+      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Thu, 10 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422533114</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c4e4f8a83d0dd946d6000f/6d4f8ab4645e39611028682359b1e29a3a2703098b8f363dd4736ffe7f14d734" length="0" type="audio/x-m4a"/>
     </item>
     <item>
       <title>Leg</title>
@@ -176,24 +203,6 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Fri, 20 Jun 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422533045</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67859be24b3f521c279ca8a9/b9dc7305fe33e2918f077b45c9ff7f55b5ac8c3c92b0af85f089a576a0cd21af" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Drama</title>
-      <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-11/drama-12422433453</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d6872c0065080aae04eb2/7ef12543794ac561750667809a713f22e4f1d509a10bf74c5630bed35602c640" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Ro</title>
-      <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-7/ro-12422433431</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67084ff86c4277012d1e64e8/266ce9b81d63edb1846f135aa5848919e30414ba273fe846dba395772d2a23bb" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
