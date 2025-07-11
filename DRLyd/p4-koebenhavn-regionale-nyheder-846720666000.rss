@@ -6,6 +6,22 @@
     <description>Hør seneste regionale nyheder fra P4 København.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c9262b53e8e759bb9c40"/>
     <item>
+      <title>Seneste nyt kl. 07:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-07-30-14802507285</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a8bdc978e6723e38f8fb/de4464f5670d929bf3f0580766a1d6fb7aea9f26737c73a00e6ce508752353a9" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 06:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-06-30-14802506285</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a5fca0451cdf26e185eb/102567ec6afab9eb702fd2fb9edcfaccadba161c99d2bef41e5c952d8af6039b" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Seneste nyt kl. 17:30</title>
       <description>Hør seneste regionale nyheder fra P4 København.</description>
       <itunes:duration>00:02:00</itunes:duration>
@@ -84,54 +100,6 @@
       <pubDate>Tue, 08 Jul 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-06-30-14802506282</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a5fba0451cdf26e185d4/17b31e4e4309e22743e05e6ac8eead41bcc0433e78b07bf5867d680a7fa5c978" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 12:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-12-30-14802512277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b6f2052e78b6ec499bdd/04acab7dce66d5a9188dce910cab47de88a5c6c1c03f9ec14ff1cb03341b0df5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-11-30-14802511277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b11a052e78b6ec496e0e/aa0653a58b02d462af51003b70dfbada8759df99bba6550f556205c9f6a3618c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-10-30-14802510277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842af41a0451cdf26e1d1ec/bc2cea63d5b34d60f86ad04d89b2945963763370480cd2c466ff96d68ac06b68" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-09-30-14802509277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ad11052e78b6ec494c27/2e664247ba98e780fe5bf1a1993aa086b0854e471e5bd0d4c19da00687b6dc0c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-08-30-14802508277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ab434673c75f83bacd4b/498db5f894a35ee503d4d24dc731b4d0d6edd2556e96d74a279cfbd30a8e7484" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-07-30-14802507277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a877a0451cdf26e19c49/36eef12c4ea73cbfd5dd8828019ac021a1d95302e6b74915ec65964be274b05e" length="0" type="audio/x-m4a"/>
     </item>
     <item>
       <title>Seneste nyt kl. 17:30</title>
@@ -217,86 +185,6 @@
       <title>Seneste nyt kl. 17:30</title>
       <description>Hør seneste regionale nyheder fra P4 København.</description>
       <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-17-30-14802517283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b94fa0451cdf26e227da/3f99475568e5a62b0d14dba20c9f75d6f52a30d3cd53f273e4cc00097ce7c681" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 16:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-16-30-14802516283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b89ba0451cdf26e22184/ba217c798bba5aeb017c2e9e365478d5b7c520a937da792d5a749b0bea2dccf2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 15:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-15-30-14802515283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b859052e78b6ec49abc0/e8bac132cc2e1d0222312ddc9c84c51600766ab3ff3a10c120bd990694f63129" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 12:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-12-30-14802512283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b6f2052e78b6ec499bea/15421aa4d11df431ad54efb9e153ca1eacaca9180c4f845e9cbed9ed2b0cb382" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-11-30-14802511283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b151a0451cdf26e1e474/69213f2dd93145865527dde7342cbdd713d3fd5be927e5d05762b999808a591d" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-10-30-14802510283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842af42052e78b6ec495e78/7bbfd35c8e13c2ff796d9efcfeee0a0b057404ed2b167d576cb378aa957eb00b" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-09-30-14802509283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ad12a0451cdf26e1bdc3/f85ef5ae65400fcdfcdc2c73dae07f6c0c9efeeca3c6ad355fd9b159b3439d3f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-08-30-14802508283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ab53052e78b6ec493fb9/fa9572d88e658a999cf0467f3c57de5b44f521f2e3788dcf9ed1346d3bf788a1" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-07-30-14802507283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a877052e78b6ec492c7f/f0cad210ced0c7d01157791914272469a4788841bdaaee37d5798dd98bb2f17f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 06:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 06:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-06-30-14802506283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a5fb6937853071e8bfd2/706c3c5682518c69c31080e3d930142bf3fff333d1e11aa082fde5f7d9a6a185" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 17:30</title>
-      <description>Hør seneste regionale nyheder fra P4 København.</description>
-      <itunes:duration>00:02:00</itunes:duration>
       <pubDate>Mon, 07 Jul 2025 17:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-17-30-14802517281</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b94ea0451cdf26e227ca/43547a71d682c8484c05458ef6f83836b4f805f1ec7a49e8a3d5535e1db5a13d" length="0" type="audio/x-m4a"/>
@@ -372,6 +260,86 @@
       <pubDate>Mon, 07 Jul 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-06-30-14802506281</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a5fb052e78b6ec4916d3/e38570f553f20c02322cd80ce18cd5464dcfb096c90455cd5e792f05cae064d9" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 17:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-17-30-14802517283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b94fa0451cdf26e227da/3f99475568e5a62b0d14dba20c9f75d6f52a30d3cd53f273e4cc00097ce7c681" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 16:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-16-30-14802516283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b89ba0451cdf26e22184/ba217c798bba5aeb017c2e9e365478d5b7c520a937da792d5a749b0bea2dccf2" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 15:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 15:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-15-30-14802515283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b859052e78b6ec49abc0/e8bac132cc2e1d0222312ddc9c84c51600766ab3ff3a10c120bd990694f63129" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 12:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-12-30-14802512283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b6f2052e78b6ec499bea/15421aa4d11df431ad54efb9e153ca1eacaca9180c4f845e9cbed9ed2b0cb382" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 11:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-11-30-14802511283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842b151a0451cdf26e1e474/69213f2dd93145865527dde7342cbdd713d3fd5be927e5d05762b999808a591d" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 10:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-10-30-14802510283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842af42052e78b6ec495e78/7bbfd35c8e13c2ff796d9efcfeee0a0b057404ed2b167d576cb378aa957eb00b" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 09:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-09-30-14802509283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ad12a0451cdf26e1bdc3/f85ef5ae65400fcdfcdc2c73dae07f6c0c9efeeca3c6ad355fd9b159b3439d3f" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 08:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-08-30-14802508283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842ab53052e78b6ec493fb9/fa9572d88e658a999cf0467f3c57de5b44f521f2e3788dcf9ed1346d3bf788a1" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 07:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-07-30-14802507283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a877052e78b6ec492c7f/f0cad210ced0c7d01157791914272469a4788841bdaaee37d5798dd98bb2f17f" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 06:30</title>
+      <description>Hør seneste regionale nyheder fra P4 København.</description>
+      <itunes:duration>00:03:00</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-koebenhavn-regionale-nyheder/p4-koebenhavn-regionale-nyheder/seneste-nyt-kl-06-30-14802506283</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a5fb6937853071e8bfd2/706c3c5682518c69c31080e3d930142bf3fff333d1e11aa082fde5f7d9a6a185" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
