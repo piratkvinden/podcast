@@ -6,6 +6,14 @@
     <description>Sommerstemning og sommersange med Jørgen de Mylius.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6836e9fd5f16b698306833bb?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 11. jul. 2025</title>
+      <description>Sommerstemning og sommersange med Jørgen de Mylius.</description>
+      <itunes:duration>01:46:01</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sommer-med-mylle/sommer-med-mylle-2025/fredag-11-jul-2025-15452594285</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836e9fe5f16b698306833ec/e68d7f16c2800781ac0488ef3e7ce0147b5a338b22073810a2de810fcf37452c" length="152672496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 10. jul. 2025</title>
       <description>Sommerstemning og sommersange med Jørgen de Mylius.</description>
       <itunes:duration>01:46:01</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 08 Jul 2025 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sommer-med-mylle/sommer-med-mylle-2025/tirsdag-8-jul-2025-15452594282</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836e9fdb55477aa47342522/5fe6308ea64f4e9299c7e1442b2b9093b61fb88c7bed1f1c8ab99373ef49f0f4" length="152674224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 7. jul. 2025</title>
-      <description>Sommerstemning og sommersange med Jørgen de Mylius.</description>
-      <itunes:duration>01:46:00</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/sommer-med-mylle/sommer-med-mylle-2025/mandag-7-jul-2025-15452594281</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836e9fdb55477aa47342528/449cca5f532c66322fce145a9dc809ce742d9c255ccc7d1f737a213211fe6087" length="152663280" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
