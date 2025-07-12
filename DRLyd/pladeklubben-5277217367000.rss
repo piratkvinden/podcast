@@ -10,6 +10,25 @@ I anden time får du albummet eller værket i sin helhed uden så megen snak.
 Vært: Claus Berthelsen.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d0e1bb2e9899b2c1da75"/>
     <item>
+      <title>Dvorák symfoni nr. 9</title>
+      <description>I denne omgang lytter filmkonsulent Søren Frellesen og billedkunstner Emily Gernild til Dvoráks Symfoni nr 9 - Fra Den Nye Verden. 
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Sat, 07 Dec 2024 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/dvorak-symfoni-nr-9-12422451496</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674654f7965db2acef81b99b/7082ee80cf33464917899fcd096e16becb8b456ad478cce884726110d8964ca5" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Sitren i Svanebo</title>
+      <description>I denne omgang lytter litteraturformidler Nanna Damsgaard-Larsen og billedkunstner Emily Gernild til Gustav Mahlers
+Symfoni nr 4. 
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>01:56:32</itunes:duration>
+      <pubDate>Sat, 16 Nov 2024 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/sitren-i-svanebo-12422451466</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa596c62bc740b3166f02/9f4423305edf269986dc2879f9fef074f0dee3b02f2f998b11e8c84c9cbcad0f" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Sommerafslutning</title>
       <description>I denne udsendelse mødes instruktør Katrine Wiedemann, billedkunstner Emily Gernild, filmkonsulent Søren Frellesen og forfatter Lars Daneskov for at sætte ord på et år i Pladeklubben og vælge et værk, som har gjort særligt stort indtryk. 
 Vært: Claus Berthelsen.</description>
@@ -226,25 +245,6 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Sat, 18 Jan 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben-2025/tirretone-gods-12422551036</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677db2faf351bdeae1a8da0a/9170ef1a804300b5073177e1757f6192860101bd2b40d85fb69b02529743bd76" length="168479771" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Dvorák symfoni nr. 9</title>
-      <description>I denne omgang lytter filmkonsulent Søren Frellesen og billedkunstner Emily Gernild til Dvoráks Symfoni nr 9 - Fra Den Nye Verden. 
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Sat, 07 Dec 2024 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/dvorak-symfoni-nr-9-12422451496</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674654f7965db2acef81b99b/7082ee80cf33464917899fcd096e16becb8b456ad478cce884726110d8964ca5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sitren i Svanebo</title>
-      <description>I denne omgang lytter litteraturformidler Nanna Damsgaard-Larsen og billedkunstner Emily Gernild til Gustav Mahlers
-Symfoni nr 4. 
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>01:56:32</itunes:duration>
-      <pubDate>Sat, 16 Nov 2024 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/sitren-i-svanebo-12422451466</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672aa596c62bc740b3166f02/9f4423305edf269986dc2879f9fef074f0dee3b02f2f998b11e8c84c9cbcad0f" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

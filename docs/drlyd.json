@@ -4953,5 +4953,29 @@
     "description": "Vært: Ida Rud",
     "program_url": "https://www.dr.dk/lyd/p8jazz/p8-med-ida-rud-5519299442000",
     "series_hash": "urn:dr:radio:series:66322294f358fdf526c5b279"
+  },
+  {
+    "name": "Sommermorgen på P5",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68661eb6eb4d4019aa0bfb43?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "'Sommermorgen' giver dig den bedste start på dagen!\nHver dag sørger 'Sommermorgen' på P5 for, at du gennem godt, nærværende og vedkommende selskab bliver klædt på til dagen og ved hvad der rør sig i sommerlandet.",
+    "program_url": "https://www.dr.dk/lyd/p5/sommermorgen-paa-p5-6640220006905",
+    "series_hash": "urn:dr:radio:series:683ef1cdf526fd481f913e47"
+  },
+  {
+    "name": "Utopia",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68627700ff3cf287f34ef89d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Tag med Frederik Korfix og Josephine Philip til P8's ferieparadis, hvor alt er muligt, alle har det rart og alting kører som smurt. Her er der ingen sure miner og bekymringsfolder - kun smil, solskin og en stædig insisteren på livets skønheder. Alt sammen tilvejebragt af den gode musik!",
+    "program_url": "https://www.dr.dk/lyd/p8jazz/utopia-6495187915000",
+    "series_hash": "urn:dr:radio:series:67ea848a0b1c00fd9d71c8f2"
+  },
+  {
+    "name": "P5 Det er Dansk",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/p5-det-er-dansk",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86eb3613283fa42d018?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)",
+    "description": "Vi giver P5 værterne en lille siesta sommeren over mellem kl 12:15 og 14:00. Til gengæld kvitterer vi ved udelukkende at spille dansk musik for dig her midt på dagen - lige fra 60'erne og frem til i dag.",
+    "program_url": "https://www.dr.dk/lyd/p5/p5-det-er-dansk-6640226847433",
+    "series_hash": "urn:dr:radio:series:6842c53fec4b8f75342fb985"
   }
 ]
