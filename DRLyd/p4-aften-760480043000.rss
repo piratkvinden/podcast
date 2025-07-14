@@ -7,6 +7,16 @@
 www.dr.dk/lyd/p4</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433be682019fd19874e73?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Søndag 13. jul. 2025</title>
+      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Britt Berglund.
+www.dr.dk/lyd/p4</description>
+      <itunes:duration>03:57:00</itunes:duration>
+      <pubDate>Sun, 13 Jul 2025 18:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/soendag-13-jul-2025-13652570287</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684fe4149b0d242d0fef6a08/22fbe9ab56c0e19f4e893d8b550666ace57f92e2a69b9b24cdbcc3723b00155a" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Lørdag 12. jul. 2025</title>
       <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
 Vært: Britt Berglund.
@@ -35,16 +45,6 @@ www.dr.dk/lyd/p4</description>
       <pubDate>Thu, 10 Jul 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/torsdag-10-jul-2025-13652570284</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684fd3b7e9037d533b3988b9/969f22bb7a71c3c7f8afe237d072fdb465a509efe0a3f65ad5d9c88d4ae1de43" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Onsdag 9. jul. 2025</title>
-      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Torben Møller.
-www.dr.dk/lyd/p4</description>
-      <itunes:duration>03:55:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/onsdag-9-jul-2025-13652570283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684fd3b5794dc00c1fb3ef72/4c3b5185a2014e41feaca6591ca2bddcf4d0ffbba7e191416c825b7362f31aea" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
