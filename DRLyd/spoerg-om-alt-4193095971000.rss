@@ -6,6 +6,17 @@
     <description>Spørg om Alt er P2's musikbrevkasse. Der er så meget, man kan undre sig over i musikkens verden: Mystiske traditioner, instrumenter og komponister. Send dine spørgsmål til os, så sørger vi for svar og godt selskab. Skriv til mailomalt@dr.dk</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e908cc233617ecc4cd0b1c?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Hvornår begyndte mennesket at lave flerstemmig musik?</title>
+      <description>Denne gang rejser vi tilbage i tiden for at finde de ældste eksempler på flerstemmig musik.
+Vi fortæller, hvordan man får et blæseinstrument til at stemme. Og så kigger vi nærmere på en truet art indenfor orkesterkoncerter - for hvad blev der lige af ouverturerne?
+Værter: Jens Cornelius og Anne Termansen.
+Send dit spørgsmål til: mailomalt@dr.dk</description>
+      <itunes:duration>00:56:27</itunes:duration>
+      <pubDate>Sun, 15 Sep 2024 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/spoerg-om-alt/spoerg-om-alt-2024/hvornaar-begyndte-mennesket-at-lave-flerstemmig-musik-12422456377</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da76482ba0ae17d0f9d6/bf1607948b9fe7e69cfd13ba98412a8ef8b2502a545fe1bbf6f9ee56fac67a60" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>På Carl Nielsen Museet i Odense</title>
       <description>I denne uge sender vi fra det spændende Carl Nielsen Museum i Odense. Blandt de spørgsmål, publikum foreslår, er mysteriet om en festlig march, hvor Carl Nielsen går direkte i fodsporene efter sin far, spillemanden Niels Jørgensen. Vi ser også nærmere på, om kong Frederik 9. kunne lide at dirigere Carl Nielsens musik - og så finder vi svar på, hvordan en komponist egentlig planlægger forløbet af et nyt værk.
 Værter: Jens Cornelius og Malene Wichmann
@@ -233,17 +244,6 @@ mailomalt@dr.dk</description>
       <pubDate>Sun, 19 Jan 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/spoerg-om-alt/spoerg-om-alt-2025/soelvhaarede-superfans-hvorfor-er-det-aeldre-publikum-i-overtal-ved-klassiske-koncerter-12422556037</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f05876a4c16c5b9478ad8/a580d19e636ee1cc4caff6600d6995aa6153e07b75890ca0854a5d6c7a69fd3a" length="81373137" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Hvornår begyndte mennesket at lave flerstemmig musik?</title>
-      <description>Denne gang rejser vi tilbage i tiden for at finde de ældste eksempler på flerstemmig musik.
-Vi fortæller, hvordan man får et blæseinstrument til at stemme. Og så kigger vi nærmere på en truet art indenfor orkesterkoncerter - for hvad blev der lige af ouverturerne?
-Værter: Jens Cornelius og Anne Termansen.
-Send dit spørgsmål til: mailomalt@dr.dk</description>
-      <itunes:duration>00:56:27</itunes:duration>
-      <pubDate>Sun, 15 Sep 2024 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/spoerg-om-alt/spoerg-om-alt-2024/hvornaar-begyndte-mennesket-at-lave-flerstemmig-musik-12422456377</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66d8da76482ba0ae17d0f9d6/bf1607948b9fe7e69cfd13ba98412a8ef8b2502a545fe1bbf6f9ee56fac67a60" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
