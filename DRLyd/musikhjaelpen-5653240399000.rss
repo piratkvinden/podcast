@@ -6,16 +6,6 @@
     <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686292dc26164da768b759de?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Med Fedty</title>
-      <description>Står du i en stram situation? Frygt ej! Marie Hobitz har allieret sig med DJ Fedty og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej. I dag skal der findes en sang, som kan løfte humøret efter et nederlag i minigolf, rense luften i en bil, og gøre ventetiden lidt kortere. 
-Vært: Marie Hobitz 
-Gæst: DJ Fedty</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/med-fedty-13332577285</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246abe7b626ea9bbfb9c0a/83f980bf7274dfa3e603c043a000f053d7c4c6c7212fc9f1df286191563f3c59" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Med Amanda Bodenhoff</title>
       <description>Står du i en stram situation? Frygt ej! Alida Blakaj har allieret sig med Amanda Bodenhoff og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej. I dag skal frygten for flåter overvindes, der skal sendes en fræk hilsen og drømmes tilbage til ferien. 
 Vært: Alida Blakaj. 
@@ -43,6 +33,15 @@ Vært: Alida Blakaj.</description>
       <pubDate>Mon, 14 Jul 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/mandag-14-jul-2025-13332577291</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246acf7b626ea9bbfb9c7c/350fdb73091fc57b0160e20ffccff63daf996d0741d0ba0c62388a5f198e274c" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Tirsdag 15. jul. 2025</title>
+      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
+Vært: Marie Hobitz.</description>
+      <itunes:duration>02:57:00</itunes:duration>
+      <pubDate>Tue, 15 Jul 2025 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/tirsdag-15-jul-2025-13332577292</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246acff933f7cf048b6887/5632fb0a2413a7dd0eb404ab705c79947fd75c388d47a750d1b5a7df9478a739" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
