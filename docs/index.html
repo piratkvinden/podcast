@@ -105,7 +105,7 @@
                 title: item.querySelector("title")?.textContent || "(ingen titel)",
                 description: item.querySelector("description")?.textContent.replace(/\n/g, '<br>') || "(ingen beskrivelse)",
                 pubDate: new Date(item.querySelector("pubDate")?.textContent),
-                date: new Date(item.querySelector("pubDate")?.textContent).toLocaleDateString() || '',
+                date: '',
                 link: item.querySelector("enclosure")?.getAttribute("url") || '',
                 enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || ''
             });
@@ -249,7 +249,7 @@
                 esi.setAttribute('data-click-listener', 'true');
             }
             document.getElementById('modalPodcastTitle').textContent = podcast.text;
-            currentEpisodes.sort((a, b) => parseDate(b.date) - parseDate(a.date));
+            currentEpisodes.sort((a, b) => parseDate(b.pubDate) - parseDate(a.pubDate));
             await renderEpisodes(currentEpisodes);
             episodeModal.style.display = 'block';
         } catch (error) {
@@ -291,7 +291,7 @@
             const episodeItem = document.createElement('div');
             episodeItem.classList.add('episode-item');
             const highlightedTitle = highlightText(episode.title, searchTerm);
-            const highlightedDate = highlightText(episode.date, searchTerm);
+            const highlightedDate = highlightText(formatDateToDDMMYYYY(episode.pubDate), searchTerm);
             const fullDescription = highlightText(episode.description.replace(/\n/g, '<br>'), searchTerm);
             const collapsedDescription = highlightText(episode.description, searchTerm);
             episodeItem.innerHTML = `
@@ -503,41 +503,37 @@
     const sortByTitle = document.getElementById('sortByTitle');
     const titleIcon = sortByTitle.querySelector('i');
     sortByTitle.addEventListener('click', () => {
-        const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-            return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
-        });
-        sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
-        titleIcon.classList.toggle('fa-sort-alpha-down');
-        titleIcon.classList.toggle('fa-sort-alpha-up');
-        const searchTerm = document.getElementById('episodeSearchInput').value;
-        renderEpisodes(sorted, searchTerm);
+    	const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+    		return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
+    	});
+    	sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
+    	titleIcon.classList.toggle('fa-sort-alpha-down');
+    	titleIcon.classList.toggle('fa-sort-alpha-up');
+    	const searchTerm = document.getElementById('episodeSearchInput').value;
+    	renderEpisodes(sorted, searchTerm);
     });
 
     const sortByDate = document.getElementById('sortByDate');
     const dateIcon = sortByDate.querySelector('i');
     sortByDate.addEventListener('click', () => {
-        const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-            const dateA = parseDate(a.date);
-            const dateB = parseDate(b.date);
-            return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
-        });
-        sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
-        const searchTerm = document.getElementById('episodeSearchInput').value;
-        renderEpisodes(sorted, searchTerm);
+    	const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+    		const dateA = parseDate(a.pubDate);
+    		const dateB = parseDate(b.pubDate);
+    		return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
+    	});
+
+    	sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
+    	const searchTerm = document.getElementById('episodeSearchInput').value;
+    	renderEpisodes(sorted, searchTerm);
     });
 
     function parseDate(dateString) {
-        const normalizedDateString = normalizeDate(dateString);
-        const date = new Date(normalizedDateString);
-        if (isNaN(date.getTime())) {
-            console.error(`Invalid date format: ${dateString}`);
-            return new Date(0);
-        }
-        return date;
-    }
-
-    function normalizeDate(dateString) {
-        return dateString.replace(/[./]/g, '-');
+    	const date = new Date(dateString);
+    	if (isNaN(date.getTime())) {
+    		console.error(`Invalid date format: ${dateString}`);
+    		return new Date(0);
+    	}
+    	return date;
     }
 
     document.querySelector('#episodeListModal .close').onclick = () => {
