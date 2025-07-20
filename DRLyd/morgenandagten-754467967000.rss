@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 19. jul. 2025</title>
+      <description>Præludium:	Myles Birket Foster: Andante sostenuto D-dur
+Davidssalme: 37,3-7a
+Salme: 750 &quot;Nu titte til hinanden&quot;
+Fra det N.T.:	1. Petersbrev 3, 8-15a
+Trosbekendelsen	
+Salme: 696 &quot;Kærlighed er lysets kilde&quot;
+Postludium: Alan Gray: Andante sostenuto D-dur, fra 12 short preludes for organ</description>
+      <itunes:duration>00:24:57</itunes:duration>
+      <pubDate>Sat, 19 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-19-jul-2025-11042505296</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c287b626ea9bb0f9bfe/7ece9d90de74a5c8047b762187945d8bc1d96c207dcdfb34f8912fd655290e78" length="35946279" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 18. jul. 2025</title>
       <description>Præludium:	Johann Sebastian Bach: Vater unser im Himmelreich, BWV 636
 Fra det G.T.:	Salme 121 
@@ -354,20 +368,6 @@ Postludium: Johann Sebastian Bach: In dir ist Freude, BWV 615</description>
       <pubDate>Fri, 20 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-20-jun-2025-11042505255</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966984fa2f2656930f9/0e17052a4215aa098c66e856629134ec2edb5c61bf4c9ab4300b8da381c2c958" length="36014250" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 19. jun. 2025</title>
-      <description>Præludium:	Lasse Toft Eriksen: Morgenstund har guld i mund
-Fra det G.T.:	Salme 16, 7-11
-Salme: 752 &quot;Morgenstund har guld i mund&quot;
-Fra det N.T.:	Matthæusevangeliet. 4, 1-11
-Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837)
-Salme: 634 &quot;Du ved det nok, mit hjerte&quot;
-Postludium: Johann Sebastian Bach: Aria</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Thu, 19 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-19-jun-2025-11042505254</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966036df1a93c66e0b3/47badfc329a44ca6f4c70a7cd039affc867855d1ddd57baec92bf7d4d667621d" length="36001582" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
