@@ -6,15 +6,6 @@
     <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686292dc26164da768b759de?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Onsdag 16. jul. 2025</title>
-      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
-Vært: Marie Hobitz.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/onsdag-16-jul-2025-13332577293</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246ae061175376c1f603f5/734e8a48259043a490b5d59b59866c94ad55428f057d578d33c725452fcc1adb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Med Nynne Givskov</title>
       <description>Står du i en stram situation? Frygt ej! Marie Hobitz har allieret sig med P3's egen Nynne Givskov og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej. I dag skal en lytter tage afsked med storbyen, en anden skal invitere en ny ven på date og en tredje være i sine modsatrettede følelser af at have gennemført sin brystkræfts behandling.
 Vært: Marie Hobitz.
@@ -41,6 +32,15 @@ Vært: Alida Blakaj.</description>
       <pubDate>Sat, 19 Jul 2025 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/loerdag-19-jul-2025-13332577296</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246ae17b626ea9bbfb9cfb/90124c34ac97dfc2d5cf7ed9260811f56c3c11a531d70614ffce37020a2aa1c6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Søndag 20. jul. 2025</title>
+      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
+Vært: Alida Blakaj.</description>
+      <itunes:duration>03:00:00</itunes:duration>
+      <pubDate>Sun, 20 Jul 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/soendag-20-jul-2025-13332577297</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246acf7b626ea9bbfb9c85/516a5d3813b2bd11f745d082c42c9788a51a638dffc249fb714c4f2458abce09" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
