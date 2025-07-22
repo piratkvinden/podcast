@@ -20,7 +20,7 @@
         <p class="helper-text">hør Podimos lydbøger <a href="https://piratkvinden.github.io/podcast/lydbog.html" target="_blank">her</a></p>
         <div id="results"></div>
     </div>
-    <div id="spinnerOverlay" class="spinner-overlay" style="display: none;">
+    <div id="spinnerOverlay" class="spinner-overlay" style="display:none;">
         <i class="fas fa-spinner fa-spin spinner"></i>
     </div>
     <div id="podcastModal" class="modal">
@@ -52,13 +52,13 @@
     <div id="audioPlayer" class="audio-player">
         <audio id="audio" controls crossorigin></audio>
     </div>
-
     <script>
         const resultsContainer = document.getElementById('results');
-        const greenStyle = "color: green; font-weight: bold;";
+        const greenStyle = "color:green;font-weight:bold;";
         const MAX_CACHE_ITEMS = 100;
         const CACHE_NAME = 'podcast-cache';
-        const MAX_RESULTS = 12;
+        const ITEMS_PER_PAGE = 12;
+
         let currentPodcast = null;
         let drPodcastsData = [];
         let podimoPodcastsData = [];
@@ -68,10 +68,8 @@
         let currentFilteredEpisodes = [];
         let currentEpisodes = [];
         let podcastCache = {};
-        let currentPage = 1;
-        let itemsPerPage = 10;
+        let episodeCurrentPage = 1;
         let searchCurrentPage = 1;
-        let searchItemsPerPage = 12;
         let currentSearchResults = [];
 
         async function fetchRSSFeed(rssUrl) {
@@ -244,19 +242,19 @@
             }
         }
 
-        const observer = new IntersectionObserver((entries) => {
+        const episodeObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
-                if (entry.isIntersecting && currentPage * itemsPerPage < currentFilteredEpisodes.length) {
-                    observer.unobserve(entry.target);
-                    currentPage++;
-                    renderEpisodes(currentFilteredEpisodes, '', currentPage);
+                if (entry.isIntersecting && episodeCurrentPage * ITEMS_PER_PAGE < currentFilteredEpisodes.length) {
+                    episodeObserver.unobserve(entry.target);
+                    episodeCurrentPage++;
+                    renderEpisodes(currentFilteredEpisodes, '', episodeCurrentPage);
                 }
             });
         });
 
         const searchObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
-                if (entry.isIntersecting && searchCurrentPage * searchItemsPerPage < currentSearchResults.length) {
+                if (entry.isIntersecting && searchCurrentPage * ITEMS_PER_PAGE < currentSearchResults.length) {
                     searchObserver.unobserve(entry.target);
                     searchCurrentPage++;
                     renderSearchResults(currentSearchResults, searchCurrentPage);
@@ -353,16 +351,11 @@
             if (currentEpisodeElement) {
                 currentEpisodeElement.classList.add('playing');
                 const url = currentEpisodeElement.dataset.enclosureUrl;
+                localStorage.setItem('currentlyPlaying', url); // Rettet til at bruge den korrekte url
                 const episodeDate = currentEpisodeElement.querySelector('.episode-date')?.textContent;
                 const formattedDate = formatDateToDDMMYYYY(episodeDate);
-                if (url) {
-                    localStorage.setItem('currentlyPlaying', url);
-                }
             }
-            audioPlayer.source = {
-                type: 'audio',
-                sources: [{ src: audioUrl, type: 'audio/mp3' }]
-            };
+            audioPlayer.source = { type: 'audio', sources: [{ src: audioUrl, type: 'audio/mp3' }] };
             document.querySelector('.audio-player').style.display = 'block';
             audioPlayer.on('loadedmetadata', () => {
                 audioPlayer.currentTime = 0;
@@ -374,13 +367,8 @@
                         artwork: [{ src: podcast.image, sizes: '512x512', type: 'image/png' }]
                     });
                     setMediaSessionPositionState(audioPlayer);
-                    navigator.mediaSession.setActionHandler('play', () => {
-                        audioPlayer.play().then(() => { setMediaSessionPositionState(audioPlayer); });
-                    });
-                    navigator.mediaSession.setActionHandler('pause', () => {
-                        audioPlayer.pause();
-                        setMediaSessionPositionState(audioPlayer);
-                    });
+                    navigator.mediaSession.setActionHandler('play', () => { audioPlayer.play().then(() => { setMediaSessionPositionState(audioPlayer); }); });
+                    navigator.mediaSession.setActionHandler('pause', () => { audioPlayer.pause(); setMediaSessionPositionState(audioPlayer); });
                     navigator.mediaSession.setActionHandler('seekto', (details) => {
                         const seekTime = details.seekTime || 0;
                         audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
@@ -391,15 +379,15 @@
             });
             audioPlayer.on('timeupdate', () => { setMediaSessionPositionState(audioPlayer); });
             audioPlayer.on('ended', () => { playNextEpisode(podcast, currentIndex); });
+        }
 
-            function setMediaSessionPositionState(player) {
-                if ('setPositionState' in navigator.mediaSession) {
-                    navigator.mediaSession.setPositionState({
-                        duration: player.duration || 0,
-                        playbackRate: player.playbackRate || 1,
-                        position: player.currentTime || 0
-                    });
-                }
+        function setMediaSessionPositionState(player) {
+            if ('setPositionState' in navigator.mediaSession) {
+                navigator.mediaSession.setPositionState({
+                    duration: player.duration || 0,
+                    playbackRate: player.playbackRate || 1,
+                    position: player.currentTime || 0
+                });
             }
         }
 
@@ -411,24 +399,31 @@
             }
         }
 
+        function paginateAndRender(items, page, container, createElementsFn, observer) {
+            if (page === 1) container.innerHTML = '';
+            const start = (page - 1) * ITEMS_PER_PAGE;
+            const end = start + ITEMS_PER_PAGE;
+            const paginatedItems = items.slice(start, end);
+            const elements = createElementsFn(paginatedItems);
+            elements.forEach((element, index) => {
+                container.appendChild(element);
+                if (index === paginatedItems.length - 1 && paginatedItems.length === ITEMS_PER_PAGE) {
+                    observer.observe(element);
+                }
+            });
+        }
+
         async function renderEpisodes(episodes, searchTerm = '', page = 1) {
             const episodesContainer = document.getElementById('episodesContainer');
             if (page === 1) {
                 episodesContainer.innerHTML = '';
-                currentPage = 1;
+                episodeCurrentPage = 1;
             }
             if (searchTerm.length >= 3 || searchTerm === '') {
                 currentFilteredEpisodes = filterEpisodes(episodes, searchTerm);
-                const paginatedEpisodes = paginateEpisodes(currentFilteredEpisodes, page);
-                const episodeElements = createEpisodeElements(paginatedEpisodes, searchTerm);
-                episodeElements.forEach((episodeItem, index) => {
-                    episodesContainer.appendChild(episodeItem);
-                    if (index === paginatedEpisodes.length - 1 && paginatedEpisodes.length === itemsPerPage) {
-                        observer.observe(episodeItem);
-                    }
-                });
+                paginateAndRender(currentFilteredEpisodes, page, episodesContainer, (paginated) => createEpisodeElements(paginated, searchTerm), episodeObserver);
                 if (page === 1 && currentFilteredEpisodes.length > 0) {
-                    expandFirstEpisode(episodeElements[0], currentFilteredEpisodes[0], searchTerm);
+                    expandFirstEpisode(episodesContainer.children[0], currentFilteredEpisodes[0], searchTerm);
                 }
             } else {
                 episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
@@ -440,12 +435,6 @@
                 episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
                 episode.description.toLowerCase().includes(searchTerm.toLowerCase())
             );
-        }
-
-        function paginateEpisodes(episodes, page) {
-            const start = (page - 1) * itemsPerPage;
-            const end = start + itemsPerPage;
-            return episodes.slice(start, end);
         }
 
         function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
@@ -534,41 +523,25 @@
                 return;
             }
             if (searchText.length < 3) {
-                resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
+                resultsContainer.innerHTML = '<p style="text-align:center;">Indtast minimum 3 bogstaver for at søge</p>';
                 return;
             }
             const results = [];
             const allData = [
                 ...drPodcastsData.map(({ name, description, program_url, image }) => ({
-                    text: name,
-                    provider: 'DR',
-                    description,
-                    url: program_url,
-                    image,
+                    text: name, provider: 'DR', description, url: program_url, image,
                     rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/DRLyd/${program_url.split('/').pop()}.rss`
                 })),
                 ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
-                    text: title,
-                    provider: 'Podimo',
-                    description,
-                    url: `https://podimo.com/dk/shows/${id}`,
-                    image: coverImageUrl,
+                    text: title, provider: 'Podimo', description, url: `https://podimo.com/dk/shows/${id}`, image: coverImageUrl,
                     rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
                 })),
                 ...r8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
-                    text: title,
-                    provider: 'r8Dio',
-                    description: content,
-                    url: program_url,
-                    image,
+                    text: title, provider: 'r8Dio', description: content, url: program_url, image,
                     rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
                 })),
                 ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
-                    text: title,
-                    provider: 'Politiken',
-                    description,
-                    url: program_url,
-                    image,
+                    text: title, provider: 'Politiken', description, url: program_url, image,
                     rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
                 }))
             ];
@@ -580,44 +553,34 @@
         }
 
         function renderSearchResults(results, page = 1) {
-            if (page === 1) {
-                resultsContainer.innerHTML = '';
-            }
+            if (page === 1) resultsContainer.innerHTML = '';
             if (results.length === 0) {
-                resultsContainer.innerHTML = '<p style="text-align: center;">Ingen søgeresultater fundet</p>';
+                resultsContainer.innerHTML = '<p style="text-align:center;">Ingen søgeresultater fundet</p>';
                 return;
             }
-            const start = (page - 1) * searchItemsPerPage;
-            const end = start + searchItemsPerPage;
-            const paginatedResults = results.slice(start, end);
-            if (paginatedResults.length === 0) return;
             const grid = resultsContainer.querySelector('.podcast-grid') || document.createElement('div');
             if (page === 1) {
                 grid.classList.add('podcast-grid');
                 resultsContainer.appendChild(grid);
             }
-            paginatedResults.forEach(result => {
-                const card = document.createElement('div');
-                card.classList.add('podcast-card');
-                const img = document.createElement('img');
-                img.alt = result.text;
-                img.classList.add('podcast-cover');
-                if (result.image) {
-                    cacheAndLoadImage(result.image, img);
-                }
-                const title = document.createElement('div');
-                title.textContent = result.text;
-                title.classList.add('podcast-title');
-                card.appendChild(img);
-                card.appendChild(title);
-                adjustTitleFontSize(card, title, result.text.length);
-                card.addEventListener('click', () => openModal(result));
-                grid.appendChild(card);
-            });
-            const lastCard = grid.lastChild;
-            if (lastCard && (page * searchItemsPerPage < results.length)) {
-                searchObserver.observe(lastCard);
-            }
+            paginateAndRender(results, page, grid, (paginated) => {
+                return paginated.map(result => {
+                    const card = document.createElement('div');
+                    card.classList.add('podcast-card');
+                    const img = document.createElement('img');
+                    img.alt = result.text;
+                    img.classList.add('podcast-cover');
+                    if (result.image) cacheAndLoadImage(result.image, img);
+                    const title = document.createElement('div');
+                    title.textContent = result.text;
+                    title.classList.add('podcast-title');
+                    card.appendChild(img);
+                    card.appendChild(title);
+                    adjustTitleFontSize(card, title, result.text.length);
+                    card.addEventListener('click', () => openModal(result));
+                    return card;
+                });
+            }, searchObserver);
         }
 
         async function openCache() {
