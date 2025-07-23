@@ -57,45 +57,59 @@
         const CACHE_NAME = 'audiobooks-cache';
         const MAX_RESULTS = 12;
         let podimoAudiobooksData = [];
-    let currentPage = 1; 
-    let allResults = []; 
-    let displayedResults = []; 
+        let allAudiobooks = []; 
+        let currentPage = 1;
+        let allResults = [];
+
         document.addEventListener('DOMContentLoaded', () => {
-            fetchDataAndPreloadIcon();
-    
+            fetchData();
+
             const podcastModal = document.getElementById('podcastModal');
+            const modalDescription = document.getElementById('modalDescription');
             const closeModalButton = document.getElementById('closeModal');
-    
+
             podcastModal.addEventListener('click', function(event) {
-                if(event.target === modalDescription) {
+                if (event.target === modalDescription) {
                     modalDescription.classList.toggle('expanded');
                 }
             });
-    
+
             document.body.addEventListener('click', (event) => {
                 if (event.target === podcastModal) {
-                    event.target.style.display = 'none';
+                    podcastModal.style.display = 'none';
                 }
-    
+
                 if (event.target === closeModalButton) {
                     podcastModal.style.display = 'none';
                 }
             });
         });
-    
-        async function fetchDataAndPreloadIcon() {
+
+        async function fetchData() {
             try {
                 const urls = [
                     'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json',
                 ];
-    
-                [podimoAudiobooksData] = await Promise.all(urls.map(fetchData));
+
+                [podimoAudiobooksData] = await Promise.all(urls.map(fetchJson));
+
+                allAudiobooks = podimoAudiobooksData.map(({ title, description, id, url, audio_url, author, narrator, year_of_publication }) => ({
+                    text: title,
+                    provider: author,
+                    description,
+                    url: `https://podimo.com/dk/shows/${id}`,
+                    image: url,
+                    mp3Link: audio_url,
+                    author,
+                    narrator: narrator + ' · ' + year_of_publication,
+                    year_of_publication: year_of_publication
+                }));
             } catch (error) {
                 console.error('Error fetching data:', error);
             }
         }
-    
-        async function fetchData(url) {
+
+        async function fetchJson(url) {
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error(`Error fetching data from ${url}`);
@@ -105,38 +119,37 @@
                 return null;
             }
         }
-    
+
         function clearSearch() {
             const searchInput = document.getElementById('searchInput');
             searchInput.value = '';
             resultsContainer.innerHTML = '';
             searchInput.focus();
         }
-    
-    function openModal(podcast) {
-        const modal = document.getElementById('podcastModal');
-    
-        document.getElementById('modalTitle').textContent = podcast.text;
-        document.getElementById('modalProvider').textContent = podcast.provider;
-        document.getElementById('modalNarrator').textContent = podcast.narrator || 'Ukendt oplæser';
-        document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
-        document.getElementById('playAudiobookOnSite').href = podcast.mp3Link;
-        document.getElementById('playAudiobookDefault').href = podcast.mp3Link;
-        document.getElementById('playAudiobookDefault').target = '_blank';
-        document.getElementById('copyMp3Link').onclick = () => copyMp3Link(podcast.mp3Link);
-    
-        const playAudiobookOnSite = document.getElementById('playAudiobookOnSite');
-        playAudiobookOnSite.dataset.author = podcast.author || 'Ukendt forfatter';
-        playAudiobookOnSite.dataset.coverImage = podcast.image || '';
-        playAudiobookOnSite.dataset.year_of_publication = podcast.year_of_publication || 'Ukendt år';
-        playAudiobookOnSite.dataset.narrator = podcast.narrator || 'Ukendt oplæser';
-      
-        const downloadIcon = document.getElementById('downloadIcon');
-        downloadIcon.textContent = 'download';
-        modal.style.display = 'block';
-    }
-    
-    
+
+        function openModal(podcast) {
+            const modal = document.getElementById('podcastModal');
+
+            document.getElementById('modalTitle').textContent = podcast.text;
+            document.getElementById('modalProvider').textContent = podcast.provider;
+            document.getElementById('modalNarrator').textContent = podcast.narrator || 'Ukendt oplæser';
+            document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
+            document.getElementById('playAudiobookOnSite').href = podcast.mp3Link;
+            document.getElementById('playAudiobookDefault').href = podcast.mp3Link;
+            document.getElementById('playAudiobookDefault').target = '_blank';
+            document.getElementById('copyMp3Link').onclick = () => copyMp3Link(podcast.mp3Link);
+
+            const playAudiobookOnSite = document.getElementById('playAudiobookOnSite');
+            playAudiobookOnSite.dataset.author = podcast.author || 'Ukendt forfatter';
+            playAudiobookOnSite.dataset.coverImage = podcast.image || '';
+            playAudiobookOnSite.dataset.year_of_publication = podcast.year_of_publication || 'Ukendt år';
+            playAudiobookOnSite.dataset.narrator = podcast.narrator || 'Ukendt oplæser';
+
+            const downloadIcon = document.getElementById('downloadIcon');
+            downloadIcon.textContent = 'download';
+            modal.style.display = 'block';
+        }
+
         function copyMp3Link(mp3Link) {
             navigator.clipboard.writeText(mp3Link).then(() => {
                 showToast(`${mp3Link}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
@@ -145,176 +158,160 @@
                 console.error('Failed to copy RSS link:', err);
             });
         }
-    
+
         const audioPlayer = new Plyr('#audio', {
             controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
         });
-    
-       function playEpisode(podcast, audioUrl, episodeTitle, episodeAuthor, coverImage, episodePubYear, episodeNarrator) {
-        audioPlayer.source = {
-            type: 'audio',
-            sources: [{
-                src: audioUrl,
-                type: 'audio/mp3',
-            }],
-        };
-    
-        document.querySelector('.audio-player').style.display = 'block';
-    
-        audioPlayer.on('loadedmetadata', () => {
-            audioPlayer.currentTime = 0;
-    
-            if ('mediaSession' in navigator) {
-                navigator.mediaSession.metadata = new MediaMetadata({
-                    title: episodeTitle,
-                    artist: `${episodeAuthor} · ${episodePubYear}`,
-                    album: `${podcast.provider} · ${episodeNarrator}`,
-                    artwork: [{
-                        src: coverImage,
-                        sizes: '512x512',
-                        type: 'image/png',
-                    }],
-                });
-    
-                setMediaSessionPositionState(audioPlayer);
-    
-                navigator.mediaSession.setActionHandler('play', () => {
-                    audioPlayer.play().then(() => {
+
+        function playEpisode(podcast, audioUrl, episodeTitle, episodeAuthor, coverImage, episodePubYear, episodeNarrator) {
+            audioPlayer.source = {
+                type: 'audio',
+                sources: [{
+                    src: audioUrl,
+                    type: 'audio/mp3',
+                }],
+            };
+
+            document.querySelector('.audio-player').style.display = 'block';
+
+            audioPlayer.on('loadedmetadata', () => {
+                audioPlayer.currentTime = 0;
+
+                if ('mediaSession' in navigator) {
+                    navigator.mediaSession.metadata = new MediaMetadata({
+                        title: episodeTitle,
+                        artist: `${episodeAuthor} · ${episodePubYear}`,
+                        album: `${podcast.provider} · ${episodeNarrator}`,
+                        artwork: [{
+                            src: coverImage,
+                            sizes: '512x512',
+                            type: 'image/png',
+                        }],
+                    });
+
+                    setMediaSessionPositionState(audioPlayer);
+
+                    navigator.mediaSession.setActionHandler('play', () => {
+                        audioPlayer.play().then(() => {
+                            setMediaSessionPositionState(audioPlayer);
+                        });
+                    });
+
+                    navigator.mediaSession.setActionHandler('pause', () => {
+                        audioPlayer.pause();
                         setMediaSessionPositionState(audioPlayer);
                     });
+
+                    navigator.mediaSession.setActionHandler('seekto', (details) => {
+                        const seekTime = details.seekTime || 0;
+                        audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
+                        setMediaSessionPositionState(audioPlayer);
+                    });
+                }
+
+                audioPlayer.play().catch(error => {
+                    console.error('Playback failed:', error);
                 });
-    
-                navigator.mediaSession.setActionHandler('pause', () => {
-                    audioPlayer.pause();
-                    setMediaSessionPositionState(audioPlayer);
-                });
-    
-                navigator.mediaSession.setActionHandler('seekto', (details) => {
-                    const seekTime = details.seekTime || 0;
-                    audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
-                    setMediaSessionPositionState(audioPlayer);
-                });
-            }
-    
-            audioPlayer.play().catch(error => {
-                console.error('Playback failed:', error);
             });
-        });
-    
-        function setMediaSessionPositionState(player) {
-            if ('setPositionState' in navigator.mediaSession) {
-                navigator.mediaSession.setPositionState({
-                    duration: player.duration || 0,
-                    playbackRate: player.playbackRate || 1,
-                    position: player.currentTime || 0,
-                });
+
+            function setMediaSessionPositionState(player) {
+                if ('setPositionState' in navigator.mediaSession) {
+                    navigator.mediaSession.setPositionState({
+                        duration: player.duration || 0,
+                        playbackRate: player.playbackRate || 1,
+                        position: player.currentTime || 0,
+                    });
+                }
             }
         }
-    }
-    
+
         function formatDescription(description) {
             let formattedDescription = description.replace(/\n/g, '<br>');
             formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-    
             return formattedDescription;
         }
-    
+
         function showToast(message) {
             document.body.classList.add('blur-background');
-    
+
             const toast = document.createElement('div');
             toast.classList.add('toast');
             toast.innerHTML = message;
             document.body.appendChild(toast);
-    
+
             setTimeout(() => {
                 toast.remove();
                 document.body.classList.remove('blur-background');
             }, 5000);
         }
-      
-    
-    async function filterPodcasts(searchText) {
+
         function normalizeText(text) {
             return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
         }
-        if (searchText.length === 0) {
-            resultsContainer.innerHTML = '';
-            return;
+
+        async function filterPodcasts(searchText) {
+            if (searchText.length === 0) {
+                resultsContainer.innerHTML = '';
+                return;
+            }
+            if (searchText.length < 3) {
+                resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
+                return;
+            }
+
+            const normalizedSearchText = normalizeText(searchText);
+            let newResults = allAudiobooks.filter(podcast =>
+                normalizeText(podcast.text).includes(normalizedSearchText) ||
+                normalizeText(podcast.author).includes(normalizedSearchText) ||
+                (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
+            );
+
+            newResults.sort((a, b) => {
+                const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText) ? 1 : 0;
+                const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText) ? 1 : 0;
+
+                const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText) ? 1 : 0;
+                const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText) ? 1 : 0;
+
+                const aNarratorMatch = normalizeText(a.narrator).includes(normalizedSearchText) ? 1 : 0;
+                const bNarratorMatch = normalizeText(b.narrator).includes(normalizedSearchText) ? 1 : 0;
+
+                if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
+                if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
+                return bNarratorMatch - aNarratorMatch;
+            });
+
+            allResults = newResults;
+            displayResults(allResults.slice(0, MAX_RESULTS));
         }
-        if (searchText.length < 3) {
-            resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
-            return;
-        }
-        const newResults = [];
-        const allData = [
-            ...podimoAudiobooksData.map(({ title, description, id, url, audio_url, author, narrator, year_of_publication }) => ({
-                text: title,
-                provider: author,
-                description,
-                url: `https://podimo.com/dk/shows/${id}`,
-                image: url,
-                mp3Link: audio_url,
-                author,
-                narrator: narrator + ' · ' + year_of_publication,
-                year_of_publication: year_of_publication
-            }))
-        ];
-    
-        const normalizedSearchText = normalizeText(searchText);
-        newResults.push(...allData.filter(podcast =>
-            normalizeText(podcast.text).includes(normalizedSearchText) ||
-            normalizeText(podcast.author).includes(normalizedSearchText) ||
-            (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
-        ));
-      
-          newResults.sort((a, b) => {
-        const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText);
-        const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText);
-        
-        const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText);
-        const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText);
 
-        const aNarratorMatch = normalizeText(a.narrator).includes(normalizedSearchText);
-        const bNarratorMatch = normalizeText(b.narrator).includes(normalizedSearchText);
-
-        if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
-        if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
-
-        return bNarratorMatch - aNarratorMatch;
-    });
-    
-        allResults = [...newResults];
-        displayResults(allResults.slice(0, currentPage * MAX_RESULTS));
-    }
-    
         async function openCache() {
             return caches.open(CACHE_NAME);
         }
-    
+
         async function getLRUCacheKeys() {
             const cache = await openCache();
             const requests = await cache.keys();
             return requests.map(request => request.url);
         }
-    
+
         async function updateLRUCache(cacheKey) {
             let cacheKeys = await getLRUCacheKeys();
-    
+
             cacheKeys = cacheKeys.filter(key => key !== cacheKey);
             cacheKeys.push(cacheKey);
-    
+
             if (cacheKeys.length > MAX_CACHE_ITEMS) {
                 const oldestKey = cacheKeys.shift();
                 const cache = await openCache();
                 await cache.delete(oldestKey);
             }
         }
-    
+
         async function loadImageToCache(url, cacheKey, element) {
             const cache = await openCache();
             const cachedResponse = await cache.match(url);
-    
+
             if (cachedResponse) {
                 const blob = await cachedResponse.blob();
                 element.src = URL.createObjectURL(blob);
@@ -323,10 +320,10 @@
                     .then(response => response.blob())
                     .then(blob => {
                         element.src = URL.createObjectURL(blob);
-    
+
                         const responseToCache = new Response(blob);
                         cache.put(url, responseToCache);
-    
+
                         updateLRUCache(cacheKey);
                     })
                     .catch(() => {
@@ -334,105 +331,99 @@
                     });
             }
         }
-    
+
         function cacheAndLoadImage(url, element) {
             const cacheKey = `cachedImage:${url}`;
             loadImageToCache(url, cacheKey, element);
         }
-    
+
         function adjustTitleFontSize(card, title, textLength) {
             const maxFontSize = 1;
             const minFontSize = 0.5;
             const optimalCharLength = 36;
-    
+
             let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
-    
             newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
             title.style.fontSize = `${newFontSize}rem`;
         }
-    
-      
-      function displayResults(results) {
-        if (results.length === 0) {
-            resultsContainer.innerHTML = '<p style="text-align: center;">Ingen søgeresultater fundet</p>';
-            return;
-        }
-    
-        const grid = document.createElement('div');
-        grid.classList.add('podcast-grid');
-    
-        results.forEach(result => {
-            if (!displayedResults.some(displayedResult => displayedResult.text === result.text)) {
+
+        function displayResults(results) {
+            if (results.length === 0) {
+                if (currentPage === 1) {
+                    resultsContainer.innerHTML = '<p style="text-align: center;">Ingen søgeresultater fundet</p>';
+                }
+                return;
+            }
+
+            const grid = document.createElement('div');
+            grid.classList.add('podcast-grid');
+
+            results.forEach(result => {
                 const card = document.createElement('div');
                 card.classList.add('podcast-card');
-    
+
                 const img = document.createElement('img');
                 img.alt = result.text;
                 img.classList.add('podcast-cover');
-    
+
                 if (result.image) {
                     cacheAndLoadImage(result.image, img);
                 }
-    
+
                 const title = document.createElement('div');
                 title.textContent = result.text;
                 title.classList.add('podcast-title');
-    
+
                 card.appendChild(img);
                 card.appendChild(title);
-    
+
                 adjustTitleFontSize(card, title, result.text.length);
-    
+
                 card.addEventListener('click', () => openModal(result));
                 grid.appendChild(card);
-    
-              displayedResults.push(result);
+            });
+
+            resultsContainer.appendChild(grid);
+        }
+
+        function handleScroll() {
+            const scrollPosition = window.innerHeight + window.scrollY;
+            const bottomPosition = document.documentElement.scrollHeight;
+
+            const maxPages = Math.ceil(allResults.length / MAX_RESULTS);
+            if (currentPage >= maxPages) {
+                return;
             }
-        });
-    
-        resultsContainer.appendChild(grid);
-    }
-      
-      
-function handleScroll() {
-    const scrollPosition = window.innerHeight + window.scrollY;
-    const bottomPosition = document.documentElement.scrollHeight;
 
-    const maxPages = Math.ceil(allResults.length / MAX_RESULTS);
-    if (currentPage >= maxPages) {
-        return;
-    }
+            if (scrollPosition >= bottomPosition - 200) {
+                currentPage++;
+                const start = (currentPage - 1) * MAX_RESULTS;
+                const end = currentPage * MAX_RESULTS;
+                displayResults(allResults.slice(start, end));
+            }
+        }
 
-    if (scrollPosition >= bottomPosition - 200) {
-        currentPage++;
-        const searchText = document.getElementById('searchInput').value.trim();
-        displayResults(allResults.slice(0, currentPage * MAX_RESULTS));
-    }
-}
+        window.addEventListener('scroll', handleScroll);
 
-      window.addEventListener('scroll', handleScroll);
-    
         let debounceTimeout;
-document.getElementById('searchInput').addEventListener('input', function() {
-    currentPage = 1;
-    allResults = [];
-    displayedResults = [];
-    resultsContainer.innerHTML = '';
+        document.getElementById('searchInput').addEventListener('input', function() {
+            currentPage = 1;
+            allResults = [];
+            resultsContainer.innerHTML = '';
 
-    clearTimeout(debounceTimeout);
-    debounceTimeout = setTimeout(() => {
-        filterPodcasts(this.value.trim());
-    }, 500);
-});
-
-    
-        document.getElementById('searchInput').addEventListener('keypress', function(event) {
-            if(event.key === 'Enter') this.blur();
+            clearTimeout(debounceTimeout);
+            debounceTimeout = setTimeout(() => {
+                filterPodcasts(this.value.trim());
+            }, 500);
         });
-    
+
+        document.getElementById('searchInput').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') this.blur();
+        });
+
         document.getElementById('playAudiobookOnSite').addEventListener('click', function(event) {
             event.preventDefault();
-    
+
             const podcast = {
                 text: document.getElementById('modalTitle').textContent,
                 provider: document.getElementById('modalProvider').textContent,
@@ -443,30 +434,30 @@ document.getElementById('searchInput').addEventListener('input', function() {
                 year_of_publication: this.dataset.year_of_publication,
                 narrator: this.dataset.narrator
             };
-          
+
             playEpisode(podcast, podcast.mp3Link, podcast.text, podcast.author, podcast.image, podcast.year_of_publication, podcast.narrator);
         });
-    
-        document.getElementById('playAudiobookDefault').addEventListener('click', async function (event) {
+
+        document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
             event.preventDefault();
-    
+
             const downloadIcon = document.getElementById('downloadIcon');
             const downloadButton = this;
             const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
             const mp3Link = this.href;
-    
+
             try {
                 downloadButton.disabled = true;
                 downloadButton.style.pointerEvents = 'none';
                 downloadIcon.classList.add('downloading');
                 downloadIcon.textContent = 'arrow_downward';
-    
+
                 const response = await fetch(mp3Link);
                 if (!response.ok) {
                     throw new Error(`Failed to fetch file: ${response.statusText}`);
                 }
                 const blob = await response.blob();
-    
+
                 const blobUrl = URL.createObjectURL(blob);
                 const downloadLink = document.createElement('a');
                 downloadLink.href = blobUrl;
@@ -475,14 +466,14 @@ document.getElementById('searchInput').addEventListener('input', function() {
                 downloadLink.click();
                 document.body.removeChild(downloadLink);
                 URL.revokeObjectURL(blobUrl);
-    
+
                 downloadIcon.classList.remove('downloading');
                 downloadIcon.classList.add('success');
                 downloadIcon.textContent = 'check_circle_outline';
             } catch (error) {
                 console.error('Error downloading the file:', error);
                 alert('Kunne ikke downloade lydbogen.');
-    
+
                 downloadIcon.classList.remove('downloading');
                 downloadIcon.textContent = 'download';
             } finally {
