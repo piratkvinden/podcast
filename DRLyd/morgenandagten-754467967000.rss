@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 23. jul. 2025</title>
+      <description>Præludium:	Johann Sebastian Bach: Præludium i e-mol              
+Fra det G.T.:	Salme 145, 8-13
+Salme: 2 &quot;Lover den Herre&quot;
+Fra det N.T.:	Matthæusevangeliet 8, 5-13
+Korvers: Egil Hovland: Dets grund var lagt på klippen (Tekst: Matthæus 7, 24-25)
+Salme: 400 &quot;Så vældigt det mødte os først i vor dåb&quot;
+Postludium: Johann Sebastian Bach: Fuga i e-mol</description>
+      <itunes:duration>00:25:00</itunes:duration>
+      <pubDate>Wed, 23 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-23-jul-2025-11042505303</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c297b626ea9bb0f9c0c/07ba119d966ce9efecf55799f6dea78b356961f202a1d963682ca9a60004c12c" length="36021726" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 22. jul. 2025</title>
       <description>Præludium:	Cesar Franck: Præludium i F-Dur
 Fra det G.T.:	Salme 143, 6-11
@@ -354,20 +368,6 @@ Postludium: Johann Sebastian Bach: 1. sats fra Concerto G-dur, BWV 592</descript
       <pubDate>Tue, 24 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-24-jun-2025-11042505262</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966aa49e222d584d5f4/5ff5ae23fa6cdba5257609d9c0b427e0fdee0760c0a77219ce23aa79a81e43b3" length="36081645" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 23. jun. 2025</title>
-      <description>Præludium:	Per Günther: Det dufter lysegrønt af græs
-Ord til dagen: Af Martin Luther
-Salme: 725 &quot;Det dufter lysegrønt af græs&quot;
-Fra det N.T.:	Matthæusevangeliet 4, 18-22
-Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
-Salme: 59 &quot;Jesus os til trøst og gavn&quot;
-Postludium: Anton Heiller: Jesus os til trøst og gavn</description>
-      <itunes:duration>00:24:55</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-23-jun-2025-11042505261</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966984fa2f265693106/aa5f4606503d14be573ec5570ab9b836e523f47f01cc5d801e49bfc43e38bff4" length="35900209" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

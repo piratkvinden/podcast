@@ -6,6 +6,14 @@
     <description>Værter: Sara Skovhave, Morten Hausborg og Emil Schiønning.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:685ec04684761efefa1df034?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 23. jul. 2025</title>
+      <description>Din daglige dosis bjergdueller, massespurter og cykeldrama. Emil Schiønning opdaterer dig direkte fra de franske ruter, og i studiet Morten Hausborg og Alberte Røhl.</description>
+      <itunes:duration>02:53:39</itunes:duration>
+      <pubDate>Wed, 23 Jul 2025 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2025/onsdag-23-jul-2025-13652501303</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6851750491259fc7e5297605/69833dd78a5d38f9e6f96dadb6d218229e1a419dafee3f5f69ac1b71d48d6cdf" length="250060382" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 22. jul. 2025</title>
       <description>Din daglige dosis bjergdueller, massespurter og cykeldrama. Emil Schiønning opdaterer dig direkte fra de franske ruter, og i studiet Morten Hausborg og Alberte Røhl.</description>
       <itunes:duration>02:59:50</itunes:duration>
@@ -20,14 +28,6 @@
       <pubDate>Sun, 20 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2025/soendag-20-jul-2025-13652501297</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684fe46a9b0d242d0fef7049/a0f35f2f2222a249bb3c8de7dad259941d514dac779eb1d7a0ddc40a119ad262" length="341281502" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 19. jul. 2025</title>
-      <description>Din daglige dosis bjergdueller, massespurter og cykeldrama. Emil Schiønning opdaterer dig direkte fra de franske ruter, og i studiet Morten Hausborg og Alberte Røhl.</description>
-      <itunes:duration>04:00:03</itunes:duration>
-      <pubDate>Sat, 19 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2025/loerdag-19-jul-2025-13652501296</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684fe4a191259fc7e51be959/b3da2a85763e38c224b3585c7c84b9ab365d4cf07439170c5cda6880ece8fb77" length="345685598" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
