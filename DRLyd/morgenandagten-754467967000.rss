@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 24. jul. 2025</title>
+      <description>Præludium:	Girolamo Frescobaldi: Toccata 
+Fra det G.T.:	Salme 145, 14-18
+Salme: 42 &quot;I underværkers land jeg bor&quot;
+Fra det N.T.:	Matthæusevangeliet 8, 14-22
+Korvers: Egil Hovland: Dets grund var lagt på klippen (Tekst: Matthæus 7, 24-25)
+Salme: 163 &quot;Fuglen har rede, og ræven har grav&quot;
+Postludium: Niels la Cour: Befal du dine veje</description>
+      <itunes:duration>00:25:01</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-24-jul-2025-11042505304</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a6b/a079c95e542238cdcac8b63da1c04b32c57b3c91a65978de27484ed6027476a9" length="36034989" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 23. jul. 2025</title>
       <description>Præludium:	Johann Sebastian Bach: Præludium i e-mol              
 Fra det G.T.:	Salme 145, 8-13
@@ -354,20 +368,6 @@ Postludium: Dietrich Buxtehude: Fuga i e-mol</description>
       <pubDate>Wed, 25 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-25-jun-2025-11042505263</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd98d9405a621fb40b77e/0c3b407b7e7e43d17e05a187a83a891ec8f1a9f9eed4ac03499408ab576ff570" length="36015406" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 24. jun. 2025</title>
-      <description>Præludium:	Johann Gottfried Walther: Aleneste Gud i Himmerig
-Fra det G.T.:	Salme 113
-Salme: 749 &quot;I østen stiger solen op&quot;
-Fra det N.T.:	Matthæusevangeliet 4, 23-25
-Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
-Salme: 54 &quot;Hvad mener I om Kristus?&quot;
-Postludium: Johann Sebastian Bach: 1. sats fra Concerto G-dur, BWV 592</description>
-      <itunes:duration>00:25:03</itunes:duration>
-      <pubDate>Tue, 24 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-24-jun-2025-11042505262</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd966aa49e222d584d5f4/5ff5ae23fa6cdba5257609d9c0b427e0fdee0760c0a77219ce23aa79a81e43b3" length="36081645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
