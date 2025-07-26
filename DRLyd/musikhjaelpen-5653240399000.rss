@@ -6,15 +6,6 @@
     <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686292dc26164da768b759de?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Mandag 21. jul. 2025</title>
-      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
-Vært: Marie Hobitz.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Mon, 21 Jul 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/mandag-21-jul-2025-13332577301</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b0161175376c1f604cc/f02701d6dd1255565dfd6688c6e4ce7d2a10df2b5a8c18a242311767d1cbb61d" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Tirsdag 22. jul. 2025</title>
       <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
 Vært: Marie Hobitz.</description>
@@ -40,6 +31,15 @@ Vært: Marie Hobitz.</description>
       <pubDate>Thu, 24 Jul 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/torsdag-24-jul-2025-13332577304</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b0161175376c1f604d5/09f00c9bdea369b967b08150ecb6ddc488eeb57577957285f280807ddcca530d" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Fredag 25. jul. 2025</title>
+      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
+Vært: Marie Hobitz.</description>
+      <itunes:duration>02:57:00</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 15:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/fredag-25-jul-2025-13332577305</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b0261175376c1f604ea/6106a10e9f10bedd4283615eddcfd41da8b11977bec3f8262486dccf566795f1" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
