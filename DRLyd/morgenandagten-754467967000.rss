@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 26. jul. 2025</title>
+      <description>Præludium:	Alberto Ginastera: Aurora lucis rutilat
+Davidssalme: 40,2 &amp; 4-6
+Salme: 754 &quot;Se, nu stiger solen af havets skød&quot;
+Fra det N.T.:	Romerbrevet 6, 3-11
+Trosbekendelsen	
+Salme: 396 &quot;Min mund og mit hjerte&quot;
+Postludium: Jesper Madsen: Min mund og mit hjerte</description>
+      <itunes:duration>00:24:55</itunes:duration>
+      <pubDate>Sat, 26 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-26-jul-2025-11042505306</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a76/8cdd050331a93c6d4a5945f4c81424de7160ee3bb7542a99bba3aca63ac6bc6a" length="35883495" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 25. jul. 2025</title>
       <description>Præludium:	Leif Thybo: Han, som har hjulpet hidindtil     
 Fra det G.T.:	Salme 146 
@@ -354,20 +368,6 @@ Postludium: Christian Cappelen: Postludium F-dur</description>
       <pubDate>Fri, 27 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-27-jun-2025-11042505265</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd967036df1a93c66e0c8/6359e38690cddd0985329673d820c2fbe9c135419d3f4ce6fcf772e412a271f6" length="35931880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 26. jun. 2025</title>
-      <description>Præludium:	Christian Erbach: Canzona
-Fra det G.T.:	Salme 33, 13-22
-Salme: 10 &quot;Alt, hvad som fuglevinger fik&quot;
-Fra det N.T.:	Matthæusevangeliet 5, 8-12
-Korvers: Søren Birch: Salige er de, som hører Guds ord (Tekst: Lukas 11, 28)
-Salme: 708 &quot;Gud lade rolighed og fred&quot;
-Postludium: Dietrich Buxtehude: Wär Gott nicht mit uns diese Zeit</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Thu, 26 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-26-jun-2025-11042505264</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd9679405a621fb40b63e/bcc6b00cfc3eb40f9d943a86d458f4e1e647a9522a7366df9dd693a6d0a31824" length="36017129" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
