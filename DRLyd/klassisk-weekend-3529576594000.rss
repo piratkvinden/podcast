@@ -78,6 +78,14 @@
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d0c3567733feedac0f0553/8da58fd572651fc8ccdaf313da8b6b18dc19d8ea5d7e3ed62d2ecbd6a37ffdf6" length="82175900" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Søndag 16. mar. 2025</title>
+      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
+      <itunes:duration>01:52:03</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 07:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/soendag-16-mar-2025-12422532117</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c8da723c672e012fe452e1/532cc2a0047454a4aa2bfb2407cc07e508b09f9e549cb36d9f2eb25c6963c34b" length="161357468" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 15. mar. 2025</title>
       <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
       <itunes:duration>01:25:01</itunes:duration>
@@ -100,22 +108,6 @@
       <pubDate>Sun, 29 Jun 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/soendag-9-feb-2025-12422532067</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:679ab49f212b1e6bec90eeed/7a891c33bedafb66be9d7857357be07f0c98c2c5cbbcbc302ec5345eb612d0ad" length="161430044" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 8. feb. 2025</title>
-      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-      <itunes:duration>01:25:04</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/loerdag-8-feb-2025-12422532606</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996276ac0bc33df261a789/2f9a824cba3fe9c53d0b03a314c8d9399f229a6e3c0d7787607a122f7bacd1dc" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Lørdag 8. feb. 2025</title>
-      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 07:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/loerdag-8-feb-2025-12422532066</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67996276b617052b80d6d387/f2ecaaadc02cacf252c875d2e7f5098880bdc49dee06a24fa72a138585f3b657" length="82081436" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
