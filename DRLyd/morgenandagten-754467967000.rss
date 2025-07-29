@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 28. jul. 2025</title>
+      <description>Præludium: John Frandsen: Den grund, hvorpå jeg bygger
+Ord til dagen: Af Birgitta af Vadstena
+Salme: 666 &quot;Den grund, hvorpå jeg bygger&quot;
+Fra det N.T.: Matthæusevangeliet 9, 1-8
+Korvers: Johann Sebastian Bach: Jesus, han er syndres ven (Tekst: J.H. Schrader 1731, Brorson 1735)
+Salme: 56 &quot;Jesus er navnet mageløst&quot;
+Postludium: Knud Høgenhaven: Jesus er navnet mageløst</description>
+      <itunes:duration>00:25:01</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-28-jul-2025-11042505311</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c297b626ea9bb0f9c13/95794aa318dda445591d79f903afe44a0bc470b0d4bb8dba2b1dd452547c63b4" length="36035569" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 26. jul. 2025</title>
       <description>Præludium:	Alberto Ginastera: Aurora lucis rutilat
 Davidssalme: 40,2 &amp; 4-6
@@ -340,20 +354,6 @@ Postludium: Josef Rheinberger: Adagio i F-dur, - 2. sats af Orgelsonate nr. 11, 
       <pubDate>Mon, 30 Jun 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-30-jun-2025-11042505271</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c217b626ea9bb0f9b77/cc87ad71ce9d4a745d76b8adbe52b0ec37f02a1835b2c8737be814336c4c22c6" length="36055729" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 28. jun. 2025</title>
-      <description>Præludium:	Georg Böhm: Nu bede vi den Helligånd
-Davidssalme: 103, 10-13
-Salme: 289 &quot;Nu bede vi den Helligånd&quot;
-Fra det N.T.:	1. Johannesbrev 3,13-18
-Trosbekendelsen	
-Salme: 684 &quot;O Jesus, du al nådens væld&quot;
-Postludium: Gordon Young: Prelude in Classic style</description>
-      <itunes:duration>00:24:59</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-28-jun-2025-11042505266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fcd970984fa2f26569318e/c6f05185974a09a9b0d947e60b3b3c319086cbaf93cac38adf15e1e9d3285de8" length="35978539" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

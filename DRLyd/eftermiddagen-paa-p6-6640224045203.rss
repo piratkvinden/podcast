@@ -6,6 +6,15 @@
     <description>Din garanti for god musik og godt selskab hele sommeren!</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86db3613283fa42d015?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 28. jul. 2025</title>
+      <description>Din garanti for god musik og godt selskab hele sommeren!
+Værter: Ditte Vestergaard og Rebecca Lou.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Mon, 28 Jul 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/eftermiddagen-paa-p6/eftermiddagen-paa-p6/mandag-28-jul-2025-16452567311</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68541340047dbd9dedf862fd/d9a5f12d8a2231aa07d2f29ddf3f67e9a8a678112aa17fe1e0c849466013353a" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Fredag 25. jul. 2025</title>
       <description>Din garanti for god musik og godt selskab hele sommeren!
 Værter: Ditte Vestergaard og Rebecca Lou.</description>
@@ -13,15 +22,6 @@ Værter: Ditte Vestergaard og Rebecca Lou.</description>
       <pubDate>Fri, 25 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/eftermiddagen-paa-p6/eftermiddagen-paa-p6/fredag-25-jul-2025-16452567305</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685413403e7da2d03c8ec2a4/16dbc898f8dd654fca18db3623024869a8bc2495b8a52ad655eeec7fbcbb3764" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Torsdag 24. jul. 2025</title>
-      <description>Din garanti for god musik og godt selskab hele sommeren!
-Værter: Ditte Vestergaard og Rebecca Lou.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/eftermiddagen-paa-p6/eftermiddagen-paa-p6/torsdag-24-jul-2025-16452567304</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6854133e9b18fe3ce3634f3d/a7e950ac8304834fdebd104be08a5105966a98fe58ccf2c4a22c591916805128" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
