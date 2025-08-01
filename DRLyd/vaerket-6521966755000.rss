@@ -6,6 +6,16 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Hornemans Gurre</title>
+      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+C.F.E. Horneman: Gurre. DR Symfoniorkestret. DR koncertkoret. Guido Paëvatalu, baryton. Dirigent: Michael Schønwandt. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/hornemans-gurre-12422561244</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd842308537cfa0c96f/90567e6beec3034257218bc1f7444335b8244cdceca25a282c52ac55d6e4defc" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Poulencs Les Animaux modèles</title>
       <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Francis Poulenc: Les Animaux modèles, op. 111. BBC's Koncertorkester. Dirigent: Bramwell Tovey. 
@@ -211,17 +221,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Thu, 03 Jul 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/francks-symfoni-i-d-mol-12422561204</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd242308537cfa0c8cd/b05a351e5f8d8fdd5cc0ea4c2be880feffafac11a01a5c9c6a58a78ca47d5e50" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Schierbecks Symfoni nr. 1</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed.
-Poul Schierbeck: Symfoni nr. 1, op. 15. 
-Artur Rubinstein Filharmonikerne. Dirigent: Ilya Stupel. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 02 Jul 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/schierbecks-symfoni-nr-1-12422561203</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd342308537cfa0c8f2/d620f5faba721d0ab9d57f15752c00efb5394a7acd0006737d31935a0381fbc1" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

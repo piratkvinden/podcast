@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>P4 med Christine Milton</title>
+    <link>https://www.dr.dk/lyd/p4/p4-med-christine-milton-6640342585511</link>
+    <description>P4 med Christine Milton</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86ee6402b4153bee930?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+    <item>
+      <title>Tirsdag 29. jul. 2025</title>
+      <description>Tirsdag 29. jul. 2025</description>
+      <itunes:duration>01:45:00</itunes:duration>
+      <pubDate>Tue, 29 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-med-christine-milton/p4-med-christine-milton-2025/tirsdag-29-jul-2025-15452543120</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688b16de226d7452fb55c11d/d77fe2d2219d27d830e1e7216920b24cc75bcc88dd3ac2b20af55431be0c96aa" length="151201903" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Onsdag 30. jul. 2025</title>
+      <description>Onsdag 30. jul. 2025</description>
+      <itunes:duration>01:45:00</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-med-christine-milton/p4-med-christine-milton-2025/onsdag-30-jul-2025-15452543130</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6889f8511d7c48062c820fd1/6474ea48d51c24d118667b99893fa447455635c85d907dd6cae938a59a4efbec" length="151201327" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Torsdag 31. jul. 2025</title>
+      <description>Torsdag 31. jul. 2025</description>
+      <itunes:duration>01:45:00</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-med-christine-milton/p4-med-christine-milton-2025/torsdag-31-jul-2025-15452543140</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6889f8511d7c48062c820fda/91713b71cdacf4a5019ee3b5228fcdffbd142a6248ff31e1dc93be55cdb92382" length="151201903" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
