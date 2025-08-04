@@ -6,14 +6,6 @@
     <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:686292dc26164da768b759de?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>med Ida Laurberg</title>
-      <description>I dagens Musikhjælpen er det Ida Laurberg, der hjælper Marie med at finde de perfekte sange til lytterne. I dag hjælper de bl.a. Emilie, som er blevet spurgt om, hun er gravid på arbejdet, efter en hjemvendt ferie fra Frankrig med god vin og ost, og Patrick, som har stået hele dagen og fisket uden at få noget på krogen.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Wed, 30 Jul 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/med-ida-laurberg-13332577313</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b04f933f7cf048b69ec/3c0d2a1cec571a2db4f6e85231004511c00f5e0a2b7ed3f319cb7868f74d64d6" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>med Thor Farlov</title>
       <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
 Vært: Marie Hobitz.</description>
@@ -39,6 +31,15 @@ Vært: Alida Blakaj.</description>
       <pubDate>Sat, 02 Aug 2025 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/med-ericka-jane-13332577316</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b03f933f7cf048b69dc/85f7915605085c4ca413896b5dc9a6de4c4db5e05bac217c50239778be8e2c40" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>med Huxi Bach</title>
+      <description>Står du i en stram situation? Frygt ej! Værten har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.
+Vært: Alida Blakaj.</description>
+      <itunes:duration>03:00:00</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/med-huxi-bach-13332577317</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68246b417b626ea9bbfba113/b9dc54bdad589ce28baad5d978360b7e1727f1f13696dd667699e6607402b290" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
