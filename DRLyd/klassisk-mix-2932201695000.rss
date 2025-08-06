@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 27. mar. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
+Helt værk: Max Bruch: Violinkoncert nr. 1, g-mol, op. 26. Ray Chen, violin. London Filharmonikerne. Dirigent: Robert Trevino. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>01:54:01</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/torsdag-27-mar-2025-12422536134</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d75a952257e391d9046fa5/7baedf0e1873b70262f8008052a700f54eaf440e61e9908b2058c3ef45a55947" length="164189808" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 24. mar. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
 Helt værk: Sonate i h-mol af Amanda Maier, spillet af Miriam Terragni og Cathrine Sarasin. 
@@ -206,16 +216,6 @@ Vært: Mette Greiffenberg.</description>
       <pubDate>Tue, 08 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/fredag-21-feb-2025-12422536085</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67aa86a40557f071b63bb280/2fb0d68bed1113ff66bb0cd3aa5b96d42e4c3b4131c5800840c1bb7f71e4f1b8" length="164188662" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 20. feb. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
-Helt værk: C.Ph.E. Bach: Dobbeltkoncert, Es-dur, Wq 47. Céline Frisch, cembalo. Alexander Melnikov, hammerklaver. Café Zimmermann. Dirigent: Pablo Valetti. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>01:54:01</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/torsdag-20-feb-2025-12422536084</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67a935914f121246d7e2d1f3/6bcf517016a8c695d1744648542b1442304a682b2afcf4fa0dee3d2e4e5f7e78" length="164197873" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
