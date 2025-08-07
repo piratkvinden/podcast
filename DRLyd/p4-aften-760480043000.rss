@@ -7,6 +7,16 @@
 www.dr.dk/lyd/p4</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433be682019fd19874e73?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 6. aug. 2025</title>
+      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært:
+www.dr.dk/lyd/p4</description>
+      <itunes:duration>03:55:00</itunes:duration>
+      <pubDate>Wed, 06 Aug 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/onsdag-6-aug-2025-13652570323</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68763d32650d6190583dc62c/067fc04615fadbaf790eba6b336cadf6613afab8a450800362597856c21e93d0" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Mandag 4. aug. 2025</title>
       <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
 Vært: Louise Dreisig.
@@ -15,16 +25,6 @@ www.dr.dk/lyd/p4</description>
       <pubDate>Mon, 04 Aug 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/mandag-4-aug-2025-13652570321</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685549e31d23366daf7134d4/67205c4b00df473c7892b62513694047f3d0c7db3495b932437d5b8a07a647df" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Lørdag 2. aug. 2025</title>
-      <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Britt Berglund.
-www.dr.dk/lyd/p4</description>
-      <itunes:duration>03:57:00</itunes:duration>
-      <pubDate>Sat, 02 Aug 2025 18:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/loerdag-2-aug-2025-13652570316</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685aa57f9f240a4462bd03d1/6e6038dbff3ebd719adee9a198af2c3d1578c9ae52325194a26b76dc8d5a8b96" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
