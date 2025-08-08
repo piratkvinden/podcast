@@ -7,33 +7,6 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9830?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Melankoli</title>
-      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Thu, 31 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-9/melankoli-12422433484</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673a77b1d91ec585bdbac220/da9ef7f53f9c0e93bc5ae5971530fbe7444875c6b19050de5da74105bff10f29" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Drama</title>
-      <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-11/drama-12422433453</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d6872c0065080aae04eb2/7ef12543794ac561750667809a713f22e4f1d509a10bf74c5630bed35602c640" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Glæde</title>
-      <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning.
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-10/glaede-12422433425</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67045bf37435d0f7f407f655/1f689d4714f187189486e24f69a6a000edb6a23ddeaaec5fb21b33a51c45ef0c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Leg</title>
       <description>I dag er Siesta i det legende hjørne. Til dig der er med på legen, og er nysgerrig på musik der overrasker. Nyd kreative komponisters opfindsomme idéer. 
 Vært: Carsten Wolf Andersen.</description>
@@ -50,6 +23,15 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Wed, 06 Aug 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422533173</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fae3bdaa49e222d57788ca/bb99c0ebb069744b58af4af31c8b461c306c8e2ce46d4b6285da09671379906e" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Melankoli</title>
+      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>00:44:55</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422533154</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e9c0edd5634992e740affe/082ff04fec166305cfa77d6469e65afb0a592c74992cbcc4283d5c17528a369f" length="0" type="audio/x-m4a"/>
     </item>
     <item>
       <title>Drama</title>
@@ -194,6 +176,24 @@ Vært: Carsten Wolf Andersen.</description>
       <pubDate>Thu, 10 Jul 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/melankoli-12422533114</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c4e4f8a83d0dd946d6000f/6d4f8ab4645e39611028682359b1e29a3a2703098b8f363dd4736ffe7f14d734" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Melankoli</title>
+      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-9/melankoli-12422433484</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673a77b1d91ec585bdbac220/da9ef7f53f9c0e93bc5ae5971530fbe7444875c6b19050de5da74105bff10f29" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Glæde</title>
+      <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning.
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-10/glaede-12422433425</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67045bf37435d0f7f407f655/1f689d4714f187189486e24f69a6a000edb6a23ddeaaec5fb21b33a51c45ef0c" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

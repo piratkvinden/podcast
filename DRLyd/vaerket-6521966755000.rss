@@ -6,6 +6,16 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Saint-Saëns' Urbs Roma</title>
+      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Camille Saint-Saëns: Symfoni F-dur, Urbs Roma. Liège Filharmonikerne. Dirigent: Jean-Jacques Kantorow. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/saint-saens-urbs-roma-12422561254</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fda166ff5b1f843c3af/2e6e02ef054d0833fd09f14d7128549e6651ead96753debc8699a9daf948d486" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Vaughan Williams' Symfoni nr. 3</title>
       <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Ralph Vaughan Williams: Symfoni nr. 3, A Pastoral Symphony. London Symfonikerne. Rebecca Evans, sopran. Dirigent: Richard Hickox. 
@@ -178,16 +188,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Thu, 10 Jul 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/alfvens-svenske-rapsodier-12422561214</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd3166ff5b1f843c30d/70cb7c35adae0527fb3cab2231c94ac5fb6d9bbc620d214cd3d64953c99d6387" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Rimskij-Korsakovs Sheherazade</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed.
-Nikolaj Rimskij-Korsakov: Sheherazade, op. 35. Oslo Filharmonikerne. Dirigent: Vasilij Petrenko. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rimskij-korsakovs-sheherazade-12422561213</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd242308537cfa0c8da/049388de4b67c852b244bf4e6ae97cc2dd2d488c2d8f2e8a8323a1a645585a33" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
