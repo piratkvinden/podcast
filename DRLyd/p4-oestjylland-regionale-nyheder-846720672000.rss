@@ -6,6 +6,14 @@
     <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c924bb2e9899b2c17ac0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Seneste nyt kl. 12:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-12-30-14302512326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836d8c7b55477aa4733ae4c/d3e0ecab0f27867efa229c100cf761f6dd0894b9d42ecf0cadc5a1ab66781471" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Seneste nyt kl. 11:30</title>
       <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
       <itunes:duration>00:02:00</itunes:duration>
@@ -284,86 +292,6 @@
       <pubDate>Fri, 08 Aug 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-06-30-14302506325</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6aedc1fbc0f1f77ad65/36b47a1ecabe18d9d90337ce7f4178e8c9007999506c911d04121696aba9d2b7" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 17:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-17-30-14302517322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836e01554672c137a48a8e9/c530cca517456bf6c53c52caf0ce5620cdd1e055d4652bfffa5421c43c319767" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 16:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-16-30-14302516322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836dfa4db4203d674fc2f4c/06518e3c22d3f6b85c5ecd3e1b392b1352bf11f989e9fc5dab9f1dee99210f70" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 15:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-15-30-14302515322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836da517a2f93f10710f156/1ca9ad8ee488ff46f18ee67f2ca77fa99463a086a21a448dbcb722913d1fb437" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 12:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-12-30-14302512322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836d8bfb55477aa4733ada4/3d96d1013621fccda7575315bd5eea5c8b065fcd997411d838fca7f97c7a7915" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-11-30-14302511322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6836d17e192a5d26a40cf780/f8611f3f0f997be52505bf0b4848d540a9fb6602aef4b42e9aa50d056fd415d5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-10-30-14302510322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835cd8d5a3d4b010aa0db5c/952dafab08bcd19f5d1271fcac3e77a30de4fc403a2ac7a50ae034d0b4e4dc6a" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-09-30-14302509322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835c143b55477aa472c6cd4/bb2f6cd7d032087f9358dcb842dd0fa7cafbb6c0fbbaf409a9c1535448d65e62" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-08-30-14302508322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ba51dc1fbc0f1f77d660/464fcf4d1ac7d617b255ff29f45ea4f7b7e40654c97ad0099f27318d3bab1d62" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-07-30-14302507322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7135f16b698305ff594/e66370bf548e926f30dd45ac0fdfff5f3edc16f4bcdd0b642dc85e7725bbb667" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 06:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Østjylland.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 06:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-oestjylland-regionale-nyheder/p4-oestjylland-regionale-nyheder-2025/seneste-nyt-kl-06-30-14302506322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b692b55477aa472c1110/97d4ffb7182dbedbe8422ffba376ad5b3247c332db7567397e5b302b77f072fc" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,54 @@
     <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c92452248c98a4390048?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Seneste nyt kl. 12:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b95ff0501130c3bcffb7/a2bc4668e7b1fed727408a9e7084aad40e7258a9447be965caa9411934523b86" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 11:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 11:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac3b53679be9eba67057/a569b8babd009ca7ccbc11132c7962ae407da97c75c470c103975949f25b4408" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 10:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a8b85f16b698305f718d/31257253773fc1382f23abec0c17082a1447aeaac6fb5f651152fbfbe36b9268" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 09:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b585f16b698305f16b5/bc4c551ef31bdfc4f91336df4330046c128b691fa06c1e47c4cf5bb6e127f523" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 08:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599b0bd7f09b343f6d06f/a835c85171e99ee3a49bf68dbbc4abb51a2d86858512c3fff1266778efc35456" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Seneste nyt kl. 07:30</title>
+      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+      <itunes:duration>00:02:00</itunes:duration>
+      <pubDate>Sat, 09 Aug 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507326</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683596a8e17707e24dd849a2/395f45999c37a4d74b72775ee4da6ec0a28312fed55ac418a566d8be28800ee5" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Seneste nyt kl. 17:30</title>
       <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
       <itunes:duration>00:03:00</itunes:duration>
@@ -244,126 +292,6 @@
       <pubDate>Thu, 07 Aug 2025 06:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-06-30-14602506324</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683595aafe5ec8521a271b39/67bb4d097500b1d3dfe362e18e3213e1acdf6e128a1905232c2ed17116b06721" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac3b53679be9eba67057/a569b8babd009ca7ccbc11132c7962ae407da97c75c470c103975949f25b4408" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a8b85f16b698305f718d/31257253773fc1382f23abec0c17082a1447aeaac6fb5f651152fbfbe36b9268" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b585f16b698305f16b5/bc4c551ef31bdfc4f91336df4330046c128b691fa06c1e47c4cf5bb6e127f523" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599b0bd7f09b343f6d06f/a835c85171e99ee3a49bf68dbbc4abb51a2d86858512c3fff1266778efc35456" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683596a8e17707e24dd849a2/395f45999c37a4d74b72775ee4da6ec0a28312fed55ac418a566d8be28800ee5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 17:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 17:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-17-30-14602517322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835c0a4f0501130c3bd3aac/5739e7acd76d49bbc0b2995a377dd527f70592f73ad75d565bcac74cdc9ce965" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 16:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 16:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-16-30-14602516322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835baa0f0501130c3bd1080/0650ccd3e3eeee0c5aa865faf9108bfa6a009ec64b3dbfdc5e629c8ce0c522db" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 15:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-15-30-14602515322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ba3a2056b79e0666f9fc/cbf7e5059873717919bb24b1f5fbe71e16e1a1150a6ff1d9beca270a542a79f6" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 12:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b93eb55477aa472c2cc6/7fa4eeeb99a1a2373fc89509a0b063d5bf35d93c39a51f7826a92e93c7033483" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 11:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 11:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac235f16b698305f974d/09984df92bd67738298379b8d7afdff553e40c0ecc4ef78386a223e2103e7b87" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 10:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:02:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a851b55477aa472b95b1/1def08c68ebac08e1ea6d9209be281ee2f478d80f4cc24605d521ff1ae05eb9c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 09:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 09:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b9bb55477aa472b4080/9857cca60114a0bd1edd7ff07fb3a35eb41a340bad45e35f4243233be8c204e5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 08:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835999efe5ec8521a273fe1/fc54631b209fab0b064e5d1e45bfd3e63894bab7d5f6ccb1a412762103c2ae6e" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 07:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 07:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835966bb55477aa472b0ff8/cbdc9feaf092995d3f18321f93f0fdc2dbcced11585b6e26b514343beed30026" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Seneste nyt kl. 06:30</title>
-      <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-      <itunes:duration>00:03:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 06:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-06-30-14602506322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683595aa5f16b698305edd84/32cf41c192bf90bbee3fcf7b67bcc39e22a33f96cf535e46a1ed1f599617c36a" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
