@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 11. aug. 2025</title>
+      <description>Præludium:	Andreas Armsdorf: Komm, heiliger Geist, Herre Gott
+Ord til dagen: af Bonhoeffer
+Salme: 508 &quot;Bryd frem, mit hjertes trang at lindre&quot;
+Fra det N.T.:	Matthæus 11, 1-6
+Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (Tekst: Salmernes bog, 12, 2-3, 7-8)
+Salme: 427 &quot;Tak for al din fødsels glæde&quot;
+Postludium: Georg Muffat: Toccata Sexta</description>
+      <itunes:duration>00:24:52</itunes:duration>
+      <pubDate>Mon, 11 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-11-aug-2025-11042505331</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2e7b626ea9bb0f9c7a/67583faac04b00f1a4191b21e609a39f85f53dc3f75e165f5bd98030b706f9f9" length="35820717" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 9. aug. 2025</title>
       <description>Præludium:	Dietrich Buxtehude: Kom, Helligånd, Gud Herre from 
 Davidssalme: 46,2-4 &amp; 8
@@ -340,20 +354,6 @@ Postludium: Albert de Klerk: Delicato</description>
       <pubDate>Mon, 14 Jul 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-14-jul-2025-11042505291</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2661175376c1099a2b/2f873dfdf6c14d37947216a06c20ebcf1486649063f9fadb5bcae1964708628c" length="36018285" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 12. jul. 2025</title>
-      <description>Præludium:	Christian Præstholm: Af dybsens nød, o Gud, til dig
-Davidssalme: 36,6-10
-Salme: 736 &quot;Den mørke nat forgangen er&quot;
-Fra det N.T.:	Romerbrevet 8, 18-23
-Trosbekendelsen	
-Salme: 636 &quot;Midt i alt det meningsløse&quot;
-Postludium: Sigfrid Karg-Elert: Af dybsens nød, o Gud, til dig</description>
-      <itunes:duration>00:24:58</itunes:duration>
-      <pubDate>Sat, 12 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-12-jul-2025-11042505286</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2561175376c1099a23/38c14b2d889480b5adf2b0d035ea8e29846815f813220ffc93d932065706cf13" length="35956074" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
