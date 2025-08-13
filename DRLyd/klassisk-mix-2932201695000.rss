@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tirsdag 12. aug. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
+Helt værk: Kong Kristian II-suite af Sibelius med BBC's Walisiske Symfoniorkester, dirigeret af Thomas Søndergaard. 
+Vært: Malena Rønnow.</description>
+      <itunes:duration>01:53:59</itunes:duration>
+      <pubDate>Tue, 12 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-12-aug-2025-12422536332</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6be61175376c1fff5c4/906afb4a71a1ea6fa4ac2f73a74e94c2923f7f5c0992225c4c809207487c7fa4" length="164151221" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 11. apr. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
 Helt værk: Klaversonate nr. 1 i C-dur af Brahms, spillet af Alexandre Kantorow. 
@@ -206,16 +216,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Tue, 15 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/fredag-28-feb-2025-12422536095</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0e6f064e1e888b8e8c1/97359153921a44bf3233b4d80d1eff32165d21ff41bdec983b30ab2dd47b3eb6" length="164221490" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 27. feb. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
-Helt værk: Rakhmaninov: Cellosonate g-mol op 19. Alisa Weilerstein, Cello. Inon Barnatan, Klaver. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>01:53:57</itunes:duration>
-      <pubDate>Mon, 14 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/torsdag-27-feb-2025-12422536094</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b270b91c492b010484e878/c1c35bc80647121358eba168a7eb7a5d8cb640899114c612db38e680dc4d2e38" length="164102836" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
