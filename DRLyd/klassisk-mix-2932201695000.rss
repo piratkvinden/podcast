@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 13. aug. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
+Helt værk: Klarinettrio i Es-dur af Wolfgang Amadeus Mozart. 
+Vært: Frederik Korfix.</description>
+      <itunes:duration>01:54:02</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/onsdag-13-aug-2025-12422536333</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6be61175376c1fff5c9/e35ae8069249a9f4b7b3a2c8169efa3099db458bffcb9642c5eb8fea8dd668d3" length="164233012" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 12. aug. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
 Helt værk: Kong Kristian II-suite af Sibelius med BBC's Walisiske Symfoniorkester, dirigeret af Thomas Søndergaard. 
@@ -206,16 +216,6 @@ Vært: Malena Rønnow.</description>
       <pubDate>Wed, 16 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/mandag-3-mar-2025-12422536101</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b7b567ff5c53172f03641c/5d02575aa4c627aa75ba20c9ec5de29d3e71c5c64dcf54ffe33ca778eee32942" length="164099955" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 28. feb. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
-Helt værk: Ludwig van Beethoven: Strygekvartet nr. 10, Es-dur, op, 74, 'Harpekvartetten'. Calidore Kvartetten. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>01:54:02</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/fredag-28-feb-2025-12422536095</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b3c0e6f064e1e888b8e8c1/97359153921a44bf3233b4d80d1eff32165d21ff41bdec983b30ab2dd47b3eb6" length="164221490" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

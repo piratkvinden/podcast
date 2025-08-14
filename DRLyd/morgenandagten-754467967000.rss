@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 13. aug. 2025</title>
+      <description>Præludium:	Per Günther: Talsmand, som på jorderige
+Fra det G.T.:	Jeremias 8, 4-7
+Salme: 294 &quot;Talsmand, som på jorderige&quot;
+Fra det N.T.:	Matthæus 11, 16-19
+Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (Tekst: Salmernes bog, 12, 2-3, 7-8)
+Salme: 65 &quot;Troens smykke, Jesus sød&quot;
+Postludium: Otto Olsson: Det livets ord vi bygge på</description>
+      <itunes:duration>00:25:02</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-13-aug-2025-11042505333</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2f61175376c1099af3/f92e4ef30ec2e45be9115c236c8ac000c87db74aa80516a3b8c3e27e7b170b79" length="36063786" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 12. aug. 2025</title>
       <description>Præludium:	Christian Barnekow: Poco tranquillo
 Fra det G.T.:	Malakias 3, 1-4
@@ -354,20 +368,6 @@ Postludium: Georg Friedrich Händel: Fuga c-mol</description>
       <pubDate>Tue, 15 Jul 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-15-jul-2025-11042505292</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2661175376c1099a39/4a6ba5e5d7bd68a322fa83fd064a2329c1c59b30d61f17e73841788f782b4cee" length="35982569" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 14. jul. 2025</title>
-      <description>Præludium:	Jesper Madsen: Se, nu stiger solen
-Ord til dagen: Af Gregor af Nyssa
-Salme: 375 &quot;Alt står i Guds faderhånd&quot;
-Fra det N.T.:	Matthæusevangeliet 6, 25-34
-Korvers: Flemming Weis: Bed, så skal der gives jer (Tekst: Mat. 7, 7)
-Salme: 41 &quot;Lille Guds barn, hvad skader dig?&quot;
-Postludium: Albert de Klerk: Delicato</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Mon, 14 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-14-jul-2025-11042505291</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2661175376c1099a2b/2f873dfdf6c14d37947216a06c20ebcf1486649063f9fadb5bcae1964708628c" length="36018285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

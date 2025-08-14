@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Sibelius' Lemminkäinen</title>
+      <description>Jean Sibelius: Lemminkäinen, op. 22. BBC's Symfoniorkester. Dirigent: Sakari Oramo. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sibelius-lemminkainen-12422561333</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4b7b626ea9bbfb100b/751f64d9d2b034e52cc208735db4633646eb004479b48517b08d35d4ae3fe3eb" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Elgars Violinkoncert</title>
       <description>Edward Elgar: Violinkoncert, h-mol, op. 61. Vilde Frang, violin. Det Tyske Symfoniorkester Berlin. Dirigent: Robin Ticciati. 
 Vært: Helle Kristensen.</description>
@@ -175,16 +184,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Wed, 16 Jul 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/brahms-dobbeltkoncert-12422561223</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd5166ff5b1f843c34e/b2f6a4cbc0907ebad3fd5a63d69ea13a3a8cf65ff84130c689c61c42ac7361f3" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sibelius' Symfoni nr. 4</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Jean Sibelius: Symfoni nr. 4, a-mol, op. 63. Göteborg Symfonikerne. Dirigent: Santtu-Matias Rouvali. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sibelius-symfoni-nr-4-12422561222</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd342308537cfa0c8f8/84459a42c9caf12006a0d03a4d04e29c5092301cb43c28948263fef071137a0d" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
