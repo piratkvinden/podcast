@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 14. aug. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
+Helt værk: Dobbeltkoncert i F-dur af Haydn med Riccardo Minasi, Maxim Emelyanchev og Il Pomo d'Oro. 
+Vært: Malena Rønnow.</description>
+      <itunes:duration>01:54:00</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/torsdag-14-aug-2025-12422536334</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6ae7b626ea9bb05c6b6/a92f59a3578f32c9638e953d05cd7c2b54834ce90d4e9dc2e5790ed34fac43f9" length="164184627" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 13. aug. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
 Helt værk: Klarinettrio i Es-dur af Wolfgang Amadeus Mozart. 
@@ -206,16 +216,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Thu, 17 Jul 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-4-mar-2025-12422536102</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b906f0b34edcd965fbb1f6/1f5d3962c786be1572f8f975b241abedd07d49176cc8976646326d0460cdcd0c" length="164261809" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 3. mar. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
-Helt værk: Fantasi i C-dur op. 17 af Robert Schumann, spillet af Piotr Anderszewski. 
-Vært: Malena Rønnow.</description>
-      <itunes:duration>01:53:57</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/mandag-3-mar-2025-12422536101</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b7b567ff5c53172f03641c/5d02575aa4c627aa75ba20c9ec5de29d3e71c5c64dcf54ffe33ca778eee32942" length="164099955" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

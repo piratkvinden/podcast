@@ -319,5 +319,14 @@ Mail: freja.jakobsen@podimo.com</description>
       <itunes:duration>01:01:02</itunes:duration>
       <itunes:image href="https://cdn.podimo.com/images/8fef12f8-19fd-4682-8319-18445b712e91_400x400.png"/>
     </item>
+    <item>
+      <title>S2: Trailer</title>
+      <description>Grebet af GVFB er tilbage d. 19. august.</description>
+      <guid isPermaLink="false">7d04edb3-ed4c-43ed-b4f3-08db8872714e</guid>
+      <pubDate>Thu, 14 Aug 2025 13:30:09 +0000</pubDate>
+      <enclosure url="https://cdn.podimo.com/audios/3593c05a-1c14-40c8-ad81-c120a593edf0.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:00:45</itunes:duration>
+      <itunes:image href="https://cdn.podimo.com/images/2a29d245-0411-460b-825a-624b8d457be0_400x400.png"/>
+    </item>
   </channel>
 </rss>

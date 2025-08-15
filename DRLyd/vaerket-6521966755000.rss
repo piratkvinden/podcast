@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Hameriks Requiem</title>
+      <description>Asger Hamerik: Requiem, op. 34. DR Symfoniorkestret. Randi Stene, mezzosopran. DR Koncertkoret. Dirigent: Thomas Dausgaard. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 14 Aug 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/hameriks-requiem-12422561334</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4b61175376c1f57ddf/9e57cc1712df35a896fdd58c09f588141f693d00b42652ae965bb72a9887a4b2" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Sibelius' Lemminkäinen</title>
       <description>Jean Sibelius: Lemminkäinen, op. 22. BBC's Symfoniorkester. Dirigent: Sakari Oramo. 
 Vært: Helle Kristensen.</description>
@@ -174,16 +183,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Thu, 17 Jul 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/tjajkovskijs-klaverkoncert-nr-1-12422561224</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd5166ff5b1f843c353/8b4eae43dda8546a58f2d38851003b1dc1ddc05e43b38fd95105da0cbad349a1" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Brahms' Dobbeltkoncert</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Johannes Brahms: Dobbeltkoncert, a-mol, op. 102. Tianwa Yang, violin. Gabriel Schwabe, cello. Det Tyske Symfoniorkester Berlin. Dirigent: Antoni Wit. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/brahms-dobbeltkoncert-12422561223</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd5166ff5b1f843c34e/b2f6a4cbc0907ebad3fd5a63d69ea13a3a8cf65ff84130c689c61c42ac7361f3" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

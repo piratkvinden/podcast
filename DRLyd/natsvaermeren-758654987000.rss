@@ -69,42 +69,6 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65a469ce0e27b6d813a3758c/a1d1df4384deb5da74728b99012ce0ebd6ee6b659ce4034c996b17befacbde6c" length="168468927" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Blå fugl</title>
-      <description>Natsværmeren letter som engle, som fugle og andre bevingede væsener, rastløs og rolig på samme tid på musikkens vinger.
-Vært: Tina Rømer.</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Wed, 30 Jul 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/blaa-fugl-12422363343</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64d804ca5818d229423eb610/4529ea9fa08711793a3cf206a9d23ee2fe40f334fa72a9890900f9a03a9cf0d9" length="172802064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vingefang</title>
-      <description>På en aftens strækninger flyver Natsværmeren fra Finland, tager turen ned over Danmark, et smut forbi Frankrig og ender Senegal. Let som ingenting med, Rautavaara, Svaneborg Kardyb, Reynaldos Hahn og Seckou Keita Quartet.
-Vært: Minna Grooss.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Sun, 03 Aug 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/vingefang-12422363236</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647674227370b91538b04ea0/c93e2828c4effdb8e4b5b994bfa15052a9d98e597b0749c815e466ad7cfc3dc0" length="168481586" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Efter drømmeland</title>
-      <description>Når søvnen er fuld af mareridt og afmagt, er det tiden efter drømmene, der skaber glæde og håb for fremtiden.
-Vært: Katrine Ring.</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/efter-droemmeland-12422363163</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6431e89a6b209fb7f0244b7f/d4ba5a8f077b5c5f62beeb37e751609b5e58d543ce4cb8215688f10485c4d183" length="172801486" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ro og rasen</title>
-      <description>Elementerne bevæger sig i måne, vind og vand. Med masser af klassikere og ny musik med bla Sidechains, Søs Gunver Ryberg, Gustav Blume, Mathias Reumert &amp; Anders Elten. 
-Vært: Katrine Ring.</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/ro-og-rasen-12422363104</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63fbe834f97d042fe6c029a3/a508f4a3ea3d6cac6f4f382a6016e69648bc753dbcf370394b3c75216af80797" length="172801534" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Natten er sprød i den bløde belysning</title>
       <description>Vladimir Horowitz, en uopdaget folkesanger fra Georgien, spanske filmperler, og meget mere. 
 Vært: Minna Grooss.</description>
@@ -222,6 +186,15 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e5d6c5fd070cc03724d/cc75d7258ec3d6a25e5fdc6c139128fd59e1a1f654682a888b2f2fd3d3464d6f" length="168464264" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Dualitet</title>
+      <description>Modsætninger mødes og sød musik opstår. 
+Vært: Minna Grooss.</description>
+      <itunes:duration>01:56:54</itunes:duration>
+      <pubDate>Fri, 15 Aug 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/dualitet-12422563191</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680ab582b5640041419b5bbb/59643a093502eedb65380f097be3ca8d475b4f0bd014ca16944afa209df64314" length="168339138" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Stryger nattens sjæle med hårene</title>
       <description>Nænsom, overraskende, til tider udfordrende, og for det meste som at komme hjem. Også de steder du aldrig før har besøgt.
 Vært: Minna Grooss.</description>
@@ -267,13 +240,40 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb587f15fbe15e57e3d5c/611d6fd7062c9ea9c236e8f3d289c46dbb47c4c4271c0718fd92f20c9fc7b7bb" length="168506812" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Åbne spørgsmål</title>
-      <description>Tariverdiev stiller et spejl til rådighed, Gurdjieff stiller åbne spørgsmål og Ida Duelund synger på et sprog der ikke findes. 
+      <title>Blå fugl</title>
+      <description>Natsværmeren letter som engle, som fugle og andre bevingede væsener, rastløs og rolig på samme tid på musikkens vinger.
+Vært: Tina Rømer.</description>
+      <itunes:duration>02:00:00</itunes:duration>
+      <pubDate>Wed, 30 Jul 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/blaa-fugl-12422363343</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64d804ca5818d229423eb610/4529ea9fa08711793a3cf206a9d23ee2fe40f334fa72a9890900f9a03a9cf0d9" length="172802064" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Vingefang</title>
+      <description>På en aftens strækninger flyver Natsværmeren fra Finland, tager turen ned over Danmark, et smut forbi Frankrig og ender Senegal. Let som ingenting med, Rautavaara, Svaneborg Kardyb, Reynaldos Hahn og Seckou Keita Quartet.
 Vært: Minna Grooss.</description>
-      <itunes:duration>01:57:03</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/aabne-spoergsmaal-12422563153</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e87d208b2e4877edd9d726/8f931018035f28c1f1557604819f480062f8ecf21a1d92b515ec4a6ccef8d0d8" length="168571938" type="audio/mpeg"/>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/vingefang-12422363236</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:647674227370b91538b04ea0/c93e2828c4effdb8e4b5b994bfa15052a9d98e597b0749c815e466ad7cfc3dc0" length="168481586" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Efter drømmeland</title>
+      <description>Når søvnen er fuld af mareridt og afmagt, er det tiden efter drømmene, der skaber glæde og håb for fremtiden.
+Vært: Katrine Ring.</description>
+      <itunes:duration>02:00:00</itunes:duration>
+      <pubDate>Fri, 25 Jul 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/efter-droemmeland-12422363163</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6431e89a6b209fb7f0244b7f/d4ba5a8f077b5c5f62beeb37e751609b5e58d543ce4cb8215688f10485c4d183" length="172801486" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ro og rasen</title>
+      <description>Elementerne bevæger sig i måne, vind og vand. Med masser af klassikere og ny musik med bla Sidechains, Søs Gunver Ryberg, Gustav Blume, Mathias Reumert &amp; Anders Elten. 
+Vært: Katrine Ring.</description>
+      <itunes:duration>02:00:00</itunes:duration>
+      <pubDate>Tue, 29 Jul 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/ro-og-rasen-12422363104</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:63fbe834f97d042fe6c029a3/a508f4a3ea3d6cac6f4f382a6016e69648bc753dbcf370394b3c75216af80797" length="172801534" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
