@@ -7,6 +7,43 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Rundt om Punchbowlen med Schubert</title>
+      <description>I vores frokostkoncert i dag er det et udsøgt program flerstemmige sange sunget af otte mandsstemmer der bl.a. synger Schuberts Gesang der Geister über den Wassern, og udover sange af Schubert får du folkesange af Friedrich Silcher.
+I ensemblet er bl.a. sangerne Konstantin Krimmel, André Schuen, bariton og IIker Arcayürek og Patrick Grahl, tenorer. 
+Vært: Mette Greiffenberg.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 24 Jul 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/rundt-om-punchbowlen-med-schubert-12422435472</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672e9996575a48e6d03e8c9d/42bdebd9021472c6864433dcd05cae4ffd0121b10853cf778810caa93a28e8e0" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Modigliani Kvartetten i Østrig</title>
+      <description>De virker meget ungdommelige, selvom de har spillet sammen i mere end 20 år. Hør Modigliani Kvartetten i en flot koncert fra Østrig. På programmet er Ravels Strygekvartet i F-dur og en sats fra Schuberts strygekvartet 'Døden og pigen'. 
+Vært: Max Fage-Pedersen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/modigliani-kvartetten-i-oestrig-12422435462</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67255f41b97d2eaf8c5f6936/0b09f515f4d5a073fd5263d1616a5350f57bc6db94832c9dee323a2069190ab2" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Goldbergvariationerne</title>
+      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Mendelssohn og Wagner i Verbier</title>
+      <description>Kom med til koncert med den polske pianist Nikolaj Lugansky, der ved Verbier-festivalen 2024 gav en koncert med musik af Mendelssohn og Wagner. Du kan blandt andet høre Lugansky's eget arrangement af musik fra Wagner's mægtige opera Götterdämmerung, samt nogle af Mendelssohn's &quot;Lieder ohne Worte&quot;, altså sange uden ord.
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 22 Jul 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mendelssohn-og-wagner-i-verbier-12422435395</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e8b094d9493418f1a6bf2a/4e8867127ca1b8b698a4997d2c5399487820b1b05d7a1519de3b48313b58abef" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Når fuglene synger</title>
       <description>Mezzosopranen Niamh O'Sullivan og pianisten Gary Beecher optræder med et fugleinspireret liedprogram i Wigmore Hall i London. Under overskriften &quot;When Birds Do Sing&quot; optræder nattergale, lærker, ugler, gøge og svaner i sange af bl.a. Schubert, Mahler, Brahms, Korngold, Wolf og Ravel, samt i irske og engelske folkesange. 
 Vært: Magnus Larsson.</description>
@@ -135,16 +172,6 @@ Vært: Magnus Larsson.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c755c923dffbb197655cf/f2cea42d847c5698292b8cf2ad062373b45ad33126ea7dada5fd9ad5ba0c6c28" length="82085066" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Russisk klavermusik med pianisten Bruce Liu</title>
-      <description>Fra Koerner Hall i Toronto spiller den canadiske pianist Bruce Liu russisk klavermusik. Programmet begynder med De fire svaners dans fra Tjajkovskijs ballet Svanesøen, efterfulgt af Skrjabins 4.  klaversonate og Prokofjevs 7. klaversonate. En koncertpræstation der gav publikum ømme håndflader, men som til gengæld fik foræret hele fire ekstranumre. 
-Fra en koncert i Toronto i Canada d.19. januar 2025. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/russisk-klavermusik-med-pianisten-bruce-liu-12422535295</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c755c923dffbb197655c8/971e3b02c5926524bc508822d845985ca0449515025d08ed08ced3bd64e4061b" length="82101193" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Pianisten Charles Richard-Hamelin 2:2</title>
       <description>I dagens frokostkoncert kan du høre pianisten Charles Richard-Hamelin give koncert ved Lanaudière-festivalen i Québec, optaget i den intime og klangskønne Saint-Henri-de-Mascouche-kirke. På programmet er Frédéric Chopins Allegro de concert - et stort anlagt soloværk skrevet som begyndelsen på en aldrig fuldendt klaverkoncert - samt en række valse, hvor Chopins dans mellem elegance og melankoli står i fuldt flor. 
 Vært: Magnus Larsson.</description>
@@ -161,43 +188,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Tue, 29 Jul 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/pianisten-charles-richard-hamelin-1-2-12422535173</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e3fae4c7555875182a634d/730faa7a604f8a3eec33229e24ba5a72a83745027687b009d65e2f532d4c0eaa" length="82101759" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Rundt om Punchbowlen med Schubert</title>
-      <description>I vores frokostkoncert i dag er det et udsøgt program flerstemmige sange sunget af otte mandsstemmer der bl.a. synger Schuberts Gesang der Geister über den Wassern, og udover sange af Schubert får du folkesange af Friedrich Silcher.
-I ensemblet er bl.a. sangerne Konstantin Krimmel, André Schuen, bariton og IIker Arcayürek og Patrick Grahl, tenorer. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/rundt-om-punchbowlen-med-schubert-12422435472</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672e9996575a48e6d03e8c9d/42bdebd9021472c6864433dcd05cae4ffd0121b10853cf778810caa93a28e8e0" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Modigliani Kvartetten i Østrig</title>
-      <description>De virker meget ungdommelige, selvom de har spillet sammen i mere end 20 år. Hør Modigliani Kvartetten i en flot koncert fra Østrig. På programmet er Ravels Strygekvartet i F-dur og en sats fra Schuberts strygekvartet 'Døden og pigen'. 
-Vært: Max Fage-Pedersen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/modigliani-kvartetten-i-oestrig-12422435462</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67255f41b97d2eaf8c5f6936/0b09f515f4d5a073fd5263d1616a5350f57bc6db94832c9dee323a2069190ab2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Goldbergvariationerne</title>
-      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mendelssohn og Wagner i Verbier</title>
-      <description>Kom med til koncert med den polske pianist Nikolaj Lugansky, der ved Verbier-festivalen 2024 gav en koncert med musik af Mendelssohn og Wagner. Du kan blandt andet høre Lugansky's eget arrangement af musik fra Wagner's mægtige opera Götterdämmerung, samt nogle af Mendelssohn's &quot;Lieder ohne Worte&quot;, altså sange uden ord.
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 22 Jul 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mendelssohn-og-wagner-i-verbier-12422435395</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e8b094d9493418f1a6bf2a/4e8867127ca1b8b698a4997d2c5399487820b1b05d7a1519de3b48313b58abef" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
