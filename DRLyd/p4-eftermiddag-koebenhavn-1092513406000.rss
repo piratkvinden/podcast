@@ -6,6 +6,14 @@
     <description>P4 Eftermiddag København er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e40921446b9d8eb14e827c?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 22. aug. 2025</title>
+      <description>P4 Eftermiddag København er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+      <itunes:duration>01:55:00</itunes:duration>
+      <pubDate>Fri, 22 Aug 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-eftermiddag-koebenhavn/p4-eftermiddag-koebenhavn/fredag-22-aug-2025-14802530345</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a284a0451cdf26e16dcc/6d260b2b67e93a4fbd0ddecc5aff0ed418b94ac99072ab8f4665217a133033a6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 21. aug. 2025</title>
       <description>P4 Eftermiddag København er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
       <itunes:duration>02:57:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 19 Aug 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-eftermiddag-koebenhavn/p4-eftermiddag-koebenhavn/tirsdag-19-aug-2025-14802530342</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a283052e78b6ec490035/d4d47b94f8c989cb951ab2e1513298d4937e019d5a4adf3e57c031f5dbfb3390" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 18. aug. 2025</title>
-      <description>P4 Eftermiddag København er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-eftermiddag-koebenhavn/p4-eftermiddag-koebenhavn/mandag-18-aug-2025-14802530341</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842a286a0451cdf26e16e08/c658bc6242a8472e9449032d494e768fb82c55fc99200b66c1632c3b3d18dfe0" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

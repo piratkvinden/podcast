@@ -6,6 +6,14 @@
     <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e409217b5a12d61f22418f?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 22. aug. 2025</title>
+      <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+      <itunes:duration>01:55:00</itunes:duration>
+      <pubDate>Fri, 22 Aug 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-midt-og-vest-eftermiddag/p4-midt-og-vest-eftermiddag/fredag-22-aug-2025-14202530345</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b92a5f16b69830600cfa/cb59c482f9c74ca771fe8b4acd3c033fed4411d8f07c6f248dc2f1d82f493bd6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 21. aug. 2025</title>
       <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
       <itunes:duration>02:57:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 19 Aug 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-midt-og-vest-eftermiddag/p4-midt-og-vest-eftermiddag/tirsdag-19-aug-2025-14202530342</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b92a5f16b69830600cea/02a1f0c578f8251dbd648421c3ff4dedef5766c7457253f65bc877e2551c8165" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 18. aug. 2025</title>
-      <description>P4 Eftermiddag Midt- og vestjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-midt-og-vest-eftermiddag/p4-midt-og-vest-eftermiddag/mandag-18-aug-2025-14202530341</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b92ad37c69cd66576b6f/659e590ba1f24ba06460e585e198c386e4e447dec99f77dcef394bc2e836e31d" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
