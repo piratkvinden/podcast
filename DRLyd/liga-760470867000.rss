@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 23. aug. 2025</title>
+      <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+      <itunes:duration>02:51:06</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 18:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-23-aug-2025-13652502346</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c435fdc2d1a211da92516/8f34fdd2206d9202731fccfad0f80e9f099feec65946cafc96c3265da8af224c" length="246396474" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 21. aug. 2025</title>
       <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
       <itunes:duration>03:54:58</itunes:duration>
@@ -148,14 +156,6 @@
       <pubDate>Sat, 26 Jul 2025 18:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-26-jul-2025-13652561203</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685175fc61132eafc0c03bd7/fae2284b5e36f05ff036921ddf27e6777c0649fa9f825f03b9da593ceeae6d55" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Fredag 25. jul. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <itunes:duration>03:46:07</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-25-jul-2025-13652561202</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:685175ef7f356d2d8a0b932e/3be28d63ec93bbd6f949b32c2a0c1fb1fcb3995fb88c386356d1d426a0b3a1cb" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

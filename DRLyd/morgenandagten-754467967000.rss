@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 23. aug. 2025</title>
+      <description>Præludium:	Helmut Walcha: Kom, sandheds Ånd! og vidne giv
+Davidssalme: 62,6-9
+Salme: 300 &quot;Kom, sandheds Ånd! Og vidne giv&quot;
+Fra det N.T.:	1. Korintherbrev 12, 1-7
+Trosbekendelsen	
+Salme: 311 &quot;O Helligånd, du skat så skøn&quot;
+Postludium: Gottfried August Homilius: Trio i G-dur</description>
+      <itunes:duration>00:24:59</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-23-aug-2025-11042505346</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c617b626ea9bb0fa0ce/4d0ad6b6d9e5eb8b912e509eb4ae3b406f46618c96f62a3a5025f5fc43173d6b" length="35992937" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 22. aug. 2025</title>
       <description>Præludium:	Johann Gottfried Walther: Herre Jesus, vi er her
 Fra det G.T.:	Jeremias 29, 11-14
@@ -354,20 +368,6 @@ Postludium: Georg Philipp Telemann: Befal du dine veje</description>
       <pubDate>Fri, 25 Jul 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-25-jul-2025-11042505305</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a71/633df46dc7900a46291850329faf2b8e70972843978ab96b578b339fcba0e0f2" length="36051687" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 24. jul. 2025</title>
-      <description>Præludium:	Girolamo Frescobaldi: Toccata 
-Fra det G.T.:	Salme 145, 14-18
-Salme: 42 &quot;I underværkers land jeg bor&quot;
-Fra det N.T.:	Matthæusevangeliet 8, 14-22
-Korvers: Egil Hovland: Dets grund var lagt på klippen (Tekst: Matthæus 7, 24-25)
-Salme: 163 &quot;Fuglen har rede, og ræven har grav&quot;
-Postludium: Niels la Cour: Befal du dine veje</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-24-jul-2025-11042505304</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a6b/a079c95e542238cdcac8b63da1c04b32c57b3c91a65978de27484ed6027476a9" length="36034989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

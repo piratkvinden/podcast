@@ -6,6 +6,15 @@
     <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7ef898e43b46d2840619f?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 23. aug. 2025</title>
+      <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
+Vært: Jonas Hansen.</description>
+      <itunes:duration>02:57:00</itunes:duration>
+      <pubDate>Sat, 23 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-23-aug-2025-16452525346</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68551771de5d5eb0ff636d5f/ee3f6a4b94000a240dc1db64e6de1d39319f1511795fd6aa07d9459a1565ffba" length="254881995" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Søndag 17. aug. 2025</title>
       <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
@@ -319,15 +328,6 @@ Vært: Jonas Hansen.</description>
       <pubDate>Sat, 01 Mar 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-1-mar-2025-16452525096</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b5122efe5b955d9fabe354/c4224c574f1f37d0526c6bf6f884f2e62369f69f24b9f5991bc54d9187ab1647" length="254881419" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 23. Feb. 2025</title>
-      <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
-Vært: Jonas Hansen.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Sun, 23 Feb 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-23-feb-2025-16452525087</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ad293a22055101a9509120/b03556e9ff0e2cefab6f943f907beb3c8d8b0eeaa08500fa6737a367a35e69c0" length="254881419" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
