@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 25. aug. 2025</title>
+      <description>Præludium:	José Elias: Præludium d-mol
+Ord til dagen: Søren Kierkegaard
+Salme: 39 &quot;Synes det i kors og pine&quot;
+Fra det N.T.:	Matthæusevangeliet 12, 38-42
+Korvers: Ulrich Teuber: Salige er de øjne (Tekst: Luk. 10, 23b-24)
+Salme: 752 &quot;Morgenstund har guld i mund&quot;
+Postludium: Nicolas Jacques Lemmens: Fanfare D-dur</description>
+      <itunes:duration>00:25:00</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-25-aug-2025-11042505351</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c327b626ea9bb0f9cf7/fc9d555ff526e9282aa91a11ef0f78c123ff6203e1be4e4a713448e1d0ec6bbe" length="36003308" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 23. aug. 2025</title>
       <description>Præludium:	Helmut Walcha: Kom, sandheds Ånd! og vidne giv
 Davidssalme: 62,6-9
@@ -340,20 +354,6 @@ Postludium: Knud Høgenhaven: Jesus er navnet mageløst</description>
       <pubDate>Mon, 28 Jul 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-28-jul-2025-11042505311</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c297b626ea9bb0f9c13/95794aa318dda445591d79f903afe44a0bc470b0d4bb8dba2b1dd452547c63b4" length="36035569" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 26. jul. 2025</title>
-      <description>Præludium:	Alberto Ginastera: Aurora lucis rutilat
-Davidssalme: 40,2 &amp; 4-6
-Salme: 754 &quot;Se, nu stiger solen af havets skød&quot;
-Fra det N.T.:	Romerbrevet 6, 3-11
-Trosbekendelsen	
-Salme: 396 &quot;Min mund og mit hjerte&quot;
-Postludium: Jesper Madsen: Min mund og mit hjerte</description>
-      <itunes:duration>00:24:55</itunes:duration>
-      <pubDate>Sat, 26 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-26-jul-2025-11042505306</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a76/8cdd050331a93c6d4a5945f4c81424de7160ee3bb7542a99bba3aca63ac6bc6a" length="35883495" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,14 @@
     <description>Vært: Carsten Wolf Andersen.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e440a7c7555875182c209d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 25. aug. 2025</title>
+      <description>Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:20:03</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/mandag-25-aug-2025-12422555351</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6826eba87b626ea9bb0cf9ee/49ebbe68123e63165fa19b0cebeae6965aa396fa41367725149d21017ce72618" length="28885460" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 18. aug. 2025</title>
       <description>Vært: Carsten Wolf Andersen.</description>
       <itunes:duration>00:20:03</itunes:duration>
@@ -266,15 +274,6 @@ Vært: Carsten Wolf Andersen.</description>
       <pubDate>Sun, 02 Mar 2025 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/nash-ensemble-debussy-12422555097</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b66542ff5c53172ffa8a1a/843adc1fdc6094a659b248bf7442a2b2f9b25f6a9a96019e2ac3edf5985d314b" length="28885697" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Nash Ensemble - Debussy</title>
-      <description>Nash Ensemblet, der er et af Englands mest garvede kammermusikensembler, sætter Debussys strygekvartet overfor de sene sonater og serverer en overraskelse på et nyt album. Debussys sonater hører til hans sidste værker. De blev skrevet som en del af en planlagt serie på seks sonater, hvoraf han kun nåede at fuldføre tre. Han vender tilbage til klassiske former, men beholder de karakteristiske farverige harmonier og uforudsigelige melodiske linjer. Hør en sats fra Cellosonaten (1915), der kombinerer fransk elegance med en dyb melankoli og en sats fra Violinsonaten (1917), der blev Debussys sidste værk. På trods af hans sygdom har den en livlig og sprudlende karakter, særligt i den afsluttende sats, som Debussy selv beskrev som &quot;fuld af tumultarisk glæde&quot;. Hør også en overraskelse i form at en delikat kammermusikalsk udgave af Forspil til en fauns eftermiddag. 
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:20:03</itunes:duration>
-      <pubDate>Wed, 26 Feb 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/nash-ensemble-debussy-12422555093</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b11e14067e38c41fc7b0d9/f259f41105b3c84ef2202a096804579ea281d1c082776850ffac63dbe35de3cf" length="28885705" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

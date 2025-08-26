@@ -6,6 +6,15 @@
     <description>Povlsen &amp; Holm fejrer livets små sejre og giver dig energi til det sidste stykke vej mod fyraften.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb094770845b2bb44c90?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 25. aug. 2025</title>
+      <description>Povlsen &amp; Holm hjælper P4-lytterne igennem den sidste del af arbejdsdagen med humor, underholdning og lytterinteraktion.
+Værter: Henrik Povlsen og Jesper Holm.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Mon, 25 Aug 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/povlsen-og-holm/povlsen-og-holm/mandag-25-aug-2025-16122547351</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689e5e9e264e9431c641f098/37f25466eb36cf71ad3d0fe8c925370c3559804d31ea6085b824e7471fbd8f0c" length="82082068" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 21. aug. 2025</title>
       <description>Povlsen &amp; Holm hjælper P4-lytterne igennem den sidste del af arbejdsdagen med humor, underholdning og lytterinteraktion.
 Værter: Henrik Povlsen og Jesper Holm.</description>
@@ -679,15 +688,6 @@ Værter: Henrik Povlsen og Jesper Holm.</description>
       <pubDate>Wed, 26 Feb 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/povlsen-og-holm/povlsen-og-holm/onsdag-26-feb-2025-16122547093</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67b11de91c492b01047c0542/c11bb367b12ea0690344c5d5344e433d218956320118b567b37ff2270725a1a8" length="82082068" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 25. Feb. 2025</title>
-      <description>Povlsen &amp; Holm hjælper P4-lytterne igennem den sidste del af arbejdsdagen med humor, underholdning og lytterinteraktion.
-Værter: Henrik Povlsen og Jesper Holm.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 25 Feb 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/povlsen-og-holm/povlsen-og-holm/tirsdag-25-feb-2025-16122547092</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67afcc2dc350d64c9189f737/b8f45612f9d79763d32ee9dd0a994e0fe8f69bb9a362c9a1820620ddef168936" length="82082068" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
