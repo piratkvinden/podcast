@@ -7,15 +7,6 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9830?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Melankoli</title>
-      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>00:45:00</itunes:duration>
-      <pubDate>Thu, 31 Jul 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-9/melankoli-12422433484</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673a77b1d91ec585bdbac220/da9ef7f53f9c0e93bc5ae5971530fbe7444875c6b19050de5da74105bff10f29" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
       <title>Tirsdag 26. aug. 2025</title>
       <description>I dag er Siesta i det legende hjørne. Til dig der er med på legen, og er nysgerrig på musik der overrasker. Nyd kreative komponisters opfindsomme idéer. 
 Vært: Carsten Wolf Andersen.</description>
@@ -194,6 +185,15 @@ Vært: Carsten Wolf Andersen.</description>
       <pubDate>Fri, 01 Aug 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422533145</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e1e5344715e76f8f820f22/136fde09bdeb6db6999c822bb669fdb3ffb5fb9e34fd8b26437d31ae338f5f6e" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Melankoli</title>
+      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>00:45:00</itunes:duration>
+      <pubDate>Thu, 31 Jul 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta-9/melankoli-12422433484</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673a77b1d91ec585bdbac220/da9ef7f53f9c0e93bc5ae5971530fbe7444875c6b19050de5da74105bff10f29" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
