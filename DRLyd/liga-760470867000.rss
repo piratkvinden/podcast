@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 27. aug. 2025</title>
+      <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+      <itunes:duration>03:00:03</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 20:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/onsdag-27-aug-2025-13652502353</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c447c985ac6b7e09f87c3/0375a607ccc162699851f75f5eb19185d28b931dc1b58047c16df9794d5749aa" length="259285626" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 25. aug. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <itunes:duration>04:00:03</itunes:duration>
@@ -140,14 +148,6 @@
       <pubDate>Fri, 01 Aug 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-1-aug-2025-13652502315</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888955f7335c10be97d6809/bbe3c18ab3d836301d4372c41f0cb78a50c7c672b91bafcee1095ebd3f71ca94" length="332893242" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 29. jul. 2025</title>
-      <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
-      <itunes:duration>02:09:02</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 19:45:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/tirsdag-29-jul-2025-13652502312</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888953d226d7452fb3f8f33/7f40e02733238e7fbb2178c92317688dc57d0bae795db5334c822327329df0ea" length="185831802" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

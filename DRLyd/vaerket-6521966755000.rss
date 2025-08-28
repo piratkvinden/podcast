@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Góreckis Symfoni nr. 3</title>
+      <description>Henryk Górecki: Symfoni nr. 3. Dawn Upshaw, sopran. London Sinfonietta. Dirigent: David Zinman. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/goreckis-symfoni-nr-3-12422561353</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4d61175376c1f57e12/57ecc53c9757e83c99a088143b1e0c21c0341b7c075443c6634062d7175f3888" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Sjostakovitjs Violinkoncert nr. 1</title>
       <description>Dmitrij Sjostakovitj: Violinkoncert nr. 1, a-mol, op. 77. Baiba Skride, violin. Boston Symfonikerne. Dirigent: Andris Nelsons. 
 Vært: Helle Kristensen.</description>
@@ -162,16 +171,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Wed, 30 Jul 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/poulencs-les-animaux-modeles-12422561243</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd8166ff5b1f843c392/c32cca81f5576b3e3ffa8b1529d7358f2ed1278c2d817dbdff653817e191a18f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mendelssohns skotske symfoni</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Felix Mendelssohn: Symfoni nr. 3, a-mol, op. 56, Den Skotske. Zürich Tonhalle Orkestret. Dirigent: Paavo Järvi. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/mendelssohns-skotske-symfoni-12422561242</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fd8166ff5b1f843c389/29c907d4751432da60f69d7ba961b02f36905fdfc2a6d3fd337c15f53f410706" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
