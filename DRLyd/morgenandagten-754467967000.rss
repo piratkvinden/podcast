@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 28. aug. 2025</title>
+      <description>Præludium:	Morten Nyord: Præludium
+Fra det G.T.:	Salme 119,130-135
+Salme: 154 &quot;En bondemand går ud at så&quot;             
+Fra det N.T.:	Matthæusevangeliet 13, 19-23
+Korvers: Ulrich Teuber: Salige er de øjne (Tekst: Luk. 10, 23b-24)
+Salme: 401 &quot;Gud ord det er vort arvegods&quot;
+Postludium: Bo Grønbech: Procession</description>
+      <itunes:duration>00:25:02</itunes:duration>
+      <pubDate>Thu, 28 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-28-aug-2025-11042505354</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c327b626ea9bb0f9d03/c46f6ee0296502b306206c8e71a60381676f837a03e759cee1b0a6ba0c78a3d9" length="36057440" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 27. aug. 2025</title>
       <description>Præludium:	Johann Dietrich Druckmüller: Largo i h-mol
 Fra det G.T.:	Esajas 55, 6-11
@@ -354,20 +368,6 @@ Postludium: Heinrich Scheidemann: Alleluia, laudem dicite Deo nostro</descriptio
       <pubDate>Wed, 30 Jul 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-30-jul-2025-11042505313</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2a61175376c1099a99/d4d92fc27803bdabaab2848eee7d74c054c8c69afd78c93d538121bef2b447ea" length="36025205" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 29. jul. 2025</title>
-      <description>Præludium: Niels W. Gade: Præludium i c-mol
-Fra det G.T.: Esajas 57,14-18
-Salme: 744 &quot;Morgenrøden sig udstrækker&quot;
-Fra det N.T.: Matthæusevangeliet 9, 9-13
-Korvers: Johann Sebastian Bach: Jesus, han er syndres ven (Tekst: J.H. Schrader 1731, Brorson 1735)
-Salme: 310 &quot;Gud Helligånd, i tro os lær&quot;
-Postludium: Johann Sebastian Bach: Gud Helligånd, i tro os lær</description>
-      <itunes:duration>00:24:58</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-29-jul-2025-11042505312</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2961175376c1099a7b/28fab139220890c80c77fe0f6dd00b4892fe85f070ae7140f450cf0083f94c7a" length="35961262" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

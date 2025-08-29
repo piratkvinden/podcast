@@ -6,6 +6,15 @@
     <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e46ad8c039d56f04e3b57b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Efterspil</title>
+      <description>Intet efterspil uden forspil, mellemspil og andensatser. 
+Vært: Katrine Ring.</description>
+      <itunes:duration>01:56:55</itunes:duration>
+      <pubDate>Fri, 29 Aug 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/efterspil-12422563354</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e60923dffbb1977760a/721c5eeb6a1fe0f67b3b717056dc9830b8b685fd13912bc38effb37bb6e5c7c0" length="168365072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Torsdag 28. aug. 2025</title>
       <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.
 Vært: Peter Albrechtsen.</description>
@@ -165,15 +174,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Sat, 09 Aug 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/efter-den-sidste-sky-12422563182</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6802cd0d036df1a93c8d19c7/b3087bb70bb55a255c1e1e01de32723083fa9caa6dd258f709ddee2fbffccb52" length="168438255" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Blå fugl</title>
-      <description>Natsværmeren letter som engle, som fugle og andre bevingede væsener, rastløs og rolig på samme tid på musikkens vinger.
-Vært: Tina Rømer.</description>
-      <itunes:duration>02:00:00</itunes:duration>
-      <pubDate>Wed, 30 Jul 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/blaa-fugl-12422363343</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64d804ca5818d229423eb610/4529ea9fa08711793a3cf206a9d23ee2fe40f334fa72a9890900f9a03a9cf0d9" length="172802064" type="audio/mpeg"/>
     </item>
     <item>
       <title>Vingefang</title>
