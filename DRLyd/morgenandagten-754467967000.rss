@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 30. aug. 2025</title>
+      <description>Præludium:	Georg Böhm: O Herre Krist! dig til os vend
+Davidssalme: 63,2-5
+Salme: 748 &quot;Nu vågne alle Guds fugle små&quot;
+Fra det N.T.:	1. Korintherbrev 15, 1-10a
+Trosbekendelsen	
+Salme: 523 &quot;Min nåde er dig nok&quot;
+Postludium: Johann Sebastian Bach: Fuga g-mol, BWV 578</description>
+      <itunes:duration>00:24:59</itunes:duration>
+      <pubDate>Sat, 30 Aug 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-30-aug-2025-11042505356</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c327b626ea9bb0f9cf2/bf3caaa1db51d621ca6c65b9949680f1c6dbb7fa5b4d9f426172bfe14e872d31" length="35993512" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 29. aug. 2025</title>
       <description>Præludium:	Théodore Salomé: Verset
 Fra det G.T.:	1. Mosebog 1,9-13
@@ -354,20 +368,6 @@ Postludium: Mads Høck: Nu rinder solen op af østerlide</description>
       <pubDate>Fri, 01 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-1-aug-2025-11042505315</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2b61175376c1099aa2/f6b52c05ccdd702ba1d2066a92c6cbba8a185d36d54fe8c47df71b90d4229b07" length="35981416" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 31. jul. 2025</title>
-      <description>Præludium: Kate Westrop: Andante
-Fra det G.T.: 1. Samuelsbog 2, 2-8
-Salme: 66, vers 1-4 &quot;Lyslevende fra Himmerig&quot;
-Fra det N.T.: Matthæusevangeliet 9, 18-26
-Korvers: Johann Sebastian Bach: Jesus, han er syndres ven (Tekst: J.H. Schrader 1731, Brorson 1735)
-Salme: 66, vers 5-6
-Postludium: Johann Kuhnau: Il Concerto Musico delle Donne</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Thu, 31 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-31-jul-2025-11042505314</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2b7b626ea9bb0f9c3d/efa854a629c0090ca9aa484d7dccee98cd1c4b42b56541f3331c2e3ba08330b3" length="36001579" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
