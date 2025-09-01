@@ -7,6 +7,24 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Modigliani Kvartetten i Østrig</title>
+      <description>De virker meget ungdommelige, selvom de har spillet sammen i mere end 20 år. Hør Modigliani Kvartetten i en flot koncert fra Østrig. På programmet er Ravels Strygekvartet i F-dur og en sats fra Schuberts strygekvartet 'Døden og pigen'. 
+Vært: Max Fage-Pedersen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 05 Aug 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/modigliani-kvartetten-i-oestrig-12422435462</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67255f41b97d2eaf8c5f6936/0b09f515f4d5a073fd5263d1616a5350f57bc6db94832c9dee323a2069190ab2" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Goldbergvariationerne</title>
+      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Drømme og rytmer i Elbphilharmonien</title>
       <description>Tre store orkesterværker og tre forskellige klanguniverser er på menuen i dagens Frokostkoncert fra den ikoniske Elbphilharmonie i Hamborg. Fra Debussys impressionistiske &quot;Prélude à l'après-midi d'un faune&quot; over Mahlers intense Adagio fra den 10. symfoni til Gershwins sprudlende &quot;I Got Rhythm-variationer&quot;. 
 Pierre-Laurent Aimard er klaversolist, og David Robertson dirigerer NDR Elbphilharmonie Orkestret. 
@@ -177,24 +195,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Mon, 04 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/rakhmaninovs-1-klaverkoncert-12422535321</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c759ba75c4b58350d25e7/caf8f22786ac2b68cd35500cc21b8823e478a131d639eaf179710d541fbed441" length="82102346" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Modigliani Kvartetten i Østrig</title>
-      <description>De virker meget ungdommelige, selvom de har spillet sammen i mere end 20 år. Hør Modigliani Kvartetten i en flot koncert fra Østrig. På programmet er Ravels Strygekvartet i F-dur og en sats fra Schuberts strygekvartet 'Døden og pigen'. 
-Vært: Max Fage-Pedersen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/modigliani-kvartetten-i-oestrig-12422435462</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67255f41b97d2eaf8c5f6936/0b09f515f4d5a073fd5263d1616a5350f57bc6db94832c9dee323a2069190ab2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Goldbergvariationerne</title>
-      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
