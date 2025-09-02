@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 1. sep. 2025</title>
+      <description>Præludium:	Peter Lindeman: Præludium i e-mol
+Ord til dagen: af Origenes
+Salme: 321, vers 1-4 &quot;O kristelighed!&quot;
+Fra det N.T.:	Matthæusevangeliet 13, 44-52
+Korvers: Egil Hovland: Hvem skal vi gå til, Herre? (Tekst: Britt G. Hallqvist)
+Salme: 321, vers 5-7
+Postludium: Bo Grønbech: O kristelighed</description>
+      <itunes:duration>00:25:03</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-1-sep-2025-11042505361</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c347b626ea9bb0f9d1a/9733818e03068f7b03e343220c4550b70427251c8f5668b416f8ac1335510fd2" length="36077031" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 30. aug. 2025</title>
       <description>Præludium:	Georg Böhm: O Herre Krist! dig til os vend
 Davidssalme: 63,2-5
@@ -340,20 +354,6 @@ Postludium: Helmut Walcha: Om alle mine lemmer</description>
       <pubDate>Mon, 04 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-4-aug-2025-11042505321</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2b61175376c1099aac/b5f4106000ee335ffb364acf0c70f4579c3e602fc9817afc46d87b29de330b71" length="36053424" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 2. aug. 2025</title>
-      <description>Præludium: Johann Sebastian Bach: Herre Jesus, vi er her
-Davidssalme: 42,2-4 &amp; 6
-Salme: 10 &quot;Alt, hvad som fuglevinger fik&quot;
-Fra det N.T.: Romerbrevet 6, 19-23
-Trosbekendelsen 	
-Salme: 518 &quot;På Guds nåde&quot;
-Postludium: Leon Böelmann: Moderato i F-Dur</description>
-      <itunes:duration>00:24:58</itunes:duration>
-      <pubDate>Sat, 02 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-2-aug-2025-11042505316</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2b61175376c1099aa7/adb630c9bfbc2d080730c46866a448023a755aad44bc569d438abd1ce3687de1" length="35954333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

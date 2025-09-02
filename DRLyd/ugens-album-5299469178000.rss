@@ -6,6 +6,14 @@
     <description>Vært: Carsten Wolf Andersen.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e440a7c7555875182c209d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 1. sep. 2025</title>
+      <description>Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:20:03</itunes:duration>
+      <pubDate>Mon, 01 Sep 2025 19:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/mandag-1-sep-2025-12422555361</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6826eb6d7b626ea9bb0cf80d/41dc5373bba76e522d464e717e1e0f61a1aa8fa3c1fa654cb3a1b58520e9e39a" length="28885460" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 29. aug. 2025</title>
       <description>Vært: Carsten Wolf Andersen.</description>
       <itunes:duration>00:20:03</itunes:duration>
@@ -264,15 +272,6 @@ Vært: Carsten Wolf Andersen.</description>
       <pubDate>Sun, 09 Mar 2025 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/nevermind-goldbergvariationerne-12422555107</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67bf9f095475915f73285698/d74be82fa027a04807de7ac54bb6a2790aad087bba2e33e34a555bfd2610a63f" length="28839044" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Nevermind - Goldbergvariationerne</title>
-      <description>Bachs Goldberg-variationer er et af de mest bearbejdede værker i musikhistorien. De findes arrangeret for strygekvartet, blæserkvintet, duoer, trioer, guitarer, gamber m.v., men ikke for den på Bachs tid meget udbredte instrumentkombination som Nevermind besidder. Den franske kvartet har nu transskriberet værket for traversfløjte, violin, gambe og basso continuo - vekslende mellem cembalo og orgel alt efter musikkens beskaffenhed. Bach tog i variationerne udgangspunkt i forskellige standardformer, der enten kalder på cembalo eller orgel, og alle 4 instrumenter er ikke med i alle variationerne - et valg Nevermind har taget på baggrund af almindelig praksis på Bachs tid. Hør her arien og de første 6 variationer. 
-Vært: Carsten Wolf Andersen.</description>
-      <itunes:duration>00:20:01</itunes:duration>
-      <pubDate>Wed, 05 Mar 2025 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ugens-album/ugens-album-2025/nevermind-goldbergvariationerne-12422555103</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ba58e05a2f57d1ea5abd1f/f4c2d67a3376ab760a0c4c1fd2a757646563c7e73f8dc8cf2b74f6eae5b70666" length="28840196" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
