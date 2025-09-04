@@ -7,6 +7,24 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Goldbergvariationerne</title>
+      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
+      <title>Dalene, Brantelid og Hadland i Wigmore Hall</title>
+      <description>Tre af Skandinaviens stærkeste musikprofiler mødes i Londons traditionsrige Wigmore Hall: violinisten Johan Dalene, cellisten Andreas Brantelid og pianisten Christian Ihle Hadland. Sammen kaster de sig over to klavertrioer, der på hver sin måde emmer af musikalsk opfindsomhed: Erich Wolfgang Korngolds Klavertrio i D-dur, et imponerende ungdomsværk, skrevet da han var blot 12 år gammel, og derefter Maurice Ravels farvemættede Klavertrio i a-mol, komponeret i krigens skygge sommeren 1914. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/dalene-brantelid-og-hadland-i-wigmore-hall-12422535363</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7563a75c4b58350d22e4/631e92d34b074d964610857e68879e83d7fa7f2e2060405c002ff6f56ab2d675" length="82100618" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Nigel Short dirigerer Tenebrae</title>
       <description>Det britiske vokalensemble Tenebrae har specialiseret sig i at synge kormusik fra det 20 og 21 århundrede, og  her synger de  hymner og bønner omfavnet af en stille indadvendt ro af blandt andre Caroline Shaw, Benjamin Britten og Joanna Marsh.
 Dirigent: Nigel Short. 
@@ -187,24 +205,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Wed, 06 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/rakhmaninovs-2-klaverkoncert-12422535323</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7560923dffbb1976561c/7c0ac5b58d9293b3a26f5062cad96701cd722a035798170aad13a8c6137a8b2a" length="82103496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Modigliani Kvartetten i Østrig</title>
-      <description>De virker meget ungdommelige, selvom de har spillet sammen i mere end 20 år. Hør Modigliani Kvartetten i en flot koncert fra Østrig. På programmet er Ravels Strygekvartet i F-dur og en sats fra Schuberts strygekvartet 'Døden og pigen'. 
-Vært: Max Fage-Pedersen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/modigliani-kvartetten-i-oestrig-12422435462</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67255f41b97d2eaf8c5f6936/0b09f515f4d5a073fd5263d1616a5350f57bc6db94832c9dee323a2069190ab2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Goldbergvariationerne</title>
-      <description>I dagens Frokostkoncert kan du høre J.S. Bach's uddødelige mesterværk &quot;Goldbergvariationerne&quot;, musikalsk arkitektur når det er allerbedst og et af de mest ikoniske klaverværker der nogensinde er komponeret, i et arrangement for tre strygere, spillet af Dmitry Sitkovetsky (violin), Andrei Gridchuk (bratsch) og Lilyana Kehayova på cello. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/goldbergvariationerne-12422435453</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671d688dc0065080aae04f55/5c84d0ef77565109e400f4e2e630b07eda096a16fbf2a3cb219530ee302462d6" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

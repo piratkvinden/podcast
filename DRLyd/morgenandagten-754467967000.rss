@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 3. sep. 2025</title>
+      <description>Præludium: François Couperin: Kyrie eleison (Plein-chant du premier Kyrie, en taille)
+Fra det G.T.:	Esajas 59,14-20
+Salme: 495 &quot;Midt i livet er vi stedt&quot;
+Fra det N.T.:	Matthæusevangeliet 14, 1-12
+Korvers: Egil Hovland: Hvem skal vi gå til, Herre? (Tekst: Britt G. Hallqvist)
+Salme: 339 &quot;Vort liv blev reddet&quot;
+Postludium: François Couperin: Christe eleison (Récit de Cromhorne)</description>
+      <itunes:duration>00:25:03</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-3-sep-2025-11042505363</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c347b626ea9bb0f9d1f/54aada79c0f9ba55c722dd048489052954e9ef3ca5c4fc8836b765f1342167b2" length="36082217" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 2. sep. 2025</title>
       <description>Præludium:    Johann Sebastian Bach: Præludium g-mol, BWV 558/I
 Fra det G.T.:	Jeremias 17, 5-8
@@ -354,20 +368,6 @@ Postludium: Diderik Buxtehude: Behold os, Herre, ved dit ord</description>
       <pubDate>Tue, 05 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-5-aug-2025-11042505322</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c5f7b626ea9bb0fa0ae/270581a370e6479bc2f83a04d8020688270bf077d580bee1e80fb393d88aa004" length="36014258" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 4. aug. 2025</title>
-      <description>Præludium: Erik Haumann: Midt iblandt os er Guds rige
-Ord til dagen: Af Desmond Tutu
-Salme: 320 &quot;Midt iblandt os er Guds rige&quot;
-Fra det N.T.: Matthæusevangeliet 9, 35-38
-Korvers: Mark Baumann: Hvis nogen vil følge efter mig (Tekst: Matthæus 16, 24-25)
-Salme: 8, vers 5-6 &quot;Om alle mine lemmer&quot;
-Postludium: Helmut Walcha: Om alle mine lemmer</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Mon, 04 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-4-aug-2025-11042505321</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2b61175376c1099aac/b5f4106000ee335ffb364acf0c70f4579c3e602fc9817afc46d87b29de330b71" length="36053424" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
