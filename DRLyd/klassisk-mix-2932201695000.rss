@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 4. sep. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
+Helt værk: Klaverkoncert i a-mol af Grieg med Leif Ove Andsnes, Berliner Filharmonikerne og Mariss Janssons. 
+Vært: Malena Rønnow.</description>
+      <itunes:duration>01:54:00</itunes:duration>
+      <pubDate>Thu, 04 Sep 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/torsdag-4-sep-2025-12422536364</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6bd7b626ea9bb05c823/222ee4a06b38f5fdf14c4a96fc081b70596ff0c45e35f45d9de56e7871524b3b" length="164179443" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 2. sep. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
 Helt værk: Fløjtekoncert af Carl Nielsen med Ulla Miilmann, DR Symfoniorkestret og Fabio Luisi. 
@@ -206,16 +216,6 @@ Vært: Malena Rønnow.</description>
       <pubDate>Fri, 08 Aug 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/onsdag-2-apr-2025-12422536143</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67df435b711e98720ca07add/945e6f8710240a8b3ab207294f7275d0e846b2eb2cd4aea9f72114b5f9dcca28" length="164229555" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 26. mar. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
-Helt værk: Morceaux de fantaisie (fantasistykker) af Rachmaninov, spillet af Alexandre Tharaud. 
-Vært: Malena Rønnow.</description>
-      <itunes:duration>01:53:57</itunes:duration>
-      <pubDate>Wed, 06 Aug 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/onsdag-26-mar-2025-12422536133</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d60839eb0a841decb16575/7f386a61bcf38a34d8e36a9ef2a75110b94d84614437cc5dbaa7e0c63a921b41" length="164103988" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
