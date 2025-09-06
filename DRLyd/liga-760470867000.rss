@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 5. sep. 2025</title>
+      <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+      <itunes:duration>04:58:15</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-5-sep-2025-13652502365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688895f4226d7452fb3f9539/28f17d51f6fa4ef5b23f57038289da06abb56fd6031df7347c16f935f6547db0" length="429494202" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Søndag 31. aug. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <itunes:duration>08:00:03</itunes:duration>
@@ -140,14 +148,6 @@
       <pubDate>Fri, 08 Aug 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-8-aug-2025-13652502325</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688895891d7c48062c7600a1/bb0144434d911e8cf560be16787b21876b7cac28383e3bec53e30a2f9ec13d7a" length="322625912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 7. aug. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <itunes:duration>04:54:59</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/torsdag-7-aug-2025-13652502324</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68889589c25d35e786b900cd/4eeb9bb11ef1a464ff2df72f994c032a8e30164d7e7619c4c60dc85a22c89462" length="424793912" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

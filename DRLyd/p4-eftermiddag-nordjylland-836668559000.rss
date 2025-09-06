@@ -6,6 +6,14 @@
     <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e409227728a7a225238671?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 5. sep. 2025</title>
+      <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+      <itunes:duration>01:55:00</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/fredag-5-sep-2025-14102530365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9c0b55477aa472c342d/8702ab3834d2859cb1cb320d217408935730719f11a3d86e0a3f8df5ed1baff8" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 4. sep. 2025</title>
       <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
       <itunes:duration>02:57:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 02 Sep 2025 15:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/tirsdag-2-sep-2025-14102530362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9c0f0501130c3bd05da/65aecef4a1de1dc4df60f34b23b728cdb8e5657216be53ccc22ae7616246f067" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 1. sep. 2025</title>
-      <description>P4 Eftermiddag Nordjylland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-      <itunes:duration>02:57:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 15:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-eftermiddag-nordjylland/p4-eftermiddag-nordjylland/mandag-1-sep-2025-14102530361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9c05f16b69830601629/ad05fc360083e605870eade1d0c7d5119da5ad3d4c4440e2bd30addcef27fdd0" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

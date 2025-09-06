@@ -6,6 +6,14 @@
     <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc8dc755587518300a39?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 5. sep. 2025</title>
+      <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+      <itunes:duration>03:55:00</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/fredag-5-sep-2025-14702520365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835776b5f16b698305dfd8c/5643926168ac5707d9bc7263b5016f658c155ff7ee5971a59575747df786d1d8" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 4. sep. 2025</title>
       <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
       <itunes:duration>03:55:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 02 Sep 2025 06:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/tirsdag-2-sep-2025-14702520362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835775c5f16b698305dfc26/67f8995cf1a9dc905c63edf23f2a3e3157e2a915665a8931492de4ed4e460e8e" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 1. sep. 2025</title>
-      <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-      <itunes:duration>03:55:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/mandag-1-sep-2025-14702520361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835777e5f16b698305dff6c/5847a1e8634e4b752599317c37ec90c767649f6547b1a55458fb1969a5684107" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

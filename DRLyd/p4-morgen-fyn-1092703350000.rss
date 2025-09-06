@@ -6,6 +6,14 @@
     <description>Stå op med P4 Morgen Fyn og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc88c7555875183009df?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 5. sep. 2025</title>
+      <description>Stå op med P4 Morgen Fyn og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+      <itunes:duration>03:55:00</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-morgen-fyn/p4-morgen-fyn-2025/fredag-5-sep-2025-14602520365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68358ebb5f16b698305e9fa8/d41aca387c511416dd4cfc21df9b43d354ab4c7d94c869c9de03d7ca3b997467" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 4. sep. 2025</title>
       <description>Stå op med P4 Morgen Fyn og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
       <itunes:duration>03:55:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 02 Sep 2025 06:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-morgen-fyn/p4-morgen-fyn-2025/tirsdag-2-sep-2025-14602520362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683595bfbd7f09b343f6abaa/bfeabfa22200b341b8dc472ac905673a0759550f426da5aca82119c75800bf9f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 1. sep. 2025</title>
-      <description>Stå op med P4 Morgen Fyn og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-      <itunes:duration>03:55:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-morgen-fyn/p4-morgen-fyn-2025/mandag-1-sep-2025-14602520361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683595ce5f16b698305ee027/66a34bb880205138ce7e5ee84aa7b562191ff2df2af8eee6c249cd1d0bece7ff" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

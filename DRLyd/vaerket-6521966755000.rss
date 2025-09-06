@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Ungarsk folkedansesuite</title>
+      <description>Leo Weiner: Ungarsk folkedansesuite. Philharmonia Orkestret. Dirigent: Neeme Järvi. 
+Vært: Jens Cornelius.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/ungarsk-folkedansesuite-12422561365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4e61175376c1f57e25/6289520c84d21a4990acb015ef7b92a43192434c095c898ed380c54f371e58bc" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Campras Requiem</title>
       <description>André Campra: Requiem. Ensemble Correspondances. Dirigent: Sebastien Daucé. 
 Vært: Jens Cornelius.</description>
@@ -185,16 +194,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Fri, 08 Aug 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/mendelssohns-en-skaersommernatsdroem-12422561255</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f7801742308537cfa0cb71/590b4addf7427c116e090272f17906dfccbd9f93a3b47cbd4ed0f647b0ec9b96" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Saint-Saëns' Urbs Roma</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Camille Saint-Saëns: Symfoni F-dur, Urbs Roma. Liège Filharmonikerne. Dirigent: Jean-Jacques Kantorow. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/saint-saens-urbs-roma-12422561254</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f77fda166ff5b1f843c3af/2e6e02ef054d0833fd09f14d7128549e6651ead96753debc8699a9daf948d486" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,14 @@
     <description>Stå op med P4 Morgen Nordjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc8fc755587518300a52?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Fredag 5. sep. 2025</title>
+      <description>Stå op med P4 Morgen Nordjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+      <itunes:duration>03:55:00</itunes:duration>
+      <pubDate>Fri, 05 Sep 2025 06:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-morgen-nordjylland/p4-morgen-nordjylland/fredag-5-sep-2025-14102520365</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b94ad37c69cd66576d5d/70e613e2dd0a9edbea2c6e5603dee2fa6bc7a1265e74fc8a4ebc8b315661c359" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Torsdag 4. sep. 2025</title>
       <description>Stå op med P4 Morgen Nordjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
       <itunes:duration>03:55:00</itunes:duration>
@@ -28,14 +36,6 @@
       <pubDate>Tue, 02 Sep 2025 06:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-morgen-nordjylland/p4-morgen-nordjylland/tirsdag-2-sep-2025-14102520362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b96af0501130c3bd0057/e1965f5f896ca022451b446c1963aa5302053f850586fc00c510671bbba8918f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mandag 1. sep. 2025</title>
-      <description>Stå op med P4 Morgen Nordjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-      <itunes:duration>03:55:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-morgen-nordjylland/p4-morgen-nordjylland/mandag-1-sep-2025-14102520361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b959b55477aa472c2e69/be9b11da63355a880e9c45476c645a857102adae26061b9249e065bf84052e56" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
