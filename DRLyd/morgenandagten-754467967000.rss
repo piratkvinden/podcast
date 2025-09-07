@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 6. sep. 2025</title>
+      <description>Præludium:	Thomas Arne: Con Spirito
+Davidssalme: 66,16-20
+Salme: 299 &quot;Ånd over ånder&quot;
+Fra det N.T.:	2. Korintherbrev 3, 4-9
+Trosbekendelsen	
+Salme: 22 &quot;Gådefuld er du, vor Gud!&quot;
+Postludium: Olivier Messiaen: Déchiffrage</description>
+      <itunes:duration>00:24:57</itunes:duration>
+      <pubDate>Sat, 06 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-6-sep-2025-11042505366</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4861175376c1099d04/c43d3f678c6e0858465f15178c06865eb14a30bf5f8fb85f21aff4aacab8cbe0" length="35949125" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 5. sep. 2025</title>
       <description>Præludium:	Johann Sebastian Bach: Jesu, meine Freude, BWV 610
 Fra det G.T.:	Salme 121
@@ -354,20 +368,6 @@ Postludium: Johann Sebastian Bach: Duetto I</description>
       <pubDate>Fri, 08 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-8-aug-2025-11042505325</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c607b626ea9bb0fa0b6/25412efba6691f90257366a1a381f7bb0f1291109215b0255d79193f994bd023" length="36009645" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 7. aug. 2025</title>
-      <description>Præludium: William Hine: Flute piece
- Fra det G.T.: Jeremias 6, 13-16
-Salme: 609 &quot;Dybt fornedres skal enhver&quot;
-Fra det N.T.: Matthæusevangeliet 10, 34-39
-Korvers: Mark Baumann: Hvis nogen vil følge efter mig (Tekst: Matthæus 16, 24-25)
-Salme: 599 &quot;Lov og tak og evig ære&quot;
-Postludium: Eugène Gigout: Toccata</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-7-aug-2025-11042505324</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c6061175376c1099eba/6eda20ca84b9e8be3e62207b7ba747ff5e150b5045cdccebc56369f77d63edf0" length="36030381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
