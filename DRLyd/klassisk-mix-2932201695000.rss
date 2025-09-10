@@ -7,6 +7,16 @@
 Vært:</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tirsdag 9. sep. 2025</title>
+      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
+Helt værk: Serenade i F-dur op 31 af Wilhelm Stenhammar. Spillet af Flanderns Filharmoniske Orkester under ledelse af Christian Lindberg. 
+Vært: Frederik Korfix.</description>
+      <itunes:duration>01:54:05</itunes:duration>
+      <pubDate>Tue, 09 Sep 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-9-sep-2025-12422536372</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6be7b626ea9bb05c838/85d8ed666b4a8822651144356586878f9958cdafe5e9910582076fd331394449" length="164298678" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 8. sep. 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
 Helt værk: Klaverkvintet i a-mol op. 30 af Louise Farrenc med Londons Schubert Ensemble. 
@@ -206,16 +216,6 @@ Vært: Malena Rønnow.</description>
       <pubDate>Fri, 29 Aug 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-22-apr-2025-12422536172</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f99280aa49e222d56ead49/ae7be16dc843ddc31bd22446d40a258a2a9972a9efb13fcefafd7397b00a5113" length="164095346" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 11. apr. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
-Helt værk: Klaversonate nr. 1 i C-dur af Brahms, spillet af Alexandre Kantorow. 
-Vært: Malena Rønnow.</description>
-      <itunes:duration>01:53:58</itunes:duration>
-      <pubDate>Mon, 11 Aug 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/fredag-11-apr-2025-12422536155</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb1250ee7033184f6eec7d/9bee30606c3ae2c4ca3abb7ba00eb6f60dd7b1acd8d4a6335c83f170ffe3cbb0" length="164120115" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

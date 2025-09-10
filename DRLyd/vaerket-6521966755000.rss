@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Brittens Violinkoncert</title>
+      <description>Benjamin Britten: Violinkoncert, d-mol, op. 15. Isabelle Faust, violin., Bayerns Radiosymfoniorkester. Dirigent: Jakub Hrusa. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 09 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/brittens-violinkoncert-12422561372</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8b7b626ea9bbfb13b6/fed09e6831ae7d1024450925c9d6d58c1cc66cac1f4ec62bc5730de5ec668173" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Ennas Symfoni nr. 2</title>
       <description>August Enna: Symfoni nr. 2, E-dur. Bogotá Filharmonikerne. Dirigent: Joachim Gustafsson. 
 Vært: Helle Kristensen.</description>
@@ -184,15 +193,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Tue, 12 Aug 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/elgars-violinkoncert-12422561332</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4b61175376c1f57dda/090c8359f917d8eeaee80eb70ecaa6b7a54e1813d266e2e5a7fee207eb6bc76d" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Nielsens Symfoni nr. 3</title>
-      <description>Carl Nielsen: Symfoni nr. 3, op. 27, Sinfonia Espansiva. Det Kongelige Kapel. Ruth Guldbæk, sopran. Niels Møller, tenor. Dirigent: Leonard Bernstein. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 11 Aug 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/nielsens-symfoni-nr-3-12422561331</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4a7b626ea9bbfb1006/1cadd7ba62004f09ba1d0cd13c7931b6034cd202bb0eb7d3189486d7dca2c880" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

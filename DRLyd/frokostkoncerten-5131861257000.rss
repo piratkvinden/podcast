@@ -7,6 +7,16 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Stravinskij, Prkofjev og Bacewicz</title>
+      <description>Det er Sveriges Radios Symfoniorkester der her spiller orkestersuiten Kærligheden til de tre appelsiner af Prokofjev, og i den kalaidoskopiske cellokoncert nr.2 af Grazyna Bacewicz er det cellisten Nicolas Alstaedt som er solist. 
+Dirigent: Maxim Emelyanychev. 
+Vært: Mette Greiffenberg.</description>
+      <itunes:duration>00:56:56</itunes:duration>
+      <pubDate>Tue, 09 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/stravinskij-prkofjev-og-bacewicz-12422535372</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7571923dffbb19765843/2f7a9738080300d4c9aaae3f8556de2af875a36a1e0949f819374589e5f7d3aa" length="82007303" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mozarts klaverkoncert nr. 20 i d-mol</title>
       <description>Mozart komponerede 27 klaverkoncerter, og ud af dem er der kun to der står i mol. En af dem er denne, hans klaverkoncert nr. 20 i d-mol, der rummer både mørke, dramatik og nerve, men også lyrisk skønhed i den smukke andensats. Den georgiske pianist Mariam Batsashvili er solist sammen med BBC Scottish Symphony Orchestra under ledelse af Ryan Wigglesworth ved Proms 2025 i London. 
 Vært: Magnus Larsson.</description>
@@ -196,15 +206,6 @@ Vært: Mette Greiffenberg.</description>
       <pubDate>Tue, 12 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/accordeonisten-james-crabb-12422535332</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c756f923dffbb1976581d/bc63fd739985b809828c2ed6af040477b97c4063f1ffc88b59b6318156f316b3" length="82028042" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Weinbergs cellokoncert og værker af Lili Boulanger</title>
-      <description>Den italienske cellist Enrico Dindo er solist i Mieczys¶aw Weinbergs Cellokoncert, sammen med Det Italienske Radiosymfoniorkester under ledelse af Andris Poga. Programmet begynder og slutter med værker af Lili Boulanger, hendes &quot;D'un matin de printemps&quot; og &quot;D'un soir triste&quot;. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 11 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/weinbergs-cellokoncert-og-vaerker-af-lili-boulanger-12422535331</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7560923dffbb19765636/c643137f8813d23c711caac050024fca2385ecf5379a006f72300e4a3209cdee" length="82102340" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
