@@ -6,6 +6,15 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Niels W. Gades Comala</title>
+      <description>Niels W. Gade: Comala, op. 12. DR Symfoniorkestret, DR Koncertkoret. Marie-Adeline Henry, sopran. Markus Eiche, baryton. Rachel Kelly, mezzosopran. Elenor Wiman, alt. Dirigent: Laurence Equilbey. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/niels-w-gades-comala-12422561373</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1086/b1f4a0f9256216894e956dd5b2363c5c3f8f143db477f497391b12e8b4c39ceb" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Brittens Violinkoncert</title>
       <description>Benjamin Britten: Violinkoncert, d-mol, op. 15. Isabelle Faust, violin., Bayerns Radiosymfoniorkester. Dirigent: Jakub Hrusa. 
 Vært: Helle Kristensen.</description>
@@ -184,15 +193,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Wed, 13 Aug 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sibelius-lemminkainen-12422561333</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4b7b626ea9bbfb100b/751f64d9d2b034e52cc208735db4633646eb004479b48517b08d35d4ae3fe3eb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Elgars Violinkoncert</title>
-      <description>Edward Elgar: Violinkoncert, h-mol, op. 61. Vilde Frang, violin. Det Tyske Symfoniorkester Berlin. Dirigent: Robin Ticciati. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/elgars-violinkoncert-12422561332</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4b61175376c1f57dda/090c8359f917d8eeaee80eb70ecaa6b7a54e1813d266e2e5a7fee207eb6bc76d" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,15 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mahlers 4. Symfoni</title>
+      <description>Mahler skrev sin 4. symfoni med tanke om himlen og paradiset, set gennem barnets øjne. Men under det lyse og tilsyneladende naive gemmer sig ironi, tvetydighed og klanglig raffinement. Cornelius Meister dirigerer Deutsches Symphonie-Orchester Berlin, med sopranen Hanna-Elisabeth Müller som solist. En koncert fra Philharmonien i Berlin. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mahlers-4-symfoni-12422535373</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7571923dffbb19765848/519db49936abb5a0b02a9a8e8dfd2974d4c3901a701a7d4126f76bae2be8e98d" length="82101768" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Stravinskij, Prkofjev og Bacewicz</title>
       <description>Det er Sveriges Radios Symfoniorkester der her spiller orkestersuiten Kærligheden til de tre appelsiner af Prokofjev, og i den kalaidoskopiske cellokoncert nr.2 af Grazyna Bacewicz er det cellisten Nicolas Alstaedt som er solist. 
 Dirigent: Maxim Emelyanychev. 
@@ -196,16 +205,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Wed, 13 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mozarts-messe-i-c-mol-12422535333</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c756f923dffbb19765824/cda9f1f4b4390abdf57091cab90eb9d13bacf6403c69562328f441d61d0feeb0" length="82104648" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Accordeonisten James Crabb</title>
-      <description>Naturmaleri og eventyrdanse af Thomas Adès og indtryk fra de nordlige brittiske egne på programmet i koncerten med Crabb og pianisten Anthony Marwood. Hør dem i Vaughan WIllams' flimrende The Lark Ascending og lyt også til en fantasi om det barske liv i og omkring Nordsøen komponeret af Sally Beamish. 
-Dertil sniger der sig blandt andet også et par argentinske tangoer af Astor Piazzolla ind i koncerten. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>00:56:57</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/accordeonisten-james-crabb-12422535332</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c756f923dffbb1976581d/bc63fd739985b809828c2ed6af040477b97c4063f1ffc88b59b6318156f316b3" length="82028042" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

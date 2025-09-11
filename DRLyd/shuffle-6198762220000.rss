@@ -6,6 +6,16 @@
     <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09c7555875182a643b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Onsdag 10. sep. 2025</title>
+      <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
+Vært: Magnus Løppenthin.
+Redaktør: Kasper Overby.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 14:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/onsdag-10-sep-2025-18452565373</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da0fbd6e7ed6a04002cf/19a5986573881f398f6c73b52490c085502243605a3cdca70be4edacc80c2d43" length="168482102" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tirsdag 9. sep. 2025</title>
       <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
 Vært: Magnus Løppenthin.
@@ -194,16 +204,6 @@ Redaktør: Kasper Overby.</description>
       <pubDate>Wed, 13 Aug 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/onsdag-13-aug-2025-18452565333</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da0b3723e0ca773691b1/826fca0419591cdf785b9614e3e69873e3a235c6b4676210f884fd269d826714" length="168482102" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 12. aug. 2025</title>
-      <description>Magnus Løppenthin giver dig en vellydende mikstur af den bedste musik, du kender og elsker fra P8 samt alt det, du ikke vidste, du ville holde af.
-Vært: Magnus Løppenthin.
-Redaktør: Kasper Overby.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/shuffle/shuffle-2025/tirsdag-12-aug-2025-18452565332</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da0b002e131c0a933fd4/5aa88f0558601ff7e4d0321b59211f1c978e895a511d3fdc956089611a424ab7" length="168481526" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
