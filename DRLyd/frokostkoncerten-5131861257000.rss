@@ -7,6 +7,16 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mozarts sidste Symfoni</title>
+      <description>Symfoni nr. 41 er en stor symfoni der derfor i al sin grandiositet i eftertiden har fået kælenavnet Jupiter. 
+Den bliver spillet af Sveriges Radios Symfoniorkester under ledelse af Maxim Emelyanychev.
+Vært: Mette Greiffenberg.</description>
+      <itunes:duration>00:56:58</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mozarts-sidste-symfoni-12422535374</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7563923dffbb197656a9/bec69f7ea19e6f57b85e30259adfe85952eaae30264a5943608b35d1dee496f8" length="82042989" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mahlers 4. Symfoni</title>
       <description>Mahler skrev sin 4. symfoni med tanke om himlen og paradiset, set gennem barnets øjne. Men under det lyse og tilsyneladende naive gemmer sig ironi, tvetydighed og klanglig raffinement. Cornelius Meister dirigerer Deutsches Symphonie-Orchester Berlin, med sopranen Hanna-Elisabeth Müller som solist. En koncert fra Philharmonien i Berlin. 
 Vært: Magnus Larsson.</description>
@@ -195,16 +205,6 @@ Vært: Mette Greiffenberg.</description>
       <pubDate>Thu, 14 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/dvoraks-cellokoncert-med-senja-rummukainen-12422535334</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7560a75c4b58350d2299/ad2212127b095cf0359eeb3f03b92c6c64c0c723afeb4af39a8bbcc89971526f" length="82105720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mozarts messe i c-mol</title>
-      <description>Mozarts Messe i c-mol, K. 427, blev påbegyndt kort efter hans bryllup med Constanze, men blev aldrig færdigskrevet. Mozart trækker på barokkens kontrapunktiske stil, med inspiration fra både Bach og Händel, og kombinerer det med et mere dramatisk udtryk, som man kender det fra hans operaer. Ved denne opførelse høres en udgave tæt på Mozarts egen manuskriptversion, uden senere tilføjelser. 
-Prags Radiosymfoniorkester og Collegium Vocale 1704 dirigeres af Václav Luks. Solister: Simona Houda-Saturová, Sophie Harmsen, Václav Cízek og Roman Hoza. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 13 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/mozarts-messe-i-c-mol-12422535333</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c756f923dffbb19765824/cda9f1f4b4390abdf57091cab90eb9d13bacf6403c69562328f441d61d0feeb0" length="82104648" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

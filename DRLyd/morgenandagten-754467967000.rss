@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 11. sep. 2025</title>
+      <description>Præludium: Carl Eric Rosenquist: Oss kristna bör tro och besinna
+Fra det G.T.: Salme 18, 3-7
+Salme: 739, vers 1-2 &quot;Rind nu op i Jesu navn&quot;
+Fra det N.T.: Matthæus 16, 13-20
+Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
+Salme: 54 &quot;Hvad mener I om Kristus&quot;
+Postludium: Cuthbert Harris: Voluntary G-dur</description>
+      <itunes:duration>00:25:03</itunes:duration>
+      <pubDate>Thu, 11 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-11-sep-2025-11042505374</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c497b626ea9bb0f9f0e/6f298be155df132c76c6cccb75e5536b4cc835260d7878d9d9702d30df050644" length="36077611" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 10. sep. 2025</title>
       <description>Præludium: Knud-Erik Jensen: Lover den Herre
 Fra det G.T.:	Salme 103, 1-13
@@ -354,20 +368,6 @@ Postludium: Otto Olsson: Det livets ord vi bygge på</description>
       <pubDate>Wed, 13 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-13-aug-2025-11042505333</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2f61175376c1099af3/f92e4ef30ec2e45be9115c236c8ac000c87db74aa80516a3b8c3e27e7b170b79" length="36063786" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 12. aug. 2025</title>
-      <description>Præludium:	Christian Barnekow: Poco tranquillo
-Fra det G.T.:	Malakias 3, 1-4
-Salme: 612 &quot;Den store mester kommer&quot;
-Fra det N.T.:	Matthæus 11, 7-11
-Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (Tekst: Salmernes bog, 12, 2-3, 7-8)
-Salme: 735 &quot;Nu sol i øst oprinder mild&quot;
-Postludium: Christian Præstholm: Nu sol i øst oprinder mild</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-12-aug-2025-11042505332</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2e7b626ea9bb0f9c7f/8f69e5414c0044034de197d2aa3fa7d8fcec896077425be7a13bde695da9270e" length="36040166" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
