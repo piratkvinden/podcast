@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Radiostilhed</title>
+    <link>https://www.dr.dk/lyd/p2/radiostilhed-6640423253823</link>
+    <description>19-årige Valdemar Wenzel Most er Årets P2 Talent. Han skal have skrevet et helt nyt soloklaverværk specielt til sig. Men hvilken komponist skal han vælge? Hvordan lyder stilhed egentlig på et klaver? Og hvorfor skal han kun have en sko på, når han spiller?
+I denne podcast kan du opleve tilblivelsen af et stykke moderne klassisk musik.
+Tilrettelæggelse: Morten Kjær. 
+Speak: Cæcilie Iburg Printzlau. 
+Redaktion: Rie Koch. 
+Redaktør: Malene Wichmann.</description>
+    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86e0173cdfcfcc85794?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+    <item>
+      <title>Gul kuvert, lyserød kuvert, blå kuvert</title>
+      <description>Valdemar skal vælge mellem tre meget forskellige idéer til soloklaverværker. Det er langt fra nogen nem beslutning, og i allersidste sekund skifter han spor.
+Tilrettelæggelse: Morten Kjær.</description>
+      <itunes:duration>00:17:04</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/radiostilhed/radiostilhed/gul-kuvert-lyseroed-kuvert-blaa-kuvert-12422570501</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b97adbca1e334d4f994890/5e76c38b647811b7a92e43389c9ece6b5287051609469daf3bedc5d5fcf4629d" length="24589254" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Håndskrevet stilhed</title>
+      <description>33-årige Aya er en japanskfødt komponist med base i Holland. Hun har opnået international anerkendelse for sine moderne klassiske værker, og hun skal skrive det nye soloklaverstykke til Valdemar - et værk inspireret af radiostilhed. 
+Tilrettelæggelse: Morten Kjær.</description>
+      <itunes:duration>00:13:57</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/radiostilhed/radiostilhed/haandskrevet-stilhed-12422570502</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b97ae41e3518f26c1083c6/ac76a78843b232804b57bb4849b76e0405b7fc2bcea25062ce16c6082ab5c76d" length="20109195" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Can you hear me?</title>
+      <description>Skabelsen af det nye klaverværk er i gang. Men fordi Valdemar og Aya bor i henholdsvis Berlin og Haag, må de mødes på nettet, hvilket ikke gør den kreative proces helt enkel. 
+Tilrettelæggelse: Morten Kjær.</description>
+      <itunes:duration>00:15:09</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/radiostilhed/radiostilhed/can-you-hear-me-12422570503</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b97ae53d1da25c2343f76f/87b11e96be95f847a568fe231862a5804e911a502ed8aba23bd143315cbed640" length="21826203" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Højrehåndet, venstrefodet</title>
+      <description>Aya er klar med en førsteudgave af sit radiostilhedsværk, og det indbefatter masser af eksperimenter med både flygelstrenge, fingersætninger og fodtøj. 
+Tilrettelæggelse: Morten Kjær.</description>
+      <itunes:duration>00:13:57</itunes:duration>
+      <pubDate>Fri, 12 Sep 2025 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/radiostilhed/radiostilhed/hoejrehaandet-venstrefodet-12422570504</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b97aef1e3518f26c10841e/18fabde1b6f0112a60c4fcfc53b2d94a06c1e2bb0d034522d243fe0f01ebc037" length="20109126" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
