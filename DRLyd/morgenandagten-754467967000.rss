@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 13. sep. 2025</title>
+      <description>Præludium: Michael Prætorius: Allein auf Gottes Wort will ich
+Davidssalme: 67,2-5
+Salme: 492 vers 1-4 &quot;Guds igenfødte, ny-levende sjæle&quot;
+Fra det N.T.: Galaterbrevet 2, 16-21
+Trosbekendelsen	
+Salme: 492 vers 5-6
+Postludium: Louis James Alfred Lefébure-Wély: Verset G-dur</description>
+      <itunes:duration>00:24:55</itunes:duration>
+      <pubDate>Sat, 13 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-13-sep-2025-11042505376</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d71/637bffac8c77f286390f87cf436a9cc400f676ede0e83c0df545c7a0a4c52b42" length="35884073" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 12. sep. 2025</title>
       <description>Præludium: Joseph Haydn: La passione
 Fra det G.T.: Esajas 53,1-6
@@ -354,20 +368,6 @@ Postludium: Dietrich Buxtehude: O, kommer hid dog til Guds Søn</description>
       <pubDate>Fri, 15 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-15-aug-2025-11042505335</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2f7b626ea9bb0f9c97/cd124297851cb49e0b948b836edf67f1dc9b26e9be9c88277985fcd326b500a7" length="36039595" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 14. aug. 2025</title>
-      <description>Præludium:	Johann Sebastian Bach: Når i den største nød vi stå, BWV 641
-Fra det G.T.:	Jeremias 14, 7-9
-Salme: 639 &quot;Når i den største nød vi stå&quot;
-Fra det N.T.:	Matthæus 11, 20-24
-Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (Tekst: Salmernes bog, 12, 2-3, 7-8)
-Salme: 130 &quot;Fredløs er freden&quot;
-Postludium: Johann Sebastian Bach: Jesu, meine Freude, BWV 610</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Thu, 14 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-14-aug-2025-11042505334</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c2f7b626ea9bb0f9c92/0ebe97c05b013f8ed8cff0300b1a56e352e3ac94ed2be34218d1c5d05f356f2d" length="36040758" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
