@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Mandag 15. sep. 2025</title>
+      <description>Præludium:	Felix Mendelssohn-Bartholdy: Trøst
+Ord til dagen: af Dorothee Sölle
+Salme: 46, vers 1-4 &quot;Sorrig og glæde de vandre til hobe&quot;
+Fra det N.T.: Matthæus 16, 24-28
+Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
+Salme: 46, vers 5-7
+Postludium: Anton Heiller: Sorrig og glæde de vandre til hobe</description>
+      <itunes:duration>00:25:00</itunes:duration>
+      <pubDate>Mon, 15 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-15-sep-2025-11042505381</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3761175376c1099b95/c871bbea38ab6daa475f4746d55a861fffaa485c4c8467e6421ced6d55642b9e" length="36006762" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 13. sep. 2025</title>
       <description>Præludium: Michael Prætorius: Allein auf Gottes Wort will ich
 Davidssalme: 67,2-5
@@ -340,20 +354,6 @@ Postludium: Gottfried August Homilius: Wer nur den lieben Gott lässt walten</de
       <pubDate>Mon, 18 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-18-aug-2025-11042505341</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c307b626ea9bb0f9ca2/b569c81d5fa9ca6e9e6d53ed2edd66337ac09888f70e7bed4f6cba911d89a4a2" length="36049970" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 16. aug. 2025</title>
-      <description>Præludium:	Jean Titelouze: Verset G-dur
-Davidssalme: 57, 8-12
-Salme: 402, vers 1-4 &quot;Den signede dag med fryd vi ser&quot;
-Fra det N.T.:	1. Johannesbrev 1,5-2,2
-Trosbekendelsen	
-Salme: 402, vers 5-7 
-Postludium: Johann Sebastian Bach: Fuga C-dur, BWV 545/II</description>
-      <itunes:duration>00:24:59</itunes:duration>
-      <pubDate>Sat, 16 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-16-aug-2025-11042505336</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c307b626ea9bb0f9c9c/c0ededaa0659bce6280203aadb9e7ee1bc4377ee5da78d6b077b60d6184c0fc1" length="35996382" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

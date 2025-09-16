@@ -7,16 +7,6 @@
 Velkommen til!</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6841849f1e62b894ffee206e?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Oasis - (What's the Story) Morning Glory</title>
-      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
-Vært: Casper Bach Hegstrup.
-Gæst: Niels Brandt.</description>
-      <itunes:duration>01:27:03</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>Søndag 14. sep. 2025</title>
       <description>Længe leve albummet er programmet, hvor Goodluck Casper inviterer en musiker eller et band til en rar snak om en af deres yndlingsplader. Du får mulighed for at grine og græde dig igennem musikken, når gæsterne laver 6 nedslag i albummet.
 Velkommen til!</description>
@@ -171,6 +161,16 @@ Kærlig hilsen Goodluck Casper.</description>
       <pubDate>Sun, 16 Mar 2025 17:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/god-kaos-med-aphaca-og-deres-forhold-til-gorillaz-16452536117</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67c8da6cd42d59035e957027/0d2da1bc1f217c01ae67c190348583b8c5aa5d696b5ff79bd75c948cf9187dd3" length="168481543" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Oasis - (What's the Story) Morning Glory</title>
+      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
+Vært: Casper Bach Hegstrup.
+Gæst: Niels Brandt.</description>
+      <itunes:duration>01:27:03</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
