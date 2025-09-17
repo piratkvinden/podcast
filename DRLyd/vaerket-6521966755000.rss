@@ -6,6 +6,16 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Rakhmaninovs Klokkerne</title>
+      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Rakhmaninov: Klokkerne. Luba Orgonásová, sopran; Dmytro Popov, tenor; Mikhail Petrenko, bas. Berliner Filharmonikerne &amp; Berlins Radiokor. Dirigent: Simon Rattle. 
+Vært: Jens Cornelius.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 16 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rakhmaninovs-klokkerne-12422561382</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1091/c2d6d71c0545033d0c09e3917efa03c66d86c60de9e3fa5680453707fdbb1557" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Paganinis Violinkoncert nr. 1</title>
       <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Paganini: Violinkoncert nr. 1. Hilary Hahn, violin. Sveriges Radiosymfoniorkester. Dirigent: Eiji Oue. 
@@ -204,16 +214,6 @@ Vært: Jens Cornelius.</description>
       <pubDate>Tue, 19 Aug 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/johan-svendsens-symfoni-nr-1-12422561342</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4c7b626ea9bbfb1028/075c922e5180cde52fc5d61987e9c09f5a69e1010100635c5832254cd13f724a" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Stravinskijs Pulcinella</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Berliner Filharmonikerne. Olga Borodina, mezzosopran; John Mark Ainsley, tenor; Ildebrando D'Arcangelo, bas. Dirigent: Bernard Haitink.  
-Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/stravinskijs-pulcinella-12422561341</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8761175376c1f58114/a900ff479a2a0f05b0b5a4dc379ec3e5add40543612a7d06282124f8d4f838f9" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

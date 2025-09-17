@@ -6,6 +6,15 @@
     <description>Alle hverdagsmorgener får du det bedste og bredeste soundtrack til dagens første timer i sprødt selskab. Og så er det fra 07-10.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4ea8f37708374d6e37f8a?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tirsdag 16. sep. 2025</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Jonas Hansen.</description>
+      <itunes:duration>02:55:00</itunes:duration>
+      <pubDate>Tue, 16 Sep 2025 07:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/tirsdag-16-sep-2025-16452532382</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682f102235191597f7d23ae6/dc731b651d834785c100df9f82831061b71c7b6eaf9ccb8a907586ed02c50a5c" length="252001991" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 15. sep. 2025</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
 Vært: Jonas Hansen.</description>
@@ -13,15 +22,6 @@ Vært: Jonas Hansen.</description>
       <pubDate>Mon, 15 Sep 2025 07:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/mandag-15-sep-2025-16452532381</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682f103235191597f7d23c60/e2df07dfc512702b4f3596aefdebd49a9cd5dda6202b460590a862d757a92cf1" length="252001415" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 12. sep. 2025</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <itunes:duration>02:55:00</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet/fredag-12-sep-2025-16452532375</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682f104f35191597f7d23f56/d09722ae6db35123f883614e268102064692ddc4ff6d48550c4ebe87c78efe58" length="252001415" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

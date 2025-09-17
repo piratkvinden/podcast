@@ -147,6 +147,15 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6809eddfb564004141964282/0b4ffd1d75603983d814c2e3d482811fe550408346d210a19c17eec79154974a" length="168320141" type="audio/mpeg"/>
     </item>
     <item>
+      <title>Tusind år</title>
+      <description>Tusindårshaver findes. Oldgamle træer og andre vækster, der står længe efter vor tid, og jeg forsøger at sætte musik der klinger af, om ikke evighed, så af tusind år. 
+Vært: Tina Rømer.</description>
+      <itunes:duration>01:56:56</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/tusind-aar-12422563224</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68148965e52a6803ee0153bf/8e37f10dd56902b468d2ae392eeda5e94c445451156c15aa1f0bec507fb2ec63" length="168407812" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lidt for enhver smag</title>
       <description>Folkemusik, stemmer, filmmusik og et drys kærlighed.
 Vært: Minna Grooss.</description>
@@ -259,14 +268,6 @@ Vært: Minna Grooss.</description>
       <pubDate>Tue, 26 Aug 2025 03:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/sensommer-12422463352</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bfcd8b7d088bd42ec59ef8/66b371bda6e48d3f3015e688bb899111895a25294b03cf3d11a3db299d9a4af5" length="168477576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fra bryllupshymner til sorgsange</title>
-      <description>Der er både kærlighedsfest og tristesse i aftenens vidtfavnende udgave af Natsværmeren. Vært Peter Albrechtsen spiller alt fra Mozart til Tortoise og sender desuden lytteren på et brasiliansk eventyr.</description>
-      <itunes:duration>01:56:59</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 03:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/fra-bryllupshymner-til-sorgsange-12422463344</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66b935bbcb69b3848e154da8/09a711ec8729e717967e2031644631f197f096a00ed35a67499db7263838c027" length="168479830" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
