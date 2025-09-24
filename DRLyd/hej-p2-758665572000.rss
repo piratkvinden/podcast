@@ -6,6 +6,16 @@
     <description>Hej P2 er programmet hvor du kan dele dine oplevelser, erfaringer og betragtninger ud fra dagens emne. Sammen kortlægger og undersøger vi kulturen stort som småt. Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d02e52248c98a4394a57?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tallet tre i musikken</title>
+      <description>Vi spiller klassisk musik hvor tallet tre spiller en rolle. Hvad skal vi høre og hvorfor?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
+Vært: Mette Greiffenberg.</description>
+      <itunes:duration>02:22:01</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 08:30:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/tallet-tre-i-musikken-12422530392</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2893f4a9729ac88de4b/b4de55969cff514a3c6e4cc8f886bd4d0c6a362209899d60101f7e8b7e5b4fa5" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Danmarks smukkeste kirkegård</title>
       <description>Hvilken dansk kirkegård synes du er den smukkeste og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
@@ -203,16 +213,6 @@ Vært: Mette Greiffenberg.</description>
       <pubDate>Tue, 26 Aug 2025 08:30:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/klaverdag-12422530352</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28b2e64822ed5947309/a3a5556788e49459d515fdb576b6994485385c8a061b0707aae10fa9f2ffd846" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Min fritidsinteresse</title>
-      <description>Hvad er din hobby og hvorfor?  
-Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
-Vært: Jakob Wivel.</description>
-      <itunes:duration>02:21:58</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/min-fritidsinteresse-12422530351</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca285b3140b1c1f3bbb21/c195266d6e736d148d5fd8c896dab1b0b1e887c0318d8cdb2f277f985aa94089" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

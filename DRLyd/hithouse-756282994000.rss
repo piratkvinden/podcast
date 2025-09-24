@@ -8,6 +8,16 @@ pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433bdc039d56f04e24d7a?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tirsdag 23. sep. 2025</title>
+      <description>Musik og historier fra 
+pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <itunes:duration>00:55:04</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 18:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/tirsdag-23-sep-2025-15452523392</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498c27d2234cea2e26a56/89d470961e239d21bda407e01602977bc34d5784d3b82283d47fa4797eb82e5c" length="79303924" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 22. sep. 2025</title>
       <description>Musik og historier fra 
 pigtrådsæraen.
@@ -16,16 +26,6 @@ Vært: Jørgen de Mylius.</description>
       <pubDate>Mon, 22 Sep 2025 18:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/mandag-22-sep-2025-15452523391</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498ff61175376c1f741e6/bdc2f58cc63acb509059f842bae239547c06a33e8563ac23dbc2d22d7d940dbe" length="79309684" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 19. sep. 2025</title>
-      <description>Musik og historier fra 
-pigtrådsæraen.
-Vært: Jørgen de Mylius.</description>
-      <itunes:duration>00:55:03</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/fredag-19-sep-2025-15452523385</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498c27b626ea9bbfcda5e/a99a403837b4f4977cf1c626f18fc4a2ef7c2a58c2e0430f7361b9941f8f1291" length="79295284" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

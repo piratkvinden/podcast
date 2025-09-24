@@ -8,6 +8,16 @@ Vært: Josephine Philip.
 Redaktør: Kasper Overby.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4179f52248c98a43b4bba?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Tirsdag 23. sep. 2025</title>
+      <description>Josephine Philip og Karen Rosenberg slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
+Vært: Josephine Philip og Karen Rosenberg.
+Redaktør: Kasper Overby.</description>
+      <itunes:duration>01:55:00</itunes:duration>
+      <pubDate>Tue, 23 Sep 2025 16:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/tirsdag-23-sep-2025-18452551392</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da923723e0ca77369677/58853cb9c832910ccfac0dcb1fa9d69212cb9a26c48f517a41dcaf251c3855d1" length="165601591" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Mandag 22. sep. 2025</title>
       <description>Josephine Philip og Karen Rosenberg slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
 Vært: Josephine Philip og Karen Rosenberg.
@@ -166,16 +176,6 @@ Redaktør: Kasper Overby.</description>
       <pubDate>Tue, 26 Aug 2025 16:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/tirsdag-26-aug-2025-18452551352</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da8fc374d4d9f712864d/3a1d888aee5272d1a7796c182d76810972a9a34e9c633492abdb43949eb18705" length="165602167" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 25. aug. 2025</title>
-      <description>Josephine Philip og Karen Rosenberg slår dørene op til Salonen. Stedet hvor du får dit daglige jazzfix og bliver opdateret på musikkens skjulte skatte, udødelige evergreens og de nyeste skud på stammen.
-Vært: Josephine Philip og Karen Rosenberg.
-Redaktør: Kasper Overby.</description>
-      <itunes:duration>01:55:00</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 16:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p8jazz/salonen/salonen-2025/mandag-25-aug-2025-18452551351</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6821da8f002e131c0a9344be/a03f9715081827e73b25c26319216e5e2bc91c81d8231a2d40e5a25fefe44047" length="165601591" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
