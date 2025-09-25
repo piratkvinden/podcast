@@ -6,6 +6,16 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Regers Hiller-variationer</title>
+      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Max Reger: Variationer og fuga over et tema af Johann Adam Hiller, op. 100. Concertgebouw Orkestret. Dirigent: Neeme Järvi. 
+Vært: Helle Kristensen.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/regers-hiller-variationer-12422561393</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8d7b626ea9bbfb13ce/ec597defe504df45efbfc1849f24bf70e497180950d012944517beaca75ef948" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Tjajkovskijs Orkestersuite nr. 2</title>
       <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Peter Tjajkovskij: Orkestersuite nr. 2, C-dur. BBC's Skotske Symfoniorkester. Dirigent: Alpesh Chauhan. 
@@ -204,16 +214,6 @@ Vært: Helle Kristensen.</description>
       <pubDate>Wed, 27 Aug 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/goreckis-symfoni-nr-3-12422561353</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4d61175376c1f57e12/57ecc53c9757e83c99a088143b1e0c21c0341b7c075443c6634062d7175f3888" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sjostakovitjs Violinkoncert nr. 1</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Dmitrij Sjostakovitj: Violinkoncert nr. 1, a-mol, op. 77. Baiba Skride, violin. Boston Symfonikerne. Dirigent: Andris Nelsons. 
-Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 26 Aug 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sjostakovitjs-violinkoncert-nr-1-12422561352</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4d7b626ea9bbfb1044/f7eafb49b559a1b7b464d3855727a4a42f5162846e88a7746fb61057f575a520" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,15 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Augustin Hadelich spiller Mendelssohns Violinkoncert</title>
+      <description>I dagens Frokostkoncert kan du høre en koncert fra Proms Festivalen 2025 i Royal Albert Hall i London, hvor BBC Symfoniorkesteret spiller under ledelse af dirigenten Sakari Oramo. Først på programmet er Stravinskijs Nattergalens sang (Le chant du rossignol) - et farverigt symfonisk uddrag fra hans eventyrlige opera. Til sidst i koncerten kan du høre Mendelssohns Violinkoncert i e-mol med violinisten Augustin Hadelich. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/augustin-hadelich-spiller-mendelssohns-violinkoncert-12422535393</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c75a1923dffbb19765a54/2ff564e2e953c0a1bb0cd6db1f3daf499486fbadfd6158903c3b2383c0b96c49" length="82101194" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Sange af Schubert- ønskekoncert med Julian Prégardien</title>
       <description>Publikum som har billet til koncerten havde forinden være med til at bestemme, hvilke sange af Schubert der kom med i programmet i forbindelse med koncerten, som Prégardien gav med pianisten Anna Maria Gebhardt i maj måned ved årets Schwetzingen Festival.
 Hør bl.a. Der Wanderer, Im Frühling og uddrag Die Schöne Müllerin og Winterreise. 
@@ -195,17 +204,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Wed, 27 Aug 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/cellosonater-af-franck-og-prokofjev-12422535353</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7561923dffbb1976565a/747270cbd34bb90c3cfff2bccf2a3b7825964bdf9933859815949d4953a31d5a" length="82112716" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Portugiske renæsanceklange med Cupertinos</title>
-      <description>Det er den portugiske fado vi oftest forbinder med portugisisk musik, men i dag kan du høre  eksempler på hvordan komponister i Portugal komponerede musik i 16-tallet. 
-Det er en 400 år gammel raffineret, kirkelige sangstil som Cupertinos har genopdaget, og som de i de senere år har været med til at sætte på det musikalske landkort. 
-Pedro Teixeira, dirigent. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>00:56:58</itunes:duration>
-      <pubDate>Tue, 26 Aug 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/portugiske-renaesanceklange-med-cupertinos-12422535352</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7561a75c4b58350d22a7/d6fde4960371f3d614831078dd8276ca0e3cd2dafe2bd5782cfeee0c2184a5bd" length="82047624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
