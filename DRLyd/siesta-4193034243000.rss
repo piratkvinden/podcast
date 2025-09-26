@@ -7,6 +7,15 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9830?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Torsdag 25. sep. 2025</title>
+      <description>I dag er Siesta i det melankolske hjørne, og præsenterer musik der rimer på smerte, længsel og det sorgfulde. Nyd musik der ofte får det smukkeste frem hos komponisterne.
+Vært: Carsten Wolf Andersen.</description>
+      <itunes:duration>00:45:02</itunes:duration>
+      <pubDate>Thu, 25 Sep 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/torsdag-25-sep-2025-12422533394</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cbeaaa75c4b58350f21fd/05f1c52dbd60c4e33b6f38fb85883451043a311b46a4708920e18ce69bff5d05" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Onsdag 24. sep. 2025</title>
       <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser.
 Vært: Claus Berthelsen.</description>
@@ -185,15 +194,6 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Fri, 29 Aug 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/glaede-12422533205</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f667a9d00633e88313bb66/705e173a07e34f1745c8af09e3ae26705d1dbd5d4e74e20b7c9258e22a76bf84" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Drama</title>
-      <description>Dagens Siesta er fuld af drama. Til dig der vil smittes og forføres af musik med noget på spil. Nyd musik der spiller på hele følelsesregistret med store armbevægelser. 
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>00:44:59</itunes:duration>
-      <pubDate>Wed, 27 Aug 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/drama-12422533203</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f667918e208bf2ad2c916c/5cf3c6b2df34441652603c95636bc3313d4525a0b3f2d48495db0ba7bf649cee" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
