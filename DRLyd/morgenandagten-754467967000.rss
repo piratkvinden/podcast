@@ -6,6 +6,20 @@
     <description>Hver dag direkte fra Københavns Domkirke.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 27. sep. 2025</title>
+      <description>Præludium: Johann Gottfried Walther: Schmücke dich, o liebe Seele
+Davidssalme: 71,15-18
+Salme: 743 vers 1-4 &quot;Nu rinder solen op af østerlide&quot;
+Fra det N.T.:	Galaterbrevet 5,25-6-8
+Trosbekendelsen 	
+Salme: 743 vers 5-7
+Postludium: Johann Sebastian Bach: Wir glauben all an eine Gott, Schöpfer, BWV 680</description>
+      <itunes:duration>00:24:57</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-27-sep-2025-11042505396</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3a7b626ea9bb0f9dbb/f74017b7e139fa853c6794f0f59093e0c4b7220945fd35b75f59c1d137095172" length="35951464" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fredag 26. sep. 2025</title>
       <description>Præludium: Léon Boëllmann: Lento
 Fra det G.T.: Daniels Bog 7, 9-14
@@ -369,20 +383,6 @@ Postludium: Bo Grønbech: Procession</description>
       <pubDate>Thu, 28 Aug 2025 08:05:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-28-aug-2025-11042505354</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c327b626ea9bb0f9d03/c46f6ee0296502b306206c8e71a60381676f837a03e759cee1b0a6ba0c78a3d9" length="36057440" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 27. aug. 2025</title>
-      <description>Præludium:	Johann Dietrich Druckmüller: Largo i h-mol
-Fra det G.T.:	Esajas 55, 6-11
-Salme: 153,1-6 &quot;En sædemand gik ud at så&quot;
-Fra det N.T.:	Matthæusevangeliet 13, 1-9
-Korvers: Ulrich Teuber: Salige er de øjne (Tekst: Luk. 10, 23b-24)
-Salme: 153,7-11
-Postludium: Johann Dietrich Druckmüller: Allegro i D-Dur</description>
-      <itunes:duration>00:25:03</itunes:duration>
-      <pubDate>Wed, 27 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-27-aug-2025-11042505353</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3061175376c1099b12/3e908f2a848fa46a4ea9719f01a4f7d7dcf40f8a3a1efa7cae66e3420602e95f" length="36078757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
