@@ -6,6 +6,14 @@
     <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Lørdag 27. sep. 2025</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <itunes:duration>03:00:03</itunes:duration>
+      <pubDate>Sat, 27 Sep 2025 18:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-27-sep-2025-13652502396</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b94a1e3d1da25c23424596/94ad17a75beb1490f2e2068b3576bfc5483580709a283de679507160c2f1e3ef" length="259285496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Onsdag 24. sep. 2025</title>
       <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
       <itunes:duration>03:57:09</itunes:duration>
@@ -108,14 +116,6 @@
       <pubDate>Sun, 31 Aug 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/soendag-31-aug-2025-13652502357</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688895f41d7c48062c76041e/2647ba81e8d38d2648b82d2108d2dd8c359e6f04b07455f869bf9ded5339292f" length="691285496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 29. aug. 2025</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-      <itunes:duration>04:00:03</itunes:duration>
-      <pubDate>Fri, 29 Aug 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/fredag-29-aug-2025-13652502355</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68889630c25d35e786b90658/f187cb7a8ff7b659eec6880cb3605a26318cb2c44591edff25ba23b15161e4c6" length="345685496" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
