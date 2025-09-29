@@ -6,6 +6,14 @@
     <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e78d178b2e4877edd3b4e5?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Søndag 28. sep. 2025</title>
+      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
+      <itunes:duration>01:52:04</itunes:duration>
+      <pubDate>Sun, 28 Sep 2025 07:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/soendag-28-sep-2025-12422532397</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cb27da75c4b58350ecb80/0801e6e85a3199d1a9716796ef5d289e13c78f81d490150612c8eef0d0ebfcea" length="161380508" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 27. sep. 2025</title>
       <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
       <itunes:duration>01:25:03</itunes:duration>
@@ -100,22 +108,6 @@
       <pubDate>Sun, 31 Aug 2025 07:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/soendag-31-aug-2025-12422532357</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cb27c9d746747fa4d3bac/5e1062f07d1ae8ab9e43fa75f7ef415d9607a881e12ade5a660be084d919a508" length="161386844" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 30. aug. 2025</title>
-      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-      <itunes:duration>01:25:02</itunes:duration>
-      <pubDate>Sat, 30 Aug 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/loerdag-30-aug-2025-12422532635</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cb7d7923dffbb197823fc/5eafc88da0ce258b5d4226f52c003c3fac78d3acf60b6adfddded63af9d700dc" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Lørdag 30. aug. 2025</title>
-      <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-      <itunes:duration>00:57:01</itunes:duration>
-      <pubDate>Sat, 30 Aug 2025 07:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/loerdag-30-aug-2025-12422532356</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cb27ca75c4b58350ecb70/708ab7f30017563e8ed5504ad274b635e97739eb50c5a9f8912a03b4ce26e739" length="82125788" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
