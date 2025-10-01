@@ -6,6 +6,16 @@
     <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Alfvéns Symfoni nr. 3</title>
+      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Hugo Alfvén: Symfoni nr. 3. Det Tyske Symfoniorkester Berlin. Dirigent: Lukasz Borowicz. 
+Vært: Jens Cornelius.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 11:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/alfvens-symfoni-nr-3-12422561402</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10d4/eb80a71b8ba84568a8e48084a29231ab3ebc0cb16326892cff251f63d4b6b689" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Billy the Kid</title>
       <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Aaron Copland: Billy the Kid. Detroit Symfoniorkester. Dirigent: Leonard Slatkin. 
@@ -204,16 +214,6 @@ Vært: Jens Cornelius.</description>
       <pubDate>Tue, 02 Sep 2025 11:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/schuberts-rosamunde-12422561362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4e61175376c1f57e1b/e00c467ea98f0d8d691d39447547d3adb0b94577f51fb452d4773dbf52acd18e" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Peterson-Berger: Symfoni nr. 1</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Wilhelm Peterson-Berger: Symfoni nr. 1, Banneret. Den Tyske Radiofilharmoni. Dirigent: Mikhail Jurowski
-Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/peterson-berger-symfoni-nr-1-12422561361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4e7b626ea9bbfb1054/8c2c780b6358cf402c38569b7d7270397a7e642f5283b80c00b6a0bf9158609b" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>

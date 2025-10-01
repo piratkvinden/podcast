@@ -7,6 +7,16 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Beethovens Eroica, Symfoni nr. 3</title>
+      <description>Det Hollandske Filharmoniske Radioorkester.
+Dirigent: Roderick Cox. 
+Vært: Mette Greiffenberg.</description>
+      <itunes:duration>00:57:01</itunes:duration>
+      <pubDate>Tue, 30 Sep 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/beethovens-eroica-symfoni-nr-3-12422535402</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7565923dffbb197656fa/70eb1825ee538fa80a1d5fca14231fee74024858c858ebf6e05d40907c7d6c9d" length="82124647" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Klaverduo i Wigmore Hall</title>
       <description>Ved en koncert i Wigmore Hall i London spiller pianisterne Paul Lewis og Steven Osborne musik for to klaverer: Schuberts dramatiske Allegro i a-mol &quot;Lebensstürme&quot;, Schumanns Seks kanoniske studier og Brahms' Variationer over et tema af Haydn. 
 Vært: Magnus Larsson.</description>
@@ -194,15 +204,6 @@ Vært: Mette Greiffenberg.</description>
       <pubDate>Tue, 02 Sep 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/nigel-short-dirigerer-tenebrae-12422535362</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7562a75c4b58350d22df/d8b7e57e9d08f6565adbb8ac8392998d3c37c9a37c97076b0cad48bcbb6f1afc" length="82102919" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Oramo dirigerer Richard Strauss</title>
-      <description>BBC Symphony Orchestra og dirigenten Sakari Oramo spiller to af Richard Strauss' hovedværker: det symfoniske digt Tod und Verklärung, skrevet af den 25-årige komponist som en vision af kunstnerens død og forvandling, og Vier letzte Lieder, hans musikalske farvel til livet, her sunget af den finske sopran Anu Komsi. 
-Vært: Magnus Larsson.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/oramo-dirigerer-richard-strauss-12422535361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7562a75c4b58350d22da/b05b4c5b713eb72df2141e8e11682dcc091f9c0f67113cb8795ccd214b7e5038" length="82100614" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

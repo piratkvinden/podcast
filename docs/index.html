@@ -6,18 +6,20 @@
     <title>podcast</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.css">
     <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js"></script>
 </head>
 <body>
     <div class="container">
-        <h2>podcast</h2>
+        <h2 id="titleHeading">podcast</h2>
         <div class="search-wrapper">
             <input type="text" id="searchInput" placeholder="søg..">
             <span class="clear-search" onclick="clearSearch()">&#10006;</span>
         </div>
-        <p class="helper-text">hør Podimos lydbøger <a href="https://piratkvinden.github.io/podcast/lydbog.html" target="_blank">her</a></p>
+        <p class="helper-text" id="helperText">hør Podimos lydbøger <a href="#" onclick="toggleMode()">her</a></p>
         <div id="results"></div>
     </div>
     <div id="spinnerOverlay" class="spinner-overlay" style="display:none;">
@@ -28,12 +30,24 @@
             <div class="close" id="closeModal">&#10006;</div>
             <h3 id="modalTitle">Titel</h3>
             <h3 id="modalProvider">Udgiver</h3>
+            <h3 id="modalNarrator" style="display: none;">Oplæser</h3>
             <div id="modalDescription">Beskrivelse</div>
-            <div class="modal-icons">
+            <div id="podcastIcons" class="modal-icons">
                 <a id="listEpisodes" title="Afsnitliste" class="icon-link"><i class="fas fa-list"></i></a>
                 <a id="playOnSite" title="Afspil her" class="icon-link"><i class="fas fa-play"></i></a>
                 <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link"><i class="fas fa-rss"></i></a>
                 <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link"><i class="fas fa-podcast"></i></a>
+            </div>
+            <div id="audiobookIcons" class="modal-icons" style="display: none;">
+                <a id="copyMp3Link" title="Kopiér mp3-link" class="icon-link">
+                    <i class="fa-regular fa-copy"></i>
+                </a>
+                <a id="playAudiobookOnSite" title="Afspil her" class="icon-link">
+                    <i class="fa-regular fa-circle-play"></i>
+                </a>
+                <a href="#" id="playAudiobookDefault" title="Download lydbog" class="icon-link">
+                    <span class="material-icons custom-download-icon" id="downloadIcon">download</span>
+                </a>
             </div>
         </div>
     </div>
@@ -56,14 +70,26 @@
         const resultsContainer = document.getElementById('results');
         const greenStyle = "color:green;font-weight:bold;";
         const MAX_CACHE_ITEMS = 100;
-        const CACHE_NAME = 'podcast-cache';
+        const CACHE_NAME = 'media-cache';
         const ITEMS_PER_PAGE = 12;
 
+        let currentMode = 'podcast';
+        let currentItem = null;
         let currentPodcast = null;
+        let currentPlayingMode = null;
+        let currentPlayingPodcast = null;
+        let currentPlayingEpisodes = null;
+        let currentPlayingIndex = -1;
+        let currentTitle = '';
+        let currentArtist = '';
+        let currentAlbum = '';
+        let currentArtwork = '';
         let drPodcastsData = [];
         let podimoPodcastsData = [];
         let r8dioPodcastsData = [];
         let politikenPodcastsData = [];
+        let podimoAudiobooksData = [];
+        let allAudiobooks = [];
         let episodesData = [];
         let currentFilteredEpisodes = [];
         let currentEpisodes = [];
@@ -71,6 +97,96 @@
         let episodeCurrentPage = 1;
         let searchCurrentPage = 1;
         let currentSearchResults = [];
+
+        const audioPlayer = new Plyr('#audio', {
+            controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+        });
+
+        audioPlayer.on('loadedmetadata', () => {
+            audioPlayer.currentTime = 0;
+            if ('mediaSession' in navigator) {
+                navigator.mediaSession.metadata = new MediaMetadata({
+                    title: currentTitle,
+                    artist: currentArtist,
+                    album: currentAlbum,
+                    artwork: [{ src: currentArtwork, sizes: '512x512', type: 'image/png' }]
+                });
+                setMediaSessionPositionState(audioPlayer);
+            }
+            audioPlayer.play().catch(error => { console.error('Playback failed:', error); });
+        });
+
+        audioPlayer.on('timeupdate', () => { setMediaSessionPositionState(audioPlayer); });
+
+        audioPlayer.on('ended', () => {
+            if (currentPlayingMode === 'podcast' && currentPlayingIndex !== -1) {
+                const nextIndex = currentPlayingIndex + 1;
+                if (nextIndex < currentPlayingEpisodes.length) {
+                    const nextEpisode = currentPlayingEpisodes[nextIndex];
+                    playPodcastEpisode(nextEpisode, nextIndex);
+                }
+            }
+        });
+
+        function setMediaSessionPositionState(player) {
+            if ('setPositionState' in navigator.mediaSession) {
+                navigator.mediaSession.setPositionState({
+                    duration: player.duration || 0,
+                    playbackRate: player.playbackRate || 1,
+                    position: player.currentTime || 0
+                });
+            }
+        }
+
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.setActionHandler('play', () => { audioPlayer.play().then(() => { setMediaSessionPositionState(audioPlayer); }); });
+            navigator.mediaSession.setActionHandler('pause', () => { audioPlayer.pause(); setMediaSessionPositionState(audioPlayer); });
+            navigator.mediaSession.setActionHandler('seekto', (details) => {
+                const seekTime = details.seekTime || 0;
+                audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
+                setMediaSessionPositionState(audioPlayer);
+            });
+        }
+
+        function setAudioSource(audioUrl) {
+            audioPlayer.source = { type: 'audio', sources: [{ src: audioUrl, type: 'audio/mp3' }] };
+            document.querySelector('.audio-player').style.display = 'block';
+        }
+
+        function playPodcastEpisode(episode, index) {
+            currentPlayingMode = 'podcast';
+            currentPlayingPodcast = currentPodcast;
+            currentPlayingEpisodes = currentEpisodes;
+            currentPlayingIndex = index;
+
+            currentTitle = episode.title;
+            const formattedDate = formatDateToDDMMYYYY(episode.pubDate);
+            currentArtist = `${currentPlayingPodcast.text} · ${formattedDate}`;
+            currentAlbum = currentPlayingPodcast.provider;
+            currentArtwork = currentPlayingPodcast.image;
+
+            const audioUrl = episode.enclosure || episode.link;
+            setAudioSource(audioUrl);
+
+            const allEpisodes = document.querySelectorAll('.episode-item');
+            allEpisodes.forEach(episode => { episode.classList.remove('playing'); });
+            if (allEpisodes[index]) {
+                allEpisodes[index].classList.add('playing');
+            }
+            localStorage.setItem('currentlyPlaying', audioUrl);
+        }
+
+        function playAudiobook(mp3Link, title, author, year, narrator, image) {
+            currentPlayingMode = 'lydbog';
+            currentPlayingIndex = -1;
+
+            currentTitle = title;
+            currentArtist = `${author} · ${year}`;
+            currentAlbum = `${author} · ${narrator}`;
+            currentArtwork = image;
+
+            setAudioSource(mp3Link);
+        }
 
         async function fetchRSSFeed(rssUrl) {
             const response = await fetch(rssUrl);
@@ -105,7 +221,7 @@
         }
 
         document.addEventListener('DOMContentLoaded', () => {
-            fetchDataAndPreloadIcon();
+            fetchAllData();
             const podcastModal = document.getElementById('podcastModal');
             const closeModalButton = document.getElementById('closeModal');
             const episodeListModal = document.getElementById('episodeListModal');
@@ -129,8 +245,10 @@
                     const episodeElement = event.target.closest('.episode-item');
                     if (!event.target.classList.contains('episode-description')) {
                         const episodeUrl = episodeElement.getAttribute('data-url') || episodeElement.dataset.enclosureUrl;
-                        const episodeTitle = episodeElement.getAttribute('data-title') || episodeElement.querySelector('.episode-title').textContent;
-                        playEpisode(currentPodcast, episodeUrl, episodeTitle, getEpisodeIndexByUrl(episodeUrl));
+                        const episodeIndex = getEpisodeIndexByUrl(episodeUrl);
+                        if (episodeIndex !== -1) {
+                            playPodcastEpisode(currentEpisodes[episodeIndex], episodeIndex);
+                        }
                     }
                 }
                 if (event.target.closest('.episode-description')) {
@@ -159,17 +277,79 @@
                     renderEpisodes(filteredEpisodes, searchTerm);
                 }, 300);
             });
+
+            document.getElementById('playAudiobookOnSite').addEventListener('click', function(event) {
+                event.preventDefault();
+                if (currentItem) {
+                    playAudiobook(currentItem.mp3Link, currentItem.text, currentItem.author, currentItem.year_of_publication, currentItem.narrator, currentItem.image);
+                }
+            });
+
+            document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
+                event.preventDefault();
+                const downloadIcon = document.getElementById('downloadIcon');
+                const downloadButton = this;
+                const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
+                const mp3Link = this.href;
+
+                try {
+                    downloadButton.disabled = true;
+                    downloadButton.style.pointerEvents = 'none';
+                    downloadIcon.classList.add('downloading');
+                    downloadIcon.textContent = 'arrow_downward';
+
+                    const response = await fetch(mp3Link);
+                    if (!response.ok) {
+                        throw new Error(`Failed to fetch file: ${response.statusText}`);
+                    }
+                    const blob = await response.blob();
+
+                    const blobUrl = URL.createObjectURL(blob);
+                    const downloadLink = document.createElement('a');
+                    downloadLink.href = blobUrl;
+                    downloadLink.download = `${podcastTitle}.mp3`;
+                    document.body.appendChild(downloadLink);
+                    downloadLink.click();
+                    document.body.removeChild(downloadLink);
+                    URL.revokeObjectURL(blobUrl);
+
+                    downloadIcon.classList.remove('downloading');
+                    downloadIcon.classList.add('success');
+                    downloadIcon.textContent = 'check_circle_outline';
+                } catch (error) {
+                    console.error('Error downloading the file:', error);
+                    alert('Kunne ikke downloade lydbogen.');
+
+                    downloadIcon.classList.remove('downloading');
+                    downloadIcon.textContent = 'download';
+                } finally {
+                    downloadButton.disabled = false;
+                    downloadButton.style.pointerEvents = 'auto';
+                }
+            });
         });
 
-        async function fetchDataAndPreloadIcon() {
+        async function fetchAllData() {
             try {
                 const urls = [
                     'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
                     'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
                     'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/r8dio.json',
-                    'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json'
+                    'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
+                    'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json'
                 ];
-                [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData] = await Promise.all(urls.map(fetchData));
+                [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData, podimoAudiobooksData] = await Promise.all(urls.map(fetchData));
+                allAudiobooks = podimoAudiobooksData.map(({ title, description, id, url, audio_url, author, narrator, year_of_publication }) => ({
+                    text: title,
+                    provider: author,
+                    description,
+                    url: `https://podimo.com/dk/shows/${id}`,
+                    image: url,
+                    mp3Link: audio_url,
+                    author,
+                    narrator: narrator ? narrator + ' · ' + year_of_publication : 'Ukendt oplæser · ' + year_of_publication,
+                    year_of_publication
+                }));
             } catch (error) {
                 console.error('Error fetching data:', error);
             }
@@ -186,6 +366,32 @@
             }
         }
 
+        function toggleMode() {
+            currentMode = currentMode === 'podcast' ? 'lydbog' : 'podcast';
+            document.getElementById('titleHeading').textContent = currentMode;
+            document.title = currentMode;
+            const toggleText = currentMode === 'podcast' ? 'hør Podimos lydbøger' : 'hør podcasts';
+            document.getElementById('helperText').innerHTML = `${toggleText} <a href="#" onclick="toggleMode()">her</a>`;
+            document.getElementById('searchInput').value = '';
+            resultsContainer.innerHTML = '';
+            document.getElementById('podcastModal').style.display = 'none';
+            document.getElementById('episodeListModal').style.display = 'none';
+            document.getElementById('audioPlayer').style.display = 'none';
+            audioPlayer.pause();
+            const modalNarrator = document.getElementById('modalNarrator');
+            const podcastIcons = document.getElementById('podcastIcons');
+            const audiobookIcons = document.getElementById('audiobookIcons');
+            if (currentMode === 'podcast') {
+                modalNarrator.style.display = 'none';
+                podcastIcons.style.display = 'flex';
+                audiobookIcons.style.display = 'none';
+            } else {
+                modalNarrator.style.display = 'block';
+                podcastIcons.style.display = 'none';
+                audiobookIcons.style.display = 'flex';
+            }
+        }
+
         function clearSearch() {
             const searchInput = document.getElementById('searchInput');
             searchInput.value = '';
@@ -193,24 +399,45 @@
             searchInput.focus();
         }
 
-        function openModal(podcast) {
+        function openModal(item) {
+            currentItem = item;
             const modal = document.getElementById('podcastModal');
-            document.getElementById('modalTitle').textContent = podcast.text;
-            document.getElementById('modalProvider').textContent = podcast.provider;
-            document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
-            document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
-            const rssLinkUdenProtokol = podcast.rssLink.replace(/^https?:\/\//, '');
-            document.getElementById('openInAppLink').href = `podcast://${rssLinkUdenProtokol}`;
-            document.getElementById('playOnSite').href = `https://piratkvinden.github.io/podcast/afspiller.html?rss=${podcast.rssLink}`;
-            document.getElementById('playOnSite').target = '_blank';
-            document.getElementById('listEpisodes').onclick = async () => {
-                modal.style.display = 'none';
-                await openEpisodeListModal(podcast);
-            };
+            document.getElementById('modalTitle').textContent = item.text;
+            document.getElementById('modalProvider').textContent = item.provider;
+            document.getElementById('modalDescription').innerHTML = formatDescription(item.description);
+            if (currentMode === 'podcast') {
+                document.getElementById('copyRSSButton').onclick = () => copyMediaLink(item.rssLink);
+                const rssLinkUdenProtokol = item.rssLink.replace(/^https?:\/\//, '');
+                document.getElementById('openInAppLink').href = `podcast://${rssLinkUdenProtokol}`;
+                document.getElementById('playOnSite').href = `https://piratkvinden.github.io/podcast/afspiller.html?rss=${item.rssLink}`;
+                document.getElementById('playOnSite').target = '_blank';
+                document.getElementById('listEpisodes').onclick = async () => {
+                    modal.style.display = 'none';
+                    await openEpisodeListModal(item);
+                };
+            } else {
+                document.getElementById('modalNarrator').textContent = item.narrator || 'Ukendt oplæser';
+                document.getElementById('playAudiobookOnSite').href = item.mp3Link;
+                document.getElementById('playAudiobookDefault').href = item.mp3Link;
+                document.getElementById('copyMp3Link').onclick = () => copyMediaLink(item.mp3Link);
+                const downloadIcon = document.getElementById('downloadIcon');
+                downloadIcon.textContent = 'download';
+                downloadIcon.classList.remove('success', 'downloading');
+            }
             modal.style.display = 'block';
         }
 
+        function copyMediaLink(link) {
+            navigator.clipboard.writeText(link).then(() => {
+                showToast(`${link}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
+                document.getElementById('podcastModal').style.display = 'none';
+            }).catch(err => {
+                console.error('Failed to copy link:', err);
+            });
+        }
+
         async function openEpisodeListModal(podcast) {
+            if (currentMode !== 'podcast') return;
             document.getElementById('spinnerOverlay').style.display = 'flex';
             document.body.classList.add('blur');
             try {
@@ -311,10 +538,7 @@
                         console.error("Episode not found for the given audio URL. (" + audioUrl + ")");
                         return;
                     }
-                    const selectedEpisode = episodesData[episodeIndex];
-                    const episodeItem = playButton.closest('.episode-item');
-                    const episodeTitle = episodeItem.querySelector('.episode-title').textContent;
-                    playEpisode(currentPodcast, selectedEpisode.link, episodeTitle, episodeIndex);
+                    playPodcastEpisode(currentEpisodes[episodeIndex], episodeIndex);
                 });
             }
             if (copyButton) {
@@ -337,66 +561,7 @@
         }
 
         function getEpisodeIndexByUrl(audioUrl) {
-            return episodesData.findIndex(episode => (episode.link || episode.enclosure) === audioUrl);
-        }
-
-        const audioPlayer = new Plyr('#audio', {
-            controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
-        });
-
-        function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
-            const allEpisodes = document.querySelectorAll('.episode-item');
-            allEpisodes.forEach(episode => { episode.classList.remove('playing'); });
-            const currentEpisodeElement = allEpisodes[currentIndex];
-            if (currentEpisodeElement) {
-                currentEpisodeElement.classList.add('playing');
-                const url = currentEpisodeElement.dataset.enclosureUrl;
-                localStorage.setItem('currentlyPlaying', url); // Rettet til at bruge den korrekte url
-                const episodeDate = currentEpisodeElement.querySelector('.episode-date')?.textContent;
-                const formattedDate = formatDateToDDMMYYYY(episodeDate);
-            }
-            audioPlayer.source = { type: 'audio', sources: [{ src: audioUrl, type: 'audio/mp3' }] };
-            document.querySelector('.audio-player').style.display = 'block';
-            audioPlayer.on('loadedmetadata', () => {
-                audioPlayer.currentTime = 0;
-                if ('mediaSession' in navigator) {
-                    navigator.mediaSession.metadata = new MediaMetadata({
-                        title: episodeTitle,
-                        artist: `${podcast.text} · ${formattedDate}`,
-                        album: podcast.provider,
-                        artwork: [{ src: podcast.image, sizes: '512x512', type: 'image/png' }]
-                    });
-                    setMediaSessionPositionState(audioPlayer);
-                    navigator.mediaSession.setActionHandler('play', () => { audioPlayer.play().then(() => { setMediaSessionPositionState(audioPlayer); }); });
-                    navigator.mediaSession.setActionHandler('pause', () => { audioPlayer.pause(); setMediaSessionPositionState(audioPlayer); });
-                    navigator.mediaSession.setActionHandler('seekto', (details) => {
-                        const seekTime = details.seekTime || 0;
-                        audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
-                        setMediaSessionPositionState(audioPlayer);
-                    });
-                }
-                audioPlayer.play().catch(error => { console.error('Playback failed:', error); });
-            });
-            audioPlayer.on('timeupdate', () => { setMediaSessionPositionState(audioPlayer); });
-            audioPlayer.on('ended', () => { playNextEpisode(podcast, currentIndex); });
-        }
-
-        function setMediaSessionPositionState(player) {
-            if ('setPositionState' in navigator.mediaSession) {
-                navigator.mediaSession.setPositionState({
-                    duration: player.duration || 0,
-                    playbackRate: player.playbackRate || 1,
-                    position: player.currentTime || 0
-                });
-            }
-        }
-
-        function playNextEpisode(podcast, currentIndex) {
-            const nextIndex = currentIndex + 1;
-            if (nextIndex < episodesData.length) {
-                const nextEpisode = episodesData[nextIndex];
-                playEpisode(podcast, nextEpisode.link, nextEpisode.title, nextIndex);
-            }
+            return currentEpisodes.findIndex(episode => (episode.link || episode.enclosure) === audioUrl);
         }
 
         function paginateAndRender(items, page, container, createElementsFn, observer) {
@@ -493,15 +658,6 @@
             return formattedDescription;
         }
 
-        function copyRSSLink(rssLink) {
-            navigator.clipboard.writeText(rssLink).then(() => {
-                showToast(`${rssLink}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
-                document.getElementById('podcastModal').style.display = 'none';
-            }).catch(err => {
-                console.error('Failed to copy RSS link:', err);
-            });
-        }
-
         function showToast(message) {
             document.body.classList.add('blur-background');
             const toast = document.createElement('div');
@@ -514,10 +670,8 @@
             }, 5000);
         }
 
-        async function filterPodcasts(searchText) {
-            function normalizeText(text) {
-                return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '').trim();
-            }
+        async function filterContent(searchText) {
+            searchText = searchText.trim();
             if (searchText.length === 0) {
                 resultsContainer.innerHTML = '';
                 return;
@@ -526,28 +680,55 @@
                 resultsContainer.innerHTML = '<p style="text-align:center;">Indtast minimum 3 bogstaver for at søge</p>';
                 return;
             }
-            const results = [];
-            const allData = [
-                ...drPodcastsData.map(({ name, description, program_url, image }) => ({
-                    text: name, provider: 'DR', description, url: program_url, image,
-                    rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/DRLyd/${program_url.split('/').pop()}.rss`
-                })),
-                ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
-                    text: title, provider: 'Podimo', description, url: `https://podimo.com/dk/shows/${id}`, image: coverImageUrl,
-                    rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
-                })),
-                ...r8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
-                    text: title, provider: 'r8Dio', description: content, url: program_url, image,
-                    rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
-                })),
-                ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
-                    text: title, provider: 'Politiken', description, url: program_url, image,
-                    rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
-                }))
-            ];
-            const normalizedSearchText = normalizeText(searchText);
-            results.push(...allData.filter(podcast => normalizeText(podcast.text).includes(normalizedSearchText)));
-            currentSearchResults = results;
+            if (currentMode === 'podcast') {
+                function normalizeText(text) {
+                    return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '').trim();
+                }
+                const results = [];
+                const allData = [
+                    ...drPodcastsData.map(({ name, description, program_url, image }) => ({
+                        text: name, provider: 'DR', description, url: program_url, image,
+                        rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/DRLyd/${program_url.split('/').pop()}.rss`
+                    })),
+                    ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
+                        text: title, provider: 'Podimo', description, url: `https://podimo.com/dk/shows/${id}`, image: coverImageUrl,
+                        rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+                    })),
+                    ...r8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
+                        text: title, provider: 'r8Dio', description: content, url: program_url, image,
+                        rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
+                    })),
+                    ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
+                        text: title, provider: 'Politiken', description, url: program_url, image,
+                        rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
+                    }))
+                ];
+                const normalizedSearchText = normalizeText(searchText);
+                results.push(...allData.filter(podcast => normalizeText(podcast.text).includes(normalizedSearchText)));
+                currentSearchResults = results;
+            } else {
+                function normalizeText(text) {
+                    return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+                }
+                const normalizedSearchText = normalizeText(searchText);
+                let newResults = allAudiobooks.filter(podcast =>
+                    normalizeText(podcast.text).includes(normalizedSearchText) ||
+                    normalizeText(podcast.author).includes(normalizedSearchText) ||
+                    (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
+                );
+                newResults.sort((a, b) => {
+                    const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText) ? 1 : 0;
+                    const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText) ? 1 : 0;
+                    const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText) ? 1 : 0;
+                    const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText) ? 1 : 0;
+                    const aNarratorMatch = (a.narrator && normalizeText(a.narrator).includes(normalizedSearchText)) ? 1 : 0;
+                    const bNarratorMatch = (b.narrator && normalizeText(b.narrator).includes(normalizedSearchText)) ? 1 : 0;
+                    if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
+                    if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
+                    return bNarratorMatch - aNarratorMatch;
+                });
+                currentSearchResults = newResults;
+            }
             searchCurrentPage = 1;
             renderSearchResults(currentSearchResults, searchCurrentPage);
         }
@@ -641,7 +822,7 @@
         document.getElementById('searchInput').addEventListener('input', function() {
             clearTimeout(debounceTimeout);
             debounceTimeout = setTimeout(() => {
-                filterPodcasts(this.value.trim());
+                filterContent(this.value);
             }, 500);
         });
 
