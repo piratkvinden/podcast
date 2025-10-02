@@ -86,7 +86,7 @@
     <div id="audioPlayer" class="audio-player">
         <audio id="audio" controls crossorigin></audio>
     </div>
-    <script>
+<script>
         const resultsContainer = document.getElementById('results');
         const greenStyle = "color:green;font-weight:bold;";
         const MAX_CACHE_ITEMS = 100;
@@ -255,7 +255,7 @@
         		const guid = item.querySelector("guid")?.textContent || '';
         		episodes.push({
         			title: item.querySelector("title")?.textContent || "(ingen titel)",
-        			description: item.querySelector("description")?.textContent.replace(/\n/g, '') || "(ingen beskrivelse)",
+        			description: item.querySelector("description")?.textContent || "(ingen beskrivelse)",
         			pubDate: new Date(item.querySelector("pubDate")?.textContent),
         			date: '',
         			link: item.querySelector("enclosure")?.getAttribute("url") || '',
@@ -391,23 +391,53 @@
         		const downloadButton = this;
         		const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
         		const mp3Link = this.href;
+        		const year = currentItem.year_of_publication || 'Unknown Year';
+        		const extension = mp3Link.split('.').pop() || 'mp3';
 
         		try {
         			downloadButton.disabled = true;
         			downloadButton.style.pointerEvents = 'none';
+
+        			downloadIcon.innerHTML = `
+      <svg class="progress-circle" width="24" height="24" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="10" stroke="#444" stroke-width="2" fill="none"/>
+        <circle class="progress" cx="12" cy="12" r="10" stroke="#4caf50" stroke-width="2" fill="none" stroke-dasharray="62.8" stroke-dashoffset="62.8" transform="rotate(-90 12 12)"/>
+      </svg>
+    `;
         			downloadIcon.classList.add('downloading');
-        			downloadIcon.textContent = 'arrow_downward';
 
         			const response = await fetch(mp3Link);
         			if (!response.ok) {
         				throw new Error(`Failed to fetch file: ${response.statusText}`);
         			}
-        			const blob = await response.blob();
+
+        			const total = parseInt(response.headers.get('Content-Length'), 10);
+        			const reader = response.body.getReader();
+        			let received = 0;
+        			let chunks = [];
+
+        			while (true) {
+        				const {
+        					done,
+        					value
+        				} = await reader.read();
+        				if (done) break;
+        				chunks.push(value);
+        				received += value.length;
+
+        				if (total) {
+        					const progress = (received / total) * 100;
+        					const offset = 62.8 * (1 - progress / 100);
+        					downloadIcon.querySelector('.progress').style.strokeDashoffset = offset;
+        				}
+        			}
+
+        			const blob = new Blob(chunks);
 
         			const blobUrl = URL.createObjectURL(blob);
         			const downloadLink = document.createElement('a');
         			downloadLink.href = blobUrl;
-        			downloadLink.download = `${podcastTitle}.mp3`;
+        			downloadLink.download = `${podcastTitle} (${year}).${extension}`;
         			document.body.appendChild(downloadLink);
         			downloadLink.click();
         			document.body.removeChild(downloadLink);
@@ -415,12 +445,14 @@
 
         			downloadIcon.classList.remove('downloading');
         			downloadIcon.classList.add('success');
+        			downloadIcon.innerHTML = '';
         			downloadIcon.textContent = 'check_circle_outline';
         		} catch (error) {
         			console.error('Error downloading the file:', error);
         			alert('Kunne ikke downloade lydbogen.');
 
         			downloadIcon.classList.remove('downloading');
+        			downloadIcon.innerHTML = '';
         			downloadIcon.textContent = 'download';
         		} finally {
         			downloadButton.disabled = false;
@@ -655,8 +687,9 @@
         		episodeItem.classList.add('episode-item');
         		const highlightedTitle = highlightText(episode.title, searchTerm);
         		const highlightedDate = highlightText(formatDateToDDMMYYYY(episode.pubDate), searchTerm);
-        		const fullDescription = highlightText(episode.description.replace(/\n/g, ''), searchTerm);
-        		const collapsedDescription = highlightText(episode.description, searchTerm);
+        		const processedDescription = episode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
+        		const fullDescription = highlightText(processedDescription, searchTerm);
+        		const collapsedDescription = highlightText(processedDescription, searchTerm);
         		episodeItem.innerHTML = `
                 <div class="episode-header">
                     <span class="episode-title">${highlightedTitle}</span>
@@ -758,7 +791,8 @@
         function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
         	const firstDescription = firstElement.querySelector('.episodelist-description');
         	firstDescription.classList.add('expanded');
-        	const fullDescription = highlightText(firstEpisode.description.replace(/\n/g, ''), searchTerm);
+        	const processedDescription = firstEpisode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
+        	const fullDescription = highlightText(processedDescription, searchTerm);
         	firstDescription.innerHTML = `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>`;
         	addDescriptionButtonListeners(firstDescription);
         }
@@ -806,7 +840,7 @@
         };
 
         function formatDescription(description) {
-        	let formattedDescription = description.replace(/\n/g, '');
+        	let formattedDescription = description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
         	formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
         	return formattedDescription;
         }
@@ -1041,7 +1075,7 @@
         }
 
         function sanitizeString(str) {
-        	return str.replace(/[&<>"'`/]/g, (char) => {
+        	return str.replace(/[&<>"'`]/g, (char) => {
         		const escapeChars = {
         			'&': '&amp;',
         			'<': '&lt;',
@@ -1049,7 +1083,6 @@
         			'"': '&quot;',
         			"'": '&#39;',
         			'`': '&#96;',
-        			'/': '&#x2F;'
         		};
         		return escapeChars[char] || char;
         	});
@@ -1069,7 +1102,7 @@
         			if (!channel) throw new Error('Ugyldig RSS: Mangler hovedkanal i feed');
 
         			playerPodTitle = sanitizeString(channel.querySelector('title')?.textContent || '(ingen titel)');
-        			playerPodDesc = sanitizeString(channel.querySelector('description')?.textContent || '(ingen beskrivelse)');
+        			playerPodDesc = sanitizeString(channel.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
 
         			const itunesImage = channel.querySelector('itunes\\:image') || channel.querySelector('image');
         			playerPodArtwork = itunesImage?.getAttribute('href') || itunesImage?.querySelector('url')?.textContent || '';
@@ -1080,7 +1113,7 @@
 
         			playerEpisodesData = episodes.map(episode => ({
         				title: sanitizeString(episode.querySelector('title')?.textContent || '(ingen titel)'),
-        				description: sanitizeString(episode.querySelector('description')?.textContent || '(ingen beskrivelse)'),
+        				description: sanitizeString(episode.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
         				pubDate: new Date(Date.parse(episode.querySelector('pubDate')?.textContent) || Date.now()),
         				link: episode.querySelector('enclosure')?.getAttribute('url') || '',
         				guid: episode.querySelector('guid')?.textContent || ''
@@ -1090,12 +1123,12 @@
         		} else {
         			playerRssUrl = '';
         			playerPodTitle = sanitizeString(itemOrUrl.text);
-        			playerPodDesc = sanitizeString(itemOrUrl.description);
+        			playerPodDesc = sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
         			playerPodArtwork = itemOrUrl.image;
 
         			playerEpisodesData = [{
         				title: sanitizeString(itemOrUrl.text),
-        				description: sanitizeString(itemOrUrl.description),
+        				description: sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
         				pubDate: new Date(itemOrUrl.year_of_publication, 0, 1),
         				link: itemOrUrl.mp3Link,
         				guid: '',
@@ -1416,5 +1449,6 @@
         		});
         	}
         }
-</script></body>
+</script>
+</body>
 </html>

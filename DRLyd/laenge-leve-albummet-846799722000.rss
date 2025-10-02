@@ -7,16 +7,6 @@
 Velkommen til!</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6841849f1e62b894ffee206e?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
-      <title>Oasis - (What's the Story) Morning Glory</title>
-      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
-Vært: Casper Bach Hegstrup.
-Gæst: Niels Brandt.</description>
-      <itunes:duration>01:27:03</itunes:duration>
-      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>På eventyr med Tom Waits og Marc Facchini</title>
       <description>Marc Facchini faldt i gryden med Tom Waits' unikke fabelverden solede som barn. Og han har intet ønske om at falde ud igen. Derfor tager vi i dette afsnit på en fælles quest dybt ned i albummet &quot;Real Gone&quot;.</description>
       <itunes:duration>01:57:00</itunes:duration>
@@ -162,6 +152,16 @@ Kærlig hilsen Goodluck Casper.</description>
       <pubDate>Sun, 06 Apr 2025 17:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet/debbie-sings-og-kampen-mod-naturen-16452536147</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e488408546a4b72ebb2209/ab14e477f4718845ea03c09c6ffedd3baf84cba45484ffbb8503882480324759" length="168482184" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Oasis - (What's the Story) Morning Glory</title>
+      <description>Oasis er gendannet! Hurra. P6 er gået i breaking for første gang. Derfor genudsender vi denne fine samtale mellem Niels Brandt fra The Minds of 99 og Goodluck Casper, hvor de sammen endevender &quot;(whats the story) Morning Glory&quot;. Samtalen er godt nok 9 år gammel, så der vil måske være en enkelt henvisning til noget, der er sket for lidt tid siden, men derudover står udsendelsen knivskarpt og har litervis af kærlighed til Liam, Noel og Oasis. God fornøjelse! Oasis forever.
+Vært: Casper Bach Hegstrup.
+Gæst: Niels Brandt.</description>
+      <itunes:duration>01:27:03</itunes:duration>
+      <pubDate>Tue, 27 Aug 2024 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2015/oasis-what-s-the-story-morning-glory-16451535381</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa297e4330eac2f135bc7c8/14a7cd04692b2d34b2c768771b79935f23eebf90e112133d81dc65d3b67a7fc0" length="125377221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
