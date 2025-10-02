@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="da">
+<!DOCTYPE html><html lang="da">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -130,12 +129,15 @@
         let playerLastTimeUpdate = 0;
         let playerRssUrl = '';
 
+        let pendingSeek = 0;
+        let currentEpisode = null;
+
         const audioPlayer = new Plyr('#audio', {
         	controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
         });
 
         audioPlayer.on('loadedmetadata', () => {
-        	audioPlayer.currentTime = 0;
+        	audioPlayer.currentTime = pendingSeek;
         	if ('mediaSession' in navigator) {
         		navigator.mediaSession.metadata = new MediaMetadata({
         			title: currentTitle,
@@ -160,16 +162,15 @@
         });
 
         audioPlayer.on('ended', () => {
-        	if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-        		const url = audioPlayer.source.sources[0].src;
-        		markEpisodeAsFinished(url);
-        	}
+        	if (currentEpisode) {
+        		markEpisodeAsFinished(currentEpisode);
+        	} else {}
         	playerDisplayEpisodes();
         	if (playerCurrentIndex !== -1) {
         		let nextIndex = playerCurrentIndex + 1;
         		if (playerFilterEpisodes) {
         			const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-        			while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(playerEpisodesData[nextIndex].link)) {
+        			while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
         				nextIndex++;
         			}
         		}
@@ -181,9 +182,10 @@
         });
 
         audioPlayer.on('seeked', () => {
-        	if (audioPlayer.currentTime >= audioPlayer.duration - 0.5 && audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-        		const url = audioPlayer.source.sources[0].src;
-        		markEpisodeAsFinished(url);
+        	if (audioPlayer.currentTime >= audioPlayer.duration - 0.5) {
+        		if (currentEpisode) {
+        			markEpisodeAsFinished(currentEpisode);
+        		} else {}
         		playNextEpisode();
         	}
         });
@@ -250,13 +252,15 @@
         	const items = xmlDoc.getElementsByTagName("item");
         	const episodes = [];
         	for (let item of items) {
+        		const guid = item.querySelector("guid")?.textContent || '';
         		episodes.push({
         			title: item.querySelector("title")?.textContent || "(ingen titel)",
-        			description: item.querySelector("description")?.textContent.replace(/\n/g, '<br>') || "(ingen beskrivelse)",
+        			description: item.querySelector("description")?.textContent.replace(/\n/g, '') || "(ingen beskrivelse)",
         			pubDate: new Date(item.querySelector("pubDate")?.textContent),
         			date: '',
         			link: item.querySelector("enclosure")?.getAttribute("url") || '',
-        			enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || ''
+        			enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || '',
+        			guid: guid
         		});
         	}
         	return episodes;
@@ -573,7 +577,9 @@
 
         function copyMediaLink(link) {
         	navigator.clipboard.writeText(link).then(() => {
-        		showToast(`${link}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
+        		showToast(`${link}
+
+<span style="${greenStyle}">Link kopieret!</span>`);
         	}).catch(err => {
         		console.error('Failed to copy link:', err);
         	});
@@ -649,15 +655,15 @@
         		episodeItem.classList.add('episode-item');
         		const highlightedTitle = highlightText(episode.title, searchTerm);
         		const highlightedDate = highlightText(formatDateToDDMMYYYY(episode.pubDate), searchTerm);
-        		const fullDescription = highlightText(episode.description.replace(/\n/g, '<br>'), searchTerm);
+        		const fullDescription = highlightText(episode.description.replace(/\n/g, ''), searchTerm);
         		const collapsedDescription = highlightText(episode.description, searchTerm);
         		episodeItem.innerHTML = `
-                    <div class="episode-header">
-                        <span class="episode-title">${highlightedTitle}</span>
-                        <span class="episode-date">${highlightedDate}</span>
-                    </div>
-                    <div class="episodelist-description">${collapsedDescription}</div>
-                `;
+                <div class="episode-header">
+                    <span class="episode-title">${highlightedTitle}</span>
+                    <span class="episode-date">${highlightedDate}</span>
+                </div>
+                <div class="episodelist-description">${collapsedDescription}</div>
+            `;
         		episodeItem.dataset.enclosureUrl = episode.enclosure || episode.link;
         		const description = episodeItem.querySelector('.episodelist-description');
         		description.addEventListener('click', (event) => handleDescriptionClick(event, description, fullDescription, collapsedDescription));
@@ -694,7 +700,9 @@
         		copyButton.addEventListener('click', (event) => {
         			event.stopPropagation();
         			navigator.clipboard.writeText(audioUrl).then(() => {
-        				showToast(`${audioUrl}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
+        				showToast(`${audioUrl}
+
+<span style="${greenStyle}">Link kopieret!</span>`);
         			});
         		});
         	}
@@ -750,7 +758,7 @@
         function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
         	const firstDescription = firstElement.querySelector('.episodelist-description');
         	firstDescription.classList.add('expanded');
-        	const fullDescription = highlightText(firstEpisode.description.replace(/\n/g, '<br>'), searchTerm);
+        	const fullDescription = highlightText(firstEpisode.description.replace(/\n/g, ''), searchTerm);
         	firstDescription.innerHTML = `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>`;
         	addDescriptionButtonListeners(firstDescription);
         }
@@ -798,7 +806,7 @@
         };
 
         function formatDescription(description) {
-        	let formattedDescription = description.replace(/\n/g, '<br>');
+        	let formattedDescription = description.replace(/\n/g, '');
         	formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
         	return formattedDescription;
         }
@@ -1017,7 +1025,6 @@
         	if (event.key === 'Enter') this.blur();
         });
 
-
         function togglePlayerSidebar() {
         	const sidebar = document.getElementById('playerSidebar');
         	const hamburger = document.querySelector('.hamburger');
@@ -1076,6 +1083,7 @@
         				description: sanitizeString(episode.querySelector('description')?.textContent || '(ingen beskrivelse)'),
         				pubDate: new Date(Date.parse(episode.querySelector('pubDate')?.textContent) || Date.now()),
         				link: episode.querySelector('enclosure')?.getAttribute('url') || '',
+        				guid: episode.querySelector('guid')?.textContent || ''
         			})).filter(ep => ep.link);
 
         			playerEpisodesData.sort((a, b) => a.pubDate - b.pubDate);
@@ -1090,6 +1098,7 @@
         				description: sanitizeString(itemOrUrl.description),
         				pubDate: new Date(itemOrUrl.year_of_publication, 0, 1),
         				link: itemOrUrl.mp3Link,
+        				guid: '',
         				author: itemOrUrl.author,
         				year: itemOrUrl.year_of_publication,
         				narrator: itemOrUrl.narrator,
@@ -1124,7 +1133,7 @@
         	const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
         	let filteredData = playerEpisodesData;
         	if (playerFilterEpisodes) {
-        		filteredData = playerEpisodesData.filter(ep => !finishedEpisodes.includes(ep.link));
+        		filteredData = playerEpisodesData.filter(ep => !finishedEpisodes.includes(getEpisodeKey(ep)));
         	}
         	const totalPages = Math.ceil(filteredData.length / PLAYER_ITEMS_PER_PAGE);
         	const startIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
@@ -1160,11 +1169,11 @@
         		div.dataset.url = episode.link;
         		div.dataset.title = episode.title.replace(/'/g, "\\'");
         		div.innerHTML = `
-                    <div class="loading-spinner" style="display: none;"></div>
-                    <h4 class="player-episode-title${longTitleClass}">${episode.title}</h4>
-                    <p class="pub-date">${episode.isAudiobook ? episode.year : episode.pubDate.toLocaleDateString()}</p>
-                    <p class="episode-description">${episode.description}</p>
-                `;
+            <div class="loading-spinner" style="display: none;"></div>
+            <h4 class="player-episode-title${longTitleClass}">${episode.title}</h4>
+            <p class="pub-date">${episode.isAudiobook ? episode.year : episode.pubDate.toLocaleDateString()}</p>
+            <p class="episode-description">${episode.description}</p>
+        `;
         		fragment.appendChild(div);
         	});
 
@@ -1177,12 +1186,23 @@
 
         	const pagination = document.getElementById('pagination-controls');
         	const podcastInfoElem = document.getElementById('podcast-info');
+        	const toggleButton = document.getElementById('toggle-fully-listened');
+        	const isAudiobook = playerEpisodesData.length > 0 && playerEpisodesData[0].isAudiobook;
+
+        	toggleButton.style.display = isAudiobook ? 'none' : '';
+
         	if (totalPages <= 1 || playerTotalEpisodes === 0) {
         		pagination.style.display = 'none';
-        		podcastInfoElem.style.maxHeight = 'calc(100% - 50px)';
+        		podcastInfoElem.style.maxHeight = 'calc(100% - 70px)';
+        		if (!isAudiobook) {
+        			toggleButton.style.bottom = '0px';
+        		}
         	} else {
         		pagination.style.display = 'flex';
         		podcastInfoElem.style.maxHeight = 'calc(100% - 100px)';
+        		if (!isAudiobook) {
+        			toggleButton.style.bottom = '20px';
+        		}
         	}
 
         	if (playerTotalEpisodes === 0) {
@@ -1253,12 +1273,20 @@
         	return parseFloat(localStorage.getItem(`playback-progress-${episodeUrl}`)) || 0;
         }
 
-        function markEpisodeAsFinished(url) {
+
+        function getEpisodeKey(episode) {
+        	const key = episode.isAudiobook ? episode.link : playerRssUrl + (episode.guid || episode.link);
+        	return key;
+        }
+
+        function markEpisodeAsFinished(episode) {
+        	const key = getEpisodeKey(episode);
         	const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-        	if (!finishedEpisodes.includes(url)) {
-        		finishedEpisodes.push(url);
+        	if (!finishedEpisodes.includes(key)) {
+        		finishedEpisodes.push(key);
         		localStorage.setItem('finishedEpisodes', JSON.stringify(finishedEpisodes));
-        	}
+        		playerDisplayEpisodes();
+        	} else {}
         }
 
         function playNextEpisode() {
@@ -1266,7 +1294,7 @@
         		let nextIndex = playerCurrentIndex + 1;
         		if (playerFilterEpisodes) {
         			const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-        			while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(playerEpisodesData[nextIndex].link)) {
+        			while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
         				nextIndex++;
         			}
         		}
@@ -1281,7 +1309,7 @@
         					let firstIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
         					if (playerFilterEpisodes) {
         						const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-        						while (firstIndex < playerEpisodesData.length && finishedEpisodes.includes(playerEpisodesData[firstIndex].link)) {
+        						while (firstIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[firstIndex]))) {
         							firstIndex++;
         						}
         					}
@@ -1304,17 +1332,17 @@
         	}
 
         	playerCurrentIndex = playerEpisodesData.findIndex(ep => ep.link === episodeUrl);
-        	const episode = playerEpisodesData[playerCurrentIndex];
+        	currentEpisode = playerEpisodesData[playerCurrentIndex];
 
-        	if (episode) {
-        		if (episode.isAudiobook) {
-        			currentTitle = episode.title;
-        			currentArtist = `${episode.author} · ${episode.year}`;
-        			currentAlbum = `${episode.author} · ${episode.narrator}`;
-        			currentArtwork = episode.image;
+        	if (currentEpisode) {
+        		if (currentEpisode.isAudiobook) {
+        			currentTitle = currentEpisode.title;
+        			currentArtist = `${currentEpisode.author} · ${currentEpisode.year}`;
+        			currentAlbum = `${currentEpisode.author} · ${currentEpisode.narrator}`;
+        			currentArtwork = currentEpisode.image;
         		} else {
-        			currentTitle = episode.title;
-        			const formattedDate = formatDateToDDMMYYYY(episode.pubDate);
+        			currentTitle = currentEpisode.title;
+        			const formattedDate = formatDateToDDMMYYYY(currentEpisode.pubDate);
         			currentArtist = `${playerPodTitle} · ${formattedDate}`;
         			currentAlbum = playerPodTitle;
         			currentArtwork = playerPodArtwork;
@@ -1322,10 +1350,12 @@
         	}
 
         	const savedTime = getPlaybackProgress(episodeUrl);
+        	pendingSeek = savedTime;
+
         	const episodeSpinner = document.querySelector(`.episode[data-url="${episodeUrl}"] .loading-spinner`);
 
         	setAudioSource(episodeUrl);
-        	audioPlayer.currentTime = savedTime;
+
         	localStorage.setItem('currentlyPlaying', episodeUrl);
         	document.title = episodeTitle;
 
@@ -1346,9 +1376,16 @@
         function handleTimeUpdate() {
         	const currentTime = audioPlayer.currentTime;
         	if (currentTime - playerLastTimeUpdate > TIME_UPDATE_INTERVAL && audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-        		savePlaybackProgress(audioPlayer.source.sources[0].src, currentTime);
+        		const src = audioPlayer.source.sources[0].src;
+        		savePlaybackProgress(src, currentTime);
         		playerLastTimeUpdate = currentTime;
         		setMediaSessionPositionState(audioPlayer);
+        	}
+
+        	if (audioPlayer.duration > 0 && currentTime >= audioPlayer.duration - 0.5 && currentTime / audioPlayer.duration > 0.9) {
+        		if (currentEpisode) {
+        			markEpisodeAsFinished(currentEpisode);
+        		} else {}
         	}
         }
 
@@ -1379,6 +1416,5 @@
         		});
         	}
         }
-    </script>
-</body>
+</script></body>
 </html>
