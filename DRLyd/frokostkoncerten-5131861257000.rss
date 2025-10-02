@@ -7,6 +7,15 @@
 Velbekomme.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3ed0152248c98a43a171b?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Schuberts Grand Duo</title>
+      <description>Ved en koncert i Wigmore Hall i London spiller pianisterne Paul Lewis og Steven Osborne Schuberts monumentale Sonate i C-dur for firhændigt klaver, den der også er kendt som &quot;Grand Duo&quot;- et værk med symfoniske dimensioner, skrevet i 1824 under komponistens ophold hos Esterházy-familien i Ungarn. 
+Vært: Magnus Larsson.</description>
+      <itunes:duration>00:57:00</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 13:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/schuberts-grand-duo-12422535403</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7571923dffbb19765866/32f0e2afde6a7e8a9e05b37b3390a6c01f034ae947639e7a3ba86e366d8c1957" length="82102918" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Beethovens Eroica, Symfoni nr. 3</title>
       <description>Det Hollandske Filharmoniske Radioorkester.
 Dirigent: Roderick Cox. 
@@ -194,16 +203,6 @@ Vært: Magnus Larsson.</description>
       <pubDate>Wed, 03 Sep 2025 13:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/dalene-brantelid-og-hadland-i-wigmore-hall-12422535363</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7563a75c4b58350d22e4/631e92d34b074d964610857e68879e83d7fa7f2e2060405c002ff6f56ab2d675" length="82100618" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Nigel Short dirigerer Tenebrae</title>
-      <description>Det britiske vokalensemble Tenebrae har specialiseret sig i at synge kormusik fra det 20 og 21 århundrede, og  her synger de  hymner og bønner omfavnet af en stille indadvendt ro af blandt andre Caroline Shaw, Benjamin Britten og Joanna Marsh.
-Dirigent: Nigel Short. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 02 Sep 2025 13:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten/nigel-short-dirigerer-tenebrae-12422535362</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7562a75c4b58350d22df/d8b7e57e9d08f6565adbb8ac8392998d3c37c9a37c97076b0cad48bcbb6f1afc" length="82102919" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
