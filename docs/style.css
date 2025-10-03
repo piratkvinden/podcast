@@ -428,10 +428,6 @@ h2 {
 	font-size: 24px;
 }
 
-.downloading {
-	animation: arrowMove 1s infinite ease-in-out;
-}
-
 @keyframes
  arrowMove {
 	0% {

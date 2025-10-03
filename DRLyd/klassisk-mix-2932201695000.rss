@@ -68,13 +68,13 @@ Vært: Frederik Korfix.</description>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6b07b626ea9bb05c6ff/9aba4f0b9203d8cec41874fc97c67021410023b59f19621cecc8a9f7673cf9af" length="164271031" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Tirsdag 23. sep. 2025</title>
+      <title>Tirsdag 23. september 2025</title>
       <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
 Helt værk: Haydns Symfoni nr. 46, spillet af Il Giardino Armonico, under ledelse af Giovanni Antonini. 
 Vært: Max Fage-Pedersen.</description>
       <itunes:duration>01:54:03</itunes:duration>
       <pubDate>Tue, 23 Sep 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-23-sep-2025-12422536392</guid>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/tirsdag-23-september-2025-12422536392</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825e6b07b626ea9bb05c6fa/81bbbb09394d4526b21acf96f2c465825c735d6094d217c747e9e20841cc4d8a" length="164248564" type="audio/mpeg"/>
     </item>
     <item>
@@ -215,16 +215,6 @@ Vært: Malena Rønnow.</description>
       <pubDate>Thu, 18 Sep 2025 14:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/mandag-28-apr-2025-12422536181</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f523e1867a0ea6fede4ac8/fb91863e7ad964369019ccf49ece043edada5622caeddf73a549036fb82fdffa" length="164151796" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 25. apr. 2025</title>
-      <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
-Helt værk: Johann Sebastian Bach: Sonate nr. 2, a-mol BWV 1003. Lisa Batiashvili, violin. 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>01:54:03</itunes:duration>
-      <pubDate>Wed, 03 Sep 2025 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2025/fredag-25-apr-2025-12422536175</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f5028e8e208bf2ad233955/15460ca3a53ad5b018a0460245cf3cac0406958dbcc08567889bd9ac7d564fe5" length="164241075" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

@@ -399,11 +399,12 @@
         			downloadButton.style.pointerEvents = 'none';
 
         			downloadIcon.innerHTML = `
-      <svg class="progress-circle" width="24" height="24" viewBox="0 0 24 24">
-        <circle cx="12" cy="12" r="10" stroke="#444" stroke-width="2" fill="none"/>
-        <circle class="progress" cx="12" cy="12" r="10" stroke="#4caf50" stroke-width="2" fill="none" stroke-dasharray="62.8" stroke-dashoffset="62.8" transform="rotate(-90 12 12)"/>
-      </svg>
-    `;
+          <svg class="progress-circle" width="24" height="24" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10" stroke="#444" stroke-width="2" fill="none"/>
+            <circle class="progress" cx="12" cy="12" r="10" stroke="white" stroke-width="2" fill="none" stroke-dasharray="62.8" stroke-dashoffset="62.8" transform="rotate(-90 12 12)"/>
+            <text id="progress-text" x="12" y="15" dominant-baseline="middle" text-anchor="middle" font-size="8" fill="white">0</text>
+          </svg>
+        `;
         			downloadIcon.classList.add('downloading');
 
         			const response = await fetch(mp3Link);
@@ -429,6 +430,7 @@
         					const progress = (received / total) * 100;
         					const offset = 62.8 * (1 - progress / 100);
         					downloadIcon.querySelector('.progress').style.strokeDashoffset = offset;
+        					downloadIcon.querySelector('#progress-text').textContent = Math.round(progress);
         				}
         			}
 
