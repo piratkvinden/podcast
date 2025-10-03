@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="da">
+<!DOCTYPE html>
+<html lang="da">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -390,6 +391,7 @@
         		const downloadIcon = document.getElementById('downloadIcon');
         		const downloadButton = this;
         		const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
+        		const author = currentItem.author || 'Unknown Author';
         		const mp3Link = this.href;
         		const year = currentItem.year_of_publication || 'Unknown Year';
         		const extension = mp3Link.split('.').pop() || 'mp3';
@@ -439,7 +441,7 @@
         			const blobUrl = URL.createObjectURL(blob);
         			const downloadLink = document.createElement('a');
         			downloadLink.href = blobUrl;
-        			downloadLink.download = `${podcastTitle} (${year}).${extension}`;
+        			downloadLink.download = `${author} - ${podcastTitle} (${year}).${extension}`;
         			document.body.appendChild(downloadLink);
         			downloadLink.click();
         			document.body.removeChild(downloadLink);
@@ -1255,10 +1257,6 @@
         	playerCurrentPage = Math.max(1, Math.min(playerCurrentPage + increment, parseInt(document.getElementById('total-pages').textContent, 10)));
         	document.querySelectorAll('.episode').forEach(ep => ep.remove());
         	playerDisplayEpisodes();
-        	window.scrollTo({
-        		top: 0,
-        		behavior: 'smooth'
-        	});
         }
 
         function attachPlayerEpisodeClickListeners() {
