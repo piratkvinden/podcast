@@ -10,6 +10,15 @@ I anden time får du albummet eller værket i sin helhed uden så megen snak.
 Vært: Claus Berthelsen.</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d0e1bb2e9899b2c1da75?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Dvorák symfoni nr. 9</title>
+      <description>I denne omgang lytter filmkonsulent Søren Frellesen og billedkunstner Emily Gernild til Dvoráks Symfoni nr 9 - Fra Den Nye Verden. 
+Vært: Claus Berthelsen.</description>
+      <itunes:duration>01:57:00</itunes:duration>
+      <pubDate>Sat, 07 Dec 2024 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/dvorak-symfoni-nr-9-12422451496</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674654f7965db2acef81b99b/7082ee80cf33464917899fcd096e16becb8b456ad478cce884726110d8964ca5" length="0" type="audio/x-m4a"/>
+    </item>
+    <item>
       <title>Symfoni nr 3 af Camille Saint-Saens</title>
       <description>I denne udsendelse kan du høre, hvad billedkunstner Emily Gernild og filmkonsulent Søren Frellesen synes om lytte til 
 en fransk symfoni med både orgel, klaver og sølvsko. 
@@ -247,15 +256,6 @@ Vært: Claus Berthelsen.</description>
       <pubDate>Sat, 01 Feb 2025 10:03:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben-2025/john-tavener-the-protecting-veil-12422551056</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6790323c2a51e1bacbbf132b/2191778698cbdeeb74340755c4afb53d9599beb9bb3ca1bc0f4a8a4ee26e2b30" length="168482167" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Dvorák symfoni nr. 9</title>
-      <description>I denne omgang lytter filmkonsulent Søren Frellesen og billedkunstner Emily Gernild til Dvoráks Symfoni nr 9 - Fra Den Nye Verden. 
-Vært: Claus Berthelsen.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Sat, 07 Dec 2024 10:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/pladeklubben/pladeklubben/dvorak-symfoni-nr-9-12422451496</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:674654f7965db2acef81b99b/7082ee80cf33464917899fcd096e16becb8b456ad478cce884726110d8964ca5" length="0" type="audio/x-m4a"/>
     </item>
   </channel>
 </rss>
