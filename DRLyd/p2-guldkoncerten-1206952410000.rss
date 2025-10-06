@@ -1,234 +1,22 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>P2 Guldkoncerten</title>
-    <link>https://www.dr.dk/lyd/p2/p2-guldkoncerten-1206952410000</link>
-    <description>Oplev fortidens største klassiske musikere, når Guldkoncerten præsenterer historiske koncerter med berømte solister, dirigenter og orkestre.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e97d408e43b46d284a5e3f?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Emil Gilels og Per Nørgård</title>
-      <description>I anledning af DR Symfoniorkestrets 100-års jubilæum præsenterer Guldkoncerten en række nedslag i orkestrets lange historie. Denne gang en historisk koncert fra 1976, hvor Per Nørgårds monumentale Symfoni nr. 3 blev uropført, og hvor den verdensberømte sovjetiske pianist Emil Gilels var solist i Beethovens Klaverkoncert nr. 4 - det hele dirigeret af Herbert Blomstedt. 
-Beethoven: Klaverkoncert nr. 4.		
-Per Nørgård: Symfoni nr. 3.			
-Emil Gilels, klaver. 
-DR Symfoniorkestret og DR Radiokoret. 
-Dirigent: Herbert Blomstedt. 
-(Koncert i Radiohusets Koncertsal, 2. september 1976). 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 05 Oct 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-emil-gilels-og-per-noergaard-12422554407</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c68c56338368d768b98/50600ecbfb0323ea54dcc8e11bc98492d2a4f858d57fbbbdc014312567416ff5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Barenboim og Berlinmurens fald</title>
-      <description>Dagen efter Berlinmurens fald i 1989 åbnede Berliner Filharmonikerne i Vestberlin dørene for deres landsmænd fra Østberlin, som aldrig havde kunnet besøge byens største koncertsal. Med få timers varsel stablede man en koncert på benene, hvor orkestret fejrede Murens fald med tonerne af Beethovens ekstatiske musik. Daniel Barenboim var både solist og dirigent, og mødet med publikum denne historiske aften var en af hans livs største oplevelser. 
-Beethoven: Klaverkoncert nr. 1. 
-Beethoven: Symfoni nr. 7. 
-Berliner Filharmonikerne. 
-Dirigent: Daniel Barenboim, pianist. 
-(Berliner Filharmonien, 12. november 1989). 
+ <channel>
+  <title>P2 Guldkoncerten</title>
+  <link>https://www.dr.dk/lyd/p2/p2-guldkoncerten-1206952410000</link>
+  <description>Oplev fortidens største klassiske musikere, når Guldkoncerten præsenterer historiske koncerter med berømte solister, dirigenter og orkestre.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e97d408e43b46d284a5e3f?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Klaveraften med Rudolf Serkin</title>
+   <description>Pianisten Rudolf Serkin (1903-1991) er en sand legende fra klaverets historie. En musiker, i hvis hænder klaveret blev mere end et instrument, fordi hans evner til at tegne musikkens lange linjer og genskabe komponistens vision var så fænomenal. Serkin var født i Østrig-Ungarn, kom som vidunderbarn til Wien, men måtte som jøde flygte til USA i 1930'erne. Selv om han debuterede allerede under 1. Verdenskrig, varede hans karriere helt til 1989. I denne udgave af Guldkoncerten kan du høre Rudolf Serkin på toppen ved en koncert i 1957, hvor han spiller musik fra sit kernerepertoire af tysk-østrigske klassikere. Beethoven: Klaversonate op. 57 Appassionata. Brahms: Händel-variationer. Mendelssohn: Introduktion og Rondo capriccioso. Schubert: Impromptu, f-mol. J.S. Bach: Capriccio. (Teatro Kursaal, Lugano, 22. maj 1957). 
 Vært: Rie Koch.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 21 Sep 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/barenboim-og-berlinmurens-fald-12422554387</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c682b77f3385e308ee7/7f4e9db1bab8ce08314885e9440cf10693b6a320e8fdb653e83010b06fe75d70" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Comala &amp; Katchen</title>
-      <description>I 1967 fik DR Symfoniorkestret besøg af den amerikanske pianist Julius Katchen, et af tidens store klassiske solistnavne, der på det tidspunkt befandt sig på sin kunstneriske højde. Ved samme koncert opførte man Niels W. Gades mytologiske vokalværk Comala med Bonna Søndberg i titelrollen. Værket havde ikke været opført i trekvart århundrede, da DR Symfoniorkestret tog det frem i anledning af Gades 150-års dag i 1967. 
-Niels W. Gade: Comala. 	
-Beethoven: Klaverkoncert nr. 3, c-mol. 	
-Strauss: Tod und Verklärung. 		
-Bonna Søndberg, sopran. 
-Julius Katchen, klaver. 
-DR Radiokoret &amp; DR Symfoniorkestret. 
-Dirigent: Francesco Cristofoli. 
-(Radiohusets Koncertsal, 2. februar 1967).
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 14 Sep 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-comala-og-katchen-12422554377</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c68a75c4b58350e3370/fc55dc40660898e9cc991e781eba5f5e619f92048eaf07e0aacbda6f0ed4003d" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tatjana Nikolajeva spiller Bach</title>
-      <description>Den sovjetiske pianist Tatjana Nikolajeva var noget af en hemmelighed udenfor Østblokken, og hun vakte stor opmærksomhed, da hun i 1980'erne begyndte at optræde i Vesten med sit meget personlige spil. Musikken af Johann Sebastian Bach var hendes speciale, og i april 1983 kom hun til Aarhus for at give en masterclass ved Det Jyske Musikkonservatorium. Det blev afsluttet med en koncert, hvor hun spillede Bachs storværk Goldberg variationerne. 
-Koncerten blev optaget privat, men først offentliggjort efter Nikolajevas død i 1993. Hør den i Guldkoncerten, hvor vi også præsenterer en sjælden Bach-optagelse med Tatjana Nikolajeva og DR Symfoniorkestret. 
-Bach: Goldberg variationer. 
-Bach: Jesu bleibet meine Freude. 
-Tatjana Nikolajeva, klaver. 
-(Det Jyske Musikkonservatorium, Aarhus, april 1983). 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 24 Aug 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/tatjana-nikolajeva-spiller-bach-12422554347</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c67c56338368d768b73/60707f4bfb2821cd9848ae2e1bf19ec65847ab3d001131d71a808b38595458ca" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Parsifal på dansk</title>
-      <description>I 1955 satte DR alle sejl til for at præsentere Wagners opera Parsifal for de danske lyttere. Opførelsen blev lavet som studieproduktion i en forkortet udgave, og den blev sunget på dansk i en oversættelse af Julius Lehmann. Det vakte stor respekt, at DR magtede en krævende opgave som denne, og det viste samtidig, at man i Danmark havde glimrende Wagner-sangere. I Guldkoncerten præsenterer vi denne historiske optagelse for første gang i næsten 70 år.
-Wagner: Parsifal. 
-Solister: Holger Byrding, Erik Sjöberg, Mogens Wedel, Niels Bondo, Dorothy Larsen, m.fl.
-DR Symfoniorkestret og Radiokoret. 
-Dirigent: Erik Tuxen. 
-(- Radiohusets Koncertsal, 3. april 1955). 
-Vært: Rie Koch.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 10 Aug 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-parsifal-paa-dansk-12422554327</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c67a75c4b58350e3362/57e95f59dfed2cf3eebc1cdf690e2a637fffd43304e734a32fade72a011901f2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Borodin Kvartetten i Tivoli</title>
-      <description>I juli 1992 gav den russiske Borodin Strygekvartet tre koncerter i Tivolis Koncertsal. Med stort overskud spillede de værker af Tjajkovskij, Schubert og Brahms. Borodin Kvartetten havde enestående stabilitet, da kvartettens leder, cellist Valentin Berlinsky, havde været del af ensemblet i over 40 år og bratschisten Dmitrij Shebalin næsten lige så længe. Violinisterne Mikhail Kopelman og Andrei Abramenkov var kommet til i 1970'erne, og denne konstellation var et højdepunkt i Borodin Kvartettens lange historie. &quot;Vi fandt frem til en ny musikalsk opfattelse på et dybere og mere filosofisk niveau&quot;, erindrede violinisten Andrei Abramenkov senere. 
-(Koncert i Tivolis Koncertsal, 17. juli 1992). 
-Vært: Louise Hjorth.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 27 Jul 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/borodin-kvartetten-i-tivoli-12422554307</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c66c56338368d768b65/d9badc8dd4b6d1838441b6d3048c2d8ba5d95034367b08cf01225812948e1581" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Eugen Jochum dirigerer Mozart</title>
-      <description>I 1956 fejrede man Mozarts 200-år med et væld af koncerter. Bl.a. ved Mozartfestivalen i Würzburg. Her dirigerede den store tyske dirigent Eugen Jochum det nyetablerede Bayerns Radiosymfoniorkester, som han var dirigent for lige fra begyndelsen. 
-Mozart store C-mol messe blev ved koncerten opført i en forlænget version, hvor det ufuldendte storværk af Mozart var færdiggjort af 1800-talskomponisten Georg Alois Schmitt ud fra Mozarts forlæg. 
-Irmgard Seefried &amp; Annelies Kupper, sopran; Lorenz Fehenberger, tenor &amp; Kim Borg, bas. 
-Bayerns Radiosymfoniorkester og Radiokor. 
-Dirigent: Eugen Jochum. 
-(Koncert i Stephanskirken, Würzburg, 20. juni 1956). 
-Vært: Rie Koch.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 13 Jul 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/eugen-jochum-dirigerer-mozart-12422554287</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c662b77f3385e308eca/ebd682edba016d7243a1c70174a362d616bd0a7c6fe893bdfc7817a5c274c2bb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Alfred Brendel in memoriam</title>
-      <description>Tidligere denne måned døde den østrigske pianist Alfred Brendel. Han var en ledestjerne for alverdens musiklyttere og pianister, der beundrede den utrolige klarhed og autoritet i hans fuldendt formede fortolkninger. 
-Brendel stod for klassisk musikkultur af reneste art med fokus på de mest centrale komponister og en total ydmyghed over for deres partiturer. I Guldkoncerten kan du høre en koncert fra Berlin, 1976, hvor Alfred Brendel bl.a. spillede Beethovens storværk Diabelli-variationer. 
-J.S. Bach: Kromatisk fantasi og fuga. 
-J.S. Bach: Fantasi og fuga, a-mol. 
-Liszt: Ungarsk rapsodi nr. 13, 17 og 11.                                                     
-Beethoven: Diabelli-variationer.                                                                 
-J.S. Bach: Nun komm, der Heiden Heiland.
-Koncert i Filharmonien, Berlin, 23. februar 1976. 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 29 Jun 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/alfred-brendel-in-memoriam-12422554267</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68271d237b626ea9bb0e422a/cd11ae62ee44799842d4d6e98f08787e567dcb2a7b8a55137ddecc73beda4037" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sidste aften med Horowitz</title>
-      <description>Ved en koncert i Hamborg, sommeren 1987, spillede den legendariske pianist Vladimir Horowitz for sidste gang for sit beundrende publikum. Han var da 83 år og i fineste form - ingen vidste, at denne sidste koncert på hans Europaturné ville blive hans sidste overhovedet. Horowitz døde først to et halvt år senere. 
-Først et par årtier senere blev denne optagelse af hans sidste koncert offentliggjort. 
-Mozart: Rondo, D-dur og Klaversonate, B-dur. 
-Liszt: Valse-caprice nr. 6. 
-Schumann: Kinderszenen. 	
-Chopin: Mazurka, h-mol og Polonaise, As-Vladimir Horowitz, klaver. 
-(Koncert i Laeiszhalle, Hamborg, 21. juli 1987). 
-Vært: Louise Hjorth.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 15 Jun 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/sidste-aften-med-horowitz-12422554247</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a07fff57e0225791e97a3/f13e6c6bf2d0e87bcfb106d6f82d0b70456c1686757c6adab58095c93103fcf2" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Mahlers Opstandelsessymfoni</title>
-      <description>I 1960'erne var det stadig sjældent, man opførte Gustav Mahlers store, senromantiske symfonier i Danmark. Men i 1966 gør DR Symfoniorkestret en undtagelse, da de spiller Mahlers Symfoni nr. 2, &quot;Opstandelsessymfonien&quot; under ledelse af den tyske dirigent Leopold Ludwig. Koncerten begyndte meget utraditionelt med to satser fra Rued Langgaards kæmpemæssige orgelværk Messis, hvormed der blev gjort et forsøg på at rehabilitere både senromantikken og de to hidtil uglesete komponister. 
-Rued Langgaard: Uddrag af Messis. 
-Gustav Mahler: Symfoni nr. 2. Opstandelsessymfonien. 
-Finn Reiff, orgel. 
-Bonna Søndberg, sopran; Gurli Plesner, alt. 
-DR Radiokoret &amp; DR Symfoniorkestret. 
-Dirigent: Leopold Ludwig. 
-(Koncert i Radiohusets Koncertsal, 13. oktober 1966). 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 01 Jun 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-mahlers-opstandelsessymfoni-12422554227</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a063f005cc6aa547be671/e120d59968cbe301e2a627430bd59c0558e7b33246d492fc6e056ce4e5dd9ec5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Johann Hartmann: Balders død</title>
-      <description>Syngespillet Balders død fra 1779 er et af de første betydelige danske operaværker. Musikken er af Johann Hartmann og teksten af digteren Johannes Ewald, der bygger handlingen på den oldnordiske myte om guden Balder og hans tragiske død. Efter at have været lagt bort i mere end 150 år blev operaen i 1983 genoplivet af DR Symfoniorkestret ved en koncert med nogle af tidens bedste danske sangere. 
-Inga Nielsen, Marianne Rørholm, Kurt Westi, Stig Fogh Andersen, Bent Norup m.fl. 
-DR Symfoniorkestret og DR Radiokoret. 
-Dirigent: Michael Schønwandt. 
-(Radiohusets Koncertsal, 13. juni 1983). 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 25 May 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/johann-hartmann-balders-doed-12422554217</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680796e3b21aafec6d6666d3/0f9e97884d65c272ac9063058d12958d327becb4fa37f52c19e21962bc8f6fb7" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Lamberto Gardelli og Robert Riefling</title>
-      <description>Blandt de chefdirigenter, som DR Symfoniorkestret har haft gennem årene, er italieneren Lamberto Gardelli. Han afsluttede en lang, international karriere ved at være chefdirigent i DR fra 1986 til 1988. Gardelli var en fornem musiker af den gamle skole og havde naturligt hjemme i den romantiske musik. I Guldkoncerten kan du bl.a. høre ham dirigere Griegs Klaverkoncert med den norske pianist Robert Riefling som solist, optaget i 1988 blot to måneder inden Rieflings død. Respighi: Roms fontæner. 	Grieg: Klaverkoncert. 		Carl Nielsen: Symfoni nr. 4, &quot;Det uudslukkelige. Robert Riefling, klaver. DR Symfoniorkestret. Dirigent: Lamberto Gardelli. (Koncert i Radiohusets Koncertsal, 7. april 1988).  
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 18 May 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-lamberto-gardelli-og-robert-riefling-12422554207</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f638b08e208bf2ad2b58d9/d9ea6338d62c299a318a4d72442914ad091b6461dc003805e5707730ce519135" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Musik til Danmarks Befrielse</title>
-      <description>På 80-årsdagen for Danmarks Befrielse 4. maj 1945 præsenterer Guldkoncerten musik fra nogle af de befrielseskoncerter, DR har sendt gennem tiden.Henning Wellejus: Frihedsouverture.                                                                                          Svend Erik Tarp: Pro defunctis.                                                                                                                  Poul Schierbeck: I Danmark er jeg født.                                                                                       Vagn Holmboe: Sinfonia in memoriam.                                                                                     Carl Nielsen: Forspil til 2. akt af Saul og David.                                                                       Thomas Koppel: Symfoni nr. 2 (tilegnet modstandskampen. Uropf).                    Danske sange:                                                                                                                                         Solist: Annisette. Tivolis Symfoniorkester og DR Symfoniorkestret.Dirigenter: Eifred Eckart-Hansen, Erik Tuxen og Tamas Vetö.(4. maj koncerter i 1970, 1955 og 1995).                                                                     
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 04 May 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/musik-til-danmarks-befrielse-12422554187</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f527531045f0766471e807/a3eb7e9c67b76feb25f88421851e7e876e7c66bce0b8c2a29cd73a5be8efcd97" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: DR's jubilæumskoncert 1975</title>
-      <description>I 1975 kunne DR fejre sit 50-års jubilæum, og i den anledning blev der afholdt en stor festkoncert med overvejende dansk musik, bl.a. af Carl Nielsen og Finn Høffding. Alle DR's ensembler var på scenen sammen med tre dirigenter og flere kendte solister. I denne udgave af Guldkoncerten kan man for første gang siden 1975 høre hele 50-års jubilæumskoncerten. Medvirkende bl.a.: violinist Henryk Szeryng, saxofonist Jesper Thilo, sopran Tove Hyldgård, dirigenterne Herbert Blomstedt, Finn Savery og Mogens Wöldike samt DR Symfoniorkestret, DR Big Band, DR Underholdningsorkestret, DR Radiokoret, DR Pigekoret &amp; Zahles Skoles drengekor.(Koncert i Radiohusets Koncertsal, 3. april 1975).
-Vært: Esben Tange.</description>
-      <itunes:duration>02:40:03</itunes:duration>
-      <pubDate>Sun, 06 Apr 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-dr-s-jubilaeumskoncert-1975-12422554147</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e4883a52248c98a43e1c73/3823e308c9f429418008c4fd3a20851e6549a7c056aad2818b4fe4ff4ba38a73" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>DR Symfoniorkestret 100 år: Martha Argerich og Ole Buck</title>
-      <description>I anledning af DR Symfoniorkestrets 100-års jubilæum præsenterer Guldkoncerten en række nedslag i orkestrets lange historie. Denne gang en bemærkelsesværdig koncert fra 1972, hvor den 27-årige komponist Ole Buck skabte sensation med sit værk &quot;Fairies&quot;, og hvor den argentinske klaverstjerne Martha Argerich for første gang var solist med orkestret i Ravels Klaverkoncert, Hør desuden Sjostakovitjs Symfoni nr. 5.      
-Lidia Biehl, sopran. Martha Argerich, klaver. DR Symfoniorkestret. Dirigent: Ole Schmidt. (Koncert i Radiohusets Koncertsal, 5. oktober 1972). 
-Vært: Esben Tange.</description>
-      <itunes:duration>02:39:59</itunes:duration>
-      <pubDate>Sun, 28 Sep 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-martha-argerich-og-ole-buck-12422554057</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917989ec59142e673121bf/c88f500da0fcfd740f81fa5579ee92960169ad51505b9ddbd33c7b786a5ae47f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>John Frandsen og Isabelle van Keulen</title>
-      <description>I 1989 mødtes to generationer ved en Torsdagskoncert i Radiohusets Koncertsal: Den 22-årige violinist Isabelle van Keulen fra Holland og den hæderkronede danske kapelmester John Frandsen fra den gamle skole. Sammen spillede de evigung musik af Mozart - som John Frandsen sagde: &quot;Enhver koncert uden Mozart er spild af tid!&quot; Dertil dirigerede han værker fra sit  kernerepertoire af Carl Nielsen og Beethoven. Isabelle van Keulen, violin. DR Symfoniorkestret. Dirigent: John Frandsen. Koncert i Radiohusets Koncertsal. (14. december 1989).Vært: Rie Koch.</description>
-      <itunes:duration>02:40:04</itunes:duration>
-      <pubDate>Sun, 07 Sep 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/john-frandsen-og-isabelle-van-keulen-12422554037</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f058781654c75b603f28b/f9bee4bea84f07a64758afe11c2d0c013d879fa9c1dc09ae0e6886c87c507e2f" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Celibidache dirigerer Verdis Requiem</title>
-      <description>Det Kongelige Teater og DR slog deres korsangere sammen til ét stort kæmpekor, da den verdensberømte dirigent Sergiu Celibidache i 1963 kom til København for at opføre Verdis storslåede Requiem. Men koncerten blev anledning til en skandale, fordi Celibidache efter en enkelt dårlig anmeldelse af koncerten nægtede nogensinde at dirigere i København igen. Først flere år senere faldt han til ro og vendte tilbage. I denne udgave af Guldkoncerten kan du for første gang siden dengang høre hele den historiske koncert. Verdi: Requiem. Solister: Agnes Giebel, Marga Höffgen, William McAlpine og Kim Borg. Det Kongelige Operakor og DR Radiokoret. Det Kongelige Kapel. Dirigent: Sergiu Celibidache. Koncert i Odd Fellow Palæet, (København, 30. maj 1963). 
-Vært: Louise Hjorth.</description>
-      <itunes:duration>02:40:00</itunes:duration>
-      <pubDate>Sun, 31 Aug 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/celibidache-dirigerer-verdis-requiem-12422554017</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f87d81a4d6d6bba905f/dcc4d4b4158f99a9a7b59da7576ed1054e496ff5d4454c6b9ae2df4817c3cd59" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Klaveraften med Rudolf Serkin</title>
-      <description>Pianisten Rudolf Serkin (1903-1991) er en sand legende fra klaverets historie. En musiker, i hvis hænder klaveret blev mere end et instrument, fordi hans evner til at tegne musikkens lange linjer og genskabe komponistens vision var så fænomenal. Serkin var født i Østrig-Ungarn, kom som vidunderbarn til Wien, men måtte som jøde flygte til USA i 1930'erne. Selv om han debuterede allerede under 1. Verdenskrig, varede hans karriere helt til 1989. I denne udgave af Guldkoncerten kan du høre Rudolf Serkin på toppen ved en koncert i 1957, hvor han spiller musik fra sit kernerepertoire af tysk-østrigske klassikere. Beethoven: Klaversonate op. 57 Appassionata. Brahms: Händel-variationer. Mendelssohn: Introduktion og Rondo capriccioso. Schubert: Impromptu, f-mol. J.S. Bach: Capriccio. (Teatro Kursaal, Lugano, 22. maj 1957). 
-Vært: Rie Koch.</description>
-      <itunes:duration>02:40:00</itunes:duration>
-      <pubDate>Sun, 03 Aug 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten/klaveraften-med-rudolf-serkin-12422454497</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a623f43ee13a09b26785/285225d7952aa655f5fabfc6be97222364e1ffcd018e0ea38b5fdaf6dc617a69" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Bruckner 200 år</title>
-      <description>Sidste år var det 200 år siden, den østrigske komponist Anton Bruckner blev født, og det blev markeret over hele verden. Bruckners musik var forbløffende længe om at slå igennem i Danmark. I Guldkoncerten kan du høre historiske optagelser fra perioden 1958-1966, lavet ved nogle af de første koncerter, hvor DR Symfoniorkestret og Radiokoret opførte værker af Bruckner. 
+   <itunes:duration>02:40:00</itunes:duration>
+   <pubDate>Sun, 03 Aug 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten/klaveraften-med-rudolf-serkin-12422454497</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6747a623f43ee13a09b26785/285225d7952aa655f5fabfc6be97222364e1ffcd018e0ea38b5fdaf6dc617a69" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Bruckner 200 år</title>
+   <description>Sidste år var det 200 år siden, den østrigske komponist Anton Bruckner blev født, og det blev markeret over hele verden. Bruckners musik var forbløffende længe om at slå igennem i Danmark. I Guldkoncerten kan du høre historiske optagelser fra perioden 1958-1966, lavet ved nogle af de første koncerter, hvor DR Symfoniorkestret og Radiokoret opførte værker af Bruckner. 
 Bruckner: Symfoni nr. 9. 
 DR Symfoniorkestret. 
 Dirigent: Rafael Kubelik. 
@@ -243,10 +31,222 @@ DR Radiokoret.
 Dirigent: Niels Møller. 
 (Slesvig Domkirke, 27. april 1958). 
 Vært: Louise Hjorth.</description>
-      <itunes:duration>02:40:00</itunes:duration>
-      <pubDate>Sun, 20 Jul 2025 19:20:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten/bruckner-200-aar-12422454467</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf607421f1136651688a5/55150204e8c9e0c5f72addcd0b5eaaa74555f408a198333567facc396986a83b" length="0" type="audio/x-m4a"/>
-    </item>
-  </channel>
+   <itunes:duration>02:40:00</itunes:duration>
+   <pubDate>Sun, 20 Jul 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten/bruckner-200-aar-12422454467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:672bf607421f1136651688a5/55150204e8c9e0c5f72addcd0b5eaaa74555f408a198333567facc396986a83b" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Emil Gilels og Per Nørgård</title>
+   <description>I anledning af DR Symfoniorkestrets 100-års jubilæum præsenterer Guldkoncerten en række nedslag i orkestrets lange historie. Denne gang en historisk koncert fra 1976, hvor Per Nørgårds monumentale Symfoni nr. 3 blev uropført, og hvor den verdensberømte sovjetiske pianist Emil Gilels var solist i Beethovens Klaverkoncert nr. 4 - det hele dirigeret af Herbert Blomstedt. 
+Beethoven: Klaverkoncert nr. 4.		
+Per Nørgård: Symfoni nr. 3.			
+Emil Gilels, klaver. 
+DR Symfoniorkestret og DR Radiokoret. 
+Dirigent: Herbert Blomstedt. 
+(Koncert i Radiohusets Koncertsal, 2. september 1976). 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 05 Oct 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-emil-gilels-og-per-noergaard-12422554407</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c68c56338368d768b98/50600ecbfb0323ea54dcc8e11bc98492d2a4f858d57fbbbdc014312567416ff5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Barenboim og Berlinmurens fald</title>
+   <description>Dagen efter Berlinmurens fald i 1989 åbnede Berliner Filharmonikerne i Vestberlin dørene for deres landsmænd fra Østberlin, som aldrig havde kunnet besøge byens største koncertsal. Med få timers varsel stablede man en koncert på benene, hvor orkestret fejrede Murens fald med tonerne af Beethovens ekstatiske musik. Daniel Barenboim var både solist og dirigent, og mødet med publikum denne historiske aften var en af hans livs største oplevelser. 
+Beethoven: Klaverkoncert nr. 1. 
+Beethoven: Symfoni nr. 7. 
+Berliner Filharmonikerne. 
+Dirigent: Daniel Barenboim, pianist. 
+(Berliner Filharmonien, 12. november 1989). 
+Vært: Rie Koch.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 21 Sep 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/barenboim-og-berlinmurens-fald-12422554387</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c682b77f3385e308ee7/7f4e9db1bab8ce08314885e9440cf10693b6a320e8fdb653e83010b06fe75d70" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Comala &amp; Katchen</title>
+   <description>I 1967 fik DR Symfoniorkestret besøg af den amerikanske pianist Julius Katchen, et af tidens store klassiske solistnavne, der på det tidspunkt befandt sig på sin kunstneriske højde. Ved samme koncert opførte man Niels W. Gades mytologiske vokalværk Comala med Bonna Søndberg i titelrollen. Værket havde ikke været opført i trekvart århundrede, da DR Symfoniorkestret tog det frem i anledning af Gades 150-års dag i 1967. 
+Niels W. Gade: Comala. 	
+Beethoven: Klaverkoncert nr. 3, c-mol. 	
+Strauss: Tod und Verklärung. 		
+Bonna Søndberg, sopran. 
+Julius Katchen, klaver. 
+DR Radiokoret &amp; DR Symfoniorkestret. 
+Dirigent: Francesco Cristofoli. 
+(Radiohusets Koncertsal, 2. februar 1967).
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 14 Sep 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-comala-og-katchen-12422554377</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c68a75c4b58350e3370/fc55dc40660898e9cc991e781eba5f5e619f92048eaf07e0aacbda6f0ed4003d" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Tatjana Nikolajeva spiller Bach</title>
+   <description>Den sovjetiske pianist Tatjana Nikolajeva var noget af en hemmelighed udenfor Østblokken, og hun vakte stor opmærksomhed, da hun i 1980'erne begyndte at optræde i Vesten med sit meget personlige spil. Musikken af Johann Sebastian Bach var hendes speciale, og i april 1983 kom hun til Aarhus for at give en masterclass ved Det Jyske Musikkonservatorium. Det blev afsluttet med en koncert, hvor hun spillede Bachs storværk Goldberg variationerne. 
+Koncerten blev optaget privat, men først offentliggjort efter Nikolajevas død i 1993. Hør den i Guldkoncerten, hvor vi også præsenterer en sjælden Bach-optagelse med Tatjana Nikolajeva og DR Symfoniorkestret. 
+Bach: Goldberg variationer. 
+Bach: Jesu bleibet meine Freude. 
+Tatjana Nikolajeva, klaver. 
+(Det Jyske Musikkonservatorium, Aarhus, april 1983). 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 24 Aug 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/tatjana-nikolajeva-spiller-bach-12422554347</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c67c56338368d768b73/60707f4bfb2821cd9848ae2e1bf19ec65847ab3d001131d71a808b38595458ca" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Parsifal på dansk</title>
+   <description>I 1955 satte DR alle sejl til for at præsentere Wagners opera Parsifal for de danske lyttere. Opførelsen blev lavet som studieproduktion i en forkortet udgave, og den blev sunget på dansk i en oversættelse af Julius Lehmann. Det vakte stor respekt, at DR magtede en krævende opgave som denne, og det viste samtidig, at man i Danmark havde glimrende Wagner-sangere. I Guldkoncerten præsenterer vi denne historiske optagelse for første gang i næsten 70 år.
+Wagner: Parsifal. 
+Solister: Holger Byrding, Erik Sjöberg, Mogens Wedel, Niels Bondo, Dorothy Larsen, m.fl.
+DR Symfoniorkestret og Radiokoret. 
+Dirigent: Erik Tuxen. 
+(- Radiohusets Koncertsal, 3. april 1955). 
+Vært: Rie Koch.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 10 Aug 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-parsifal-paa-dansk-12422554327</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c67a75c4b58350e3362/57e95f59dfed2cf3eebc1cdf690e2a637fffd43304e734a32fade72a011901f2" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Borodin Kvartetten i Tivoli</title>
+   <description>I juli 1992 gav den russiske Borodin Strygekvartet tre koncerter i Tivolis Koncertsal. Med stort overskud spillede de værker af Tjajkovskij, Schubert og Brahms. Borodin Kvartetten havde enestående stabilitet, da kvartettens leder, cellist Valentin Berlinsky, havde været del af ensemblet i over 40 år og bratschisten Dmitrij Shebalin næsten lige så længe. Violinisterne Mikhail Kopelman og Andrei Abramenkov var kommet til i 1970'erne, og denne konstellation var et højdepunkt i Borodin Kvartettens lange historie. &quot;Vi fandt frem til en ny musikalsk opfattelse på et dybere og mere filosofisk niveau&quot;, erindrede violinisten Andrei Abramenkov senere. 
+(Koncert i Tivolis Koncertsal, 17. juli 1992). 
+Vært: Louise Hjorth.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 27 Jul 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/borodin-kvartetten-i-tivoli-12422554307</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c66c56338368d768b65/d9badc8dd4b6d1838441b6d3048c2d8ba5d95034367b08cf01225812948e1581" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Eugen Jochum dirigerer Mozart</title>
+   <description>I 1956 fejrede man Mozarts 200-år med et væld af koncerter. Bl.a. ved Mozartfestivalen i Würzburg. Her dirigerede den store tyske dirigent Eugen Jochum det nyetablerede Bayerns Radiosymfoniorkester, som han var dirigent for lige fra begyndelsen. 
+Mozart store C-mol messe blev ved koncerten opført i en forlænget version, hvor det ufuldendte storværk af Mozart var færdiggjort af 1800-talskomponisten Georg Alois Schmitt ud fra Mozarts forlæg. 
+Irmgard Seefried &amp; Annelies Kupper, sopran; Lorenz Fehenberger, tenor &amp; Kim Borg, bas. 
+Bayerns Radiosymfoniorkester og Radiokor. 
+Dirigent: Eugen Jochum. 
+(Koncert i Stephanskirken, Würzburg, 20. juni 1956). 
+Vært: Rie Koch.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 13 Jul 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/eugen-jochum-dirigerer-mozart-12422554287</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9c662b77f3385e308eca/ebd682edba016d7243a1c70174a362d616bd0a7c6fe893bdfc7817a5c274c2bb" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Alfred Brendel in memoriam</title>
+   <description>Tidligere denne måned døde den østrigske pianist Alfred Brendel. Han var en ledestjerne for alverdens musiklyttere og pianister, der beundrede den utrolige klarhed og autoritet i hans fuldendt formede fortolkninger. 
+Brendel stod for klassisk musikkultur af reneste art med fokus på de mest centrale komponister og en total ydmyghed over for deres partiturer. I Guldkoncerten kan du høre en koncert fra Berlin, 1976, hvor Alfred Brendel bl.a. spillede Beethovens storværk Diabelli-variationer. 
+J.S. Bach: Kromatisk fantasi og fuga. 
+J.S. Bach: Fantasi og fuga, a-mol. 
+Liszt: Ungarsk rapsodi nr. 13, 17 og 11.                                                     
+Beethoven: Diabelli-variationer.                                                                 
+J.S. Bach: Nun komm, der Heiden Heiland.
+Koncert i Filharmonien, Berlin, 23. februar 1976. 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 29 Jun 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/alfred-brendel-in-memoriam-12422554267</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68271d237b626ea9bb0e422a/cd11ae62ee44799842d4d6e98f08787e567dcb2a7b8a55137ddecc73beda4037" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Sidste aften med Horowitz</title>
+   <description>Ved en koncert i Hamborg, sommeren 1987, spillede den legendariske pianist Vladimir Horowitz for sidste gang for sit beundrende publikum. Han var da 83 år og i fineste form - ingen vidste, at denne sidste koncert på hans Europaturné ville blive hans sidste overhovedet. Horowitz døde først to et halvt år senere. 
+Først et par årtier senere blev denne optagelse af hans sidste koncert offentliggjort. 
+Mozart: Rondo, D-dur og Klaversonate, B-dur. 
+Liszt: Valse-caprice nr. 6. 
+Schumann: Kinderszenen. 	
+Chopin: Mazurka, h-mol og Polonaise, As-Vladimir Horowitz, klaver. 
+(Koncert i Laeiszhalle, Hamborg, 21. juli 1987). 
+Vært: Louise Hjorth.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 15 Jun 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/sidste-aften-med-horowitz-12422554247</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a07fff57e0225791e97a3/f13e6c6bf2d0e87bcfb106d6f82d0b70456c1686757c6adab58095c93103fcf2" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Mahlers Opstandelsessymfoni</title>
+   <description>I 1960'erne var det stadig sjældent, man opførte Gustav Mahlers store, senromantiske symfonier i Danmark. Men i 1966 gør DR Symfoniorkestret en undtagelse, da de spiller Mahlers Symfoni nr. 2, &quot;Opstandelsessymfonien&quot; under ledelse af den tyske dirigent Leopold Ludwig. Koncerten begyndte meget utraditionelt med to satser fra Rued Langgaards kæmpemæssige orgelværk Messis, hvormed der blev gjort et forsøg på at rehabilitere både senromantikken og de to hidtil uglesete komponister. 
+Rued Langgaard: Uddrag af Messis. 
+Gustav Mahler: Symfoni nr. 2. Opstandelsessymfonien. 
+Finn Reiff, orgel. 
+Bonna Søndberg, sopran; Gurli Plesner, alt. 
+DR Radiokoret &amp; DR Symfoniorkestret. 
+Dirigent: Leopold Ludwig. 
+(Koncert i Radiohusets Koncertsal, 13. oktober 1966). 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 01 Jun 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-mahlers-opstandelsessymfoni-12422554227</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681a063f005cc6aa547be671/e120d59968cbe301e2a627430bd59c0558e7b33246d492fc6e056ce4e5dd9ec5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Johann Hartmann: Balders død</title>
+   <description>Syngespillet Balders død fra 1779 er et af de første betydelige danske operaværker. Musikken er af Johann Hartmann og teksten af digteren Johannes Ewald, der bygger handlingen på den oldnordiske myte om guden Balder og hans tragiske død. Efter at have været lagt bort i mere end 150 år blev operaen i 1983 genoplivet af DR Symfoniorkestret ved en koncert med nogle af tidens bedste danske sangere. 
+Inga Nielsen, Marianne Rørholm, Kurt Westi, Stig Fogh Andersen, Bent Norup m.fl. 
+DR Symfoniorkestret og DR Radiokoret. 
+Dirigent: Michael Schønwandt. 
+(Radiohusets Koncertsal, 13. juni 1983). 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 25 May 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/johann-hartmann-balders-doed-12422554217</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:680796e3b21aafec6d6666d3/0f9e97884d65c272ac9063058d12958d327becb4fa37f52c19e21962bc8f6fb7" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Lamberto Gardelli og Robert Riefling</title>
+   <description>Blandt de chefdirigenter, som DR Symfoniorkestret har haft gennem årene, er italieneren Lamberto Gardelli. Han afsluttede en lang, international karriere ved at være chefdirigent i DR fra 1986 til 1988. Gardelli var en fornem musiker af den gamle skole og havde naturligt hjemme i den romantiske musik. I Guldkoncerten kan du bl.a. høre ham dirigere Griegs Klaverkoncert med den norske pianist Robert Riefling som solist, optaget i 1988 blot to måneder inden Rieflings død. Respighi: Roms fontæner. 	Grieg: Klaverkoncert. 		Carl Nielsen: Symfoni nr. 4, &quot;Det uudslukkelige. Robert Riefling, klaver. DR Symfoniorkestret. Dirigent: Lamberto Gardelli. (Koncert i Radiohusets Koncertsal, 7. april 1988).  
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 18 May 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-lamberto-gardelli-og-robert-riefling-12422554207</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f638b08e208bf2ad2b58d9/d9ea6338d62c299a318a4d72442914ad091b6461dc003805e5707730ce519135" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Musik til Danmarks Befrielse</title>
+   <description>På 80-årsdagen for Danmarks Befrielse 4. maj 1945 præsenterer Guldkoncerten musik fra nogle af de befrielseskoncerter, DR har sendt gennem tiden.Henning Wellejus: Frihedsouverture.                                                                                          Svend Erik Tarp: Pro defunctis.                                                                                                                  Poul Schierbeck: I Danmark er jeg født.                                                                                       Vagn Holmboe: Sinfonia in memoriam.                                                                                     Carl Nielsen: Forspil til 2. akt af Saul og David.                                                                       Thomas Koppel: Symfoni nr. 2 (tilegnet modstandskampen. Uropf).                    Danske sange:                                                                                                                                         Solist: Annisette. Tivolis Symfoniorkester og DR Symfoniorkestret.Dirigenter: Eifred Eckart-Hansen, Erik Tuxen og Tamas Vetö.(4. maj koncerter i 1970, 1955 og 1995).                                                                     
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 04 May 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/musik-til-danmarks-befrielse-12422554187</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f527531045f0766471e807/a3eb7e9c67b76feb25f88421851e7e876e7c66bce0b8c2a29cd73a5be8efcd97" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: DR's jubilæumskoncert 1975</title>
+   <description>I 1975 kunne DR fejre sit 50-års jubilæum, og i den anledning blev der afholdt en stor festkoncert med overvejende dansk musik, bl.a. af Carl Nielsen og Finn Høffding. Alle DR's ensembler var på scenen sammen med tre dirigenter og flere kendte solister. I denne udgave af Guldkoncerten kan man for første gang siden 1975 høre hele 50-års jubilæumskoncerten. Medvirkende bl.a.: violinist Henryk Szeryng, saxofonist Jesper Thilo, sopran Tove Hyldgård, dirigenterne Herbert Blomstedt, Finn Savery og Mogens Wöldike samt DR Symfoniorkestret, DR Big Band, DR Underholdningsorkestret, DR Radiokoret, DR Pigekoret &amp; Zahles Skoles drengekor.(Koncert i Radiohusets Koncertsal, 3. april 1975).
+Vært: Esben Tange.</description>
+   <itunes:duration>02:40:03</itunes:duration>
+   <pubDate>Sun, 06 Apr 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-dr-s-jubilaeumskoncert-1975-12422554147</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e4883a52248c98a43e1c73/3823e308c9f429418008c4fd3a20851e6549a7c056aad2818b4fe4ff4ba38a73" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>DR Symfoniorkestret 100 år: Martha Argerich og Ole Buck</title>
+   <description>I anledning af DR Symfoniorkestrets 100-års jubilæum præsenterer Guldkoncerten en række nedslag i orkestrets lange historie. Denne gang en bemærkelsesværdig koncert fra 1972, hvor den 27-årige komponist Ole Buck skabte sensation med sit værk &quot;Fairies&quot;, og hvor den argentinske klaverstjerne Martha Argerich for første gang var solist med orkestret i Ravels Klaverkoncert, Hør desuden Sjostakovitjs Symfoni nr. 5.      
+Lidia Biehl, sopran. Martha Argerich, klaver. DR Symfoniorkestret. Dirigent: Ole Schmidt. (Koncert i Radiohusets Koncertsal, 5. oktober 1972). 
+Vært: Esben Tange.</description>
+   <itunes:duration>02:39:59</itunes:duration>
+   <pubDate>Sun, 28 Sep 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/dr-symfoniorkestret-100-aar-martha-argerich-og-ole-buck-12422554057</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67917989ec59142e673121bf/c88f500da0fcfd740f81fa5579ee92960169ad51505b9ddbd33c7b786a5ae47f" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>John Frandsen og Isabelle van Keulen</title>
+   <description>I 1989 mødtes to generationer ved en Torsdagskoncert i Radiohusets Koncertsal: Den 22-årige violinist Isabelle van Keulen fra Holland og den hæderkronede danske kapelmester John Frandsen fra den gamle skole. Sammen spillede de evigung musik af Mozart - som John Frandsen sagde: &quot;Enhver koncert uden Mozart er spild af tid!&quot; Dertil dirigerede han værker fra sit  kernerepertoire af Carl Nielsen og Beethoven. Isabelle van Keulen, violin. DR Symfoniorkestret. Dirigent: John Frandsen. Koncert i Radiohusets Koncertsal. (14. december 1989).Vært: Rie Koch.</description>
+   <itunes:duration>02:40:04</itunes:duration>
+   <pubDate>Sun, 07 Sep 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/john-frandsen-og-isabelle-van-keulen-12422554037</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f058781654c75b603f28b/f9bee4bea84f07a64758afe11c2d0c013d879fa9c1dc09ae0e6886c87c507e2f" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Celibidache dirigerer Verdis Requiem</title>
+   <description>Det Kongelige Teater og DR slog deres korsangere sammen til ét stort kæmpekor, da den verdensberømte dirigent Sergiu Celibidache i 1963 kom til København for at opføre Verdis storslåede Requiem. Men koncerten blev anledning til en skandale, fordi Celibidache efter en enkelt dårlig anmeldelse af koncerten nægtede nogensinde at dirigere i København igen. Først flere år senere faldt han til ro og vendte tilbage. I denne udgave af Guldkoncerten kan du for første gang siden dengang høre hele den historiske koncert. Verdi: Requiem. Solister: Agnes Giebel, Marga Höffgen, William McAlpine og Kim Borg. Det Kongelige Operakor og DR Radiokoret. Det Kongelige Kapel. Dirigent: Sergiu Celibidache. Koncert i Odd Fellow Palæet, (København, 30. maj 1963). 
+Vært: Louise Hjorth.</description>
+   <itunes:duration>02:40:00</itunes:duration>
+   <pubDate>Sun, 31 Aug 2025 19:20:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/p2-guldkoncerten/p2-guldkoncerten-2025/celibidache-dirigerer-verdis-requiem-12422554017</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:676c8f87d81a4d6d6bba905f/dcc4d4b4158f99a9a7b59da7576ed1054e496ff5d4454c6b9ae2df4817c3cd59" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
 </rss>

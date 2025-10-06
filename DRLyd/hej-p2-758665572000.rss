@@ -1,208 +1,218 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Hej P2</title>
-    <link>https://www.dr.dk/lyd/p2/hej-p2-758665572000</link>
-    <description>Hej P2 er programmet hvor du kan dele dine oplevelser, erfaringer og betragtninger ud fra dagens emne. Sammen kortlægger og undersøger vi kulturen stort som småt. Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d02e52248c98a4394a57?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Godt med fagot</title>
-      <description>Hvilket stykke musik med fagot skal vi høre og hvorfor?  
+ <channel>
+  <title>Hej P2</title>
+  <link>https://www.dr.dk/lyd/p2/hej-p2-758665572000</link>
+  <description>Hej P2 er programmet hvor du kan dele dine oplevelser, erfaringer og betragtninger ud fra dagens emne. Sammen kortlægger og undersøger vi kulturen stort som småt. Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d02e52248c98a4394a57?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Steder i Italien</title>
+   <description>Hvad er dit yndlingssted i Italien og hvorfor? Fortæl løs!  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
+Vært: Carsten Wolf Andersen.</description>
+   <itunes:duration>02:22:05</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/steder-i-italien-12422530411</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca296f811f507147f2867/bd7f07484f045ca58989131711f23a43bbf60d643accb4327f6e00a6cb2743b8" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Godt med fagot</title>
+   <description>Hvilket stykke musik med fagot skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Jakob Wivel.</description>
-      <itunes:duration>02:22:05</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/godt-med-fagot-12422530405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2962e64822ed594736c/6a7fa2d97fd66bb73aec702d3dc4cd0a3d918d53cc7d6b09c1bfcf5480c17c0e" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Yndlingstøj</title>
-      <description>Hvilket stykke tøj fra klædeskabet derhjemme er din favorit, og hvorfor?  
+   <itunes:duration>02:22:05</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/godt-med-fagot-12422530405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2962e64822ed594736c/6a7fa2d97fd66bb73aec702d3dc4cd0a3d918d53cc7d6b09c1bfcf5480c17c0e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Yndlingstøj</title>
+   <description>Hvilket stykke tøj fra klædeskabet derhjemme er din favorit, og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Malena Rønnow.</description>
-      <itunes:duration>02:22:01</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/yndlingstoej-12422530404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2961e0a1c49e0656090/571b45159504a7c91fce8ca13123e2b31e02ff682a10fa9742eedecc16abe667" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Kunst jeg drømmer om</title>
-      <description>Hvilket kendt kunstværk ville du gerne eje og hvorfor? 
+   <itunes:duration>02:22:01</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/yndlingstoej-12422530404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2961e0a1c49e0656090/571b45159504a7c91fce8ca13123e2b31e02ff682a10fa9742eedecc16abe667" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Kunst jeg drømmer om</title>
+   <description>Hvilket kendt kunstværk ville du gerne eje og hvorfor? 
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:22:02</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/kunst-jeg-droemmer-om-12422530403</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca295c56338368d76b803/937078886d663f1d8cb3e75806cc2857303d960d3d93b8ab98c6489d3cdd6a64" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Bløde strygere</title>
-      <description>Vi dyrker den bløde og varme strygerklang i klassisk musik. Hvad skal vi høre og hvorfor?  
+   <itunes:duration>02:22:02</itunes:duration>
+   <pubDate>Wed, 01 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/kunst-jeg-droemmer-om-12422530403</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca295c56338368d76b803/937078886d663f1d8cb3e75806cc2857303d960d3d93b8ab98c6489d3cdd6a64" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Bløde strygere</title>
+   <description>Vi dyrker den bløde og varme strygerklang i klassisk musik. Hvad skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:21:58</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/bloede-strygere-12422530402</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2952b77f3385e30bd33/a8c076adeec408fc1e6fdc568aebf8773cfd46bea96b08fcf06127ef2d2c3d3b" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Efterårs-strandtur</title>
-      <description>Hvilken strand er smukkest her i efteråret?  
+   <itunes:duration>02:21:58</itunes:duration>
+   <pubDate>Tue, 30 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/bloede-strygere-12422530402</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2952b77f3385e30bd33/a8c076adeec408fc1e6fdc568aebf8773cfd46bea96b08fcf06127ef2d2c3d3b" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Efterårs-strandtur</title>
+   <description>Hvilken strand er smukkest her i efteråret?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:21:58</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/efteraars-strandtur-12422530401</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28fb3140b1c1f3bbb75/ec225f64b9626533ab9f4739f5685f17aa5c4890c8cddb44aa7f7b4a535641bc" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>De bedste tegnefilm</title>
-      <description>Vi hylder tegnefilm i dag! Hvad er din yndlingstegnefilm og hvorfor?  
+   <itunes:duration>02:21:58</itunes:duration>
+   <pubDate>Mon, 29 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/efteraars-strandtur-12422530401</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28fb3140b1c1f3bbb75/ec225f64b9626533ab9f4739f5685f17aa5c4890c8cddb44aa7f7b4a535641bc" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>De bedste tegnefilm</title>
+   <description>Vi hylder tegnefilm i dag! Hvad er din yndlingstegnefilm og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:22:02</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/de-bedste-tegnefilm-12422530395</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28f2e64822ed594732d/67f51361e30f5cfd970da797680c7f13b2b6c3f4e966d332dc60ff29dd515c68" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Shakespeare i musikken</title>
-      <description>I dag gælder det klassisk musik med inspiration fra Shakespeare. Hvad skal vi høre og hvorfor?  
+   <itunes:duration>02:22:02</itunes:duration>
+   <pubDate>Fri, 26 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/de-bedste-tegnefilm-12422530395</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28f2e64822ed594732d/67f51361e30f5cfd970da797680c7f13b2b6c3f4e966d332dc60ff29dd515c68" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Shakespeare i musikken</title>
+   <description>I dag gælder det klassisk musik med inspiration fra Shakespeare. Hvad skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:21:59</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/shakespeare-i-musikken-12422530394</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28a923dffbb197792d4/a4f5230d1b03a94cf3152a29256d75aa2e026c777b083ba9319bed952f822e08" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sjove citater fra børn</title>
-      <description>Børn har tit nogle fine og sjove formuleringer. Har du sådan en historie, så fortæl løs!  
+   <itunes:duration>02:21:59</itunes:duration>
+   <pubDate>Thu, 25 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/shakespeare-i-musikken-12422530394</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28a923dffbb197792d4/a4f5230d1b03a94cf3152a29256d75aa2e026c777b083ba9319bed952f822e08" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Sjove citater fra børn</title>
+   <description>Børn har tit nogle fine og sjove formuleringer. Har du sådan en historie, så fortæl løs!  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:22:02</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/sjove-citater-fra-boern-12422530393</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28ff108f0a6b2ce25a5/105f3864bc854fc0440cf538368ea0c448f94771707362beb1f788f81ecdb5de" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tallet tre i musikken</title>
-      <description>Vi spiller klassisk musik hvor tallet tre spiller en rolle. Hvad skal vi høre og hvorfor?  
+   <itunes:duration>02:22:02</itunes:duration>
+   <pubDate>Wed, 24 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/sjove-citater-fra-boern-12422530393</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28ff108f0a6b2ce25a5/105f3864bc854fc0440cf538368ea0c448f94771707362beb1f788f81ecdb5de" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Tallet tre i musikken</title>
+   <description>Vi spiller klassisk musik hvor tallet tre spiller en rolle. Hvad skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:22:01</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/tallet-tre-i-musikken-12422530392</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2893f4a9729ac88de4b/b4de55969cff514a3c6e4cc8f886bd4d0c6a362209899d60101f7e8b7e5b4fa5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Danmarks smukkeste kirkegård</title>
-      <description>Hvilken dansk kirkegård synes du er den smukkeste og hvorfor?  
-Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
-Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:22:06</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/danmarks-smukkeste-kirkegaard-12422530391</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca289c56338368d76b799/36320c2d33a0aef7f54d55e74e327c284067b81456a2be38127e24e61a6dcbc0" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Den gode lampe</title>
-      <description>Hvilken lampe i dit hjem holder du særligt meget af?  
-Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:22:01</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/den-gode-lampe-12422530385</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28e2b77f3385e30bcf0/b8ba3f6adff7eb2c85c1f8edc71770f5fec73dd4be55df31411fd30e9af07e33" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Masser af messing</title>
-      <description>Vi dyrker de blanke og skønne messinginstrumenter. Hvilket stykke klassisk musik skal vi høre og hvorfor?  
-Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
-Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:22:00</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/masser-af-messing-12422530384</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28e923dffbb197792f8/0d297f6d171f25ea01e4e85b5211a787315ca74edffdc83f709cf4663ddfaad8" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Smagen af barndom</title>
-      <description>Hvilket madminde forbinder du med dit barndomshjem?  
+   <itunes:duration>02:22:01</itunes:duration>
+   <pubDate>Tue, 23 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/tallet-tre-i-musikken-12422530392</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2893f4a9729ac88de4b/b4de55969cff514a3c6e4cc8f886bd4d0c6a362209899d60101f7e8b7e5b4fa5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Danmarks smukkeste kirkegård</title>
+   <description>Hvilken dansk kirkegård synes du er den smukkeste og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:22:07</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/smagen-af-barndom-12422530383</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca289f811f507147f27e5/80e30280763786bf80c1aed0e76f3121535f9dc8a443f5c5d72d5b324e3c38e5" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Højdepunkter</title>
-      <description>I dag sender vi ikke Hej P2 live, men kigger tilbage på emner fra tidligere bl.a. den bedste togrejse, den sejltur glemmer jeg aldrig og smukke kirkerum. 
+   <itunes:duration>02:22:06</itunes:duration>
+   <pubDate>Mon, 22 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/danmarks-smukkeste-kirkegaard-12422530391</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca289c56338368d76b799/36320c2d33a0aef7f54d55e74e327c284067b81456a2be38127e24e61a6dcbc0" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Den gode lampe</title>
+   <description>Hvilken lampe i dit hjem holder du særligt meget af?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:21:58</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/hoejdepunkter-12422530382</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2882b77f3385e30bcb8/fb5c7493a4d99a10f33dad5cf6d7926af396851d8dea445f45efcf72c19c1e1c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mad og gæster</title>
-      <description>Hvilken ret laver du helst til dine gæster?  
+   <itunes:duration>02:22:01</itunes:duration>
+   <pubDate>Fri, 19 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/den-gode-lampe-12422530385</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28e2b77f3385e30bcf0/b8ba3f6adff7eb2c85c1f8edc71770f5fec73dd4be55df31411fd30e9af07e33" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Masser af messing</title>
+   <description>Vi dyrker de blanke og skønne messinginstrumenter. Hvilket stykke klassisk musik skal vi høre og hvorfor?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
+Vært: Mette Greiffenberg.</description>
+   <itunes:duration>02:22:00</itunes:duration>
+   <pubDate>Thu, 18 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/masser-af-messing-12422530384</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28e923dffbb197792f8/0d297f6d171f25ea01e4e85b5211a787315ca74edffdc83f709cf4663ddfaad8" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Smagen af barndom</title>
+   <description>Hvilket madminde forbinder du med dit barndomshjem?  
+Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk 
+Vært: Cæcilie Iburg Printzlau.</description>
+   <itunes:duration>02:22:07</itunes:duration>
+   <pubDate>Wed, 17 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/smagen-af-barndom-12422530383</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca289f811f507147f27e5/80e30280763786bf80c1aed0e76f3121535f9dc8a443f5c5d72d5b324e3c38e5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Højdepunkter</title>
+   <description>I dag sender vi ikke Hej P2 live, men kigger tilbage på emner fra tidligere bl.a. den bedste togrejse, den sejltur glemmer jeg aldrig og smukke kirkerum. 
+Vært: Mette Greiffenberg.</description>
+   <itunes:duration>02:21:58</itunes:duration>
+   <pubDate>Tue, 16 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/hoejdepunkter-12422530382</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2882b77f3385e30bcb8/fb5c7493a4d99a10f33dad5cf6d7926af396851d8dea445f45efcf72c19c1e1c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Mad og gæster</title>
+   <description>Hvilken ret laver du helst til dine gæster?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:21:47</itunes:duration>
-      <pubDate>Mon, 15 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/mad-og-gaester-12422530381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28ea75c4b58350e6012/5cf86cfb51fa70997564914aedb0ce2e97df58955681cd37ca0221d6ea3872bd" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Steder i Spanien</title>
-      <description>Hvad er dit yndlingssted i Spanien og hvorfor?  
+   <itunes:duration>02:21:47</itunes:duration>
+   <pubDate>Mon, 15 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/mad-og-gaester-12422530381</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28ea75c4b58350e6012/5cf86cfb51fa70997564914aedb0ce2e97df58955681cd37ca0221d6ea3872bd" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Steder i Spanien</title>
+   <description>Hvad er dit yndlingssted i Spanien og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:22:00</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/steder-i-spanien-12422530375</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28d1e0a1c49e065603d/9cd3aeb42d16f07597c29a89219f5c3ee007b01603022af733d9e1f2c5236265" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tillykke Arvo Pärt!</title>
-      <description>I dag fylder den verdensberømte estiske komponist Arvo Pärt 90 år. Hvad skal vi høre og hvorfor?  
+   <itunes:duration>02:22:00</itunes:duration>
+   <pubDate>Fri, 12 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/steder-i-spanien-12422530375</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28d1e0a1c49e065603d/9cd3aeb42d16f07597c29a89219f5c3ee007b01603022af733d9e1f2c5236265" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Tillykke Arvo Pärt!</title>
+   <description>I dag fylder den verdensberømte estiske komponist Arvo Pärt 90 år. Hvad skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:22:03</itunes:duration>
-      <pubDate>Thu, 11 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/tillykke-arvo-part-12422530374</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2882e64822ed59472e5/a275dfcd684b7080f51f916be63b52dd3e7295ed2d6557ec939b4811b5f726da" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Kat</title>
-      <description>Hvilken kat glemmer du aldrig - og hvilke oplevelser har gjort den uforglemmelig?  
+   <itunes:duration>02:22:03</itunes:duration>
+   <pubDate>Thu, 11 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/tillykke-arvo-part-12422530374</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2882e64822ed59472e5/a275dfcd684b7080f51f916be63b52dd3e7295ed2d6557ec939b4811b5f726da" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Kat</title>
+   <description>Hvilken kat glemmer du aldrig - og hvilke oplevelser har gjort den uforglemmelig?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mette Greiffenberg.</description>
-      <itunes:duration>02:21:59</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/kat-12422530373</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28d3f4a9729ac88de70/a6244a40f56ccdfb5c25ad4ef310ba05ddc061b52c85f0f8ddc739fe2e3eaee3" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Folketone</title>
-      <description>Hvilket stykke klassisk musik med inspiration fra folkemusik skal vi høre og hvorfor?  
+   <itunes:duration>02:21:59</itunes:duration>
+   <pubDate>Wed, 10 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/kat-12422530373</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca28d3f4a9729ac88de70/a6244a40f56ccdfb5c25ad4ef310ba05ddc061b52c85f0f8ddc739fe2e3eaee3" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Folketone</title>
+   <description>Hvilket stykke klassisk musik med inspiration fra folkemusik skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Cæcilie Iburg Printzlau.</description>
-      <itunes:duration>02:20:58</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/folketone-12422530372</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca288b3140b1c1f3bbb36/6c093c9dbcead579832170a914ee0346a2cf90639193d5ef178c7d7348a4ac7a" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Så er der orgel!</title>
-      <description>I dag dyrker vi den klassiske orgelmusik. Hvad skal vi høre og hvorfor?  
+   <itunes:duration>02:20:58</itunes:duration>
+   <pubDate>Tue, 09 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/folketone-12422530372</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca288b3140b1c1f3bbb36/6c093c9dbcead579832170a914ee0346a2cf90639193d5ef178c7d7348a4ac7a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Så er der orgel!</title>
+   <description>I dag dyrker vi den klassiske orgelmusik. Hvad skal vi høre og hvorfor?  
 Vi giver dit input radiovinger, hvis du skriver til hejp2@dr.dk  
 Vært: Mettte Graiffenberg.</description>
-      <itunes:duration>02:21:55</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 08:30:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/saa-er-der-orgel-12422530371</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2871e0a1c49e0656003/9e728b896a777be1a78a3efb9ec337dc0cd2aab110e6b4f1cb79edd4c7cb9503" length="0" type="audio/x-m4a"/>
-    </item>
-  </channel>
+   <itunes:duration>02:21:55</itunes:duration>
+   <pubDate>Mon, 08 Sep 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/saa-er-der-orgel-12422530371</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2871e0a1c49e0656003/9e728b896a777be1a78a3efb9ec337dc0cd2aab110e6b4f1cb79edd4c7cb9503" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
 </rss>

@@ -1,1632 +1,301 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>P1 Morgen</title>
-    <link>https://www.dr.dk/lyd/p1/p1-morgen-759557206000</link>
-    <description>Perspektiv, debat og et stærkt journalistisk fokus er kernen i P1 Morgen. Her bliver du klædt på fra morgenstunden med nyheder fra indland, udland, erhverv og kultur. Og du får masser af baggrund, analyse og aktuel samfundsdebat med på vejen.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc9052248c98a4403cb0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Søndag 5. oktober 2025</title>
-      <description>Hvorfor er det syriske parlamentsvalg et vigtigt valg? Hvad er det for en potentiel katastrofe, danske æbler står overfor? Hvorfor er bogen om Simona Tayanna fra Prinsesserne fra Blokken en vigtig bog?
+ <channel>
+  <title>P1 Morgen</title>
+  <link>https://www.dr.dk/lyd/p1/p1-morgen-759557206000</link>
+  <description>Perspektiv, debat og et stærkt journalistisk fokus er kernen i P1 Morgen. Her bliver du klædt på fra morgenstunden med nyheder fra indland, udland, erhverv og kultur. Og du får masser af baggrund, analyse og aktuel samfundsdebat med på vejen.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc9052248c98a4403cb0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Mandag 6. oktober 2025</title>
+   <description>Hvordan har revyen ændret sig, og hvordan har grænserne rykket sig? Hvad er Israels taktik for dagen - og hvilket pres er Israel under til at indgå aftale? Vil Vurderingsstyrelsen undersøge data i BBR for at give mere retvisende ejendomsvurderinger?
+Dagens værter: Ole Brink og Thomas Tjaerandsen.</description>
+   <itunes:duration>02:44:50</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-6-oktober-2025-11802533411</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7b7711eb9035a4f4f5/1c4acb97e750e37d102ec72f790b4c6718ebd30cd8a11545e93efebcf18e89ad" length="237382129" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 5. oktober 2025</title>
+   <description>Hvorfor er det syriske parlamentsvalg et vigtigt valg? Hvad er det for en potentiel katastrofe, danske æbler står overfor? Hvorfor er bogen om Simona Tayanna fra Prinsesserne fra Blokken en vigtig bog?
 Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 05 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-5-oktober-2025-11802533407</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7aa25b34b9458585d4/c117c810ef39e6fd32c85e29436e99270d6d66c1d07e026b7aed3a69b0ff7eec" length="158490265" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 4. oktober 2025</title>
-      <description>Har den israelske regering et reelt ønske om at indgå i Trumps fredsplan? Hvad er seneste nyt om droneaktiviteten i EU lige nu - og hvilken betydning har den? Mystisk sygdom spreder sig i Hollywood, men findes den?
+   <itunes:duration>01:50:03</itunes:duration>
+   <pubDate>Sun, 05 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-5-oktober-2025-11802533407</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7aa25b34b9458585d4/c117c810ef39e6fd32c85e29436e99270d6d66c1d07e026b7aed3a69b0ff7eec" length="158490265" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 4. oktober 2025</title>
+   <description>Har den israelske regering et reelt ønske om at indgå i Trumps fredsplan? Hvad er seneste nyt om droneaktiviteten i EU lige nu - og hvilken betydning har den? Mystisk sygdom spreder sig i Hollywood, men findes den?
 Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 04 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-4-oktober-2025-11802533406</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7a7711eb9035a4f4cb/93b26b3e62391a9fa6e1d79f2498e076b9e57ee002e465681d45ad981d195529" length="158459172" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 3. oktober 2025</title>
-      <description>Hvorfor er byggebranchen ikke et sted for 14-15 årige? Hvorfor straffes kokainsmuglere historisk hårdt? Bør den danske regering tage ansvar for nødhjælpsskibe på vej mod Gaza?
+   <itunes:duration>01:50:02</itunes:duration>
+   <pubDate>Sat, 04 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-4-oktober-2025-11802533406</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7a7711eb9035a4f4cb/93b26b3e62391a9fa6e1d79f2498e076b9e57ee002e465681d45ad981d195529" length="158459172" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 3. oktober 2025</title>
+   <description>Hvorfor er byggebranchen ikke et sted for 14-15 årige? Hvorfor straffes kokainsmuglere historisk hårdt? Bør den danske regering tage ansvar for nødhjælpsskibe på vej mod Gaza?
 Dagens værter: Niels Frederik Dybdal Rickers og Pernille Øhlenschlæger Rudbæk.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-3-oktober-2025-11802533405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7aa25b34b9458585cc/a48bb933594688db9577024078a6592fe65869a93bc32505bd1ae22f9b2db1a8" length="237649384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 2. oktober 2025</title>
-      <description>Hvor går grænsen for brug af citater fra sangtekster til politisk-parti kampagner? Står Europa mere splittet eller samlet efter onsdagens top-møde? Skal Danmarks udgifter til EU vokse som kommisionens forslag ligger op til?
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-3-oktober-2025-11802533405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7aa25b34b9458585cc/a48bb933594688db9577024078a6592fe65869a93bc32505bd1ae22f9b2db1a8" length="237649384" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 2. oktober 2025</title>
+   <description>Hvor går grænsen for brug af citater fra sangtekster til politisk-parti kampagner? Står Europa mere splittet eller samlet efter onsdagens top-møde? Skal Danmarks udgifter til EU vokse som kommisionens forslag ligger op til?
 Dagens værter: Thomas Tjaerandsen og Julie Hornbek Toft.</description>
-      <itunes:duration>02:44:28</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-2-oktober-2025-11802533404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f79a25b34b9458585c2/afe170bc26a45b5fbbe5f487ab02585c528baebf820e01e95a69ec0a600db6f6" length="236841267" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 1. okt. 2025</title>
-      <description>Hvordan påvirker det et barn at vokse op i en fattig familie?  
+   <itunes:duration>02:44:28</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-2-oktober-2025-11802533404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f79a25b34b9458585c2/afe170bc26a45b5fbbe5f487ab02585c528baebf820e01e95a69ec0a600db6f6" length="236841267" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 1. okt. 2025</title>
+   <description>Hvordan påvirker det et barn at vokse op i en fattig familie?  
 Hvorfor er Kaare Dybvad på TikTok?  
 Hvad kommer EU-topmødet til at betyde for den økonomiske støtte til Ukraine?
 Dagens værter: Julie Toft og Søren Carlsen.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-1-okt-2025-11802533403</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f847711eb9035a4f58a/26f1bddd596bf61e9a0ba062ff19e8a5063e440977755ab075eabc35a9da8b4b" length="237640720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 30. sep. 2025</title>
-      <description>Hvad går Trumps fredsplan for Gaza og hele Mellemøsten ud på?  Skal undervisning i Muhammedkrisen være obligatorisk i folkeskolen? Hvad kunne Jørgen Leth som poet?
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Wed, 01 Oct 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-1-okt-2025-11802533403</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f847711eb9035a4f58a/26f1bddd596bf61e9a0ba062ff19e8a5063e440977755ab075eabc35a9da8b4b" length="237640720" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 30. sep. 2025</title>
+   <description>Hvad går Trumps fredsplan for Gaza og hele Mellemøsten ud på?  Skal undervisning i Muhammedkrisen være obligatorisk i folkeskolen? Hvad kunne Jørgen Leth som poet?
 Dagens værter: Søren Carlsen og Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-30-sep-2025-11802533402</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f797711eb9035a4f4ae/b408a885b83bc1b3e56d3b834ff6281cd0ad9a3de3f7527ccdf94b3a797c2db8" length="237663784" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 29. sep. 2025</title>
-      <description>Er politiets forklaring på, hvorfor de henlægger sager rimelig? Hvad gør ensomheden ved os? Har moldovere med søndagens valg trukket Moldova mere mod EU eller Rusland?
+   <itunes:duration>02:45:02</itunes:duration>
+   <pubDate>Tue, 30 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-30-sep-2025-11802533402</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f797711eb9035a4f4ae/b408a885b83bc1b3e56d3b834ff6281cd0ad9a3de3f7527ccdf94b3a797c2db8" length="237663784" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 29. sep. 2025</title>
+   <description>Er politiets forklaring på, hvorfor de henlægger sager rimelig? Hvad gør ensomheden ved os? Har moldovere med søndagens valg trukket Moldova mere mod EU eller Rusland?
 Dagens værter: Niels Frederik Rickers og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:58</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-29-sep-2025-11802533401</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f78a25b34b9458585a4/95760794dafe036139fa4d75872658aefdc168ebdbcd0b82d9c227010f5aae67" length="237565272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 28. september 2025</title>
-      <description>Hvordan kommer udlændingepolitikken til at præge folketingsvalgkampen fra nu af? Hvad er på spil ved parlamentsvalget i Moldova?  Hvad har den her uge ændret ift. forståelsen af sikkerheden i Danmark?
+   <itunes:duration>02:44:58</itunes:duration>
+   <pubDate>Mon, 29 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-29-sep-2025-11802533401</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f78a25b34b9458585a4/95760794dafe036139fa4d75872658aefdc168ebdbcd0b82d9c227010f5aae67" length="237565272" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 28. september 2025</title>
+   <description>Hvordan kommer udlændingepolitikken til at præge folketingsvalgkampen fra nu af? Hvad er på spil ved parlamentsvalget i Moldova?  Hvad har den her uge ændret ift. forståelsen af sikkerheden i Danmark?
 Dagens vært:  Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sun, 28 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-28-september-2025-11802533397</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c861175376c1eef7bb/433b7c7e1a04687cb18e014b766e2d4a0e7121ab9d2b14ec2ed3fc2e80ddfdb4" length="158420002" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 27. september 2025</title>
-      <description>Hvorfor er det vigtigt, at klimakampen bliver til fordelingskamp? Hvor står Israel efter turbulent FN-forsamling? Hvorfor skal danske lufthavne og havne have mulighed for at skyde droner ned?
+   <itunes:duration>01:50:00</itunes:duration>
+   <pubDate>Sun, 28 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-28-september-2025-11802533397</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c861175376c1eef7bb/433b7c7e1a04687cb18e014b766e2d4a0e7121ab9d2b14ec2ed3fc2e80ddfdb4" length="158420002" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 27. september 2025</title>
+   <description>Hvorfor er det vigtigt, at klimakampen bliver til fordelingskamp? Hvor står Israel efter turbulent FN-forsamling? Hvorfor skal danske lufthavne og havne have mulighed for at skyde droner ned?
 Dagens værter: Thomas Tjaerandsen og Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 27 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-27-september-2025-11802533396</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d97b626ea9bbf458aa/c554aaacbcc4f4a92431b5e34d101ffb03bc0b7095fec301ec83a846c5a3b49e" length="158451692" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 26. sep. 2025</title>
-      <description>Skaber drone-hændelserne bekymring hos erfaren prepper? Skal lærere have lov til mere fysisk magtanvendelse? Vil den nyudnævnte udlændinge- og integrationsminister stadig tage et opgør med menneskerettighedsdomstolen?
+   <itunes:duration>01:50:02</itunes:duration>
+   <pubDate>Sat, 27 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-27-september-2025-11802533396</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d97b626ea9bbf458aa/c554aaacbcc4f4a92431b5e34d101ffb03bc0b7095fec301ec83a846c5a3b49e" length="158451692" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 26. sep. 2025</title>
+   <description>Skaber drone-hændelserne bekymring hos erfaren prepper? Skal lærere have lov til mere fysisk magtanvendelse? Vil den nyudnævnte udlændinge- og integrationsminister stadig tage et opgør med menneskerettighedsdomstolen?
 Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:24</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-26-sep-2025-11802533395</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d87b626ea9bbf458a5/7a8c2f8d367bc4525542caa1066450d2ddfbc52ddbda5ebf01fd88a669c575d7" length="236741621" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 25. sep. 2025</title>
-      <description>Hvorfor er det et problem, at der endnu engang bliver skiftet ud på skatteministerposten? Hvad må lærerne, når det kommer til fastholdelse af børn? Hvad var planen med at give palæstinensiske repræsentanter diplomatstatus i Danmark?  
+   <itunes:duration>02:44:24</itunes:duration>
+   <pubDate>Fri, 26 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-26-sep-2025-11802533395</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d87b626ea9bbf458a5/7a8c2f8d367bc4525542caa1066450d2ddfbc52ddbda5ebf01fd88a669c575d7" length="236741621" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 25. sep. 2025</title>
+   <description>Hvorfor er det et problem, at der endnu engang bliver skiftet ud på skatteministerposten? Hvad må lærerne, når det kommer til fastholdelse af børn? Hvad var planen med at give palæstinensiske repræsentanter diplomatstatus i Danmark?  
 Dagens værter: Julie Toft og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-25-sep-2025-11802533394</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c77b626ea9bbf4579c/939a5126b70ecdddb332260615f9612f786ec65c68a08991cba33b85cf36c405" length="237643624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 24. sep. 2025</title>
-      <description>Hvad kan Danmark gøre for at bekæmpe droner i fremtiden? Hvorfor skal virksomheder uddannes i en verden i opbrud? Hvad har vi lært om visionen for amerikansk udenrigspolitik efter Trumps store tale i FN?
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Thu, 25 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-25-sep-2025-11802533394</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c77b626ea9bbf4579c/939a5126b70ecdddb332260615f9612f786ec65c68a08991cba33b85cf36c405" length="237643624" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 24. sep. 2025</title>
+   <description>Hvad kan Danmark gøre for at bekæmpe droner i fremtiden? Hvorfor skal virksomheder uddannes i en verden i opbrud? Hvad har vi lært om visionen for amerikansk udenrigspolitik efter Trumps store tale i FN?
 Dagens værter: Pernille Øhlenschlæger Rudbæk og Niels Frederik Dybdal Rickers.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-24-sep-2025-11802533393</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e47b626ea9bbf45969/d34ba4f8429732a2a30122e4dbafdc835cfc7fd9b8f4331fedcf656230ba968f" length="237670135" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 23. sep. 2025</title>
-      <description>Hvad ved vi om dronerne over Københavns lufthavn? Står FN ved en skillevej? Og hvad er muligheden for at hjemmearbejde bliver et forventeligt gode på arbejdspladser?
+   <itunes:duration>02:45:02</itunes:duration>
+   <pubDate>Wed, 24 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-24-sep-2025-11802533393</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e47b626ea9bbf45969/d34ba4f8429732a2a30122e4dbafdc835cfc7fd9b8f4331fedcf656230ba968f" length="237670135" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 23. sep. 2025</title>
+   <description>Hvad ved vi om dronerne over Københavns lufthavn? Står FN ved en skillevej? Og hvad er muligheden for at hjemmearbejde bliver et forventeligt gode på arbejdspladser?
 Værter: Søren Carlsen og Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-23-sep-2025-11802533392</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c761175376c1eef7aa/7f9165b112e5292a26202618c1efb2cfd42e2e012e3b4d77f59839928c2ab7c9" length="237667816" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 22. sep. 2025</title>
-      <description>Hvordan har Charlie Kirks død påvirket splittelsen i USA? Hvordan står beredskabet til på Bornholm - og skal vi se mod Sverige? Hvad mener palæstinenserne om, at flere lande nu vil anerkende Palæstina?
+   <itunes:duration>02:45:02</itunes:duration>
+   <pubDate>Tue, 23 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-23-sep-2025-11802533392</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c761175376c1eef7aa/7f9165b112e5292a26202618c1efb2cfd42e2e012e3b4d77f59839928c2ab7c9" length="237667816" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 22. sep. 2025</title>
+   <description>Hvordan har Charlie Kirks død påvirket splittelsen i USA? Hvordan står beredskabet til på Bornholm - og skal vi se mod Sverige? Hvad mener palæstinenserne om, at flere lande nu vil anerkende Palæstina?
 Dagens værter: Niels Frederik Dybdal Rickers og Søren Carlsen.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-22-sep-2025-11802533391</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e461175376c1eef940/c7a5e8e8799ac0f7156cc95555e5a4ab90a42fed38a0a375b5dfcb567c7bb6b0" length="237593526" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 21. sep. 2025</title>
-      <description>Hvad betyder VM i cykling for Rwanda? Hvilket slags show var Intervision? Og hvordan er det at være forældre til børn med ufrivilligt skolefravær?  
+   <itunes:duration>02:44:59</itunes:duration>
+   <pubDate>Mon, 22 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-22-sep-2025-11802533391</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e461175376c1eef940/c7a5e8e8799ac0f7156cc95555e5a4ab90a42fed38a0a375b5dfcb567c7bb6b0" length="237593526" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 21. sep. 2025</title>
+   <description>Hvad betyder VM i cykling for Rwanda? Hvilket slags show var Intervision? Og hvordan er det at være forældre til børn med ufrivilligt skolefravær?  
 Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 21 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-21-sep-2025-11802533387</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c661175376c1eef799/fba7c2935e895bb96f99f47e935003643620ac65a3fcbf1c91309d269760d50a" length="158476385" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 20. sep. 2025</title>
-      <description>Hvad er det for et opgør vi ser i USA mellem administrationen og Late Night shows? Hvorfor er det fornuftigt, at Danmark forbereder civilbefolkningen på krig? Og hvad er den russiske Intervision?
+   <itunes:duration>01:50:03</itunes:duration>
+   <pubDate>Sun, 21 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-21-sep-2025-11802533387</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c661175376c1eef799/fba7c2935e895bb96f99f47e935003643620ac65a3fcbf1c91309d269760d50a" length="158476385" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 20. sep. 2025</title>
+   <description>Hvad er det for et opgør vi ser i USA mellem administrationen og Late Night shows? Hvorfor er det fornuftigt, at Danmark forbereder civilbefolkningen på krig? Og hvad er den russiske Intervision?
 Dagens værter: Jan Falkentoft og Ole Brink.</description>
-      <itunes:duration>01:49:46</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-20-sep-2025-11802533386</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c561175376c1eef793/efc31767677e3d6fa7903e2adb2723a4de4a0e8835f68d376403ac2522b82b59" length="158075554" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 19. sep. 2025</title>
-      <description>Påvirker Trump de amerikanske medier? Hvor stor er krisen omkring Eurovision? Og er der et paradigmeskifte i dansk forsvarspolitik?
+   <itunes:duration>01:49:46</itunes:duration>
+   <pubDate>Sat, 20 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-20-sep-2025-11802533386</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c561175376c1eef793/efc31767677e3d6fa7903e2adb2723a4de4a0e8835f68d376403ac2522b82b59" length="158075554" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 19. sep. 2025</title>
+   <description>Påvirker Trump de amerikanske medier? Hvor stor er krisen omkring Eurovision? Og er der et paradigmeskifte i dansk forsvarspolitik?
 Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-19-sep-2025-11802533385</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e37b626ea9bbf45956/e2f2981b0825cb2979266dd8233e6a91feb4d095c6fbf6e9ea17661292e51051" length="237675245" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 18. sep. 2025</title>
-      <description>Hvorfor er det så svært for Danmark at samle EU-landene om et nyt klimamål? Er det forældrenes ansvar, at flere og flere børn får konstateret ADHD? Hvordan har Englands velkomst været, til Trumps stats besøg?
+   <itunes:duration>02:45:03</itunes:duration>
+   <pubDate>Fri, 19 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-19-sep-2025-11802533385</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e37b626ea9bbf45956/e2f2981b0825cb2979266dd8233e6a91feb4d095c6fbf6e9ea17661292e51051" length="237675245" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 18. sep. 2025</title>
+   <description>Hvorfor er det så svært for Danmark at samle EU-landene om et nyt klimamål? Er det forældrenes ansvar, at flere og flere børn får konstateret ADHD? Hvordan har Englands velkomst været, til Trumps stats besøg?
 Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:53</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-18-sep-2025-11802533384</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e37b626ea9bbf45951/0db49ff2445cc703bf950a9ce07cdf331761daab23eceb9127a1993e42e1fcdd" length="237449527" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 17. sep. 2025</title>
-      <description>Hvad er der sket i Gaza det seneste døgn? Hvorfor oplever studerende på Københavns Universitet et venstreorienteret ekkokammer? Og hvilke skygger hviler der over Trumps andet statsbesøg i Storbritannien? 
+   <itunes:duration>02:44:53</itunes:duration>
+   <pubDate>Thu, 18 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-18-sep-2025-11802533384</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e37b626ea9bbf45951/0db49ff2445cc703bf950a9ce07cdf331761daab23eceb9127a1993e42e1fcdd" length="237449527" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 17. sep. 2025</title>
+   <description>Hvad er der sket i Gaza det seneste døgn? Hvorfor oplever studerende på Københavns Universitet et venstreorienteret ekkokammer? Og hvilke skygger hviler der over Trumps andet statsbesøg i Storbritannien? 
 Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-17-sep-2025-11802533383</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bb7b626ea9bbf456eb/c4f35d8672496d3fe68b44ca4372933e035452b0f23e5c015e72968ce7f0efed" length="237640182" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 16. sep. 2025</title>
-      <description>Hvorfor skifter Marianne Karlsmose parti?
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Wed, 17 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-17-sep-2025-11802533383</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bb7b626ea9bbf456eb/c4f35d8672496d3fe68b44ca4372933e035452b0f23e5c015e72968ce7f0efed" length="237640182" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 16. sep. 2025</title>
+   <description>Hvorfor skifter Marianne Karlsmose parti?
 Hvor stiller det Enhedslisten, at de nu har ekskluderet deres eneste medlem i Aarhus?
 Var det bøller eller solidariske mennesker, der afbrød Vuelta a Espana?
 Dagens værter: Bjarne Steensbeck og Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-16-sep-2025-11802533382</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d761175376c1eef892/6cad2088be31be9668197ca4dc696809337110820cecd61da3d227f64f03aa14" length="237672431" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 15. sep. 2025</title>
-      <description>Smider Socialedemokratiet ansvaret fra sig i debat om studerende fra Bangladesh? Hvad får en til at snage i sin partners telefon, selvom man ved, det er forkert? Hvad er det, for en opsang til Europa vi her hører fra Trump?
+   <itunes:duration>02:45:02</itunes:duration>
+   <pubDate>Tue, 16 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-16-sep-2025-11802533382</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d761175376c1eef892/6cad2088be31be9668197ca4dc696809337110820cecd61da3d227f64f03aa14" length="237672431" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 15. sep. 2025</title>
+   <description>Smider Socialedemokratiet ansvaret fra sig i debat om studerende fra Bangladesh? Hvad får en til at snage i sin partners telefon, selvom man ved, det er forkert? Hvad er det, for en opsang til Europa vi her hører fra Trump?
 Dagens værter: Anne Kirstine Hermann og Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Mon, 15 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-15-sep-2025-11802533381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e161175376c1eef923/ad048297d21865d94a6ee806d249e1dff1a741d8f9fce4bd30ae3396148a0428" length="237625776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 14. sep. 2025</title>
-      <description>Hvad sker der i Serbien lige nu, og hvorfor er situationen eskaleret? Hvad er nyt efter Socialdemokratiets årsmøde? Hvordan kan Charlie Kirks død samle den yderste amerikanske højrefløj?
+   <itunes:duration>02:45:00</itunes:duration>
+   <pubDate>Mon, 15 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-15-sep-2025-11802533381</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e161175376c1eef923/ad048297d21865d94a6ee806d249e1dff1a741d8f9fce4bd30ae3396148a0428" length="237625776" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 14. sep. 2025</title>
+   <description>Hvad sker der i Serbien lige nu, og hvorfor er situationen eskaleret? Hvad er nyt efter Socialdemokratiets årsmøde? Hvordan kan Charlie Kirks død samle den yderste amerikanske højrefløj?
 Dagens vært: Pernille Øhlenschlæger Rudbæk.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 14 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-14-sep-2025-11802533377</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b961175376c1eef6d7/b0673b29381a444735a5cf014db4dd65c0f77e12878d69dd78b2953459e52ea3" length="158475871" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 13. sep. 2025</title>
-      <description>Hvor meget ved vi om Charlie Kirks gerningsmand? Hvilke politiske emner kommer til at fylde på det socialdemokratiske årsmøde denne weekend? Og hvor står Polen efter Ruslands provokationer?
+   <itunes:duration>01:50:03</itunes:duration>
+   <pubDate>Sun, 14 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-14-sep-2025-11802533377</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b961175376c1eef6d7/b0673b29381a444735a5cf014db4dd65c0f77e12878d69dd78b2953459e52ea3" length="158475871" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 13. sep. 2025</title>
+   <description>Hvor meget ved vi om Charlie Kirks gerningsmand? Hvilke politiske emner kommer til at fylde på det socialdemokratiske årsmøde denne weekend? Og hvor står Polen efter Ruslands provokationer?
 Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sat, 13 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-13-sep-2025-11802533376</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d761175376c1eef88c/531ceee75d792b298bb2162e94df2ff7947ec6f56dcc34e244566dae4274661b" length="158485673" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 12. sep. 2025</title>
-      <description>Hvordan fungerer disse grooming-netværk? Hvad er der sket siden FN Handicapkomite kom med kritik for et år siden? Hvad vil regeringen gøre for at komme danskerne i møde med de høje fødevarepriser?
+   <itunes:duration>01:50:03</itunes:duration>
+   <pubDate>Sat, 13 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-13-sep-2025-11802533376</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d761175376c1eef88c/531ceee75d792b298bb2162e94df2ff7947ec6f56dcc34e244566dae4274661b" length="158485673" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 12. sep. 2025</title>
+   <description>Hvordan fungerer disse grooming-netværk? Hvad er der sket siden FN Handicapkomite kom med kritik for et år siden? Hvad vil regeringen gøre for at komme danskerne i møde med de høje fødevarepriser?
 Dagens værter: Bjarne Steensbeck og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-12-sep-2025-11802533375</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d77b626ea9bbf4588f/c88b256c75f3638e1abd8d69cf45d0e46a5a4bb8e358351b356e1ee004820b11" length="237634408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 11. sep. 2025</title>
-      <description>Hvad ved vi om skyderiet på den højreorienterede debattør Charlie Kirk, og dets konsekvenser? Hvad er reaktionerne blandt politikerne på debattørens død? Og hvordan reagerer aktiemarkedet på den planlagte Novo-fyringsrunde?
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Fri, 12 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-12-sep-2025-11802533375</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d77b626ea9bbf4588f/c88b256c75f3638e1abd8d69cf45d0e46a5a4bb8e358351b356e1ee004820b11" length="237634408" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 11. sep. 2025</title>
+   <description>Hvad ved vi om skyderiet på den højreorienterede debattør Charlie Kirk, og dets konsekvenser? Hvad er reaktionerne blandt politikerne på debattørens død? Og hvordan reagerer aktiemarkedet på den planlagte Novo-fyringsrunde?
 Dagens værter: Niels Frederik Rickers og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Thu, 11 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-11-sep-2025-11802533374</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e17b626ea9bbf45933/5d40a469545f799f66df2004de1fa6e2410ccdd6cf7a4fd235f61170555be4a9" length="237679912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 10. sep. 2025</title>
-      <description>Hvor alvorligt er droneangrebet i Polen? Hvad kommer 9000 færre ansatte i Novo til at betyde for virksomheden? Og hvad kan vi forvente af Ursula von der Leyens store tale til Europa-Parlamentet i dag?   
+   <itunes:duration>02:45:03</itunes:duration>
+   <pubDate>Thu, 11 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-11-sep-2025-11802533374</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e17b626ea9bbf45933/5d40a469545f799f66df2004de1fa6e2410ccdd6cf7a4fd235f61170555be4a9" length="237679912" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 10. sep. 2025</title>
+   <description>Hvor alvorligt er droneangrebet i Polen? Hvad kommer 9000 færre ansatte i Novo til at betyde for virksomheden? Og hvad kan vi forvente af Ursula von der Leyens store tale til Europa-Parlamentet i dag?   
 Dagens værter: Niels Frederik Rickers og Søren Carlsen.</description>
-      <itunes:duration>02:45:04</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-10-sep-2025-11802533373</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d67b626ea9bbf45871/2f8ed619c0ab5056707b5d723491471947e993ad0ce3c99b4a74f8666a55d2ef" length="237701224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 9. sep. 2025</title>
-      <description>Hvordan skal vi tolke det norske valgresultat? Hvorfor er den gal igen i sagen om Energinet og energiminister Lars Aagaard? Og hvorfor er det et problem, at have en diagnose stående?   
+   <itunes:duration>02:45:04</itunes:duration>
+   <pubDate>Wed, 10 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-10-sep-2025-11802533373</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d67b626ea9bbf45871/2f8ed619c0ab5056707b5d723491471947e993ad0ce3c99b4a74f8666a55d2ef" length="237701224" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 9. sep. 2025</title>
+   <description>Hvordan skal vi tolke det norske valgresultat? Hvorfor er den gal igen i sagen om Energinet og energiminister Lars Aagaard? Og hvorfor er det et problem, at have en diagnose stående?   
 Dagens værter: Anne Hermann og Søren Carlsen.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-9-sep-2025-11802533372</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d661175376c1eef874/965db254c65cf24e0eea2cc4de758ec7834482994d7f3b577bb32974a407731a" length="237624616" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 8. sep. 2025</title>
-      <description>Hvad går forud for, at Japans premierminister er trådt tilbage? Hvordan ser stigmatisering og diskrimination af personer med psykisk sygdom ud? Hvorfor vil Dansk Satanisk Forbund anerkendes som trossamfund?
+   <itunes:duration>02:45:00</itunes:duration>
+   <pubDate>Tue, 09 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-9-sep-2025-11802533372</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d661175376c1eef874/965db254c65cf24e0eea2cc4de758ec7834482994d7f3b577bb32974a407731a" length="237624616" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 8. sep. 2025</title>
+   <description>Hvad går forud for, at Japans premierminister er trådt tilbage? Hvordan ser stigmatisering og diskrimination af personer med psykisk sygdom ud? Hvorfor vil Dansk Satanisk Forbund anerkendes som trossamfund?
 Dagens værter: Anne Kirstine Hermann og Niels Frederik Rickers.</description>
-      <itunes:duration>02:44:51</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-8-sep-2025-11802533371</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e07b626ea9bbf45927/319ba5bb4bb616625b2f1ec02c5a004ab300cc62af3c45128653459a8cecc888" length="237391346" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 7. sep. 2025</title>
-      <description>Løkke besøger i dag Israel og Palæstina, men hvad er der på spil under dagens besøg? Hvordan er det at være lokalpolitiker og skulle udføre de planer, som Christiansborg uddelegerer til kommunerne? Og hvorfor er netop aftenens måneformørkelse værd at holde øje med?
+   <itunes:duration>02:44:51</itunes:duration>
+   <pubDate>Mon, 08 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-8-sep-2025-11802533371</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e07b626ea9bbf45927/319ba5bb4bb616625b2f1ec02c5a004ab300cc62af3c45128653459a8cecc888" length="237391346" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 7. sep. 2025</title>
+   <description>Løkke besøger i dag Israel og Palæstina, men hvad er der på spil under dagens besøg? Hvordan er det at være lokalpolitiker og skulle udføre de planer, som Christiansborg uddelegerer til kommunerne? Og hvorfor er netop aftenens måneformørkelse værd at holde øje med?
 Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sun, 07 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-7-sep-2025-11802533367</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362df7b626ea9bbf45916/7040127973250f932edda2f5f47f8ea3c512e5b48fea5fa72c9ab7acb99bd84d" length="158458600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 6. sep. 2025</title>
-      <description>Skal Danmark sænke fødevaremomsen? Er der en plan bag Trumps udenrigspolitik? Hvilke udfordringer står vores hjemmepleje med?
+   <itunes:duration>01:50:02</itunes:duration>
+   <pubDate>Sun, 07 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-7-sep-2025-11802533367</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362df7b626ea9bbf45916/7040127973250f932edda2f5f47f8ea3c512e5b48fea5fa72c9ab7acb99bd84d" length="158458600" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 6. sep. 2025</title>
+   <description>Skal Danmark sænke fødevaremomsen? Er der en plan bag Trumps udenrigspolitik? Hvilke udfordringer står vores hjemmepleje med?
 Dagens værter: Julie Toft og Søren Carlsen.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sat, 06 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-6-sep-2025-11802533366</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c561175376c1eef786/a1ee1297559a2a959ab10cf72a8c71ec5cebb886380280a3e71c7f8815d191bf" length="158415903" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 5. sep. 2025</title>
-      <description>Hvor alvorligt er det, at et minerydningshold er angrebet? Hvilke menneskelige konsekvenser har livet som drabsefterforsker? Hvad er vigtigst: Morens ret til at bestemme over egen krop eller barnets sikkerhed?
+   <itunes:duration>01:50:00</itunes:duration>
+   <pubDate>Sat, 06 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-6-sep-2025-11802533366</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c561175376c1eef786/a1ee1297559a2a959ab10cf72a8c71ec5cebb886380280a3e71c7f8815d191bf" length="158415903" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 5. sep. 2025</title>
+   <description>Hvor alvorligt er det, at et minerydningshold er angrebet? Hvilke menneskelige konsekvenser har livet som drabsefterforsker? Hvad er vigtigst: Morens ret til at bestemme over egen krop eller barnets sikkerhed?
 Dagens værter: Ole Brink og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Fri, 05 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-5-sep-2025-11802533365</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362df61175376c1eef8fd/a39be24d043f08866285071ee520ff4346f7067622517faf39fb7b64e81d57c4" length="237640176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 4. sep. 2025</title>
-      <description>Skal Gaza-politik have betydning for, hvem der kan blive overborgmester? Hvorfor må Fiskeriministeriet Jacob Jensen ikke kåre Danmarks nationalfisk? Og hvorfor skal de grønlandske børn ikke have en objektiv test, når danske børn skal?
-Dagens værter: Niels Frederik Rickers og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Thu, 04 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-4-sep-2025-11802533364</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362de7b626ea9bbf45905/e24f06ad318f08ba7dc3f74b548cb3be5b18034a76ac2d4a7988d58ffbcd1d9b" length="237658600" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 3. sep. 2025</title>
-      <description>Hvad fortæller Samsam-dom om efterretningstjenesternes ageren? Hvor skal pengene til løft af minimumsnormeringer komme fra? Og hvordan vil SF skaffe billige boliger i København?
-Dagen værter: Thomas Tjaerandsen og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Wed, 03 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-3-sep-2025-11802533363</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b97b626ea9bbf456d4/2de0fb9c8adbf5f9ce910db830f03879de597cd284a75af8e04004a876547447" length="237683368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 2. sep. 2025</title>
-      <description>Hvorfor er spørgsmålet om vindmøller og solceller blevet så vigtigt i Ringkjøbing-Skjern? Skal PET og FE forpligtes til at sige om Samsam var agent? Hvordan bør virksomheder agere, når de oplever trusler mod ansatte udefra?
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Tue, 02 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-2-sep-2025-11802533362</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362de7b626ea9bbf45900/cfb8fdd3e678401228aaa5dbc7de7d66d63c495a49edfced8412538e2f444d0b" length="237614261" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 1. sep. 2025</title>
-      <description>Hvor alvorligt er jordskælvet i Afghanistan? Hvad bliver dommen for Henrik Sass Larsen? Hvorfor bliver vi ved med at se Frankenstein?   
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Mon, 01 Sep 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-1-sep-2025-11802533361</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362dc61175376c1eef8cb/bc18705eb9d6179514a69c95f90c92a455fe119349c0a435b8326a7fb3a23e86" length="237656256" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 31. aug. 2025</title>
-      <description>Hvorfor vil Frankrig åbne et konsulat i Grønland? Hvordan er personlig medicin det næste store ryk, der gør, at vi kommer til at leve længere? Hvordan reagerer Israel på nyheden om, at Danmark tager endnu et skridt for at presse Israel økonomisk?
-Dagens vært: Bjarne Stensbeck.</description>
-      <itunes:duration>01:49:20</itunes:duration>
-      <pubDate>Sun, 31 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-31-aug-2025-11802533357</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d77b626ea9bbf45889/840f37d6e8190135a06563a97d9eb359a4124228772a66d70a140f39fa62a088" length="157446580" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 30. aug. 2025</title>
-      <description>Hvad går Ukraines nye militærkontrakt, som skal tiltrække flere unge, ud på? Hvad er dagsorden for mødet med EU's udenrigsministre i Danmark i dag? Hvad gør sagen om politibetjent Elvir Abaz, som har misbrugt sin stilling, så speciel? 
-Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
-      <itunes:duration>01:49:49</itunes:duration>
-      <pubDate>Sat, 30 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-30-aug-2025-11802533356</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b87b626ea9bbf456c1/273c769d9cb4d4e76f1119f4b47b271069cf6442b41307f498e97670d9b1663d" length="158156787" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 29. aug. 2025</title>
-      <description>Hvad har oversygeplejersken selv gjort for at bekæmpe vold mod sundhedspersonalet? Kinesiske forretninger har fundet et smuthul for Trumps toldafgifter. Hvordan fungerer det helt konkret? Hvad er de gode argumenter for fortsat minkavl i Danmark?  
-Dagens værter: Ole Brink og Pernille Øhlenschlæger Rudbæk.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Fri, 29 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-29-aug-2025-11802533355</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bb61175376c1eef6f2/0688f678b042884affae70e14fb82d112f357831c9a4c8f3add1bbb3239bcb6f" length="237588338" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 28. aug. 2025</title>
-      <description>Hvorfor stiger tallet for unge, der sigtes for at gå med kniv? Hvorfor er manglende miljøgodkendelse for havbrug et problem? Og hvorfor vil Løkke lave hele pensionssystemet om?
-Dagens værter: Ole Bring og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:43:18</itunes:duration>
-      <pubDate>Thu, 28 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-28-aug-2025-11802533354</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d67b626ea9bbf4586a/a0ef5e7991e26690e7dc4407eb3ab86b5b2ebbd63fd46228f3728957167b0cd0" length="235162199" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 27. aug. 2025</title>
-      <description>Hvordan vil Trump straffe EU for unionens tech-regler? Hvad viser den nye analyse om fødevareprisstigninger og disponibel indkomst? Og hvad er reaktionen på USA's skjulte påvirkningsoperationer i Grønland?
-Dagens værter: Pernille Rudbæk og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:44:50</itunes:duration>
-      <pubDate>Wed, 27 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-27-aug-2025-11802533353</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bb7b626ea9bbf456e4/8f9f3d2777d70973ff1699d13d872b2e345df4d5e8ca20128fc5e5275ce94d6d" length="237367732" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 26. aug. 2025</title>
-      <description>Hvad får Woody Allen til at deltage ved Moscow International Film Week? Hvad er det for en risiko man løber, når man henter nødhjælp i Gaza? Hvorfor er det fuldstændig vanvittigt, at kinesisk firma fremlægger en plan om en robot med livmoder i 2026?  
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:40</itunes:duration>
-      <pubDate>Tue, 26 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-26-aug-2025-11802533352</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362dd7b626ea9bbf458ee/8d6f1f2766349d7a785eccf4fabbacf5847c6db1247ddae041161e6db34018bc" length="237141364" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 25. aug. 2025</title>
-      <description>Hvorfor håber Lee Jae-Myung på at få ud af sine møder i USA og Japan? Hvad er det Trump vil have ud af at sætte soldater ind i Chicago? Og hvorfor vælger 3F KBH at møde op til en demonstration for Gaza?
-Dagens værter: Thomas Tjaerandsen og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:04</itunes:duration>
-      <pubDate>Mon, 25 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-25-aug-2025-11802533351</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d47b626ea9bbf4585a/009995a6aede03472227a590c151373c2ea5717e2d261f313aa9e80699da1426" length="237700072" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 24. aug. 2025</title>
-      <description>Hvilken balancegang skal Mette Frederiksen gå i forhold til Israel og Gaza? Hvad er det for en dansk medievirkelighed Ørskov forlader? Hvilken betydning har fortrolig israelsk opgørelse over dræbte militante?
-Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 24 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-24-aug-2025-11802533347</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e07b626ea9bbf4592d/18401a8ff6a27bd7741422914d767c7a196d4aefc8403eec21898c236063c450" length="158496611" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 23. aug. 2025</title>
-      <description>Hvad er Danmark forpligtet til at gøre i Gaza efter IPC vurderer, at der er hungersnød i Gaza? Hvorfor afviser Troels Lund Poulsen at være statsministerkandidat for en blå regering? Og hvor stort et problem er Trumps indstilling af havvindmølleprojektet Revolution Wind for Ørsted?
-Dagens værter: Søren Carlsen og Bjarne Steensbeck.</description>
-      <itunes:duration>01:49:59</itunes:duration>
-      <pubDate>Sat, 23 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-23-aug-2025-11802533346</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362dd7b626ea9bbf458e8/6ba32a3f9b5244849d3f38957ffaa75d4b5605ed84f3362013620988a095c2e8" length="158392374" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 22. aug. 2025</title>
-      <description>Hvorfor risikerer den irske stjerneforfatter, Sally Rooney, at blive dømt for terrorstøtte? Hvad er forventningerne til Venstres sommergruppemøde i dag? Og hvorfor er den tyske kansler Merz blevet så upopulær blandt tyskerne?
-Dagens værter: Thomas Tjaerandsen og Ole Brink.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Fri, 22 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-22-aug-2025-11802533345</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d37b626ea9bbf45843/232248c81703085052eed95551ed7c87e6d19b2eab0bdfdac492fda17bd2460d" length="237614260" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 21. aug. 2025</title>
-      <description>Er der en forbindelse mellem Imam Ali Moskeen og det iranske styre? Hvilke konsekvenser har det reelt at anerkende Palæstina? Hvorfor melder folk sig til 'Gift ved første blik'? 
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:28</itunes:duration>
-      <pubDate>Thu, 21 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-21-aug-2025-11802533344</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b861175376c1eef6ca/2bfe2d338d1ae98a0eabc39ab22c0ccfd09327021f4ef3fc77397a00a790d512" length="236836064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 20. aug. 2025</title>
-      <description>Hvorfor tager Storbritannien imod 30-50 syge og sårede børn fra Gaza? Kan Schweiz give Putin immunitet fra ICC-arrestordren? Og hvad er problemet, når færre bliver gode til tysk?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-20-aug-2025-11802533343</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d27b626ea9bbf4582d/9479ef3a62df2dc64243adbc927dc6294177f36115eabcb2056c152974a9a9c2" length="237662056" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 19. aug. 2025</title>
-      <description>Hvad kom der ud af mødet mellem Trump Zelenskyj og de europæiske ledere i Washington? Hvad bliver Europas rolle i at skabe fred i Ukraine? Hvorfor foreslår Socialdemokratiet gratis børnepasning i København?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 19 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-19-aug-2025-11802533342</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d161175376c1eef837/e3cf584d00db098bb0b9f69e3f70fd3a0ef7fcf0f624c5008f44a623d9336f1f" length="237660919" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 18. aug. 2025</title>
-      <description>Er sikkerheden i orden på de danske jernbanestrækninger? Hvad er der på spil til mødet i Det Hvide Hus senere i dag?
-Og hvorfor er det en dårlig metode at airdroppe nødhjælp til Gaza? 
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Mon, 18 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-18-aug-2025-11802533341</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b761175376c1eef6b6/3d0a528b29bd3cdb824385cd02e7b8e13e9611c27f0e796dd9582b118a3a0e57" length="237656294" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 17. aug. 2025</title>
-      <description>Hvad vil Trump fortælle Zelenskyj? Er vi efter denne weekend tættere på en fred i Ukraine? Og hvordan genopbygger Pride tilliden og fastholder støtten i et politisk splittet klima?
-Dagens vært: Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sun, 17 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-17-aug-2025-11802533337</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d061175376c1eef82b/eb1ac76c5d0b3809a3b9c68e0970a856318b502dfa1bb977bdfd13aaeab4bc40" length="158472974" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 16. aug. 2025</title>
-      <description>Hvad kom der ud af mødet i Alaska mellem Trump og Putin? Hvordan ser man på nattens møde i Ukraine? Og hvad er næste skridt i for at komme tættere på en fredsaftale?
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandensen.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 16 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-16-aug-2025-11802533336</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362cf7b626ea9bbf45802/f634837cd24facfb2b6256bbde144e95536e78183476e9ccee79f9efa8b7d391" length="158453416" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 15. aug. 2025</title>
-      <description>Hvad skal der foregå på topmødet om Ukraine? Hvordan endte forhandlinger om en global plastik-aftale? Hvad er problemet i at sårbare unge i stigende grad placeres på sikrede institutioner? 
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Fri, 15 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-15-aug-2025-11802533335</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b77b626ea9bbf456a3/9abf165d51ee6e0fa615fce19ada0e4432b8b4c212e58e98e2f73eff9409017f" length="237649961" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 14. aug. 2025</title>
-      <description>Hvordan går det med forhandlingerne til plastiktraktaten? Hvor står Putin efter mødet mellem USA og de europæiske ledere? Og hvad kommer der til at ske for dem, der deltager i angrebet mod Tryg?  
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Thu, 14 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-14-aug-2025-11802533334</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ce7b626ea9bbf457eb/0ed2d05ed5c052121e9279cb555609fe0e579d9bcb60ac64afda19f173165932" length="237667816" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 13. aug. 2025</title>
-      <description>Hvordan har amerikanske nedskæringer i nødhjælp påvirket FNs flygtningeorganisation?  Hvad sker der i Trygs shitstorm? Hvorfor ringer Putin til Kim Jong-un forud for fredagens møde med Trump? 
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:55:00</itunes:duration>
-      <pubDate>Wed, 13 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-13-aug-2025-11802533333</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362cd61175376c1eef7fc/0f5abd512e07fc766f56d1306d03887e08633e28fd54ffb75affe373c77a1ee3" length="252002152" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 12. aug. 2025</title>
-      <description>Hvad har Peter Lund Madsen betydet for formidlingen af viden om hjerneforskning? Hvor står EU før Putin og Trump skal mødes på fredag UDEN Zelenskyj? Hvilke fordomme møder man som lastbilchauffør på datingmarkedet?
-Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Tue, 12 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-12-aug-2025-11802533332</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b17b626ea9bbf45659/2f00a63fbdf1c7758156f6509b93ed4fc883a5e2cd458fe0aa9252fba1590784" length="237648824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 11. aug. 2025</title>
-      <description>Hvordan påvirker det Israel, at Tyskland stopper for eksport af våben til landet? Hvorfor er Håndværkerforeningen København bekymret for folkeskolens nye juniormesterlære-ordning? Og gør Copenhagen Fashion Week nok for kropsdiversitet på catwalken?
-Dagens værter: Julie Toft og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:52</itunes:duration>
-      <pubDate>Mon, 11 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-11-aug-2025-11802533331</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362dc61175376c1eef8d1/dcdb35a77605b3f3a556c42f9d0915f51f4212fc3f908ebad69bf9efc9709fd3" length="237411496" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 10. aug. 2025</title>
-      <description>Hvordan er reaktionerne i USA på rygter om Zelenskyj og europæisk erklæring? Hvordan skal vi håndtere AI, så vi ikke bliver dummere? Og hvordan kommer den nye folkeskole ud af krisen, ifølge ministeren?
-Dagens vært: Pernille Rudbæk.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 10 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-10-aug-2025-11802533327</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362cd61175376c1eef7f7/b1510d6f1b4c4f0e1996b779612a3491af8277855dc5ec4d074340b078771546" length="158481055" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 9. aug. 2025</title>
-      <description>Kræver voldsomme huslejestigninger politisk handling? Hvorfor fortsætter stigningen af unge, der ryger på førtidspension? Og hvad er reaktionerne på forslaget om en ny aftale mellem Ukraine og Rusland?
-Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 09 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-9-aug-2025-11802533326</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362cf7b626ea9bbf45811/25c7016cf51f8493ca07e4445901e7bd4351898af78c05743eb3e140451fdc8c" length="158452854" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 8. aug. 2025</title>
-      <description>Hvordan vil det Israelske militær overtage Gaza By? Har Danmark været for forslæbende, når det handler om at lægge hårdere pres på Israel?  Og hvordan reagerer Ukraine på mødet mellem Trump og Putin?   
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Fri, 08 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-8-aug-2025-11802533325</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c361175376c1eef778/6b8a8e133564561923b810481f4fec58d86c30e84ee08dcd2d6cd05156784c40" length="237603894" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 7. aug. 2025</title>
-      <description>Hvor går grænsen for, hvor meget forældre må holde øje med deres børn? Hvad vil regimet i Rusland opnå med at erstatte Whatsapp og Telegram med app'en MAX? Og hvem er personen bag kunstneren Chappell Roan?  
-Dagens værter: Thomas Tjaerandsen og Morten Runge.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Thu, 07 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-7-aug-2025-11802533324</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b07b626ea9bbf45645/94de9227ab43a176c7bca45f717afa257b1cb3c2c54b7faaaed394f4e8033d49" length="237660341" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 6. aug. 2025</title>
-      <description>Hvilke konsekvenser har ny lovpakke for almen praktiserende læger? Er dansk mad i virkeligheden... FANTASTISK?, Hvad betyder det, at europæiske lande giver millionbøder til verdens største fast fashion-hjemmeside SHEIN, og har det faktisk en effekt?
-Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Wed, 06 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-6-aug-2025-11802533323</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362dc7b626ea9bbf458d1/611d6be3b73dbe2233a02fefc63c0fea91ff93f07f50b862aad68944154f7e19" length="237658032" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 5. aug. 2025</title>
-      <description>Hvordan kan store partier få flere mandater, en stemmeantallet tilsiger? Hvor langt må Israel gå for at få gidslerne hjem? Og er tyndhedsidealet tilbage i modebranchen?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Tue, 05 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-5-aug-2025-11802533322</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b67b626ea9bbf45691/cd7bfdcd3f2d92911d218e36715593d6181ac70e54589d65727f6d4aad2a5e99" length="237617107" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 4. aug. 2025</title>
-      <description>Hvordan kan vi være sikre på, at den nye alders-app ikke deler andet end alder om os?  Er det forsvarligt, at 13 årige deltager i dart-tuneringer?   Vil det give mening at ændre karakterskalaen?
-Dagens værter: Bjarne Steensbeck og Pernille Øhlenschlæger Rudbæk.</description>
-      <itunes:duration>02:44:50</itunes:duration>
-      <pubDate>Mon, 04 Aug 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-4-aug-2025-11802533321</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d661175376c1eef879/32770cbd006f07f09681ca9a55cfba30d95bef44f70398ab44ea91be9a220269" length="237368880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 3. aug. 2025</title>
-      <description>Hvad betyder &quot;brain drain&quot; tendensen for videnskaben i USA? Hvorfor er oksekød blevet så meget dyrere? Er et selvstændigt Palæstina uden Hamas' tilstedeværelse realistisk?
-Dagens vært: Julie Toft.</description>
-      <itunes:duration>01:49:53</itunes:duration>
-      <pubDate>Sun, 03 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-3-aug-2025-11802533317</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c07b626ea9bbf45740/3a63a16de0fe657acd65459045e8fb9f3f3dd5906e24a03fe7ec49a7830d0f33" length="158251192" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 2. aug. 2025</title>
-      <description>Hvor god en nyhed er det, at rekordmange danskere i juni har taget stilling til organdonation? Rokker det en tøddel, om Danmark anerkender Palæstina som en selvstændig stat? Hvordan er forholdet mellem Øst og Vest Grønland?
-Dagens vært: Julie Toft.</description>
-      <itunes:duration>01:49:59</itunes:duration>
-      <pubDate>Sat, 02 Aug 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-2-aug-2025-11802533316</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362c061175376c1eef748/26b422f58079a876811bd73b1747b7b7ec487421c832a23012b18ee788390ab1" length="158394093" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 1. aug. 2025</title>
-      <description>Hvordan ser Trumps straftold ud efter fristens udløb? Hvorfor er Norden så uenige om tilgangen til Israel/Palæstina-konflikten? Og hvordan kan menneskers egne tarme være med til at hindre overvægt, diabetes og hjertekarsygdomme?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:04</itunes:duration>
-      <pubDate>Fri, 01 Aug 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-1-aug-2025-11802533315</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362d37b626ea9bbf45849/6e6bb27a06269dcf407d729924c110db0dd2a00636aa13933974f3a228384ae8" length="237698344" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 31. jul. 2025</title>
-      <description>Hvorfor ser vi sådan en markant stigning af unge, der modtager SPS-støtte? Hvad betyder Trumps straftold på indiske varer for Indien? Hvorfor døde Adwah Hathaleen og mange andre palæstinensere på Vestbredden?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Thu, 31 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-31-jul-2025-11802533314</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362be7b626ea9bbf45718/5f7a88d2125d879b7ebf403b08d56b746b23c79d9eae3d5e2e7dc17a313e1fb5" length="237682214" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 30. jul. 2025</title>
-      <description>Hvor voldsomt bliver følgerne af Stillehavsjordskælv? Hvad er det for en virkelighed, der er i Danmark for de patienter, som har brug for specialiseret palliativ behandling? Og skal vi vænne os til en ny usikkerhed om Novo Nordisk?
-Dagens vært: Pernille Rudbæk.</description>
-      <itunes:duration>02:44:30</itunes:duration>
-      <pubDate>Wed, 30 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-30-jul-2025-11802533313</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ae61175376c1eef63c/fdb0a3fa4f596c3ca13155345bae8025091798198f61c0b32cca2ac9af64ed47" length="236891378" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 29. jul. 2025</title>
-      <description>Virker Trumps forsøg på at aflede opmærksomheden ved at sprede konspirationsteorier om Obama? Hvad kan EU få ud af rammeaftalen? Burde Vogue holde sig for gode til at bruge AI-genererede modeller?
-Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Tue, 29 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-29-jul-2025-11802533312</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ae7b626ea9bbf45622/f92bbfd65f3a5ca85148b9433756068d815cb1beee25750132f6fa595e95765e" length="237645928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 28. jul. 2025</title>
-      <description>Hvordan bliver den nye rammeaftale med USA modtaget i EU? Hvordan ser situationen ud med de &quot;humanitære pauser&quot; i dele af Gaza? Og hvorfor bliver sikkerheden under Touren kritiseret?
-Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>02:44:42</itunes:duration>
-      <pubDate>Mon, 28 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-28-jul-2025-11802533311</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bd61175376c1eef71a/c4e79cab0dc58cb829116b315e2b2e829c9f184fa2b38d81e87b478448df2088" length="237185668" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 27. jul. 2025</title>
-      <description>Hvad er det for et fællesskab, som en køkkenhave i Lemvig har formået at dyrke? Meta slukker for politiske annoncer i EU - hvad betyder det for dansk politik? Og hvad er seneste nyt i Gaza?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sun, 27 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-27-jul-2025-11802533307</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ac7b626ea9bbf45610/e82da4fb709642eac5a8d23afbcda2350059834bae02e9cc10c3993a254b9c77" length="158456872" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 26. jul. 2025</title>
-      <description>Hvorfor er der større diskrepans i karaktererne for kvinder og elever med ikke-vestlig herkomst?  Hvorfor underretter vi pludselig så meget i Danmark, og er det en god ting? Og hvorfor kan de ikke lide Trump i Skotland?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>01:48:27</itunes:duration>
-      <pubDate>Sat, 26 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-26-jul-2025-11802533306</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362bc7b626ea9bbf456fe/60425d55c4ae1631817ecb8b83daccb34409e90ccdf58c94eb4a2807465eceed" length="156170732" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 25. jul. 2025</title>
-      <description>Hvad mener franskmændene om Macron's beslutning anerkendelse af Palæstina som stat? Gør Donald Trumps Big Beautiful Bill det sværere for el-bilsproducenterne i USA?
-Og hvad betyder åndelig oprustning egentlig i det danske samfund?
-Dagens vært: Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 25 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-25-jul-2025-11802533305</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ac7b626ea9bbf45607/3bf37e6a223c6181f839d2a557712ae11948f7521b04b233e98e95414f8d9321" length="237680488" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 24. jul. 2025</title>
-      <description>Hvad er det for en rød væske, som cykelrytterne er begyndt at drikke, når de krydser målstregen i dette års Tour de France? Vil Zelenskyjs korruptionslovforslag have konsekvenser for Ukraines optagelse i EU? Og er der en opskrift på det evige liv?
-Dagens vært: Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Thu, 24 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-24-jul-2025-11802533304</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ab61175376c1eef61c/06b29e670a20cbfe97d083711acc7d9da0138c8c17da9f0da3050df0d4a47376" length="237690856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 23. jul. 2025</title>
-      <description>Hvorfor donerer Tyskland fem Patriot-systemer til Ukraine netop nu? Hvor skal civilbefolkningen i Gaza nu tage hen, efter ny israelsk evakueringsordre? Og hvordan fandt Laura Helene Hansen operaen?
-Dagens vært: Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 23 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-23-jul-2025-11802533303</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362ab7b626ea9bbf455f4/901f737555c11ef9ba94d72785d9bb3d2b00b607c3a2faa455f9d76a18f40ebc" length="237644758" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 22. jul. 2025</title>
-      <description>Hvilke konsekvenser har vejret haft? Hvorfor er helårsbeboelse og byggeri hån mod kolonihavetraditionen? Hvorfor skal der være påbudt at cyklister skal køre med hjelm?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:37</itunes:duration>
-      <pubDate>Tue, 22 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-22-jul-2025-11802533302</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b461175376c1eef692/80f6223040d92cb02dca74a5c1147e6bc21ee53c7fa916c88c2dca1211b45407" length="237054334" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 21. jul. 2025</title>
-      <description>Hvordan er livet i Alligator Alcatraz?  Hvorfor har en banal sag om utroskab til en Coldplay koncert fået så meget opmærksomhed? Hvorfor er det et problem når der bliver bygget meget i Albertslund?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:14</itunes:duration>
-      <pubDate>Mon, 21 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-21-jul-2025-11802533301</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b47b626ea9bbf45675/5e5964ba6d53bbe0680b12344092c9d8306cfa4b1907af8434660d814336940b" length="236510618" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 20. jul. 2025</title>
-      <description>Hvilke historiske kvinder skal anerkendes med en statue? Hvordan reagerer Irans befolkning på den intensiverede kontrol fra præstestyret? Hvorfor hylder ny film omsorgsfag?
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>01:50:01</itunes:duration>
-      <pubDate>Sun, 20 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-20-jul-2025-11802533297</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362aa61175376c1eef60d/6d354a292725c4f1fc4ec924e904be33e38277c5ba74cee9b97910013eaf74b6" length="158430952" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 19. jul. 2025</title>
-      <description>Er der fortsat opbakning i Israel til krigen i Gaza? Hvorfor har Epstein-sagen så stor betydning for Trump-støtter? Og hvorfor har migranter nemmere ved at komme i arbejde i Danmark sammenlignet med resten af Europa?  
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>01:49:47</itunes:duration>
-      <pubDate>Sat, 19 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-19-jul-2025-11802533296</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362aa7b626ea9bbf455df/dfdea40531e33ac0c355859b4845d33f8a1b2919f183240dafa40409dd4d23bd" length="158095144" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 18. jul. 2025</title>
-      <description>Hvorfor er der optimisme på de europæiske markeder på trods af Trumps trusler om told? Hvorfor har alle jordemødre ikke kompetencer til at møde LGBT+ familier? Og hvorfor giver Færøerne fortsat russiske trawlere lov til at fiske og lægge til i færøsk farvand og havne? 
-Dagens vært: Ole Brink.
-Dagens sommergæst: Thomas Zorba Hansen.</description>
-      <itunes:duration>02:43:28</itunes:duration>
-      <pubDate>Fri, 18 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-18-jul-2025-11802533295</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a961175376c1eef5fb/41a0f7df39305fa666115d980b5b68a4bbceabdfde45c0fb5fc86f0dcbaec80d" length="235409339" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 17. jul. 2025</title>
-      <description>Hvad er det, der sker i Nethanyahus regering? Ændrer fund i nyt dansk studie på behandlingen af psykiske lidelser? Og hvordan kan vi beskytte borgernes oplysninger bedre?
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>02:44:52</itunes:duration>
-      <pubDate>Thu, 17 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-17-jul-2025-11802533294</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a861175376c1eef5ee/7e17c95d8e034683888e1ba2cf394af84294c0838d4119d201226cc38f08f527" length="237420085" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 16. jul. 2025</title>
-      <description>Hvorfor er det ikke homofobisk at mene, at sex mellem personer af samme køn er moralsk uacceptabelt? Hvordan skal beredskaberne i kommunerne klare naturbrande som den i Skagen, hvis ikke de får noget ud af den beredskabsaftale, som er blevet lavet? Hvorfor brænder PKK deres våben i en ceremoni?
-Dagens vært Ole Brink.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 16 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-16-jul-2025-11802533293</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b361175376c1eef682/835f9beea5b300ce91cfffacb7a79bff8efa38a6fc60aa55952faa75b61173db" length="237643057" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 15. jul. 2025</title>
-      <description>Hvorfor opgiver Socialministeriet nye kulturtilpassede forældretest? Kan vi acceptere at folk med religiøse tilhørsforhold har homofobiske holdninger? Og hvilken rolle spiller Danmarks indsats i Ukraine?  
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 15 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-15-jul-2025-11802533292</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362e561175376c1eef956/998f482136e941f9e168c6ea95a230164f5cd6171d24fc2ea1718de20f94c8d0" length="237655134" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 14. jul. 2025</title>
-      <description>Hvorfor har mere end hver femte dansker homofobiske holdninger? Hvordan er et nordkoreansk beach-resort billedet på et styrket forhold mellem Nordkorea og Rusland? Og hvorfor vil Metallica ikke have, at Trump-administrationen bruger deres musik?
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Mon, 14 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-14-jul-2025-11802533291</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a761175376c1eef5e0/812b7f390be479f4b3252161a0513611a0fd318e88f5c2906cb297787bc2168b" length="237632687" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 13. jul. 2025</title>
-      <description>Hvordan ser Etiopiens tilstand ud i dag, 40 år efter Live-aid koncerter? Hvad kan Chatgpt som et menneske ikke kan? Og ser vi et generationsskifte i aftens Wimbeldonfinale?
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sun, 13 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-13-jul-2025-11802533287</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362b27b626ea9bbf45666/8f252b5d0f0dfb20e9216e45cc7c68b81e90ad3c09665b09cac3356f63602750" length="158451688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 12. jul. 2025</title>
-      <description>Hvorfor er Moderaternes Rasmus Lund-Nielsen så uenig med sin regeringskollega, integrationsminisiter Kaare Dybvad Bek, som tordner mod overklassens begejstring for udenlandsk arbejdskraft? Hvordan kunne så mange kyllinger med salmonella bakterien kunne finde vej til køledisken? Hvad mener Christel Schaldemose om udfordringerne i den nye EU-lov, i det Europæiske Sundhedsdataområde?
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:49:29</itunes:duration>
-      <pubDate>Sat, 12 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-12-jul-2025-11802533286</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a661175376c1eef5d1/b82c0858e5851934f55cc79f3e3b235e82bce25918b4cead50b63bce551c822c" length="157658546" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 11. jul. 2025</title>
-      <description>Hvor stor er truslen fra Rusland mod Moldova? Er højskolen et ekkokammer for priviligerede unge? Er der enighed blandt EU-landene om, hvor stort et problem klimaforandringerne er?
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>02:44:05</itunes:duration>
-      <pubDate>Fri, 11 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-11-jul-2025-11802533285</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362af7b626ea9bbf45634/267d36092cfafa158c7c194cf423021f5e65f6d1cb9ca39cd46d5fae61267336" length="236286529" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 10. jul. 2025</title>
-      <description>Hvordan er stemningen i Bruxelles inden Von Der Leyens mistillidsvotum? Hvorfor kan man nu købe en Barbie med tilhørende insulin-pumpe? Og kommer der snart en handelsaftale mellem USA og EU?
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>02:44:58</itunes:duration>
-      <pubDate>Thu, 10 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-10-jul-2025-11802533284</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362af61175376c1eef64e/edb0711542ce6dd88c0de2270e727b89466816cdde9cc1be1577e68f3d2a1972" length="237557224" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 9. jul. 2025</title>
-      <description>Hvorfor vil Israel samle Gazas befolkning i Rafah? Hvordan er situationen ved grænsen mellem Iran og Afghanistan - og hvordan ser deres fremtid ud? Og hvordan vil Mark O. Madsen få gjort MMA mainstream i Europa? 
-Dagens vært: Jan Falkentoft.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 09 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-9-jul-2025-11802533283</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a461175376c1eef5c2/eb8c1eb0a7cc47a46b6a5c71ff0c2b16d969ce53b0178fc794f6057663b2379d" length="237629795" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 8. jul. 2025</title>
-      <description>Hvad kan vi forvente af Mette Frederiksens tale i dag? Hvad er det bedste og det værste ved regeringens prioriteter for EU-formandskabet? Og hvorfor er Claus Jensen det mest magtfulde menneske i Danmark?
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Tue, 08 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-8-jul-2025-11802533282</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a47b626ea9bbf4557f/c1267a77a1ce966e48ef0107603f3cc60a702d67526a06529b1b1b0782ac5a09" length="237674133" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 7. jul. 2025</title>
-      <description>Hvorfor har ingen fået løst alvorlige problemer med sagsbehandlingstiderne i Arbejdsmarkedets Erhvervssikring? Hvorfor synes flere danskere nu end for et år siden, at Israels fremfærd i Gaza er gået for vidt? Og hvad vil det sige at være heks? 
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>02:44:39</itunes:duration>
-      <pubDate>Mon, 07 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-7-jul-2025-11802533281</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a47b626ea9bbf45575/8208152faeda2cd21d36728230408b58f0a20eb4918dd9806ee6d94be9851e80" length="237110838" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 6. jul. 2025</title>
-      <description>Hvilken betydning får det for BRIKS samarbejdet, at der nu er tilføjet seks nye lande, herunder Iran? Hvad siger anmeldere om årets koncerter på Roskilde Festival? Og er Mark Ruttes særlige måde at håndtere Trump på vejen til Trumps anerkendelse? 
-Dagens vært: Julie Toft.</description>
-      <itunes:duration>01:49:59</itunes:duration>
-      <pubDate>Sun, 06 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-6-jul-2025-11802533277</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a361175376c1eef5ae/d03cc644eeab09e84129cc1ce3eda299df72d2eb3a60f2906370529f63183f31" length="158393528" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 5. jul. 2025</title>
-      <description>Hvorfor skal mænd mærke, hvordan det er at have menstruation? Er EU's penge til Tunesien en blåstempling af overgreb på migranter? Og hvad får turister til at aflyse rejser til Japan?
-Dagens vært: Julie Toft.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sat, 05 Jul 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-5-jul-2025-11802533276</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a37b626ea9bbf45563/a9da4df0edecd2ca818eae429069cbe0f0035812932203c8db54762b184125f3" length="158487365" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 4. jul. 2025</title>
-      <description>Hvad kommer Donald Trumps &quot;Big Beatiful Bill&quot; til at betyde for amerikanerne? Hvordan ser et børneliv i Gaza ud? Og er der et politisk projekt i Nikolaj Kirks mad?
-Dagens vært: Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 04 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-4-jul-2025-11802533275</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a261175376c1eef59c/db0b69e01300e9e2f1cb1ba2e0fd80e6b165a99e3635f7f5a74cca7119ed745c" length="237675833" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 3. jul. 2025</title>
-      <description>Får Trump sin 'store, smukke' lovpakke stemt igennem i dag? Hvordan starter Danmarks EU-formandskab? Og er Sørine Godtfredsen blevet mildere med årene?
-Dagens vært: Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Thu, 03 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-3-jul-2025-11802533274</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a27b626ea9bbf45550/c5515c31e17882573ddb6c59eeb139046d1dbcbab92bab7fa9065871d65fbe7d" length="237633197" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 2. jul. 2025</title>
-      <description>Diagnosticerer vi for mange med ADHD? Var interneringen af danske kommunister under Anden verdenskrig grundlovsstridigt? Hvordan sikrer man de bedste vilkår for kvinder i eliteidræt?
-Dagens vært: Pernille Rudbæk.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Wed, 02 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-2-jul-2025-11802533273</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a07b626ea9bbf45540/aff2e0d755655d0c03d7f8a232312c3722ed133994efaec091f49ba5b648429d" length="237644169" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 1. jul. 2025</title>
-      <description>Hvad er konsekvenserne i Frankrig af at varmen rammer? Må Folkekirken være selvironisk og barnlig? Danmark overtager formandsposten i EU - men hvilket aftryk er det Danmark ønsker at sætte?
-Dagens vært: Pernille Rudbæk.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Tue, 01 Jul 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-1-jul-2025-11802533272</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a161175376c1eef58e/51f69a24964a8dcdc04de3199a4c1529ea0f68ac75e716d495def1d8a84c5944" length="237596913" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 30. jun. 2025</title>
-      <description>Hvad gik der galt under Roskilde-tragedien i 2000? Vil kontanthjælps-reformen betyde at flere tusind danskere ender som hjemløse? Og hvad skal vi forvente af dette års danske deltagere ved Wimbledon?
-Dagens vært: Pernille Rudbæk.
-Dagens sommergæst: Jakob Ellemann Jensen.</description>
-      <itunes:duration>02:43:09</itunes:duration>
-      <pubDate>Mon, 30 Jun 2025 07:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-30-jun-2025-11802533271</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362a061175376c1eef57d/c02b2fbcb34cef2e34818cce35bfcf346f5f747f87ea80ef812cdbd7b1a29755" length="234946805" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 29. jun. 2025</title>
-      <description>Hvordan forholder Netanyahu til protesterne i Tel Aviv? Hvad handler retssagen om &quot;nettets skraldemænd&quot; mod Meta om? Og hvilke forventninger er der til Danmark når EU-formandskabet overtages på torsdag?
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:04</itunes:duration>
-      <pubDate>Sun, 29 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-29-jun-2025-11802533267</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc175baa49e222d57f9a82/6313996d1c93147abb5498e98e688f0493e12a7690a5a63807265f6c2d81d26d" length="158504092" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 28. jun. 2025</title>
-      <description>Skal EU rulle grønne tiltag tilbage af hensyn til konkurrenceevnen? Kan præstestyret i Iran afskrække befolkningen med masseanholdelser og henrettelser? Og hvorfor smager jordbær anderledes i dag, end det gjorde tilbage i 00'erne? 
-Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sat, 28 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-28-jun-2025-11802533266</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc175baa49e222d57f9a8b/f22797322089b703234ca840657a74a41ea5d6f4deb8f93c3ba0617b3123beed" length="158413683" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 27. jun. 2025</title>
-      <description>Er det fair at bruge kontrolkøbere til at afsløre lovbrud i detailhandel? Hvorfor får danske studerende deres private sociale medier finkæmmet for at kunne studere i USA? Og hvorfor åbner Nordkorea et kæmpe turistresort? 
-Dagens værter: Anne Kirstine Hermann og Niels Frederik Rickers.</description>
-      <itunes:duration>02:44:40</itunes:duration>
-      <pubDate>Fri, 27 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-27-jun-2025-11802533265</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1769aa49e222d57f9c26/e5ee7f23288bafae88a2043e2bf7f956523de4c99cb16cf2c6857124802361c9" length="237126967" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 26. jun. 2025</title>
-      <description>Hvordan kommer de europæiske lande ud af NATO-topmøde? Er voldsepisoden i Odense udtryk for et større homofobisk problem? Og har Wolt restauranterne i et jerngreb?
-Dagens værter: Niels Frederik Rickers og Søren Carlsen.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Thu, 26 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-26-jun-2025-11802533264</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1769aa49e222d57f9c21/742d56b7c4d6f63fa27d9593a02aa09efd0544028fa10f85aefc92c5cd823397" length="237607312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 25. jun. 2025</title>
-      <description>Hvad betyder historisk Nato-topmøde for ukrainerne? Hvorfor har Miljøministeriet ikke inkluderet alle de miljøfarlige stoffer i den vurdering, som er sendt i høring? Og hvad karakteriserer de unges (u)frivillige stofindtagelse på Roskilde Festival?  
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:57</itunes:duration>
-      <pubDate>Wed, 25 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-25-jun-2025-11802533263</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17975d6030fb25f1fbe2/664826502f832b9593540f97360cbdc7faad67f2d9e5461486d143a00d1f05da" length="237551464" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 24. jun. 2025</title>
-      <description>Hvad er reaktionerne fra Washington på Irans angreb på militære baser i Qatar? Hvad skal der ske på NATO-topmødet i dag? Og hvad skete der egentligt til Pearl Jams koncert på Roskilde Festival i 2000?
-Dagens værter: Morten Runge og Pernille Rudbæk.</description>
-      <itunes:duration>02:44:48</itunes:duration>
-      <pubDate>Tue, 24 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-24-jun-2025-11802533262</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1769aa49e222d57f9c1c/42cb81068b87a756a1af5f37c5fbcee7151238729f72793efe7413bf74cb4e43" length="237325104" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 23. jun. 2025</title>
-      <description>Hvilken betydning har USA's angreb på iranske atomanlæg? Hvilken betydning har det, hvis Iran lukker for Hormuzstrædet? Og hvordan forholder Danmark sig til USAs angreb i Iran?
-Dagens værter: Pernille Rudbæk og Morten Runge.</description>
-      <itunes:duration>02:44:54</itunes:duration>
-      <pubDate>Mon, 23 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-23-jun-2025-11802533261</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1769aa49e222d57f9c17/2e4c98e89f1110d8f42bc8f3fe2ddef742ff2c3b8d34cb07e8cabb4f3ed1209b" length="237463892" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 22. jun. 2025</title>
-      <description>Hvilken betydning har USA's angreb på Iran? Hvordan reagerer Israel og Iran på USA's angreb? Og hvor tæt er Iran på at have atomvåben?
-Dagens vært: Thomas Tjaerandsen.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 22 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-22-jun-2025-11802533257</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1769aa49e222d57f9c0d/ba8a990abd364eb1a7873d0cb27ec193ae48510a09cddc8415d32329b35e3ad0" length="158483292" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 21. jun. 2025</title>
-      <description>Kommer de mange møgsager til at få konsekvenser for Moderaterne og Lars Løkke? Hvilken betydning har det for Europa og Nato-samarbejdet, at sydeuropæiske lande er skeptiske for stigning af militæreudgifter? Hvordan er Enhances games gået fra at være noget sportsmiljøet har trukket på skulderen over til nu at blive en realitet? 
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sat, 21 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-21-jun-2025-11802533256</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc175b036df1a93c61c770/7fa3b94b6bf0e8bdff129e1bfe53028a1e96ba2b61ccca82d2549c4fd7d1b932" length="158494312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 20. jun. 2025</title>
-      <description>Hvorfor kan der gå op til 14 dage, før Trump beslutter sig for USA's rolle i krigen? Hvordan ved Jeppe Søe, at Jon Stephensen også blev tilbudt penge? Og kommer EU-direktivet om løngennemsigtighed rent faktisk til at skabe fair løn mellem kønnene?  
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Fri, 20 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-20-jun-2025-11802533255</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1796036df1a93c61ca9d/8a27a2ae43bcc00ea970d9dcf54a6212a6b34f3ceb3e3f208547fa29434be439" length="237662056" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 19. jun. 2025</title>
-      <description>Hvorfor er det et problem, at vandområderne langs de danske kyster er forurenede med endnu flere miljøfarlige stoffer, end myndighederne indtil nu har vurderet? Hvad betyder de seneste meldinger fra Trump? Hvorfor har donorbørn krav på at kende deres biologiske far?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:44:57</itunes:duration>
-      <pubDate>Thu, 19 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-19-jun-2025-11802533254</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc175b036df1a93c61c76b/fac52c72332aaa63d494e27ea7555ed37940f63302b2276c9d7d4a908f789530" length="237531892" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 18. jun. 2025</title>
-      <description>Hvad er seneste nyt fra Israel-Iran? Kan en omvendt fodlænke føre til færre partnerdrab? Hvordan går det til G7-Topmøde?
-Dagens værter: Bjarne Steensbeck og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:45:00</itunes:duration>
-      <pubDate>Wed, 18 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-18-jun-2025-11802533253</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759036df1a93c61c733/4e51565db308734ac254620f5fe6e76d7d158380b294190b0d0b809b9efc557e" length="237619368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 17. jun. 2025</title>
-      <description>Hvad dominerede dagsordenen på G7-topmødets første dag? Hvad kan Dan Jørgensen gøre for at stoppe den europæiske import af russisk gas? Og hvad er status for aktivister, der forsøger at marche mod Gaza?
-Dagens værter: Morten Runge og Niels Frederik Rickers.</description>
-      <itunes:duration>02:44:02</itunes:duration>
-      <pubDate>Tue, 17 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-17-jun-2025-11802533252</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17a5036df1a93c61cb43/5cf8ee2c552ffdc27ef9ad253724df9bf1a37fc34e17b510dce9450b3d9e2009" length="236223798" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 16. jun. 2025</title>
-      <description>Kan og vil USA hjælpe Israel? Hvorfor kan G7 mødet blive sprængfarligt? Og hvilket signal sender Macron, når han besøger Grønland? 
-Dagens værter: Morten Runge og Niels Frederik Rickers.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Mon, 16 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-16-jun-2025-11802533251</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1768036df1a93c61c91c/a32f6c758467212ca7d690e22572cb4f7e510a131e9a681226f7365c9e0853d7" length="237648753" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 15. jun. 2025</title>
-      <description>Hvordan har den danske ambassadør i Israel det, efter hans boligblok blev ramt af iransk missil? Hvorfor skal der laves en film om Jens Haanings kunstværk 'Take the Money and Run'? Og hvordan reagerede den amerikanske befolkning på Trumps militærparade?
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 15 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-15-jun-2025-11802533247</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1768aa49e222d57f9bf2/d686f3ebf82b290b34a92a87e84225fd586e0f59735d5c9749b426fa2332ca72" length="158478184" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 14. jun. 2025</title>
-      <description>Hvordan forholder USA sig til Israels hidtil mest omfattende angreb på Iran? Kan krigen brede sig i Mellemøsten? Og hvad sagde regeringstoppen i deres folkemødetaler?
-Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
-      <itunes:duration>01:49:49</itunes:duration>
-      <pubDate>Sat, 14 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-14-jun-2025-11802533246</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1796aa49e222d57f9d69/267a963fa160bc378c8390679af5f90dd6e698ad1d5625c2fddce25281e23afc" length="158142926" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 13. jun. 2025</title>
-      <description>Hvad ved vi om Israels angreb på Iran, og hvilken betydning har angrebet? Hvor sikkert et fly er Boeing 787-8? Og har dagbladene ventet for længe med at vise billeder af døde børn i Gaza?
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 13 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-13-jun-2025-11802533245</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1768036df1a93c61c917/a54423b5fdff057ad0257261213e65ccf9c62ede4b17fd27cee31d476eef96dd" length="237697195" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 12. jun. 2025</title>
-      <description>Hvilken betydning får Mette Frederiksens besøg i Tyskland? Hvorfor er israelsk evakueringsordre i strid med international lov? Og hvilke konsekvenser har det for forskningen, hvis Politiet snuser rundt i forskeres materiale?
-Dagens værter: Thomas Tjaerandsen og Pernille Rudbæk.</description>
-      <itunes:duration>02:44:50</itunes:duration>
-      <pubDate>Thu, 12 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-12-jun-2025-11802533244</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1768036df1a93c61c912/a92966616328663285d32aeecc10e1da32acc5561c7431700b808e7bbfbfeadc" length="237371762" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 11. jun. 2025</title>
-      <description>Hvordan opleves situationen i LA set fra en betjents perspektiv? Ville det gavne naturområderne, hvis man stoppede med at trawle i dem? Kan forsvarsaftalen mellem Danmark og USA være i strid med grundloven?
-Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:57</itunes:duration>
-      <pubDate>Wed, 11 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-11-jun-2025-11802533243</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759aa49e222d57f9a48/3659c78290dc1abc619493791d2b624a667ed86de1f167f8f49d1d521b2b8d71" length="237535912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 10. jun. 2025</title>
-      <description>Hvor mange opioider tager danskerne? Hvad er status på besætningen fra den aktivistiske sejlbåd?  Hvad betyder det, hvis flertallet i Danmark i fremtiden er indvandrere eller efterkommere?
-Dagens værter: Pernille Rudbæk og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:44:47</itunes:duration>
-      <pubDate>Tue, 10 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-10-jun-2025-11802533242</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759aa49e222d57f9a43/19395db1067854a53cf8ea379694bea7b245fe0c38b9557b0ca08374b219f54b" length="237302633" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 9. jun. 2025</title>
-      <description>Mars er udråbt som menneskehedens næste stop på rejsen ud i universet.
-I dagens særlige pinse-udgave af P1 Morgen spørger vi, hvordan vi kommer fra Jorden til Mars - og hvordan vi overlever på en planet omkring 55 millioner kilometer fra vores egen. 
-Vært: Ole Brink.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Mon, 09 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-9-jun-2025-11802533241</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1767036df1a93c61c90b/6837f44d346d8f4449899b1ac7f4e9fed49a9359e0a796faf75a8424a3d4d658" length="158403893" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 8. jun. 2025</title>
-      <description>Hvad er den bedste danske popsang nogensinde? Hvorfor fortryder israelsk officer nu hans tjeneste i militæret? Og kan FCK's kvinder sikre oprykning til 1. division?
-Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 08 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-8-jun-2025-11802533237</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759036df1a93c61c711/429db99ed2da50d106b301fafe9c1606ee71c0f56c5d4a50182c3799ec99d71c" length="158479859" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 7. jun. 2025</title>
-      <description>Hvordan bruger Trump og Musk deres medieplatforme i kampen mod hinanden? Hvorfor bliver fodboldspilleren David Beckham slået til ridder? Og hvordan påvirker statsministerens brev oppositionens mulighed for at kontrollere regeringen under EU-formandskabet?
-Dagens værter: Søren Carlsen og Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:04</itunes:duration>
-      <pubDate>Sat, 07 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-7-jun-2025-11802533236</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759aa49e222d57f9a3e/d79756fcc33413352c6b9021a8a1931f2fa442b5e68c37148aa741d34d91df2b" length="158514482" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 6. jun. 2025</title>
-      <description>Hvordan gik Merz' første møde med Donald Trump? Er social kontrol egentlig et problem i bederum på universiteterne? Og hvad vil de israelske bosættere i Gaza?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 06 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-6-jun-2025-11802533235</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17a31e79dabadaba7ce2/c60e2795628aba4cd0fa08955fe0214919729ba6074e6092d6280508dc335aa0" length="237674121" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 5. jun. 2025</title>
-      <description>Hvad skal regeringen sætte fokus på med deres grundlovstaler? Hvilken betydning har det, at TikTok nu har blokeret for #skinnytok? Hvilke pointer skal vi lægge mærke til ved politikernes grundlovstaler?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Thu, 05 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-5-jun-2025-11802533234</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1766036df1a93c61c8e9/fc6c0b5b20a559eee675b35cc603457e038b7a006937c4e199939e5d6f51f8d3" length="237638989" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 4. jun. 2025</title>
-      <description>Hvorfor lander israelske annoncevideoer i danske mediers nyhedsfeeds? Hvorfor ønsker adopterede og oppositionen en juridisk uvildig undersøgelse af adoptionsområdet? Og hvordan vil den ny-indførte told på stål og aluminium påvirke dansk erhvervsliv?
-Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:05</itunes:duration>
-      <pubDate>Wed, 04 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-4-jun-2025-11802533233</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759aa49e222d57f9a38/29418b402e3272c20d650163f4c96a610e9fccccf3162c00d8776c840dcc61f2" length="237733494" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 3. jun. 2025</title>
-      <description>Hvad siger kommunerne til, at de borgerlige partier vil gøre udsmidte børn i folkeskolen til deres ansvar? Hvad gør det ved unge, at de altid ved hvor deres venner er via SnapMap? Og hvad forsøger Putin at opnå ved at kidnappe ukrainske børn - og hvorfor bringer Zelenskyj det op ved forhandlingsbordet nu?
-Dagens værter: Thomas Tjaerandsen og Niels Frederik Dybdal Rickers.</description>
-      <itunes:duration>02:44:44</itunes:duration>
-      <pubDate>Tue, 03 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-3-jun-2025-11802533232</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759aa49e222d57f9a2c/f53841f647adbab6f4567a9e6f7300c9b4ff689ae7a273ed3cd1aa150c0df795" length="237239859" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 2. jun. 2025</title>
-      <description>Hvad har Ukraine opnået militært set ved det koordinerede droneangreb i går? Bør der være en international grænse for, hvor mange børn en sæddonor må få? Og hvad ved vi om, hvad der skete - eller ikke skete - ved GHFs udleveringssted af nødhjælp i Rafah i går?
-Dagens værter: Anne Kirstine Hermann og Niels Frederik Rieckers.</description>
-      <itunes:duration>02:45:05</itunes:duration>
-      <pubDate>Mon, 02 Jun 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-2-jun-2025-11802533231</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1759036df1a93c61c6ef/131ee42fcd55c98d2e20714b2394332411d017e47202cf95d8489598f8c62886" length="237736360" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 1. jun. 2025</title>
-      <description>Hvilke udfordringer er der ved at abortgrænsen nu hæves? Hvad er konsekvenserne ved, at der kommer flere newsfluencere? Og glider Trump og Putin fra hinanden?
-Dagens vært: Thomas Tjaerandsen.</description>
-      <itunes:duration>01:49:43</itunes:duration>
-      <pubDate>Sun, 01 Jun 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-1-jun-2025-11802533227</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17a25d6030fb25f1fc39/dbc88e23ae4296bae94d740db3c18c5cf064aab7d9a7d13a58c9b488ebe726f4" length="157997746" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 31. maj. 2025</title>
-      <description>Hvorfor godkender den israelske regering 22 nye bosættelser på den besatte Vestbred? Hvorfor scorer rekordmange seniorer nye job? Og hvordan adskiller den skotske Carl Mork sig fra den danske Carl Mørk?
-Dagens værter: Morten Runge og Thomas Tjaerandsen.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 31 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-31-maj-2025-11802533226</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1758036df1a93c61c6e1/50db49ee310dd3130e67efb1f5ea3e4d91a33a0c5d47cab5d6547b565ca8e7bc" length="158463220" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 30. maj. 2025</title>
-      <description>Hvorfor har domstol droppet Trumps toldsatser? Hvorfor har tyske miljømyndigheder anbefalet klassificering af TFA som giftigt for fertiliteten? Og kan det lade sig gøre for Indre Mission at ændre deres image?  
-Dagens værter: Morten Runge og Ole Brink.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 30 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-30-maj-2025-11802533225</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99f4/fcb58a9b1a702e4bc473e1e5dfef763de26af7898ac9b6570c1251f2d4f2899f" length="237689712" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 29. maj. 2025</title>
-      <description>Hvad nu hvis strømmen går? Ikke bare i en halv time - men i halve og hele dage.
-I dagens særlige helligdags udgave af P1 Morgen spørger vi, hvor skrøbelige vi egentlig er - og hvad der sker med os, når lyset slukker, og stilheden tager over.
-Vært: Ole Brink.</description>
-      <itunes:duration>01:50:01</itunes:duration>
-      <pubDate>Thu, 29 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-29-maj-2025-11802533224</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1766aa49e222d57f9bbb/e2c1dd75b53a97b39f919b9c881f4ab73efc445f8b551ca81ca6236e1abc274e" length="158445937" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 28. maj. 2025</title>
-      <description>Hvorfor har det taget så lang tid at blive enige om Folketingspolitikernes løn og pension? Hvorfor risikerer ny kunstig intelligens at skade danske mediers troværdighed? Risikerer Lolland Kommunes nye færgestrategi at slukke for erhverv- og sommerhusdrift på æbleøerne?
-Dagens værter: Pernille Rudbæk og Søren Carlsen.</description>
-      <itunes:duration>02:44:57</itunes:duration>
-      <pubDate>Wed, 28 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-28-maj-2025-11802533223</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99ec/82d49a70811156de53209fd81e541952675c86ec84f7c9ab71114330851d70c6" length="237541672" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 27. maj. 2025</title>
-      <description>Hvorfor ligger Danmark på en førsteplads, når det gælder dokumenterede forekomster af sclerose? Hvorfor er forskningen i afhængighed af sociale medier eksploderet de seneste år? Og skal Danmark stoppe al direkte og indirekte våbenhandel med Israel, inklusive F-35-samarbejdet?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Tue, 27 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-27-maj-2025-11802533222</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1766aa49e222d57f9bb1/558d7233d471be3aef0ad1335a50d4c9089fe6ced4b1e5767b2407caa4d16490" length="237587767" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 26. maj. 2025</title>
-      <description>Bankerne vil lempe reglerne for unges boligkøb, men hvordan kan det gøres uden risiko? Hvad viser resultater fra VR-behandling i psykiatrien? Og hvordan kan et strømnedbrud under Cannes Filmfestival lade sig gøre?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Mon, 26 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-26-maj-2025-11802533221</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1765036df1a93c61c8c3/8cf2b054530bbda8687ebec1d9551500b3c1afd123009f9de118e02e18eb24d1" length="237681078" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 25. maj. 2025</title>
-      <description>Hvilke oplysninger får Meta adgang til, og hvorfor er det et problem for danskerne? Hvad er forklaringen på, at politiske mord og attentater løber som et spor gennem russisk og sovjetisk historie? Og hvorfor er det vigtigt, at danske musikere synger på dansk?
-Dagens vært: Søren Carlsen.</description>
-      <itunes:duration>01:50:04</itunes:duration>
-      <pubDate>Sun, 25 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-25-maj-2025-11802533217</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1765aa49e222d57f9b92/05a30024ce6510ae198659e57286097c80071110ffd47c681334461e90d76332" length="158515635" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 24. maj. 2025</title>
-      <description>Hvorfor er fiskeriet utilfreds med miljøministerens rap-tekster? Hvordan går Trumps kamp mod Harvard? Og kan Danmark nå i finalen til ishockey VM?
-Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sat, 24 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-24-maj-2025-11802533216</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99e6/175a3f32321896e3c8d29fa638b95058b2432c0a8ea1e7be824ac644fe96d756" length="158423464" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 23. maj. 2025</title>
-      <description>Skal der ansættes flere uddannede pædagoger for at hæve kvaliteten i daginstitutionerne? Kan en afvæbning af Hamas føre til en afslutning på krigen i Gaza? Og hvorfor kan det føre problemer med sig, hvis de gule fagforeninger vokser sig for store?
-Dagens værter: Anne Kirstine Hermann og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Fri, 23 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-23-maj-2025-11802533215</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757036df1a93c61c6b1/dfe59507e59bc20e89537b9cb94159ab00362de3d4c3d5c5b76d81a329eaed4d" length="237656888" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 22. maj. 2025</title>
-      <description>Hvad ved vi om drabet på de to ansatte ved Israelsk ambassade i Washington? Hvordan forløb årets afslutningsdebat i Folketinget sig? Og er der hold i det, når Trump beskylder Sydafrika for at begå folkedrab på hvide bønder?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Thu, 22 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-22-maj-2025-11802533214</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17bcaa49e222d57f9ecf/1561cb188d64ffc4057e13d3126b374b74898045ff5806033d4fd6d7fd6ef75f" length="237668392" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 21. maj. 2025</title>
-      <description>Hvordan skal Sydafrika forklare Trump, at hvide farmere ikke slås ihjel? Har russiske påvirkningskampagner nogen reel indflydelse i Danmark? Og kan Israels storoffensiv i Gaza og blokering af nødhjælp påvirke sagen om folkedrab ved den Internationale Domstol?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:40:27</itunes:duration>
-      <pubDate>Wed, 21 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-21-maj-2025-11802533213</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99e1/d9609910c7e4ffcace2ed46e71aaa1473202a74a95a07d10d738c2842908ef6d" length="231055350" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 20. maj. 2025</title>
-      <description>Kom der overhovedet noget ud af Trumps samtale med Putin? Skal pensionsalderen få lov at stige til over 70 år? Hvordan reagerer Europa på Israels varslede offensiv i Gaza?
-Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Tue, 20 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-20-maj-2025-11802533212</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757036df1a93c61c6ac/aa26e76c7a396f81f0c89e3756163f46e6412b50370be969ff944aaa1761ebfa" length="237687386" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 19. maj. 2025</title>
-      <description>Hvorfor er vi i Danmark ikke i mål med bekæmpelse af hvidvask? Hvilken retning trækker den nye præsident Rumænien i? Og hvorfor har EU og UK så svært ved at enes?
-Dagens værter: August Stenbroen og Anne Kirstine Hermann.</description>
-      <itunes:duration>02:43:23</itunes:duration>
-      <pubDate>Mon, 19 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-19-maj-2025-11802533211</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1764036df1a93c61c893/5d179d7a2acdc657d6648f74a8d2e7686222402325880032c75e01a3b8e5b391" length="235287765" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 18. maj. 2025</title>
-      <description>Man må ikke længere spille skak i Afghanistan - hvad foregår der ellers i Afghanistan? Hvordan kunne Mohammed Seif gå fra at være dømt på livstid til komplet frifindelse? Og hvorfor skal København have flere parkeringspladser?   
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sun, 18 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-18-maj-2025-11802533207</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763036df1a93c61c88c/d38f142594c5ce0a3cf2c589b7666228799ab2f47ff7c52f1887acac925c6d78" length="158450549" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 17. maj. 2025</title>
-      <description>Hvem er den danske eurovisionfinalist Sissal? Hvorfor stopper Novo Nordisks topchef lige nu? Og hvor står Alternativet op til partiets landsmøde?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sat, 17 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-17-maj-2025-11802533206</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99dc/0e1a681febde7118711bed5931853e1406d855c6ceebe094d8b7fadf7421d675" length="158403835" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 16. maj. 2025</title>
-      <description>Hvorfor er det et problem, hvis man ikke kan debattere Gaza-krigen til skolevalget? Hvorfor udkom der kun én dansk børnefilm sidste år? Og hvordan stiller det USA, at Putin bliver væk fra forhandlinger i Tyrkiet?
-Dagens værter: Anne Kirstine Hermann og Morten Runge.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 16 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-16-maj-2025-11802533205</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763aa49e222d57f9b5b/edd51b6e742eb7af83166af125c272b57a0281e0af9512de145b4593290ea611" length="237677040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 15. maj. 2025</title>
-      <description>Er det forskelsbehandling, når Danske Regioner ikke giver løn under barsel til medfædre? Zelenskyj sætter trumf på over for Putin: Men er der reelt skred i fredsforhandlinger? Hvorfor skal staten eje havvinden i Nordsøen?
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:04</itunes:duration>
-      <pubDate>Thu, 15 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-15-maj-2025-11802533204</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763aa49e222d57f9b56/a66e9a165202eb620f3fffaf30ae9fbb08e0c219ac3b8d67cc72df3636a8686d" length="237705846" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 14. maj. 2025</title>
-      <description>Hvorfor kan dansk økonomi stadig vokse trods Trumps toldkrig? Hvordan skal den nye værdighedsreform fungere i praksis? Og hvorfor er børn i Danmark ikke tænkt ind i de generelle krise- og beredskabsplaner?
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:47</itunes:duration>
-      <pubDate>Wed, 14 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-14-maj-2025-11802533203</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1757aa49e222d57f99d7/0793d1bef754ac9fa4f7351fc4064decb5a928935db733c79c8a158faa617030" length="237311860" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 13. maj. 2025</title>
-      <description>Skal Danmark tage imod og behandle syge og sårede fra Gaza? Hvorfor vil Taliban forbyde skak? Og hvad håber Trump på at få ud af sin rundrejse i Mellemøsten?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Tue, 13 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-13-maj-2025-11802533202</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1756036df1a93c61c685/782f30ebcb7f331c153938be8205347fcf4b8f9317a3a511a6a5adb0a2d40b66" length="237680455" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 12. maj. 2025</title>
-      <description>Hvorfor har Statsadvokaten droppet alvorlige sager? Hvilken rolle spiller Europa i fredsforhandlinger om krigen i Ukraine? Og hvilken betydning har det, at Grønland bliver ny leder for Arktisk Råd? 
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Mon, 12 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-12-maj-2025-11802533201</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc17925d6030fb25f1fba9/22d4ba289219eb79480277670a26c149924ee5b8c164a1829e13fc3dcbca4b69" length="237578543" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 11. maj. 2025</title>
-      <description>Hvad har Indien og Pakistan aftalt, og hvordan kom våbenhvilen i stand? Giver det mening at vaccinere børn mere og inddrage bedsteforældre for at sikre, at mødre har færre barn-syg dage? Hvordan forholder de østeuropæiske lande sig til truslen fra Rusland?  
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 11 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-11-maj-2025-11802533197</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1791036df1a93c61ca66/7166ef254b672896245950a29a905f9110a91ec766ab8eb0e2594772a8af8d5e" length="158480501" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 10. maj. 2025</title>
-      <description>Hvorfor behandler vi kvinder for mænds sædproblemer? Kan Indien og Pakistan undgå krig? Og hvad er der på spil for Hummelgaard og danskerne med det omstridte PET-lovforslag?
-Dagens værter: Ole Brink og Jan Falkentoft.</description>
-      <itunes:duration>01:49:56</itunes:duration>
-      <pubDate>Sat, 10 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-10-maj-2025-11802533196</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754036df1a93c61c640/fb46d182f2af461eb0e98b0098106a587b540fe7f2234fa3e211bc0c6a261884" length="158326094" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 9. maj. 2025</title>
-      <description>Hvem er den nye pave?  Hvordan stopper man bedst omfattende bandekriminalitet i kolonihaveforeninger? Og hvorfor kommer flere landes overhoveder til 9. maj-fejring i Moskva i år?
-Dagens værter: Anne Kirstine Hermann og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Fri, 09 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-9-maj-2025-11802533195</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754036df1a93c61c639/460c081dc52fd0ccced9c143d2f9fef46c93996c04c6bc9a8d5f3e0637f39cf2" length="237629791" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 8. maj. 2025</title>
-      <description>Hvorfor kan journalister finde frem til en af verdens største deepfake porno bagmænd, når politi verden over ikke kan? Bør Danmark fratage USA retten til at have et konsulat i Grønland efter nyheden om øget amerikansk spionage? Og hvad er overvågning egentlig, hvis man spørger justitsministeren?
-Dagens værter: Jan Falkentoft og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Thu, 08 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-8-maj-2025-11802533194</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763aa49e222d57f9b51/2031ad6a90550577d1b4d740b8d548a6ab8a1c2a5cba225c00cf40856a73b2d5" length="237676472" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 7. maj. 2025</title>
-      <description>Hvad er dramaet om Merz et udtryk for? Hvad kommer der til at ske i dag, når 133 kardinaler mødes for at vælge den nye pave? Og hvordan ser Israel og USA forskelligt på tingene i Mellemøsten?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:44:58</itunes:duration>
-      <pubDate>Wed, 07 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-7-maj-2025-11802533193</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763aa49e222d57f9b4c/8ad21f72ecc5b1711d41d40901c1d1f68b66eb17c96a8704f63a0cf150ddc050" length="237570475" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 6. maj. 2025</title>
-      <description>Hvilke konsekvenser har meldingen om ny israelsk offensiv? Hvorfor bruger Trump AI-fotos af sig selv? Og vil ny sag om erstatning efter en genopdragelsesrejse få principiel betydning?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 06 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-6-maj-2025-11802533192</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754036df1a93c61c634/92435d2bf8a57ab8de8babd180a588137be7fcba0be0eee5cd5fae55b57db59a" length="237663775" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 5. maj. 2025</title>
-      <description>Hvorfor er de fleste i USA imod Trumps planer om at overtage Grønland? Kan den ukrainske forsvarsindustri klare sig uden amerikansk støtte? Og hvordan hænger det sammen, at en dansk yogaskole nu er sigtet for kidnapning og menneskehandel?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:40:11</itunes:duration>
-      <pubDate>Mon, 05 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-5-maj-2025-11802533191</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1763aa49e222d57f9b47/ffd39cc6109d3b28009c26c326accf4ead63ccdc08fe9d8d71b84733698d6da2" length="230689011" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 4. maj. 2025</title>
-      <description>Hvorfor er det fortsat vigtigt at markere befrielsen her 80 år efter? Hvorfor er kampen mod techgiganterne en modstandskamp på niveau med modstanden mod nazismen? Og hvor meget kan vi stole på valget i Rumænien?
-Dagens vært: Anne Kirstine Hermann.</description>
-      <itunes:duration>01:49:50</itunes:duration>
-      <pubDate>Sun, 04 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-4-maj-2025-11802533187</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc179f036df1a93c61caea/72584545050161b7a4bc6d0510c49c5b11354b7e1067adc4712f62439d41bcd7" length="158170605" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 3. maj. 2025</title>
-      <description>Hvordan er interessen for fuglekiggeri blandt børn og unge vokset, og hvad driver denne fascination for naturen og fugle? Er statsstøtte til havvind en god idé?  Og hvad kommer der til at ske med internet-shoppesider som Shein og Temu nu når Trump har sat 100% told på mindre pakker fra Kina?
-Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
-      <itunes:duration>01:49:59</itunes:duration>
-      <pubDate>Sat, 03 May 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-3-maj-2025-11802533186</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754036df1a93c61c62f/b16a7bef89a168e0cf78b83b10fe94da1714e78ed22603cfe12b200525df969a" length="158386033" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 2. maj. 2025</title>
-      <description>Hvorfor modtager nogle borgere i Nordjylland og på Fyn ikke deres breve? Hvad er årsagen til fordobling i klager mod politiet i de sidste 10 år? Og får ATPs ansatte en bonus eller ej?
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:01</itunes:duration>
-      <pubDate>Fri, 02 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-2-maj-2025-11802533185</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754036df1a93c61c628/ab2a24744bdce7be6358a7cd80cbd69a34dcca7af198ac34433a272d6a2bdfd2" length="237648232" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 1. maj. 2025</title>
-      <description>Er akut-skoler til grænseoverskridende børn en god idé? Hvor tæt på er vi på en mineralaftale, og hvad siger ukrainerne til den? Hvorfor er det uretfærdigt at Mathias skal senere på pension, når han har udsigt til at leve længere?
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:59</itunes:duration>
-      <pubDate>Thu, 01 May 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-1-maj-2025-11802533184</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1754aa49e222d57f996c/439bb5c3c10ea1ad54476561213c3278004db2118613e97292cdb95170dc563d" length="237593527" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 30. apr. 2025</title>
-      <description>Blev de første 100 dage med Trump som præsident den guldalder, som han lovede? Hvad er det for et pres, skoler og lærere møder, når flere udenlandske elever kommer til? Og hvad er der sket under skyderi i Uppsala?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:40:36</itunes:duration>
-      <pubDate>Wed, 30 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-30-apr-2025-11802533183</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1753aa49e222d57f9967/26c644f535e9c56a0acc8e136b2115ce3e8cd600f34dda0a6e11e1607597bd21" length="231278259" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 29. apr. 2025</title>
-      <description>Hvad viser de første Exitpolls i Canada? Hvordan skal ny indsats fra Sundhedsstyrelsen klæde ledere bedre på til at støtte medarbejdere med psykisk lidelse? Og hvad skal vi forvente os i dyremishandlingssagen mod to embedsmænd i Naturstyrelsen? 
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 29 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-29-apr-2025-11802533182</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1753aa49e222d57f994c/6401f1b653543e2a2b9805dfc7918f9ae6642aabfabd0652ac0c4e1a81df3d80" length="237668406" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 28. apr. 2025</title>
-      <description>Hvad er på spil, når det canadiske valg løber af stablen i dag? Bør betjente have lov at bede i arbejdstiden? Og kommer USA til at opføre sig anderledes i fredsforhandlingerne efter møde med Zelenskyj?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <itunes:duration>02:44:57</itunes:duration>
-      <pubDate>Mon, 28 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-28-apr-2025-11802533181</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1762036df1a93c61c855/b342d4a8735b44866119546104ad84d0cfb344988c590f4541a51b4f16b0fd06" length="237553780" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 27. apr. 2025</title>
-      <description>Hvorfor er det et problem, når transportfirmaet SCT truer med injuriesager? Hvad kommer der ud af dagens møde mellem Mette Frederiksen og den nye grønlandske regeringsleder Jens Frederik Nielsen? Og hvad er det for en proces, der foregår, når Pavens efterfølger skal vælges?
-Dagens vært: Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 27 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-27-apr-2025-11802533177</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1762036df1a93c61c84c/18c296f8fd532ba2849a2875fe3780af7b60e5f648fa723d1ca1e3cb53288353" length="158487988" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 26. apr. 2025</title>
-      <description>Hvorfor drikke økologisk vin, når der også er TFA i det? Hvorfor er det godt at investere i guld lige nu? Hvordan markerer pavens fødeby begravelsen i dag?
-Dagens værter: Ole Brink og Anne Kirstine Hermann.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 26 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-26-apr-2025-11802533176</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1762036df1a93c61c833/0f16d7bdef547397926c461897f7d55270b56b9ba84d1b4a52fecf118a2a5be6" length="158454531" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 25. apr. 2025</title>
-      <description>Er Indien og Pakistan på vej i krig? Hvorfor tilslutter flere mænd sig incel-fora? Og hvordan kan en fredsaftale mellem Rusland og Ukraine se ud?
-Dagens værter: Thomas Tjaerandsen og Ole Brink.</description>
-      <itunes:duration>02:42:49</itunes:duration>
-      <pubDate>Fri, 25 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-25-apr-2025-11802533175</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc1790aa49e222d57f9d2a/c31c9e0ebebc621bed426916ab18ffb50f6e4ea1adacd13ae0435fa3dcd8cc43" length="234476724" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 24. apr. 2025</title>
-      <description>Hvad er det Trump og Putin er blevet enige om? Er andelsboliger blevet for dyre? Og kan man fjerne AI-skabt misinformation fra sociale medier uden at indskrænke ytringsfriheden?
-Dagens værter: Pernille Rudbæk og Bjarne Steenbeck.</description>
-      <itunes:duration>02:44:22</itunes:duration>
-      <pubDate>Thu, 24 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-24-apr-2025-11802533174</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fc179e1e79dabadaba7cb2/2684d976e622fa2e5bb4a428b60c3345f3ab5c8b41f3b9f307052ab83af1b805" length="236699560" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 23. apr. 2025</title>
-      <description>Hvorfor er der ballade omkring jorden på marken i Kagerup? Hvad sker der, hvis ikke Nationalbanken får indsamlet alle danskernes 1000-krone sedler, inden de bliver ugyldige efter den 31. maj? Og er AI en styrke eller trussel mod moderne film?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <itunes:duration>02:44:56</itunes:duration>
-      <pubDate>Wed, 23 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-23-apr-2025-11802533173</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67fae3bbaa49e222d577888a/40820f88aed4428ddde3a5fd860c1c8d7ce756eef9ebdbbb24d05b25109ce67e" length="237513456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 22. apr. 2025</title>
-      <description>Hvad betyder pavens død for den katolske kirke i Danmark? Hvorfor lider flere og flere børn af Tinnitus? Og hvor står muligheden for en våbenhvile efter påsken?
-Dagens værter: Pernille Rudbæk og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Tue, 22 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-22-apr-2025-11802533172</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f9927eaa49e222d56ead05/92a284a129065c25fe893ccb0243e54e582bee021f9c5a94b529e7c17aa9ba01" length="237660878" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 21. apr. 2025</title>
-      <description>De er nogen af verdens mest lukkede lande - på hver deres måde. Nordkorea, Eritrea, Saudi Arabien og Turkmenistan. P1 Morgen taler på denne 2. påskedag med nogle af dem, der har besøgt landene og kender dem indefra. Vi tilbyder et tryllekunstner-kig ind i Nordkorea, et forfatter-besøg i Eritrea og en rejsefortælling fra Turkmenistan, landet hvor det i hovedstaden f.eks. er forbudt at køre rundt med en beskidt bil.
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:49:57</itunes:duration>
-      <pubDate>Mon, 21 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-21-apr-2025-11802533171</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f840ed166ff5b1f848e070/54adbf20b831819ffc7c7394f9fb310a1366d928aa69ea8b5d141ab110066ba1" length="158352051" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 20. apr. 2025</title>
-      <description>Hvordan finder vi rundt i alle tidens ulykker? Hvordan ser det ud i Ukraine her til morgen? Og hvad drømmer tech-milliardærerne I USA, om at gøre med Grønland? 
-Dagens vært: Bjarne Steensbeck.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sun, 20 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-20-apr-2025-11802533167</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f6eefc7f673a1684715d95/ee0ef88e5db0ff9c68e76941c0c772c1ccc2de593bd6e3a992e236c5abf7b830" length="158482740" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 19. apr. 2025</title>
-      <description>Skal man stadig kunne købe næsespray i håndkøb? Synes Venstre man skal have ret til at skyde en ulv, hvis den løber rundt i ens baghave? Og hvor gode venner er Trump og Meloni egentlig?
-Dagens værter: Thomas Tjaerandsen og Bjarne Steenbeck.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Sat, 19 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-19-apr-2025-11802533166</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f59d97867a0ea6fee17d49/fd19059a932ec7bdc83718ec17340c6a3aa10e6a5bbaf8fcb5f8040bd222c026" length="158466662" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 18. apr. 2025</title>
-      <description>En scene. En mikrofon. En, der siger noget sjovt og håber, nogen griner. Hvorfor vælger nogen frivilligt et job, hvor succes måles i latter?
-Denne langfredag er det ikke Trump, klima eller Ukraine, der fylder i P1 Morgen, men stand-up.
-Vi får besøg af fire komikere - og Daniel Rye, der har lavet et stand-up show om det at være gidsel hos Islamisk Stat. 
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:50:02</itunes:duration>
-      <pubDate>Fri, 18 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-18-apr-2025-11802533165</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f44cef0058129f09de871a/8bec4f6ff0aa6141952913dd4442586b030181a44f38c8d2eb12c012a470c2d9" length="158471855" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 17. apr. 2025</title>
-      <description>Der er ikke meget at grine af i verden i dag. Der er tusind gode grunde til bekymring og sortsyn, men det betyder jo ikke, at humoren er forsvundet. Vi smiler og joker og griner med hinanden, for det gør vi jo som mennesker. Her i Danmark gør vi det på vores måde, men i andre lande griner de af noget andet. P1 Morgen undersøger denne skærtorsdag, hvorfor vi danskere ikke er så sjove, som vi selv tror, vi er. For det er vi desværre ikke. 
-Dagens vært: Ole Brink.</description>
-      <itunes:duration>01:49:36</itunes:duration>
-      <pubDate>Thu, 17 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-17-apr-2025-11802533164</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f2fa7d034014f391363f0a/ab3bc0904fc806c78a655067872bf8d40a047a4cef10bc1f340828924015de51" length="157827880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 16. apr. 2025</title>
-      <description>Tre gange så mange kvinder som mænd anmelder stress som arbejdsskade - hvad er den forskel et udtryk for? Hvorfor er det lige netop Harvard, som Trump går efter? Og hvorfor er det bekymrende, at der endnu ikke er kommet en plan for brandsikring af historiske bygninger? 
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:44:44</itunes:duration>
-      <pubDate>Wed, 16 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/onsdag-16-apr-2025-11802533163</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f1a917e849f3f565833e70/5d1a796c215bd8f9732d0317823bcd912fc6d1a00182bb22da43005d4c263890" length="237223729" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 15. apr. 2025</title>
-      <description>Hvorfor holder El Salvador på fejldeporteret mand? Hvor store er lidelserne i Sudan, og hvad er udsigterne til, at de stopper? Og er lovgivningen om barselsdagpenge for selvstændige uklar?
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Tue, 15 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/tirsdag-15-apr-2025-11802533162</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f0586af15fbe15e58ff3fe/f7b9b2604eb493c044cd2d5b5e69f16c8944b4f47e1b2a4a704e0fb3599be573" length="237687395" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 14. apr. 2025</title>
-      <description>Hvordan reagerer aktiemarkederne på Trumps tilbagetog? Bør straffen for at skyde ulve hæves? Og bør vragede politikere tilbydes psykologhjælp?
-Dagens værter: Thomas Tjaerandsen og Søren Carlsen.</description>
-      <itunes:duration>02:44:31</itunes:duration>
-      <pubDate>Mon, 14 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/mandag-14-apr-2025-11802533161</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ef06ad034014f3911c73f6/baa47a46f274c5eee52087b448a58404360fc653dfc9fc98a122f070183d058f" length="236919546" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Søndag 13. apr. 2025</title>
-      <description>Hvor vild en tolduge har det været og hvordan har det ændret vores syn på aktiemarkedet? Hvilken slags leder får kvindelandsholdet med Helle Thomsen i spidsen? Er unge for dårlige til at tale om døden?
-Dagens vært: Pernille Rudbæk.</description>
-      <itunes:duration>01:50:00</itunes:duration>
-      <pubDate>Sun, 13 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-13-apr-2025-11802533157</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67edb5b1034014f39113acbf/cf1bd852646ad3fca343d3ddf309eced624dc583d4cda09e5e20b5c6369eebc5" length="158421160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 12. apr. 2025</title>
-      <description>Hvorfor holder mænd mindre barsel i mandsdominerede brancher? Hvad får dollarfald af konsekvenser? Og er det en god ide at lave specialiserede klinikker, der skal hjælpe dem med autisme og ADHD?   
-Dagens værter: Pernille Rudbæk og Ole Brink.</description>
-      <itunes:duration>01:50:03</itunes:duration>
-      <pubDate>Sat, 12 Apr 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-12-apr-2025-11802533156</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67ecc03cc14ec5cf1653915a/ae70e9a84345a2b9afbfbabf0d1aa5398b2f89d87826a62cd624ba45eb8abf72" length="158476453" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 11. apr. 2025</title>
-      <description>Er fødevareministerens tiltag nok, hvis vi skal sikre hestevelfærd i Danmark? Hvorfor er faren ved handelskrigen ikke afblæst endnu? Og hvorfor skal der stemmes i salen om Lars Aagaard, når hans ministerpost er sikret? 
-Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
-      <itunes:duration>02:45:03</itunes:duration>
-      <pubDate>Fri, 11 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-11-apr-2025-11802533155</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67eb124eb65fcd93b4d41638/83501d8bc166d5f711cf4a8d21194c2bd3b04989e72c7270add3d7e1bc4838d7" length="237678760" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 10. apr. 2025</title>
-      <description>Hvad betyder det, at USA øger told mod Kina og sænker den på en række andre lande? Vil regeringen overveje at forbyde anonyme æg- og sæddonationer? Og hvad betyder Tysklands nye koalitionsregering i et EU-perspektiv?
-Dagens værter: Søren Carlsen og Thomas Tjaerandsen.</description>
-      <itunes:duration>02:45:02</itunes:duration>
-      <pubDate>Thu, 10 Apr 2025 06:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/torsdag-10-apr-2025-11802533154</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e9c0e8d5634992e740afb5/c8b65b45a8ebe60ebc08b6e5095f963321a4a75f9b49aa7bee3df5e1c683ffd3" length="237664949" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>02:45:01</itunes:duration>
+   <pubDate>Fri, 05 Sep 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-5-sep-2025-11802533365</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682362df61175376c1eef8fd/a39be24d043f08866285071ee520ff4346f7067622517faf39fb7b64e81d57c4" length="237640176" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>

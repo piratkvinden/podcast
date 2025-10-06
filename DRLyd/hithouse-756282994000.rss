@@ -1,31 +1,31 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Hithouse</title>
-    <link>https://www.dr.dk/lyd/p5/hithouse-756282994000</link>
-    <description>Musik og historier fra 
+ <channel>
+  <title>Hithouse</title>
+  <link>https://www.dr.dk/lyd/p5/hithouse-756282994000</link>
+  <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433bdc039d56f04e24d7a?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Fredag 3. okt. 2025</title>
-      <description>Musik og historier fra 
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433bdc039d56f04e24d7a?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Fredag 3. okt. 2025</title>
+   <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <itunes:duration>00:55:04</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/fredag-3-okt-2025-15452523405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498c3802fda5b406b273e/8b3750db8f0485475ddd066f783d1c088130782b82ae06d6efdb5e0f221f5b87" length="79304500" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 2. okt. 2025</title>
-      <description>Musik og historier fra 
+   <itunes:duration>00:55:04</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 18:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/fredag-3-okt-2025-15452523405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682498c3802fda5b406b273e/8b3750db8f0485475ddd066f783d1c088130782b82ae06d6efdb5e0f221f5b87" length="79304500" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 2. okt. 2025</title>
+   <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-      <itunes:duration>00:55:04</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 18:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/torsdag-2-okt-2025-15452523404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682499004323caaa86537840/c2f8b347e0f9e0c86515c84fd29e4b083ef72fd78363dbab36fe530ac4b7459a" length="79307380" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>00:55:04</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 18:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse/torsdag-2-okt-2025-15452523404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682499004323caaa86537840/c2f8b347e0f9e0c86515c84fd29e4b083ef72fd78363dbab36fe530ac4b7459a" length="79307380" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>

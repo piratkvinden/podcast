@@ -1,36 +1,53 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Ro På koncert</title>
-    <link>https://www.dr.dk/lyd/p2/ro-paa-koncert-6421212402000</link>
-    <description>Nyd en stille meditationskoncert fra en koncertsal eller kirke nær dig - eller lad P2 lede dig til andre rolige åndehuller i den klassiske musik, håndplukket fra landets bedste koncerter.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f77e2742308537cfa0bcd9?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Ro på koncert med DR Vokalensemblet</title>
-      <description>Sluk skærmen og glem alle bekymringer for en stund. 
+ <channel>
+  <title>Ro På koncert</title>
+  <link>https://www.dr.dk/lyd/p2/ro-paa-koncert-6421212402000</link>
+  <description>Nyd en stille meditationskoncert fra en koncertsal eller kirke nær dig - eller lad P2 lede dig til andre rolige åndehuller i den klassiske musik, håndplukket fra landets bedste koncerter.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f77e2742308537cfa0bcd9?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Meditationskoncert i Odsherred</title>
+   <description>Sluk skærmen og glem alle bekymringer for en stund.¶ Rolig musik har indvirkning på sindet og her inviteres du indenfor til meditative toner i Nykøbing Sjælland Kirke.
+Ulla Miilmann, fløjte. 
+Zachary Hatcher, harpe. 
+Janne Fredens, cello. 
+Søren Rastogi og Valdemar Wenzel Most, klaver. 
+Selma Theilmann og Antonia Fuglsang, violin. 
+Nightingale String Quartet. 
+(fra Nykøbing Sjælland Kirke 1. august 2025). 
+Vært: Claus Berthelsen. 
+Produceret af P2.</description>
+   <itunes:duration>00:59:11</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 15:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/meditationskoncert-i-odsherred-12422590603</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d42699eb0a841deca5517e/38288895e2c428326cb0665c82f38464ae235ea9450b7e100bec74cfb70bf3ff" length="85238072" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Ro på koncert med DR Vokalensemblet</title>
+   <description>Sluk skærmen og glem alle bekymringer for en stund. 
 Lad den travle verden udenfor forsvinde og mærk Vor Frue Kirkes store kirkerum omslutte dig, mens du fordyber dig i meditativ kormusik og dybe cello-klange. 
 DR Vokalensemblet. 
 Dirigent: Anastasija Kildisa. 
 Solocellist Richard Krug fra DR Symfoniorkestret. 
 Vært: Claus Berthelsen. 
 Produceret af P2.</description>
-      <itunes:duration>00:44:43</itunes:duration>
-      <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/ro-paa-koncert-med-dr-vokalensemblet-12422590602</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d426962257e391d9f041b6/f2afad45ed7956e5415c3adf09f1d7a2b33058a912c4c9bfbbf59699ad9f4906" length="64408760" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Meditationskoncert med Ensemble Midtvest</title>
-      <description>Sluk skærmen og glem alle bekymringer for en stund. 
+   <itunes:duration>00:44:43</itunes:duration>
+   <pubDate>Thu, 03 Apr 2025 16:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/ro-paa-koncert-med-dr-vokalensemblet-12422590602</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d426962257e391d9f041b6/f2afad45ed7956e5415c3adf09f1d7a2b33058a912c4c9bfbbf59699ad9f4906" length="64408760" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Meditationskoncert med Ensemble Midtvest</title>
+   <description>Sluk skærmen og glem alle bekymringer for en stund. 
 Rolig musik har en dejlig indvirkning på sindet. Ensemble Midtvest har succes med at lave meditations- og yoga-koncerter og inviterer dig til at være med og opleve musikkens beroligende kraft. 
 Ensemble Midtvests strygetrio og hornist. 
 Meditation (og normalt ensemblets fløjtenist): Charlotte Norholt. 
 Vært: Claus Berthelsen. 
 Produceret af P2.</description>
-      <itunes:duration>00:53:36</itunes:duration>
-      <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/meditationskoncert-med-ensemble-midtvest-12422590601</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d4269ceb0a841deca551c9/7f7d7e21ace2b08cb681309d93aefca7257f313bddcbcaa9a66cdef195ef86a6" length="77208057" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>00:53:36</itunes:duration>
+   <pubDate>Wed, 19 Mar 2025 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/ro-paa-koncert/ro-paa-koncert/meditationskoncert-med-ensemble-midtvest-12422590601</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67d4269ceb0a841deca551c9/7f7d7e21ace2b08cb681309d93aefca7257f313bddcbcaa9a66cdef195ef86a6" length="77208057" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>

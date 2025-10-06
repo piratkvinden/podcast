@@ -1,42 +1,51 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Popdatering</title>
-    <link>https://www.dr.dk/lyd/p3/popdatering-1652350131000</link>
-    <description>Popdatering præsenterer dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3dee9121fd4cfc19ab1bd?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Søndag 5. okt. 2025</title>
-      <description>I Popdatering præsenterer Nynne Givskov dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Sun, 05 Oct 2025 12:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/soendag-5-okt-2025-13332547407</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840062f5f16b69830a4386c/6c9e3103174ecd50889c4662e7e5a164b6ddd32385bd7368ba25a2758824fa52" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Lørdag 4. okt. 2025</title>
-      <description>I Popdatering præsenterer Julie Rahbek dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Sat, 04 Oct 2025 12:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/loerdag-4-okt-2025-13332547406</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840062f5f16b69830a43863/0e54ed6e0f4a5f42f77860c7c2141d591d0df518f701b3a4001db60cbcb46ea9" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tømmermænds-opkald fra Hans Philip, der har noget tilfælles med Taylor Swift?</title>
-      <description>Hans Philip har smidt et nyt album. Han er med på en telefon. Marie serverer også ny single fra MAS og får en ekspert til at tage os i hånden gennem det nye TayTay-album. Fredag betyder også ny P3's Uundgåelige, og i dag bliver æren fordelt på to store navne i dansk musik. De er gået sammen om en KÆMPE sang, som fra nu af bærer en flot titel.
+ <channel>
+  <title>Popdatering</title>
+  <link>https://www.dr.dk/lyd/p3/popdatering-1652350131000</link>
+  <description>Popdatering præsenterer dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3dee9121fd4cfc19ab1bd?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Der er GULDFEBER: Mille er gæst i Popdatering!</title>
+   <description>I Popdatering præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned ad hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu. Vi skal forbi P3's Uundgåelige, hvor et årets største danske samarbejder lægger navn til. En anden uundgåelig nyhed i musikken er Taylor Swifts nye album, som ekspert Ema Seferovic gør os klogere på. Ena får fint besøg af et af årets P3 Guld-talenter nemlig Mille, der også er nomineret med lytterhittet! Vi skal høre fra URO, hvad hans nye sang &quot;Happy Days&quot; handler om, og så sender Von Quar også en hilsen til Popdatering. Bandet har udgivet en ny sang, der er en opsang til, at man skal huske at bruge sin tid rigtigt!
+Milliardklubben emmer af nostalgi, når en retro 00'er-sang gør sine entre.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering-2025/der-er-guldfeber-mille-er-gaest-i-popdatering-16122533411</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686308c784761efefa430919/29c2a0fc9c90f7ae5cc7fd111e85d3ba67c3c0bea90c7f8c3466b73b86a7240e" length="168482185" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 5. okt. 2025</title>
+   <description>I Popdatering præsenterer Nynne Givskov dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sun, 05 Oct 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/soendag-5-okt-2025-13332547407</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840062f5f16b69830a4386c/6c9e3103174ecd50889c4662e7e5a164b6ddd32385bd7368ba25a2758824fa52" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Lørdag 4. okt. 2025</title>
+   <description>I Popdatering præsenterer Julie Rahbek dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sat, 04 Oct 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/loerdag-4-okt-2025-13332547406</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6840062f5f16b69830a43863/0e54ed6e0f4a5f42f77860c7c2141d591d0df518f701b3a4001db60cbcb46ea9" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Tømmermænds-opkald fra Hans Philip, der har noget tilfælles med Taylor Swift?</title>
+   <description>Hans Philip har smidt et nyt album. Han er med på en telefon. Marie serverer også ny single fra MAS og får en ekspert til at tage os i hånden gennem det nye TayTay-album. Fredag betyder også ny P3's Uundgåelige, og i dag bliver æren fordelt på to store navne i dansk musik. De er gået sammen om en KÆMPE sang, som fra nu af bærer en flot titel.
 I Popdatering præsenterer Marie Hobitz dig for den bedste, nye popmusik og tager dig med på en tur op og ned ad hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 12:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/toemmermaends-opkald-fra-hans-philip-der-har-noget-tilfaelles-med-taylor-swift-13332547405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68930e50301a80356e57b61e/63848693d70e197e3c9bd896dc3f8edac1087e46f94f2d1f9a25e982fc380aad" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Torsdag 2. okt. 2025</title>
-      <description>I Popdatering præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
-      <itunes:duration>01:57:00</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 12:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering-2025/torsdag-2-okt-2025-16122533404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686309b9a80a6e0f011269e3/6b3baf8cbd9b757ecf623dc073f1247aff53c0c31f99b23c147cb3f216537424" length="168482097" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering/toemmermaends-opkald-fra-hans-philip-der-har-noget-tilfaelles-med-taylor-swift-13332547405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68930e50301a80356e57b61e/63848693d70e197e3c9bd896dc3f8edac1087e46f94f2d1f9a25e982fc380aad" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Torsdag 2. okt. 2025</title>
+   <description>I Popdatering præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/popdatering/popdatering-2025/torsdag-2-okt-2025-16122533404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686309b9a80a6e0f011269e3/6b3baf8cbd9b757ecf623dc073f1247aff53c0c31f99b23c147cb3f216537424" length="168482097" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>

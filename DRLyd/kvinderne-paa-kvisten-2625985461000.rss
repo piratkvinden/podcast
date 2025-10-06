@@ -1,28 +1,28 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Kvinderne på kvisten</title>
-    <link>https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten-2625985461000</link>
-    <description>At Danmark ikke har atomkraft, skyldes blandt andre Kvinderne på kvisten. Jytte Andersen, Jytte Hilden og Majken Hessner blev i 1979 valgt ind i Folketinget, hvor der dengang ellers mest var plads til herrerne. Kvinderne blev veninder, bedrev politik og spillede en særlig rolle i, at statsminister Anker Jørgensen måtte vælge side i det danske spørgsmål om kernekraft.
+ <channel>
+  <title>Kvinderne på kvisten</title>
+  <link>https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten-2625985461000</link>
+  <description>At Danmark ikke har atomkraft, skyldes blandt andre Kvinderne på kvisten. Jytte Andersen, Jytte Hilden og Majken Hessner blev i 1979 valgt ind i Folketinget, hvor der dengang ellers mest var plads til herrerne. Kvinderne blev veninder, bedrev politik og spillede en særlig rolle i, at statsminister Anker Jørgensen måtte vælge side i det danske spørgsmål om kernekraft.
 God fornøjelse med denne eller én af de mange andre P1 Podcastserier.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2b4fd5adfcbf958e73d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Kvinderne på kvisten 1:2</title>
-      <description>Kvinderne mødes for at fejre deres 40 års jubilæum - som folketingspolitikere, kampfæller og veninder. De tager os med tilbage til det hedengangne liv i magtens korridorer, hvor de kæmpede imod A-kraft og for ligestilling.
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2b4fd5adfcbf958e73d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Kvinderne på kvisten 1:2</title>
+   <description>Kvinderne mødes for at fejre deres 40 års jubilæum - som folketingspolitikere, kampfæller og veninder. De tager os med tilbage til det hedengangne liv i magtens korridorer, hvor de kæmpede imod A-kraft og for ligestilling.
 (Sendt første gang 10. februar 2020).</description>
-      <itunes:duration>00:27:03</itunes:duration>
-      <pubDate>Thu, 30 Jan 2020 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten/kvinderne-paa-kvisten-1/kvinderne-paa-kvisten-1-2-11031900001</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ee4330eac2f135b625e/915d16150cdaafd65c267ea4aadee48e2db4f2df1a4bbba14d1a8262b4879b8f" length="38962243" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Kvinderne på kvisten 2:2</title>
-      <description>Alle talte vi om det: A-kraft eller ej? I dette afsnit tager Kvinderne på Kvisten os med om bag linjerne. For hvad var det for en politisk proces, der afgjorde, at Danmark ikke blev et kernekraftland? 
+   <itunes:duration>00:27:03</itunes:duration>
+   <pubDate>Thu, 30 Jan 2020 06:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten/kvinderne-paa-kvisten-1/kvinderne-paa-kvisten-1-2-11031900001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ee4330eac2f135b625e/915d16150cdaafd65c267ea4aadee48e2db4f2df1a4bbba14d1a8262b4879b8f" length="38962243" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Kvinderne på kvisten 2:2</title>
+   <description>Alle talte vi om det: A-kraft eller ej? I dette afsnit tager Kvinderne på Kvisten os med om bag linjerne. For hvad var det for en politisk proces, der afgjorde, at Danmark ikke blev et kernekraftland? 
 (Sendt første gang 17. februar 2020).</description>
-      <itunes:duration>00:27:11</itunes:duration>
-      <pubDate>Thu, 30 Jan 2020 06:01:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten/kvinderne-paa-kvisten-1/kvinderne-paa-kvisten-2-2-11031900002</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ee5330eac2f135b6266/c28b7c284cbc9a475c06d3d9c4fab632dd159c639549ef0568b9a3277fa1b912" length="39146157" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>00:27:11</itunes:duration>
+   <pubDate>Thu, 30 Jan 2020 06:01:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/kvinderne-paa-kvisten/kvinderne-paa-kvisten-1/kvinderne-paa-kvisten-2-2-11031900002</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa25ee5330eac2f135b6266/c28b7c284cbc9a475c06d3d9c4fab632dd159c639549ef0568b9a3277fa1b912" length="39146157" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>

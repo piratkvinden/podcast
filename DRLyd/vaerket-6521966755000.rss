@@ -1,209 +1,219 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Værket</title>
-    <link>https://www.dr.dk/lyd/p2/vaerket-6521966755000</link>
-    <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Bruchs Symfoni nr. 3</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+ <channel>
+  <title>Værket</title>
+  <link>https://www.dr.dk/lyd/p2/vaerket-6521966755000</link>
+  <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d2?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Louis Glass' Skovsymfoni</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Louis Glass: Symfoni nr. 3, D-dur, op. 30, Skovsymfonien. Det Rhinske Filharmoniske Orkester. Dirigent: Daniel Raiskin. 
+Vært: Helle Kristensen.</description>
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/louis-glass-skovsymfoni-12422561411</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8ef50d8f7a45267e9e/f4fa48c7f829b38de27d701e7920776e0a058f8b2f84bdfe153f7a9e355cf71f" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Bruchs Symfoni nr. 3</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Max Bruch: Symfoni nr. 3. Bamberg Symfoniorkester. Dirigent: Robert Trevino. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/bruchs-symfoni-nr-3-12422561405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8e7b626ea9bbfb13df/5a22f7e419957bfd245bcda2912032abdd59087c3a7b902b5eec25d209ba2f8d" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Mozarts oratorium Davide penitente</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/bruchs-symfoni-nr-3-12422561405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8e7b626ea9bbfb13df/5a22f7e419957bfd245bcda2912032abdd59087c3a7b902b5eec25d209ba2f8d" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Mozarts oratorium Davide penitente</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Mozart: Davide penitente, KV 469. Leipzigs Kammerorkester og Immortal Bach Ensemble. Dirigent: Morten Schuldt-Jensen. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/mozarts-oratorium-davide-penitente-12422561404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5161175376c1f57e91/ec71dc7d1f64c9c5ef131f95f74ad74fd6f562e0575017ed7eb71049780668d0" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Prokofjevs Symfoni-koncert for cello</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/mozarts-oratorium-davide-penitente-12422561404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5161175376c1f57e91/ec71dc7d1f64c9c5ef131f95f74ad74fd6f562e0575017ed7eb71049780668d0" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Prokofjevs Symfoni-koncert for cello</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Prokofjev: Symfoni-koncert. Christian Poltéra, cello. Lahti Symfoniorkester. Dirigent: Anja Bihlmaier. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/prokofjevs-symfoni-koncert-for-cello-12422561403</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10d9/d79d50bba57838214b1d105cf14855b8f1ec9f8847d2cb4798c51ef1f837c842" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Alfvéns Symfoni nr. 3</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Wed, 01 Oct 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/prokofjevs-symfoni-koncert-for-cello-12422561403</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10d9/d79d50bba57838214b1d105cf14855b8f1ec9f8847d2cb4798c51ef1f837c842" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Alfvéns Symfoni nr. 3</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Hugo Alfvén: Symfoni nr. 3. Det Tyske Symfoniorkester Berlin. Dirigent: Lukasz Borowicz. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/alfvens-symfoni-nr-3-12422561402</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10d4/eb80a71b8ba84568a8e48084a29231ab3ebc0cb16326892cff251f63d4b6b689" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Billy the Kid</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Tue, 30 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/alfvens-symfoni-nr-3-12422561402</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10d4/eb80a71b8ba84568a8e48084a29231ab3ebc0cb16326892cff251f63d4b6b689" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Billy the Kid</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Aaron Copland: Billy the Kid. Detroit Symfoniorkester. Dirigent: Leonard Slatkin. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/billy-the-kid-12422561401</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5161175376c1f57e8c/365f6023f189dc631f39cd5871ec3eb8b371a143a9c53da7e52abca5d42aa56c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>C.P.E. Bachs Magnificat</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Mon, 29 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/billy-the-kid-12422561401</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5161175376c1f57e8c/365f6023f189dc631f39cd5871ec3eb8b371a143a9c53da7e52abca5d42aa56c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>C.P.E. Bachs Magnificat</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Carl Philipp Emanuel Bach: Magnificat, Wq 215. Kölner Akademiet. Dirigent: Michael Alexander Willens. Hanna Herfurtner, sopran. Elvira Bill, alt. Georg Poplutz, tenor. Matthias Vieweg, baryton. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/c-p-e-bachs-magnificat-12422561395</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10cf/75a9f71f60a7d6cb32955f9b2e38aea16cd3b6289272fc81d84356e297fceb14" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Glasunovs Årstiderne</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Fri, 26 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/c-p-e-bachs-magnificat-12422561395</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10cf/75a9f71f60a7d6cb32955f9b2e38aea16cd3b6289272fc81d84356e297fceb14" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Glasunovs Årstiderne</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Aleksandr Glasunov: Årstiderne, op. 67 (ballet). Royal Philharmonic Orchestra. Dirigent: Vladimir Ashkenazy. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/glasunovs-aarstiderne-12422561394</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10c8/859a3e2b15dd2cfd108deb6c178e7da7ea8f14d8b9dee0654ef41f75290a7185" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Regers Hiller-variationer</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Thu, 25 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/glasunovs-aarstiderne-12422561394</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a517b626ea9bbfb10c8/859a3e2b15dd2cfd108deb6c178e7da7ea8f14d8b9dee0654ef41f75290a7185" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Regers Hiller-variationer</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Max Reger: Variationer og fuga over et tema af Johann Adam Hiller, op. 100. Concertgebouw Orkestret. Dirigent: Neeme Järvi. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/regers-hiller-variationer-12422561393</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8d7b626ea9bbfb13ce/ec597defe504df45efbfc1849f24bf70e497180950d012944517beaca75ef948" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Tjajkovskijs Orkestersuite nr. 2</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Wed, 24 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/regers-hiller-variationer-12422561393</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8d7b626ea9bbfb13ce/ec597defe504df45efbfc1849f24bf70e497180950d012944517beaca75ef948" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Tjajkovskijs Orkestersuite nr. 2</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Peter Tjajkovskij: Orkestersuite nr. 2, C-dur. BBC's Skotske Symfoniorkester. Dirigent: Alpesh Chauhan. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/tjajkovskijs-orkestersuite-nr-2-12422561392</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8d61175376c1f5814d/48ed136cfbfe864d3d67bcc94503af6871458c9227a373dd4db3b935fa148220" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Elfrida Andrées Symfoni nr. 1</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Tue, 23 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/tjajkovskijs-orkestersuite-nr-2-12422561392</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8d61175376c1f5814d/48ed136cfbfe864d3d67bcc94503af6871458c9227a373dd4db3b935fa148220" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Elfrida Andrées Symfoni nr. 1</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Elfrida Andrée: Symfoni nr. 1, C-dur. Norrköping Symfoniorkester. Dirigent: Hermann Bäumer. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/elfrida-andrees-symfoni-nr-1-12422561391</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb10a1/4e139ed4b173f89dbb8546dc63a32aaf43e10f344850345bc7330b6f08fbd772" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Korngolds Sinfonietta</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Mon, 22 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/elfrida-andrees-symfoni-nr-1-12422561391</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb10a1/4e139ed4b173f89dbb8546dc63a32aaf43e10f344850345bc7330b6f08fbd772" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Korngolds Sinfonietta</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Korngold: Sinfonietta. Helsinki Filharmonikerne. Dirigent: John Storgårds. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/korngolds-sinfonietta-12422561385</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb109b/e60b32d554054c9a436bab24f56a6558200dc55283bbaaa432f4176c26774a74" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Beethovens Egmont</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Fri, 19 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/korngolds-sinfonietta-12422561385</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb109b/e60b32d554054c9a436bab24f56a6558200dc55283bbaaa432f4176c26774a74" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Beethovens Egmont</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Beethoven: Egmont (komplet scenemusik). Gürzenich Orkestret. Dirigent: James Conlon. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/beethovens-egmont-12422561384</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb1096/0507d56569698a450897288764d94ba93a9129833028d6e9cc1ca6d589bf998c" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Sindings Symfoni nr. 3</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Thu, 18 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/beethovens-egmont-12422561384</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a507b626ea9bbfb1096/0507d56569698a450897288764d94ba93a9129833028d6e9cc1ca6d589bf998c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Sindings Symfoni nr. 3</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Christian Sinding: Symfoni nr. 3. Norrköping Symfoniorkester. Dirigent: Karl-Heinz Steffens. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sindings-symfoni-nr-3-12422561383</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5061175376c1f57e5e/1013f5d9b7ffc755ff5a8f0d9ea58476657a47bff59d8b342608a9e8d161c651" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Rakhmaninovs Klokkerne</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Wed, 17 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/sindings-symfoni-nr-3-12422561383</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5061175376c1f57e5e/1013f5d9b7ffc755ff5a8f0d9ea58476657a47bff59d8b342608a9e8d161c651" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Rakhmaninovs Klokkerne</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Rakhmaninov: Klokkerne. Luba Orgonásová, sopran; Dmytro Popov, tenor; Mikhail Petrenko, bas. Berliner Filharmonikerne &amp; Berlins Radiokor. Dirigent: Simon Rattle. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rakhmaninovs-klokkerne-12422561382</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1091/c2d6d71c0545033d0c09e3917efa03c66d86c60de9e3fa5680453707fdbb1557" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Paganinis Violinkoncert nr. 1</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Tue, 16 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rakhmaninovs-klokkerne-12422561382</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1091/c2d6d71c0545033d0c09e3917efa03c66d86c60de9e3fa5680453707fdbb1557" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Paganinis Violinkoncert nr. 1</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Paganini: Violinkoncert nr. 1. Hilary Hahn, violin. Sveriges Radiosymfoniorkester. Dirigent: Eiji Oue. 
 Vært: Jens Cornelius.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 15 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/paganinis-violinkoncert-nr-1-12422561381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f61175376c1f57e59/d2c6267568763db339cdf9f2e874842ef834e33c7340d0bb8f3baf39c3b93429" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Rimskij-Korsakovs Symfoni nr. 3</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Mon, 15 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/paganinis-violinkoncert-nr-1-12422561381</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f61175376c1f57e59/d2c6267568763db339cdf9f2e874842ef834e33c7340d0bb8f3baf39c3b93429" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Rimskij-Korsakovs Symfoni nr. 3</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Nikolaj Rimskij-Korsakov: Symfoni nr. 3, C-dur, op. 32. Berlins Radiosymfoniorkester. Dirigent: Gerard Schwarz. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rimskij-korsakovs-symfoni-nr-3-12422561375</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb108b/4802a18a75141822459b7ac6eb88e7225b029ba4cb5b13c44ea48ccbb009e824" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Griegs forbudte symfoni</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Fri, 12 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/rimskij-korsakovs-symfoni-nr-3-12422561375</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb108b/4802a18a75141822459b7ac6eb88e7225b029ba4cb5b13c44ea48ccbb009e824" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Griegs forbudte symfoni</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Edvard Grieg: Symfoni, c-mol. Bergen Filharmonikerne. Dirigent: Ole Kristian Ruud. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Thu, 11 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/griegs-forbudte-symfoni-12422561374</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f61175376c1f57e54/6c0802be0c09f7d1c220aa4e9e9cab84bc0042c353d066ae8f35ec1994a83371" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Niels W. Gades Comala</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Thu, 11 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/griegs-forbudte-symfoni-12422561374</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f61175376c1f57e54/6c0802be0c09f7d1c220aa4e9e9cab84bc0042c353d066ae8f35ec1994a83371" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Niels W. Gades Comala</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Niels W. Gade: Comala, op. 12. DR Symfoniorkestret, DR Koncertkoret. Marie-Adeline Henry, sopran. Markus Eiche, baryton. Rachel Kelly, mezzosopran. Elenor Wiman, alt. Dirigent: Laurence Equilbey. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/niels-w-gades-comala-12422561373</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1086/b1f4a0f9256216894e956dd5b2363c5c3f8f143db477f497391b12e8b4c39ceb" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Brittens Violinkoncert</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Wed, 10 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/niels-w-gades-comala-12422561373</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a4f7b626ea9bbfb1086/b1f4a0f9256216894e956dd5b2363c5c3f8f143db477f497391b12e8b4c39ceb" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Brittens Violinkoncert</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Benjamin Britten: Violinkoncert, d-mol, op. 15. Isabelle Faust, violin., Bayerns Radiosymfoniorkester. Dirigent: Jakub Hrusa. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/brittens-violinkoncert-12422561372</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8b7b626ea9bbfb13b6/fed09e6831ae7d1024450925c9d6d58c1cc66cac1f4ec62bc5730de5ec668173" length="0" type="audio/x-m4a"/>
-    </item>
-    <item>
-      <title>Ennas Symfoni nr. 2</title>
-      <description>Nyd et længere stykke klassisk musik i sin helhed. 
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Tue, 09 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/brittens-violinkoncert-12422561372</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8b7b626ea9bbfb13b6/fed09e6831ae7d1024450925c9d6d58c1cc66cac1f4ec62bc5730de5ec668173" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Ennas Symfoni nr. 2</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
 August Enna: Symfoni nr. 2, E-dur. Bogotá Filharmonikerne. Dirigent: Joachim Gustafsson. 
 Vært: Helle Kristensen.</description>
-      <itunes:duration>00:57:00</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 11:03:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/ennas-symfoni-nr-2-12422561371</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8bf50d8f7a45267e85/e7c58ea1d5e4df0e7eaf412fb347dc0f25adc96e12374686f6cfcf8e8d0b4352" length="0" type="audio/x-m4a"/>
-    </item>
-  </channel>
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Mon, 08 Sep 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/ennas-symfoni-nr-2-12422561371</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a8bf50d8f7a45267e85/e7c58ea1d5e4df0e7eaf412fb347dc0f25adc96e12374686f6cfcf8e8d0b4352" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
 </rss>

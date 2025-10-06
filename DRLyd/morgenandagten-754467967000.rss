@@ -1,139 +1,153 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Morgenandagten</title>
-    <link>https://www.dr.dk/lyd/p2/morgenandagten-754467967000</link>
-    <description>Hver dag direkte fra Københavns Domkirke.</description>
-    <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
-    <item>
-      <title>Lørdag 4. okt. 2025</title>
-      <description>Præludium:	Niels Rabølle: Lysets engel går med glans
+ <channel>
+  <title>Morgenandagten</title>
+  <link>https://www.dr.dk/lyd/p2/morgenandagten-754467967000</link>
+  <description>Hver dag direkte fra Københavns Domkirke.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4f8a6c039d56f04e749f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>Mandag 6. okt. 2025</title>
+   <description>Præludium:	Cesar Franck: Præludium i D-Dur
+Ord til dagen: af Dietrich Bonhoeffer
+Salme: 753 &quot;Gud, du som lyset og dagen oplod&quot;
+Fra det N.T.:	Matthæusevangeliet 22, 1-14
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde (Tekst: Rist 1642, Brorson 1734, Wexels 1849)
+Salme: 175 &quot;Jesus, livets rige kilde&quot;
+Postludium: Anton Heiller: Jesus, dine dybe vunder</description>
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Mon, 06 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-6-okt-2025-11042505411</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c427b626ea9bb0f9e7f/b50f0029395e1c2e02b6f17208173d012d1d24af2c1718f94e02371736a11b0c" length="36067245" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 4. okt. 2025</title>
+   <description>Præludium:	Niels Rabølle: Lysets engel går med glans
 Davidssalme: 84,2-5
 Salme: 747 &quot;Lysets engel går med glans&quot;
 Fra det N.T.:	Efeserbrevet 3,13-21
 Trosbekendelsen	
 Salme: 303 &quot;Kom, Gud Faders Ånd fuldgod&quot;
 Postludium: Sigfrid Karg-Elert: Sunrise</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Sat, 04 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-4-okt-2025-11042505406</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c687b626ea9bb0fa161/7f376c800e19c962c369f096a3ff48792414f0a083edf76f0d57eb4d9b826b2d" length="36011361" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 3. okt. 2025</title>
-      <description>Præludium: Johann Sebastian Bach: 1. sats fra Concerto d-mol, BWV 596/1
+   <itunes:duration>00:25:00</itunes:duration>
+   <pubDate>Sat, 04 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-4-okt-2025-11042505406</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c687b626ea9bb0fa161/7f376c800e19c962c369f096a3ff48792414f0a083edf76f0d57eb4d9b826b2d" length="36011361" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 3. okt. 2025</title>
+   <description>Præludium: Johann Sebastian Bach: 1. sats fra Concerto d-mol, BWV 596/1
 Fra det G.T.:	Esajas Bog 5, 1-7
 Salme: 490, vers 1-3 &quot;O søde Gud, din kærlighed&quot;
 Fra det N.T.:	Matthæusevangeliet 21, 33-46
 Korvers: Per Skriver: Salige er de øjne (Tekst: Lukas 10, 23b-24)
 Salme: 	490, vers 4-7
 Postludium: Johann Sebastian Bach: 1.  og 2. sats fra Concerto d-mol, BWV 596/2+3</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Fri, 03 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-3-okt-2025-11042505405</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4161175376c1099c73/13a981ab790e49ae642c2a97d3c67c915312e7ba646e17c396f382430d1b28cf" length="36043626" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 2. okt. 2025</title>
-      <description>Præludium:	Leopold Mozart: Menueto
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Fri, 03 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-3-okt-2025-11042505405</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4161175376c1099c73/13a981ab790e49ae642c2a97d3c67c915312e7ba646e17c396f382430d1b28cf" length="36043626" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 2. okt. 2025</title>
+   <description>Præludium:	Leopold Mozart: Menueto
 Fra det G.T.:	Salme 130,1-6
 Salme: 653, vers 1-4 &quot;I falmende blade, du kølige vind!&quot;
 Fra det N.T.:	Matthæusevangeliet 21, 28-32
 Korvers: Per Skriver: Salige er de øjne (Tekst: Lukas 10, 23b-24)
 Salme: 653, vers 5 - 7
 Postludium: Antonio Vivaldi: Adagio molto</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Thu, 02 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-2-okt-2025-11042505404</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3f61175376c1099c51/8c4ff4672928c1315f79d174cb53e9390c930396a70611b5607b917633aeb82e" length="36043043" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 1. okt. 2025</title>
-      <description>Præludium:	Carl Nielsen: Præludium i B-Dur
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Thu, 02 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-2-okt-2025-11042505404</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3f61175376c1099c51/8c4ff4672928c1315f79d174cb53e9390c930396a70611b5607b917633aeb82e" length="36043043" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 1. okt. 2025</title>
+   <description>Præludium:	Carl Nielsen: Præludium i B-Dur
 Fra det G.T.:	Esajas' Bog 29, 17-21
 Salme: 9 &quot;O store Gud! Vi love dig&quot;
 Fra det N.T.:	Matthæusevangeliet 20, 29-34
 Korvers: Per Skriver: Salige er de øjne (Tekst: Lukas 10, 23b-24)
 Salme: 173 &quot;Ét vidste han om vejen frem&quot;
 Postludium: Mads Høck: O store Gud, din kærlighed</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Wed, 01 Oct 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-1-okt-2025-11042505403</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c687b626ea9bb0fa158/dd3fb073145869e9c8fcbde7faf4e64e0d7f26cc82d74e2cf9bc4dfefe709735" length="36055718" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 30. sep. 2025</title>
-      <description>Præludium: Fabrizio Fontana: Ricercare e-mol
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Wed, 01 Oct 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-1-okt-2025-11042505403</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c687b626ea9bb0fa158/dd3fb073145869e9c8fcbde7faf4e64e0d7f26cc82d74e2cf9bc4dfefe709735" length="36055718" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 30. sep. 2025</title>
+   <description>Præludium: Fabrizio Fontana: Ricercare e-mol
 Fra det G.T.:	Esajas' Bog 42, 5-9
 Salme: 579, vers 1-3 &quot;Vor tro den er et lys&quot;
 Fra det N.T.:	Matthæusevangeliet 20, 20-28
 Korvers: Per Skriver: Salige er de øjne (Tekst: Lukas 10, 23b-24)
 Salme: 609 &quot;Dybt fornedres skal enhver&quot;
 Postludium: Frederik Sixten: Hymn (2007)</description>
-      <itunes:duration>00:24:54</itunes:duration>
-      <pubDate>Tue, 30 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-30-sep-2025-11042505402</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c6861175376c1099f4d/a400e44a7fc81a6e309915d75a3b2325c443aec76363fba5c1690c4e4576c953" length="35875430" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 29. sep. 2025</title>
-      <description>Præludium:	Thomas Arne: Con Spirito
+   <itunes:duration>00:24:54</itunes:duration>
+   <pubDate>Tue, 30 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-30-sep-2025-11042505402</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c6861175376c1099f4d/a400e44a7fc81a6e309915d75a3b2325c443aec76363fba5c1690c4e4576c953" length="35875430" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 29. sep. 2025</title>
+   <description>Præludium:	Thomas Arne: Con Spirito
 Ord til dagen: Desmond Tutu
 Salme: 299 &quot;Ånd over ånder, kom ned fra det høje&quot;
 Fra det N.T.:	Matthæusevangeliet 20, 1-16
 Korvers: Per Skriver: Salige er de øjne (Tekst: Lukas 10, 23b-24)
 Salme: 170 &quot;Fra verdens morgenstund udgår&quot;
 Postludium: Georg Friedrich Händel: Fuga i D-dur</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Mon, 29 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-29-sep-2025-11042505401</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3a61175376c1099bd3/9dfaca5a9592e5d10c9e87cf2b2b35b2539490968d2b5936931df3d372e1a531" length="36043630" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 27. sep. 2025</title>
-      <description>Præludium: Johann Gottfried Walther: Schmücke dich, o liebe Seele
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Mon, 29 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-29-sep-2025-11042505401</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3a61175376c1099bd3/9dfaca5a9592e5d10c9e87cf2b2b35b2539490968d2b5936931df3d372e1a531" length="36043630" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 27. sep. 2025</title>
+   <description>Præludium: Johann Gottfried Walther: Schmücke dich, o liebe Seele
 Davidssalme: 71,15-18
 Salme: 743 vers 1-4 &quot;Nu rinder solen op af østerlide&quot;
 Fra det N.T.:	Galaterbrevet 5,25-6-8
 Trosbekendelsen 	
 Salme: 743 vers 5-7
 Postludium: Johann Sebastian Bach: Wir glauben all an eine Gott, Schöpfer, BWV 680</description>
-      <itunes:duration>00:24:57</itunes:duration>
-      <pubDate>Sat, 27 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-27-sep-2025-11042505396</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3a7b626ea9bb0f9dbb/f74017b7e139fa853c6794f0f59093e0c4b7220945fd35b75f59c1d137095172" length="35951464" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 26. sep. 2025</title>
-      <description>Præludium: Léon Boëllmann: Lento
+   <itunes:duration>00:24:57</itunes:duration>
+   <pubDate>Sat, 27 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-27-sep-2025-11042505396</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3a7b626ea9bb0f9dbb/f74017b7e139fa853c6794f0f59093e0c4b7220945fd35b75f59c1d137095172" length="35951464" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 26. sep. 2025</title>
+   <description>Præludium: Léon Boëllmann: Lento
 Fra det G.T.: Daniels Bog 7, 9-14
 Salme: 277 &quot;Herre, når din time kommer&quot;
 Fra det N.T.: Matthæusevangeliet 19, 27-30
 Korvers: Johann Sebastian Bach: Gud Helligånd! I tro os lær (Tekst: B. Ringwaldt 1581, S. Jonæson 1693)
 Salme: 279 &quot;Venner, lad kun skyer gråne&quot;
 Postludium: Gabriel Pierné: Entrée</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Fri, 26 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-26-sep-2025-11042505395</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4161175376c1099c6a/f1cfff12da955815136a2d81e064d4235f612214cfa6728ee5427a7db550e7b1" length="36037293" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 25. sep. 2025</title>
-      <description>Præludium: Johann Sebastian Bach: Præludium i e-mol, BWV 533/I
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Fri, 26 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-26-sep-2025-11042505395</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4161175376c1099c6a/f1cfff12da955815136a2d81e064d4235f612214cfa6728ee5427a7db550e7b1" length="36037293" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 25. sep. 2025</title>
+   <description>Præludium: Johann Sebastian Bach: Præludium i e-mol, BWV 533/I
 Fra det G.T.: Ordsprogenes Bog 16, 16-20
 Salme: 738, vers 1-6 O &quot;Gud, ske lov til evig tid&quot;
 Fra det N.T.: Matthæusevangeliet 19, 16-26
 Korvers: Johann Sebastian Bach: Gud Helligånd! I tro os lær (Tekst: B. Ringwaldt 1581, S. Jonæson 1693)
 Salme: 738, vers 7-10
 Postludium: Johann Sebastian Bach: Fuga i e-mol, BWV 533/II</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Thu, 25 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-25-sep-2025-11042505394</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c407b626ea9bb0f9e5d/c043f35e27a98a7034a7454d276f1f309d855311c3a9fb9585116e6cbeeee8d2" length="36042476" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 24. sep. 2025</title>
-      <description>Præludium: Jesper Madsen: O havde jeg dog tusind tunger.
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Thu, 25 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-25-sep-2025-11042505394</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c407b626ea9bb0f9e5d/c043f35e27a98a7034a7454d276f1f309d855311c3a9fb9585116e6cbeeee8d2" length="36042476" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 24. sep. 2025</title>
+   <description>Præludium: Jesper Madsen: O havde jeg dog tusind tunger.
 Fra det G.T.: 1. Mosebog 1,26-31
 Salme: 10 &quot;Alt, hvad som fuglevinger fik&quot;
 Fra det N.T.: Matthæusevangeliet 19, 13-15
@@ -141,220 +155,220 @@ Korvers: Johann Sebastian Bach: Gud Helligånd! I tro os lær (Tekst: B. Ringwal
 Salme: 674, vers 1 - 3 &quot;Sov sødt, barnlille!&quot;
 Postludium: Per Günther: Vor Herre tar de små i favn
 Orgel: Kristoffer Thams</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Wed, 24 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-24-sep-2025-11042505393</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3f7b626ea9bb0f9e40/bdc028662a42ba61d4f6b565afe79600e8abb839423a01576ae91adfbba8b14e" length="36062640" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 23. sep. 2025</title>
-      <description>Præludium: Cesar Franck: Præludium i D-Dur
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Wed, 24 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-24-sep-2025-11042505393</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3f7b626ea9bb0f9e40/bdc028662a42ba61d4f6b565afe79600e8abb839423a01576ae91adfbba8b14e" length="36062640" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 23. sep. 2025</title>
+   <description>Præludium: Cesar Franck: Præludium i D-Dur
 Fra det G.T.: 1. Mosebog 2,18-24
 Salme: 700 &quot;Jeg ved en blomst så favr og fin&quot;
 Fra det N.T.: Matthæusevangeliet 19, 3-12
 Korvers: Johann Sebastian Bach: Gud Helligånd! I tro os lær (Tekst: B. Ringwaldt 1581, S. Jonæson 1693)
 Salme: 308 &quot;Helligånd, vor sorg du slukke&quot;
 Postludium: Per Günther: Helligånd, vor sorg du slukke</description>
-      <itunes:duration>00:24:59</itunes:duration>
-      <pubDate>Tue, 23 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-23-sep-2025-11042505392</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c657b626ea9bb0fa12b/f76ef1bd846a74def4ee60332b6f66da7c121535f61750ba8b23e5ea90034174" length="35979121" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 22. sep. 2025</title>
-      <description>Præludium: Théodore Dubois: Præludium Es-dur
+   <itunes:duration>00:24:59</itunes:duration>
+   <pubDate>Tue, 23 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-23-sep-2025-11042505392</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c657b626ea9bb0fa12b/f76ef1bd846a74def4ee60332b6f66da7c121535f61750ba8b23e5ea90034174" length="35979121" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 22. sep. 2025</title>
+   <description>Præludium: Théodore Dubois: Præludium Es-dur
 Ord til dagen: af Martin Luther
 Salme: 695, vers 1-4 &quot;Nåden hun er af kongeblod&quot;
 Fra det N.T.: Matthæusevangeliet 18, 21-35
 Korvers: Johann Sebastian Bach: Gud Helligånd! I tro os lær (Tekst: B. Ringwaldt 1581, S. Jonæson 1693)
 Salme: 695, vers 5-7
 Postludium: Johann Pachelbel: Toccata c-mol</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Mon, 22 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-22-sep-2025-11042505391</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c657b626ea9bb0fa120/08442ea247203f1eda5b6cba69e67d292709452025afbbf37fb4fb13fc36be53" length="36071856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 20. sep. 2025</title>
-      <description>Præludium: Jesper Madsen: Kærlighed er lysets kilde
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Mon, 22 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-22-sep-2025-11042505391</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c657b626ea9bb0fa120/08442ea247203f1eda5b6cba69e67d292709452025afbbf37fb4fb13fc36be53" length="36071856" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 20. sep. 2025</title>
+   <description>Præludium: Jesper Madsen: Kærlighed er lysets kilde
 Davidssalme: 69,14-17
 Salme: 696 &quot;Kærlighed er lysets kilde&quot;
 Fra det N.T.: Galaterbrevet 5, 22-25
 Trosbekendelsen 	
 Salme: 31 &quot;Til himlene rækker din miskundhed&quot;
 Postludium: Johan Peter Emilius Hartmann: Andantino</description>
-      <itunes:duration>00:24:56</itunes:duration>
-      <pubDate>Sat, 20 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-20-sep-2025-11042505386</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c387b626ea9bb0f9d97/4facd98acf6423884ee3851f05bb352ad47cb6329a4a1562e4f660df001acb29" length="35914606" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 19. sep. 2025</title>
-      <description>Præludium: Heinrich Scheidemann: Præludium d-mol
+   <itunes:duration>00:24:56</itunes:duration>
+   <pubDate>Sat, 20 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-20-sep-2025-11042505386</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c387b626ea9bb0f9d97/4facd98acf6423884ee3851f05bb352ad47cb6329a4a1562e4f660df001acb29" length="35914606" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 19. sep. 2025</title>
+   <description>Præludium: Heinrich Scheidemann: Præludium d-mol
 Fra det G.T.: Salme 8
 Salme: 449 &quot;Vor Herre tar de små i favn&quot;
 Fra det N.T.: Matthæus 18, 6-8 og 10-14
 Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
 Salme: 398 &quot;Dybe, stille, stærke, milde&quot;
 Postludium: William Wolstenholme: Communion F-dur</description>
-      <itunes:duration>00:24:58</itunes:duration>
-      <pubDate>Fri, 19 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-19-sep-2025-11042505385</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3861175376c1099ba2/0ed5a84453b98eca3bee92de0b726c49c31c968606667a4b268e7b257673c777" length="35969325" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 18. sep. 2025</title>
-      <description>Præludium: Johann Friedrich Alberti: Herzlich lieb hab ich dich, o Herr
+   <itunes:duration>00:24:58</itunes:duration>
+   <pubDate>Fri, 19 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-19-sep-2025-11042505385</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3861175376c1099ba2/0ed5a84453b98eca3bee92de0b726c49c31c968606667a4b268e7b257673c777" length="35969325" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 18. sep. 2025</title>
+   <description>Præludium: Johann Friedrich Alberti: Herzlich lieb hab ich dich, o Herr
 Fra det G.T.: Salme 113
 Salme: 745 &quot;Vågn op og slå på dine strenge&quot;
 Fra det N.T.: Matthæus 18, 1-5
 Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
 Salme: 320 &quot;Midt iblandt os er Guds rige&quot;
 Postludium: Williamson John Reynolds: Allegro moderato C-dur</description>
-      <itunes:duration>00:24:54</itunes:duration>
-      <pubDate>Thu, 18 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-18-sep-2025-11042505384</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d83/c3c9eeca08381d41f3a75d8976aa7e676aa5e7401c1c60182958633423f10988" length="35860465" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 17. sep. 2025</title>
-      <description>Præludium: Johann Ludwig Krebs: I dødens bånd vor frelser lå
+   <itunes:duration>00:24:54</itunes:duration>
+   <pubDate>Thu, 18 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-18-sep-2025-11042505384</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d83/c3c9eeca08381d41f3a75d8976aa7e676aa5e7401c1c60182958633423f10988" length="35860465" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 17. sep. 2025</title>
+   <description>Præludium: Johann Ludwig Krebs: I dødens bånd vor frelser lå
 Fra det G.T.: Salme 116, 1-9
 Salme: 580 &quot;Jesus, dødens overvinder&quot;       
 Fra det N.T.: Matthæus 17, 14-23
 Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
 Salme: 228, vers 1-3 &quot;Du er, opstandne sejrshelt&quot;
 Postludium: Helmut Walcha: Du er, opstandne sejershelt</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Wed, 17 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-17-sep-2025-11042505383</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3761175376c1099b9a/790517b4a3d9ee860b6726a01780507b99201a12cbd1073487730b067c343494" length="36064362" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 16. sep. 2025</title>
-      <description>Præludium: Max Reger: Evighedens morgenglans
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Wed, 17 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-17-sep-2025-11042505383</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3761175376c1099b9a/790517b4a3d9ee860b6726a01780507b99201a12cbd1073487730b067c343494" length="36064362" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 16. sep. 2025</title>
+   <description>Præludium: Max Reger: Evighedens morgenglans
 Fra det G.T.: Esajas 6, 1-8
 Salme: 161 &quot;Med strålekrans om tinde&quot;
 Fra det N.T.: Matthæus 17, 1-9
 Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
 Salme: 264 &quot;Herre Jesus, du som troner&quot;
 Postludium: Heinrich Scheidemann: Canzon</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Tue, 16 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-16-sep-2025-11042505382</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d7c/4cda6df967aa3b9e442c6eff7b169b4e994fb08aa5616d81b305c8cda360d325" length="36063211" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 15. sep. 2025</title>
-      <description>Præludium:	Felix Mendelssohn-Bartholdy: Trøst
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Tue, 16 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-16-sep-2025-11042505382</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d7c/4cda6df967aa3b9e442c6eff7b169b4e994fb08aa5616d81b305c8cda360d325" length="36063211" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 15. sep. 2025</title>
+   <description>Præludium:	Felix Mendelssohn-Bartholdy: Trøst
 Ord til dagen: af Dorothee Sölle
 Salme: 46, vers 1-4 &quot;Sorrig og glæde de vandre til hobe&quot;
 Fra det N.T.: Matthæus 16, 24-28
 Korvers: Emil Hartmann: Bliv barn igen (Tekst: N.F.S. Grundtvig)
 Salme: 46, vers 5-7
 Postludium: Anton Heiller: Sorrig og glæde de vandre til hobe</description>
-      <itunes:duration>00:25:00</itunes:duration>
-      <pubDate>Mon, 15 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-15-sep-2025-11042505381</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3761175376c1099b95/c871bbea38ab6daa475f4746d55a861fffaa485c4c8467e6421ced6d55642b9e" length="36006762" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 13. sep. 2025</title>
-      <description>Præludium: Michael Prætorius: Allein auf Gottes Wort will ich
+   <itunes:duration>00:25:00</itunes:duration>
+   <pubDate>Mon, 15 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-15-sep-2025-11042505381</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3761175376c1099b95/c871bbea38ab6daa475f4746d55a861fffaa485c4c8467e6421ced6d55642b9e" length="36006762" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 13. sep. 2025</title>
+   <description>Præludium: Michael Prætorius: Allein auf Gottes Wort will ich
 Davidssalme: 67,2-5
 Salme: 492 vers 1-4 &quot;Guds igenfødte, ny-levende sjæle&quot;
 Fra det N.T.: Galaterbrevet 2, 16-21
 Trosbekendelsen	
 Salme: 492 vers 5-6
 Postludium: Louis James Alfred Lefébure-Wély: Verset G-dur</description>
-      <itunes:duration>00:24:55</itunes:duration>
-      <pubDate>Sat, 13 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-13-sep-2025-11042505376</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d71/637bffac8c77f286390f87cf436a9cc400f676ede0e83c0df545c7a0a4c52b42" length="35884073" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Fredag 12. sep. 2025</title>
-      <description>Præludium: Joseph Haydn: La passione
+   <itunes:duration>00:24:55</itunes:duration>
+   <pubDate>Sat, 13 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-13-sep-2025-11042505376</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c377b626ea9bb0f9d71/637bffac8c77f286390f87cf436a9cc400f676ede0e83c0df545c7a0a4c52b42" length="35884073" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 12. sep. 2025</title>
+   <description>Præludium: Joseph Haydn: La passione
 Fra det G.T.: Esajas 53,1-6
 Salme: 192, vers 1-6 &quot;Hil dig, Frelser og Forsoner&quot;
 Fra det N.T.: Matthæus 16, 21-23
 Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
 Salme: 192, vers 7-9
 Postludium: Frode Bitsch: Hil dig, frelser og forsoner</description>
-      <itunes:duration>00:24:51</itunes:duration>
-      <pubDate>Fri, 12 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-12-sep-2025-11042505375</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c407b626ea9bb0f9e57/88bc01fb5669923892648f8dd4212ccdf2c7d749a838eddbc3ed8753348324ee" length="35808041" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Torsdag 11. sep. 2025</title>
-      <description>Præludium: Carl Eric Rosenquist: Oss kristna bör tro och besinna
+   <itunes:duration>00:24:51</itunes:duration>
+   <pubDate>Fri, 12 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/fredag-12-sep-2025-11042505375</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c407b626ea9bb0f9e57/88bc01fb5669923892648f8dd4212ccdf2c7d749a838eddbc3ed8753348324ee" length="35808041" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Torsdag 11. sep. 2025</title>
+   <description>Præludium: Carl Eric Rosenquist: Oss kristna bör tro och besinna
 Fra det G.T.: Salme 18, 3-7
 Salme: 739, vers 1-2 &quot;Rind nu op i Jesu navn&quot;
 Fra det N.T.: Matthæus 16, 13-20
 Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
 Salme: 54 &quot;Hvad mener I om Kristus&quot;
 Postludium: Cuthbert Harris: Voluntary G-dur</description>
-      <itunes:duration>00:25:03</itunes:duration>
-      <pubDate>Thu, 11 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-11-sep-2025-11042505374</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c497b626ea9bb0f9f0e/6f298be155df132c76c6cccb75e5536b4cc835260d7878d9d9702d30df050644" length="36077611" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Onsdag 10. sep. 2025</title>
-      <description>Præludium: Knud-Erik Jensen: Lover den Herre
+   <itunes:duration>00:25:03</itunes:duration>
+   <pubDate>Thu, 11 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-11-sep-2025-11042505374</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c497b626ea9bb0f9f0e/6f298be155df132c76c6cccb75e5536b4cc835260d7878d9d9702d30df050644" length="36077611" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Onsdag 10. sep. 2025</title>
+   <description>Præludium: Knud-Erik Jensen: Lover den Herre
 Fra det G.T.:	Salme 103, 1-13
 Salme: 2 &quot;Lover den Herre&quot;
 Fra det N.T.: Matthæus 15, 29-31
 Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
 Salme: 740 &quot;Nat, søvn og slum og seng, farvel!&quot;
 Postludium: Johann Sebastian Bach: Kommst du nun, Jesu, vom Himmel herunter</description>
-      <itunes:duration>00:25:01</itunes:duration>
-      <pubDate>Wed, 10 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-10-sep-2025-11042505373</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3661175376c1099b7e/d760040fc53f97f244f6308ae34cbe49386653b69a8c35f85885f82afd38ba81" length="36029800" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tirsdag 9. sep. 2025</title>
-      <description>Præludium: Georg Böhm: Freu dich sehr, o meine Seele
+   <itunes:duration>00:25:01</itunes:duration>
+   <pubDate>Wed, 10 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/onsdag-10-sep-2025-11042505373</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c3661175376c1099b7e/d760040fc53f97f244f6308ae34cbe49386653b69a8c35f85885f82afd38ba81" length="36029800" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tirsdag 9. sep. 2025</title>
+   <description>Præludium: Georg Böhm: Freu dich sehr, o meine Seele
 Fra det G.T.: Salme 25,14-21
 Salme: 338 &quot;Var Gud ej med os denne stund&quot;
 Fra det N.T.: Matthæus 15, 21-28
 Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
 Salme: 158 &quot;Kvindelil, din tro er stor&quot;
 Postludium: Myles Birket Foster: Tempo di Minuetto F-dur</description>
-      <itunes:duration>00:25:02</itunes:duration>
-      <pubDate>Tue, 09 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-9-sep-2025-11042505372</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c367b626ea9bb0f9d55/b4edfb8162db7e8ea3a9d19635c905d1c0529ac857a86a9288885b044720a152" length="36051691" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Mandag 8. sep. 2025</title>
-      <description>Præludium: Johann Sebastian Bach: Herre Jesus, vi er her
+   <itunes:duration>00:25:02</itunes:duration>
+   <pubDate>Tue, 09 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/tirsdag-9-sep-2025-11042505372</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c367b626ea9bb0f9d55/b4edfb8162db7e8ea3a9d19635c905d1c0529ac857a86a9288885b044720a152" length="36051691" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Mandag 8. sep. 2025</title>
+   <description>Præludium: Johann Sebastian Bach: Herre Jesus, vi er her
 Ord til dagen: af Gregor af Nyssa
 Salme: 413 &quot;Vi kommer, Herre, til dig ind&quot;
 Fra det N.T.: Matthæus 15, 1-11
 Korvers: Terje Kvam: Herre over alle slægter (Tekst: Ronald Fangen)
 Salme: 746 &quot;Dig, store Gud, ske ære&quot;
 Postludium: Johann Sebastian Bach: Vi takker dig, Herre Jesus Christ</description>
-      <itunes:duration>00:25:03</itunes:duration>
-      <pubDate>Mon, 08 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-8-sep-2025-11042505371</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c357b626ea9bb0f9d43/7870ead611695bef4db6ca11b3eae924e1a86546c774b76c417c5d66d8203487" length="36085676" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lørdag 6. sep. 2025</title>
-      <description>Præludium:	Thomas Arne: Con Spirito
+   <itunes:duration>00:25:03</itunes:duration>
+   <pubDate>Mon, 08 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/mandag-8-sep-2025-11042505371</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c357b626ea9bb0f9d43/7870ead611695bef4db6ca11b3eae924e1a86546c774b76c417c5d66d8203487" length="36085676" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 6. sep. 2025</title>
+   <description>Præludium:	Thomas Arne: Con Spirito
 Davidssalme: 66,16-20
 Salme: 299 &quot;Ånd over ånder&quot;
 Fra det N.T.:	2. Korintherbrev 3, 4-9
 Trosbekendelsen	
 Salme: 22 &quot;Gådefuld er du, vor Gud!&quot;
 Postludium: Olivier Messiaen: Déchiffrage</description>
-      <itunes:duration>00:24:57</itunes:duration>
-      <pubDate>Sat, 06 Sep 2025 08:05:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-6-sep-2025-11042505366</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4861175376c1099d04/c43d3f678c6e0858465f15178c06865eb14a30bf5f8fb85f21aff4aacab8cbe0" length="35949125" type="audio/mpeg"/>
-    </item>
-  </channel>
+   <itunes:duration>00:24:57</itunes:duration>
+   <pubDate>Sat, 06 Sep 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/loerdag-6-sep-2025-11042505366</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c4861175376c1099d04/c43d3f678c6e0858465f15178c06865eb14a30bf5f8fb85f21aff4aacab8cbe0" length="35949125" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>
