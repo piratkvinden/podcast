@@ -1,0 +1,41 @@
+name: Politiken
+on:
+  schedule:
+    - cron: '*/120 * * * *'  
+  push:  
+    branches: [main]
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        persist-credentials: false  
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run script
+      run: python docs/py/politiken.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Opdateret" || echo "Ingen ændringer at committe"
+        git push https://x-access-token:${GITHUB_TOKEN}@github.com/piratkvinden/podcast.git HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
