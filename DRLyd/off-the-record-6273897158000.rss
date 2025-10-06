@@ -9,6 +9,17 @@ Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne
 Alt det, der gør det fedt at være musikfan!</description>
     <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68342ccab55477aa47215e52?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
     <item>
+      <title>Søndag 5. okt. 2025</title>
+      <description>Her dyrker vi alt det, der gør musik til mere end bare dét, der kommer ud af højtalerne.
+Robert Haugsted dykker ned i tidens mest spændende musikhistorier - og vi er ikke bange for at stikke hovedet for dybt.
+Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne og i afkrogene af musikverdenen.
+Alt det, der gør det fedt at være musikfan!</description>
+      <itunes:duration>01:45:00</itunes:duration>
+      <pubDate>Sun, 05 Oct 2025 12:15:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/soendag-5-okt-2025-16452521407</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d136624e5b979347b25f92/d69666104fc24e01aaa12a4a8c87769ecada1669313df86d1d8b06a8f279f895" length="151202167" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Lørdag 4. okt. 2025</title>
       <description>Her dyrker vi alt det, der gør musik til mere end bare dét, der kommer ud af højtalerne.
 Robert Haugsted dykker ned i tidens mest spændende musikhistorier - og vi er ikke bange for at stikke hovedet for dybt.
@@ -326,14 +337,6 @@ Og så dykker vi ned i et par længe, længe ventede nye singler fra Wet Leg og 
       <pubDate>Sun, 06 Apr 2025 12:15:00 +0000</pubDate>
       <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/hvis-du-er-kedelig-skal-du-bare-vaere-anonym-16452521147</guid>
       <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e50b79d5634992e7220681/8cd99bd45eaef0676a01e8ba7774dd14b859fc4a8034f8b170bd75999fa6bb63" length="151201612" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Hvad mangler vi?</title>
-      <description>I stedet for at kigge på, hvem der spiller på festivalerne til sommer, så lad os snakke om, hvem der IKKE spiller. Og hvem vi lige kunne snige ind på de tomme pladser i programmerne. Det gør vi i dagens udgave. Og så skal du møde Dork, som P6 følger og kommer rætti' tæt på hele april måned.</description>
-      <itunes:duration>01:45:00</itunes:duration>
-      <pubDate>Sat, 05 Apr 2025 12:15:00 +0000</pubDate>
-      <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/hvad-mangler-vi-16452521146</guid>
-      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e50b3ce753c3f559ab45ed/9bf8910ab94ec47bb93c0ea6a856ac7302e38b21ef825d570a3e2952936dbec0" length="151201613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
