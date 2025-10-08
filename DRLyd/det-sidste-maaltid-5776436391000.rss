@@ -7,6 +7,14 @@
 Produceret for DR af Munck Studios København.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68008b8d036df1a93c7e9487?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Ditte Hansen</title>
+   <description>Madanmelder og journalist Lærke Kløvedal inviterer hver søndag en kendt person til at sammensætte et treretters måltid, som var det det sidste. Sammen taler de sig gennem livet og den nekrolog, som Lærke har skrevet inden mødet, der skal give et spillevende portræt af gæsten. Denne uges gæst er skuespiller Ditte Hansen.</description>
+   <itunes:duration>00:54:01</itunes:duration>
+   <pubDate>Fri, 08 Aug 2025 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/det-sidste-maaltid/det-sidste-maaltid-2023/ditte-hansen-16122594001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68555210ae4ae955faf84bd6/42bed356cda22191f6520bac856162845bfc54f2a835b73c0465087a9d1d5058" length="77792126" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Magnus Millang</title>
    <description>Da komiker, skuespiller og instruktør Magnus Millang som ung arbejdede på en tankstation i Virum, blev han dybt optaget af at observere kunderne, der kom fra alle klasser. Magnus Millang har altid været observant og sensitiv over for karaktertræk og stemninger - blandt på grund af sin opvækst med alkoholisme i hjemmet. Da han begyndte at portrættere mennesketyperne fra tankstationen gennem satire, fik hans sensitivitet et sted at lande.
 Vært: Lærke Kløvedal.
@@ -95,14 +103,6 @@ Nekrologen er skrevet særligt på baggrund af artikler fra Euroman 2017, TV2 20
    <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/det-sidste-maaltid/det-sidste-maaltid-2025/andreas-mogensen-16122592101</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:677f988c81654c75b606a672/2d7b18d4ddd54c365aa90558ad5cca0a67e8717c89bbd37bc1f4f7183a638aba" length="83544633" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Ditte Hansen</title>
-   <description>Madanmelder og journalist Lærke Kløvedal inviterer hver søndag en kendt person til at sammensætte et treretters måltid, som var det det sidste. Sammen taler de sig gennem livet og den nekrolog, som Lærke har skrevet inden mødet, der skal give et spillevende portræt af gæsten. Denne uges gæst er skuespiller Ditte Hansen.</description>
-   <itunes:duration>00:54:01</itunes:duration>
-   <pubDate>Fri, 08 Aug 2025 05:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/det-sidste-maaltid/det-sidste-maaltid-2023/ditte-hansen-16122594001</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68555210ae4ae955faf84bd6/42bed356cda22191f6520bac856162845bfc54f2a835b73c0465087a9d1d5058" length="77792126" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
