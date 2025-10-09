@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>TINDER GREATEST</title>
-    <description>Vi byder på feriens bedste selskab, når vi deler vores lytteres vildeste, sjoveste og mest bizarre historier fra datinglivet. Som altid advarer vi mod at lytte med fra stillekupéen, da historierne kan fremkalde ufrivillige latterbrøl.  Vi takker ydmygt for jeres bidrag - og ønsker alle en fantastisk ferie!
+ <channel>
+  <title>TINDER GREATEST</title>
+  <description>Vi byder på feriens bedste selskab, når vi deler vores lytteres vildeste, sjoveste og mest bizarre historier fra datinglivet. Som altid advarer vi mod at lytte med fra stillekupéen, da historierne kan fremkalde ufrivillige latterbrøl.  Vi takker ydmygt for jeres bidrag - og ønsker alle en fantastisk ferie! Du kan sende din historie til friesupyourlife@podimo.com
 
 Tinder Greatest udkommer fredage i alle ferier.
 Følg i appen og få besked når der er nye episoder. 
@@ -18,207 +18,502 @@ Instagram:
 
 Du finder også vores andre podcasts og lydbøger her på Podimo:
 Tinder Greatest, Fries up your life, Fries Meets Guys, En som os</description>
-    <link>https://podimo.com/dk/shows/989483c4-a34f-440a-8b9f-c390a1f721d1</link>
-    <image>
-      <url>https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png</url>
-      <title>TINDER GREATEST</title>
-      <link>https://podimo.com/dk/shows/989483c4-a34f-440a-8b9f-c390a1f721d1</link>
-    </image>
-    <item>
-      <title>MAN ER VEL EN STARFUCKER</title>
-      <description>Sommeren er uendelig i Tinder Greatest-universet og mængden af datinghistorier lige så! I dag byder vi på en lettere uhumsk overraskelse i den svære to’er (ej at misforstå, haha) “Den Falske Franskmand 2” inden vi skal overvære Animal Planet og kendis-serieknepperi i historien “Man Er Vel En Starfucker”. Endelig runder vi af med en smuk fortælling om at miste sin mødom i Tredje Gang Er Lykkens Gang! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">64ecf633-0633-4bf3-9690-316aa0a6bc82</guid>
-      <pubDate>Thu, 25 Jul 2024 02:01:39 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c26615fe-0847-4af2-b5b3-a2eb2ce40e68.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:40:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/0c3f9fac-5483-4191-9520-709d5fd0a6b7_400x400.png"/>
-    </item>
-    <item>
-      <title>EN KÆMPE KRABAT</title>
-      <description>O’høj derude! Det er blevet Tinder Torsdag - og vi starter selvfølgelig dagen med at bryde vores søde lytters ufrivillige cølibat i historien Hot Girl Summer! Bagefter skal vi høre eventyret med den knap så happy ending i “The Italian Loverboy” inden vi lukker og slukker på manér med En Kæmpe Krabat! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">8db6bb35-b3a6-4c21-8335-9c240c74af85</guid>
-      <pubDate>Thu, 18 Jul 2024 01:01:34 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/628902a0-2f59-421f-afa2-4e10c8912ef7.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:41</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/1e805114-c863-42c1-ac33-e795091b440f_400x400.png"/>
-    </item>
-    <item>
-      <title>TOUR DE KNEP</title>
-      <description>Sommeren er over os og hvad passer bedre til juli måned end at drage på et vaskeægte Tour De Knep? Bagegter skal vi selvfølgelig også en tur i kanen med Den Falske Franskmand inder vi runder af med et virkelig liderligt Weekendkursus. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">5551952a-6571-4e9f-9c48-5a8efb226139</guid>
-      <pubDate>Thu, 11 Jul 2024 02:01:36 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/29029bac-5289-43b7-bc71-f1b1a8323e9b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:53</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/36aa9ed9-19a3-48b4-8559-cd4fe5ab765c_400x400.png"/>
-    </item>
-    <item>
-      <title>BUSTED I BAGSMÆKKEN</title>
-      <description>Endnu en frisk ferie-torsdag, endnu en omgang af jeres bedste datinghistorier. I dag starter vi i det nordjyske med historierne 
+  <link>https://podimo.com/dk/shows/989483c4-a34f-440a-8b9f-c390a1f721d1</link>
+  <image>
+   <url>https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png</url>
+   <title>TINDER GREATEST</title>
+   <link>https://podimo.com/dk/shows/989483c4-a34f-440a-8b9f-c390a1f721d1</link>
+  </image>
+  <item>
+   <title>TINDER SURPRISE </title>
+   <description>Traditionen tro fejrer vi appen Tinders fødselsdag med et brag af et fejringsafsnit! Sang, flag og tre helt igennem fantastiske historier, hvor vi lægger ud med at tage et smut på Roskilde og møde ingen ringere end De Frække Telttyve🤣 Derefter skal vi stifte bekendtskab med Den Veludrustede Herre med skumle planer, inden vi runder af med en vaske ægte Anal Krise! Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">8c2b27a7-7e42-4701-9257-abdc98634aa9</guid>
+   <pubDate>Thu, 11 Sep 2025 02:10:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/faec14f8-ded6-448a-81f1-5996b7039f09.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/71e4005c-e183-4b9a-ac16-3489c0e466ce_400x400.png"/>
+  </item>
+  <item>
+   <title>ANAL I ALANYA </title>
+   <description>Sommerens allersidste afsnit af Tinder Greatest! Vi runder af  med et brag, hvor vi lægger ud under varme himmelstrøg med en omgang Anal I Alanya. Bagefter går turen endnu længere sydpå til The Land Downunder hvor vi sammen med fortælleren skal køre en omgang Pink Goon på Dingo’s. Tro mod den danske sommer slutter vi af på festival med intet mindre end en ildelugtende Indershorts Surprise 😂 Rigtig god fornøjelse og af hjertet tak for alle sommerens historier! Vi er tilbage i næste måned med et fejringsafsnit af Tinders fødselsdag 🇩🇰
+</description>
+   <guid isPermaLink="false">b7c07a83-1499-448e-8abc-b9b13c038625</guid>
+   <pubDate>Thu, 07 Aug 2025 02:10:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7b4be4ac-7e21-48be-8a60-9ba149b008eb.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:53</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/6e95c444-392c-4c5a-b900-3229eadfea63_400x400.png"/>
+  </item>
+  <item>
+   <title>STRAFFEFANGEN </title>
+   <description>Sommerferien går på hæld, men så er det godt, at det næstsidste afsnit af denne omgang tinder består af tre så legendariske historier, at man tror, det er løgn! Vi starter på besøg i udslusningsfængslet, hvor en date tager en helt særlig drejning i hænderne på Straffefangen! Derefter skal vi til en blodig omgang i mødet med Den Lille Og Store Patient inden vi runder af i udlandet med den helt igennem vidunderlige Runner Boy! I gætter aldrig, hvad han gjorde! 
+Rigtig god fornøjelse! 😃 </description>
+   <guid isPermaLink="false">1dcfa197-87b5-4afb-8fbb-b64d30cf8209</guid>
+   <pubDate>Thu, 31 Jul 2025 03:11:32 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/863679d9-d48f-4c54-8323-10379e112cd8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/1d4ba6fe-190e-4416-be63-bdd5e5426ac0_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN TIGGENDE SPILLEMAND</title>
+   <description>Vi starter dagens afsnit ud i smilets by, hvor en date med Novellefyren får en særdeles uventet afslutning! ❤️ Derefter skal kærligheden findes et utroligt sted i eposet Pornopik og Køkkenknep før vi lukker og slukker på festival med Den Tiggende (og nøgne) Spillemand 😀 Rigtig god fornøjelse! 
+</description>
+   <guid isPermaLink="false">b2229374-62a2-4a16-ab27-2a87e596f7a2</guid>
+   <pubDate>Thu, 24 Jul 2025 02:11:27 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/80c305eb-3dd9-4f90-8d41-01c6413317ef.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:36</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/e2e857f0-4f52-400f-b51b-5d3087e0fe88_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN ÆLDSTE, MØGBEHÅREDE STOL</title>
+   <description>Vi starter dagens afsnit, hvor vi sluttede i sidste uge: nemlig hjemme i Nordens Paris! Denne gang skal vi en tur i kanen med Den Sovende, Slikkende Skotte inden vi skal med en ung lytter på besøg i Den Ældste Møgbehårede stol! Til sidst afslører Jose et skjult talent i det fantastiske eventyr om Elverknaldet, hvilket efterlader Nanna i en decideret chokstilstand. Rigtig god fornøjelse :D </description>
+   <guid isPermaLink="false">ef6164f2-484b-4b14-87e4-515677cc1a85</guid>
+   <pubDate>Thu, 17 Jul 2025 02:10:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c50bcff9-4317-44ae-b354-7d43f97c0dac.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:44</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/2947f873-7713-418a-bd4a-b8c1ced2491d_400x400.png"/>
+  </item>
+  <item>
+   <title>ONE NIGHT IN AALBORG </title>
+   <description>Sommeren ruller på og det samme gør datinghistorierne! I dagens afsnit lægger vi hårdt ud på en date med en professionel sportsudøver i historien “Må jeg stadig låne din HBO?” 😆  Bagefter tager vi en sexy runde med “Den aseksuelle, der slet ikke var det alligevel” inden vi runder af på hotel i byernes by med den sexede “One night in Aalborg”! Rigtig god fornøjelse ❤️</description>
+   <guid isPermaLink="false">d4f14071-b4f9-4482-96d9-b59a94414f77</guid>
+   <pubDate>Thu, 10 Jul 2025 02:10:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/888c00c3-3938-4ec8-8b31-811afb85740e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/48c735ab-f2e1-4a96-9453-95d5b9942d06_400x400.png"/>
+  </item>
+  <item>
+   <title>EN RØVSLIKKER OG EN GENTLEMAN - ROSKILDE SPECIAL</title>
+   <description>Godmorgen venner! Som en helt særlig “special treat” har vi optaget vores live pop-up show fra Camp Shot Sherifferne på Roskilde Festival. Vi byder derfor på lyd af lidt svingende kvalitet, men ekstremt højt humør og hele fire fantastiske historier. Vi lægger ud på teenage-værelset med “Det er min søn!”, så drøner vi til utippet sexytime på “Krøllebøllevej” inden vi runder byen i mødet med en “Røvslikker og en gentleman” 😃 Vi lukker og slukker selvfølgelig med “Fejlopkald = hospitalstur” fra selveste Roskilde! Rigtig god fornøjelse! </description>
+   <guid isPermaLink="false">75658860-a3dd-4f6f-93fd-b09f8793ecb7</guid>
+   <pubDate>Sun, 06 Jul 2025 07:29:22 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/16c6d896-15d0-4f23-ab6e-cc1b9daa6eb8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:34</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>JEG VIL AMMES NU</title>
+   <description>Hold på hat og briller, for dagens episode af Tinder Greatest byder på tre helt legendariske historie. Vi lægger blodigt ud med en omgang Minigolf og Sprunget Pikstreng, inden vi skal have den fantastiske lortekaster-historie Den Flyvende Kokosnød. Vi slutter af med en ægte Kink Surprise i historien Jeg Vil Ammes Nu! Rigtig god fornøjelse 
+
+VIL DU OPLEVE OS LIVE MED POP-UP SHOW PÅ ROSKILDE FESTIVAL FREDAG D. 4? Vi ses 10.30 i Dream City H68 hos Camp Shots Sherifferne 
+</description>
+   <guid isPermaLink="false">31ca865a-3533-43d0-b039-e8d4c0830cb6</guid>
+   <pubDate>Thu, 03 Jul 2025 02:11:25 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/01886e47-a7e7-444f-a6e0-692da5ba6421.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7bb0cf12-96ab-4893-bb2d-f70205300414_400x400.png"/>
+  </item>
+  <item>
+   <title>HÅNDKLÆDEFYREN</title>
+   <description>Sommerferien er over og vi kommer til at byde på Tinder Greatest hele syv torsdage i træk! Vi lægger benhårdt ud med historien om “Pigen, der prøvede en strap-on for første gang” inden vi skal en tur på festival og have et hot møde med “Hr. Grower!” Vi runder af med et lidt for ømt øjeblik i selskab med “Håndklædefyren” - det er bare at læne sig tilbage og nyde hele molevitten! Tak for historierne og rigtig god fornøjelse. 
+
+VIL DU OPLEVE OS LIVE MED POP-UP SHOW PÅ ROSKILDE FESTIVAL FREDAG D. 4? Tjek vores Insta friesb4guyspodcast ud den kommende tid for mere info. </description>
+   <guid isPermaLink="false">9a033685-984f-4e0b-b1f0-c5c7595980d9</guid>
+   <pubDate>Thu, 26 Jun 2025 03:11:34 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/5ce1e6c6-2ee4-4c0f-bcd7-959fb89e12c8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:49</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/8766dc21-8261-4114-8a39-15c652ee2f63_400x400.png"/>
+  </item>
+  <item>
+   <title>SLIKKEMINISTEREN</title>
+   <description>Så er der hattrick! Sidste omgang af Tinder Greatest er landet i en (lettere sen) pinseversion - men vi er tilbage igen om kun to uger med afsnit til hele din sommer! Inden da skal vi dog have en vild oplevelse med Opkast På Model-Penis inden vi skal med til et vaskeægte Meet-Cute På Løbeturen 🫶 Vi lukker og slukker på de højeste tinder i mødet med ingen ringere end Slikkeministeren! Rigtig god fornøjelse! 
+
+Skal I med til Tinder Greatest Live På Marienlyst i 2026?
+
+Køb billet https://www.ticketmaster.dk/event/dinnershow-med-fries-before-guys-tinder-greatest-billetter/9576595</description>
+   <guid isPermaLink="false">2ca9ae76-7c31-4e49-a0a8-4dfc7fe9b8aa</guid>
+   <pubDate>Thu, 12 Jun 2025 03:11:31 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/26719a72-4828-4706-8ff0-2785c6da6d60.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:32:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ca134243-4c01-4947-8510-cb31434dc34b_400x400.png"/>
+  </item>
+  <item>
+   <title>PITABRØDSMANDEN</title>
+   <description>Glædelig grundlovsdag vennerne! Humøret er højt i studiet, når vi skal med på en af de mest bizarre dates i nyere tid med ingen ringere end Pitabrødsmanden! Bagefter napper vi 24 legendariske timer i Aya Napa, hvor det bestemt ikke går stille for sig. 
+Vores gæsteværter er Anna Munch og Karoline Hamm, der begge er aktuelle i filmen SMUKKERE, der går i biografen LIGE NU! Se den, den er mega god!
+</description>
+   <guid isPermaLink="false">d967ba33-fcca-426e-b063-2c8ef8b22695</guid>
+   <pubDate>Thu, 05 Jun 2025 03:11:40 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/253e1fdb-39c6-4021-a11e-2127c314bdc7.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:40:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/c249f2a9-f761-4b00-80b8-4216af40b577_400x400.png"/>
+  </item>
+  <item>
+   <title>PROPTRÆKKEREN </title>
+   <description>Tinder Greatest er tilbage de næste tre torsdage! I dagens afsnit har vi fantastiske Carla Mickelborg som medvært. Vi starter på toppen i sydens varme med Cumshot Og Synkronknepning inden det går støt nedad i mødet med Det “Tyggegummignaskende Finansflop.” Endelig lukker og slukker vi med den mildt chokerende  “Proptrækkeren” :) Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">0be4104d-a7eb-4355-9916-6b767039aaa1</guid>
+   <pubDate>Thu, 29 May 2025 03:11:22 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f40e6166-8a0f-4ff6-846a-19b11f2705aa.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:39:54</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/a4c5ea45-9ba3-4df2-9a7a-c595f47acd15_400x400.png"/>
+  </item>
+  <item>
+   <title>POOL, PIK OG PISTI</title>
+   <description>Vi lægger ud med en hel dobbelt-romance under sydens sol i historien Pool, Pik og Pisti! 
+Bagefter har vi fornøjelsen af at være fluen på væggen under en vaskeægte hoe-fase på Roskilde Festival i historien “Må Jeg Vise Dig Området?”, inden vi slutter med den hjertevarme og dryppende liderlige historie “Sæt Din Tinder Til Kvinder!”
+Rigtig god fornøjelse, vi er tilbage igen med flere historier i uge 22 i gode gamle kristi himmelfart ferie :D</description>
+   <guid isPermaLink="false">ca5f0dc0-558c-4279-9c74-b9a25aeaa01d</guid>
+   <pubDate>Thu, 17 Apr 2025 00:00:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2278d574-3114-44e4-abc1-4ca9e746f9ff.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:35:46</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>WHAT THE FUCK IS THIS</title>
+   <description>Vi tager forskud på påsken med et dugfriskt afsnit af Tinder Greatest! Spænd sikkerhedsselen og hold på hat og briller, for det går vildt for sig i dagens episode, hvor vi først skal høre om en tampon på afveje i det mexicanske eventyr “What The Fuck Is This”! Bagefter skal vi med en nyligt fraskilt på date med den såkaldte pizzamand, inden der står afføring på programmet i Solidaritetshistorien Til Lortekasteren, der ikke er en datinghistorie, men som blot var for god til ikke at komme med. Vi lyttes ved igen næste torsdag! Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">99e86128-0956-47db-a0d7-040943618d2b</guid>
+   <pubDate>Thu, 10 Apr 2025 03:11:13 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c817cac8-55c2-4d5b-a937-d6cf5c41c6dd.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ce8c5831-2dcd-4a3a-ad13-b8efcd54bf91_400x400.png"/>
+  </item>
+  <item>
+   <title>TREKANT PÅ KOLLEGIET</title>
+   <description>Vinterferien er slut og vi runder af med et lykkeligt hattrick - tre historier fra nær og fjern med masser af sex og god energi! Først skal vi med til kollegiefest, der ender i en trekant på altanen og en fantastisk rejse. Derefter suger vi varmen til os sammen med Den Dynamiske Duo i Cambodia inden vi skal have det endnu mere hot på Zanzibar med Mr. Manager! Rigtig god fornøjelse, vi er tilbage igen i påskeferien med endnu mere Tinder Greatest!</description>
+   <guid isPermaLink="false">99a7ec5b-d6d6-43d0-93ec-5445378598f0</guid>
+   <pubDate>Thu, 20 Feb 2025 01:00:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2945144d-9b48-408d-8f9e-acdd528d6bc8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN FORSVUNDNE BOLLETAMPON</title>
+   <description>Glædelig vinterferie allesammen! Vi spreder god energi i dagens afsnit, hvor vi først skal lære en meget vigtig livslektie i historien om den forsvundne bolletampon. Bagefter skal vi med to raske ungmøer til Gili T til en omgang med Morild, Mænd og Magiske Møder! Vi slutter af under hjemlige himmelstrøg med et temmelig spooky første møde 👻 Rigtig god fornøjelse, vi er tilbage igen allerede næste torsdag 😀</description>
+   <guid isPermaLink="false">0e6ce35d-e0fb-4681-83ed-c45cfaaa6f0b</guid>
+   <pubDate>Thu, 13 Feb 2025 01:00:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/64bacc22-fbb2-4ed3-927e-1c1b7251957c.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>JEG GIK I PANIK, OKAY</title>
+   <description>Så er der Tinder Greatest hver torsdag i uge 6, 7 og 8! Efter 25-års endt ægteskab skal vi med på Den Første Tinder Date med 90’er finger i strandkanten, inden vi bliver udsat for et decideret Sherlock Holmes-værdigt mysterie i den danske udgave af Tømmermænd i Thailand. Vi lukker med den fuldstændig fantastiske moderne klassiker Jeg Gik I Panik, Okay! Den vil I IKKE gå glip af. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">33e23d85-3718-4e1c-820a-70e82f1a4a8d</guid>
+   <pubDate>Thu, 06 Feb 2025 01:00:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/9064ea0f-196a-4f16-ae25-f675fa7e593e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:43</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN IVRIGE RAPPER</title>
+   <description>Godt nytår til verdens bedste lyttere! Vi kommer jer SELVFØGLELIG til undsætning med verdens bedste kur mod tømmermænd - moralske såvel som fysiske eller åndelige. Vi har for tredje år i træk allieret os med verdens bedste co-host Emilie Molsted aka Jada og den største friend of the pod. Vi skal igennem tre fantastiske fortællinger og lægger hårdt ud med 
+Jeg Har Ikke Skrællet Gulerod, så skal vi møde en desp ung mand i historien Den Ivrige Rapper - inden vi runder af i den latrinære ende med Et Ufrivilligt Golden Shower! Sæt i gang!  
+
+Vil du også starte året med et brag af en aften til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til ekstra showet via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
+   <guid isPermaLink="false">005552b7-b2f5-4c47-97cd-c5706ddcbb3b</guid>
+   <pubDate>Wed, 01 Jan 2025 01:10:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/76144ed1-3db6-41c5-833c-2015323a3427.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:37:42</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/15841259-74c3-44b5-a25a-d16c157b8874_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN ÆLDSTE STOLEDANS</title>
+   <description>Rigtig glædelig 2. Juledag, kære venner! Vi har selvfølgelig en skøn julegave til jer i form af tre helt fantastiske lytterhistorier 😀 Vi lægger saftigt ud med en omgang af Den Ældste Stoledans, inden vi drager sydpå til et helt særligt Siciliansk Poolparty 💦 I anledning af den søde juletid, slutter vi selvfølgelig af med at date både Jesus og Paven! Rigtig god fornøjelse! Skal du med til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til vores ekstra show kl. 16 via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
+   <guid isPermaLink="false">600a4cde-6d09-49e8-8c67-98c1761588b7</guid>
+   <pubDate>Thu, 26 Dec 2024 03:11:11 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/98c103b0-2349-438d-a69e-5988479e0582.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:55</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/2f056097-7d37-467b-819e-35234a5e3631_400x400.png"/>
+  </item>
+  <item>
+   <title>THE BOOTY SWALLOWER ft. Thomas og Emil</title>
+   <description>I anledning af juleferien byder vi på et vaskeægte særafsnit med hele fire historier og to utroligt sjove gæster - Thomas Skov og Emil Thorup ❤️ 
+Vi har været en tur i gemmerne fra vores live shows og taget et par af de helt legendariske historier med i denne særlige anledning 😀
+
+Vi skal en tur til Skagen og drikke  
+rosé på dåse i historien No To Daddy, og derefter skal vi møde The Bootyswallower, 
+Hurtigknepperen Der Fik Mig Indlagt og et kæmpe Man Child i Kbh! Rigtig god fornøjelse! 
+
+Vil du med til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til ekstra showet via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
+   <guid isPermaLink="false">fc513359-b4b6-417d-94f6-d67c8f97de0d</guid>
+   <pubDate>Thu, 19 Dec 2024 03:11:15 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/a78eea7a-286d-402b-9892-39c0c7b0aa52.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:40:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/264551ea-186c-4703-9be2-ed4b3292c851_400x400.png"/>
+  </item>
+  <item>
+   <title>SWEET TALKER</title>
+   <description>I dagens afsnit lægger vi ud med en kondomjagt i smilets by i historien “Jeg Kan Ikke Få Det ud.” Bagefter skal vi bevidne et vildt møde mellem en ung liderbuks og en ny, udenlandsk medarbejder i “Sweet Talker” - for til sidst at stifte bekendtskab med en enorm Schlong i historien “Øh, Er Det Ikke Lidt For Sent Nu?” Rigtig god fornøjelse! 
+
+Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
+
+Følg vores adventskalender Kender Du Juletypen på vores insta friesb4guyspodcast og på YouTube🎅🏼</description>
+   <guid isPermaLink="false">812a7d46-1557-44c6-939b-549222a6e16a</guid>
+   <pubDate>Thu, 12 Dec 2024 04:11:10 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b5a6d671-9efc-43f6-8a90-aecedc06e57f.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/fbfe8d24-81b5-4150-a87f-30cf242ef20c_400x400.png"/>
+  </item>
+  <item>
+   <title>JESSIE’S GIRL PT. 2</title>
+   <description>Vi skal endnu en gang med på sexy nostalgi-trip til Auckland, inden turen omsider går hjem til DK. Her skal vi selvfølgelig Med Kendis På Hotel, hvilket bestemt ikke går stille - eller renligt - for sig. Vi lukker og slukker med en genkendelig historie fra en 3.g’er kaldet Zero Søvn og Zero Orgasme. Rigtig god fornøjelse! 
+
+Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
+
+Følg vores adventskalender Kender Du Juletypen på vores insta friesb4guyspodcast og på YouTube🎅🏼</description>
+   <guid isPermaLink="false">373027f9-46a2-4a99-8a71-1c721591b6a1</guid>
+   <pubDate>Thu, 05 Dec 2024 01:00:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/26cd5f37-0d28-4a9e-a856-68ead8bc0686.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:00:28</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN GAVMILDE VAMPYR</title>
+   <description>Julen har bragt velsignet bud! Seks torsdage i streg med Tinder Greatest - fra alle os til alle jer 🎄 Vi lægger ud med at tage på hot date med Mr. Green Flag inden vi skal have det rigtig vildt med vennerne Luna &amp; Rosa i historien Den Gavmilde Vampyr! Endelig skal vi lytte til første del af den saftdryppende Jessie’s Girl! Rigtig god fornøjelse!
+
+Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
+
+Følg vores adventskalender Kender Du Juletypen på Instagram friesb4guyspodcast!</description>
+   <guid isPermaLink="false">be74e6f2-0ace-4ba6-9e14-509e127d7d81</guid>
+   <pubDate>Thu, 28 Nov 2024 01:00:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/cc3a7186-3054-435e-b2df-56f7d9ec57fe.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:33:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN VILD WEEKEND I MEXICO DEL 2</title>
+   <description>Vi skal tilbage til det Mexicanske paradis og høre fortsættelsen til En Vild Weeked I Mexico fra episoden Sushi Skateren, hvor vi skal direkte fra 
+den hotte Antoine til en tysk Ryan Gosling! Derefter skal vi høre endnu en orgasmisk solskinshistorie Den Bedste Udsigt inden vi runder af på klammeste vis med En Rigtig Lortekæreste. 
+
+Tinder Greatest er retur i uge 48! DER ER MEGET FÅ BILLETTER TIL DET KÆMPE STORE TINDER GREATEST LIVE SHOW! Køb din billet her https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/57006/#tixsp og husk at sende os din historie, hvis den skal med til Live Show!</description>
+   <guid isPermaLink="false">da5938a8-3d93-42b0-9622-a292db00bc1f</guid>
+   <pubDate>Thu, 17 Oct 2024 03:01:35 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1421dec9-2e17-4e69-9ec0-d83c14ba1786.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:08</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/79486eab-f043-4616-9152-bb9b58e4993f_400x400.png"/>
+  </item>
+  <item>
+   <title>EN BOGSTAVELIGT TALT LORTET HISTORIE</title>
+   <description>Efterårsferien er over os og vi byder på hele to afsnit af Tinder Greatest denne og næste torsdag 😍 Indbakken bugner af legendariske dates og dagens historier er ingen undtagelse 🤠 Vi lægger ud med et aalborgensisk møde med Den Ekstralagrede Sofavælger inden vi skal til et sexet møde med en Højtstønnende Polak 🔥 Vi lukker og slukker med et gensyn gone wrong i En Bogstaveligt Talt Lortet Historie! 😅 Rigtig god fornøjelse!
+
+DER ER NU MELDT FÅ BILLETTER TIL DET KÆMPE TINDER GREATEST LIVE SHOW! Køb din billet her https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/57006/#tixsp og husk at sende os din historie, hvis den skal med til Live Show!</description>
+   <guid isPermaLink="false">4421fae8-8367-4aab-aa11-21dc40074d4e</guid>
+   <pubDate>Thu, 10 Oct 2024 00:01:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/3fdbf472-a333-4445-8383-e775d10b9d2e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:43</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>SUSHI SKATEREN</title>
+   <description>Appen Tinder har fødselsdag - og det fejrer vi i dag med tre helt fantastiske historier! Vi lægger benhårdt ud med den utrolige fortælling om daten fra helvede med Sushi Skateren før vi skal på ferie med to veninder og nyde en omgang Danish Pussy. Vi lukker og slukker festen med En Vild Weekend i Mexico Del 1! Vi er tilbage med Del 2 og meget mere Tinder Greatest på torsdag i uge 41. Men hold øje med vores Instagram i mellemtiden - for snart annoncerer vi noget vildt!</description>
+   <guid isPermaLink="false">7956827d-82c8-4709-bb9c-2ba8b59418b7</guid>
+   <pubDate>Thu, 12 Sep 2024 02:01:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/d920474f-fefe-4d6c-bb1f-23cd54463b81.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/c4ee89e4-eda8-4a5b-ac70-26fb359f851b_400x400.png"/>
+  </item>
+  <item>
+   <title>ENKELTMANDSSENGEN</title>
+   <description>Sommeren går på hæld og i dagens afsnit presser vi citronen for det allersidste rejse-juice! Men inden vi drager mod det store udland, starter vi under hjemlige himmelstrøg, når vi skal på besøg i Enkeltmandssengen! Derefter tager vi på ultrasexy Solotrip til Østeuropa og runder af i støvlelandet med en omgang af The Italian Tongue. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">5e5d381c-859a-4a0c-a334-d2f680a8b4dc</guid>
+   <pubDate>Thu, 08 Aug 2024 02:01:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/3b981457-81c6-4785-8573-734fe72cc752.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:56</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/b0efca73-f39e-420f-a18e-956249f3e2ae_400x400.png"/>
+  </item>
+  <item>
+   <title>TYS TYS TUREN</title>
+   <description>Dagens afsnit er en form for datingens tre-trins raket, hvor liderlighed og livslektier står i kø! Vi lægger ud med det hotteste hook-up til Gymnasiefesten hvorefter vi skal på tre måneders rundrejse i Asien med The Grand Finale i Berlin i historien “KitKat!” Til sidst er der lagt op til en legendarisk Tys Tys Sommerhustur med en meget lykkelig slutning. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">ed7d9bd2-1ca8-4dca-a603-df6956069649</guid>
+   <pubDate>Thu, 01 Aug 2024 02:01:46 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/73af5c1a-3773-4250-b91a-9d3636873c05.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ef655eff-30e5-4832-8306-db81fb5ad9d3_400x400.png"/>
+  </item>
+  <item>
+   <title>MAN ER VEL EN STARFUCKER</title>
+   <description>Sommeren er uendelig i Tinder Greatest-universet og mængden af datinghistorier lige så! I dag byder vi på en lettere uhumsk overraskelse i den svære to’er (ej at misforstå, haha) “Den Falske Franskmand 2” inden vi skal overvære Animal Planet og kendis-serieknepperi i historien “Man Er Vel En Starfucker”. Endelig runder vi af med en smuk fortælling om at miste sin mødom i Tredje Gang Er Lykkens Gang! Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">64ecf633-0633-4bf3-9690-316aa0a6bc82</guid>
+   <pubDate>Thu, 25 Jul 2024 02:01:39 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c26615fe-0847-4af2-b5b3-a2eb2ce40e68.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:40:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/0c3f9fac-5483-4191-9520-709d5fd0a6b7_400x400.png"/>
+  </item>
+  <item>
+   <title>EN KÆMPE KRABAT</title>
+   <description>O’høj derude! Det er blevet Tinder Torsdag - og vi starter selvfølgelig dagen med at bryde vores søde lytters ufrivillige cølibat i historien Hot Girl Summer! Bagefter skal vi høre eventyret med den knap så happy ending i “The Italian Loverboy” inden vi lukker og slukker på manér med En Kæmpe Krabat! Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">8db6bb35-b3a6-4c21-8335-9c240c74af85</guid>
+   <pubDate>Thu, 18 Jul 2024 01:01:34 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/628902a0-2f59-421f-afa2-4e10c8912ef7.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/1e805114-c863-42c1-ac33-e795091b440f_400x400.png"/>
+  </item>
+  <item>
+   <title>TOUR DE KNEP</title>
+   <description>Sommeren er over os og hvad passer bedre til juli måned end at drage på et vaskeægte Tour De Knep? Bagegter skal vi selvfølgelig også en tur i kanen med Den Falske Franskmand inder vi runder af med et virkelig liderligt Weekendkursus. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">5551952a-6571-4e9f-9c48-5a8efb226139</guid>
+   <pubDate>Thu, 11 Jul 2024 02:01:36 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/29029bac-5289-43b7-bc71-f1b1a8323e9b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:53</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/36aa9ed9-19a3-48b4-8559-cd4fe5ab765c_400x400.png"/>
+  </item>
+  <item>
+   <title>BUSTED I BAGSMÆKKEN</title>
+   <description>Endnu en frisk ferie-torsdag, endnu en omgang af jeres bedste datinghistorier. I dag starter vi i det nordjyske med historierne 
 Busted i bagsmækken og Kysseleg til Karneval inden vi passende lukker og slukker i En Pøl Af Bræk 😂 Rigtig god fornøjelse! Vi ses på Roskilde Festival i Camp L103 kl. 11 (lige ved flokkr-scenen)</description>
-      <guid isPermaLink="false">81768b06-15b2-4f69-a067-38db9a6c6860</guid>
-      <pubDate>Thu, 04 Jul 2024 01:01:35 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7a00f05f-78e1-4c5b-95d4-69e9633761d4.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/701b368a-bf5d-4051-8324-16c6c81b29af_400x400.png"/>
-    </item>
-    <item>
-      <title>THE ITALIAN STALLION</title>
-      <description>Sommeren er over os! De næste syv uger kan kan du hver torsdag se frem til at nyde et dugfriskt afsnit af Tinder Greatest med de mest crazy historier! I dagens afsnit skal vi en tur i kanen med Harry Potter og Den Hårde Pik, inden vi tager på afveje med the  
+   <guid isPermaLink="false">81768b06-15b2-4f69-a067-38db9a6c6860</guid>
+   <pubDate>Thu, 04 Jul 2024 01:01:35 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7a00f05f-78e1-4c5b-95d4-69e9633761d4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/701b368a-bf5d-4051-8324-16c6c81b29af_400x400.png"/>
+  </item>
+  <item>
+   <title>THE ITALIAN STALLION</title>
+   <description>Sommeren er over os! De næste syv uger kan kan du hver torsdag se frem til at nyde et dugfriskt afsnit af Tinder Greatest med de mest crazy historier! I dagens afsnit skal vi en tur i kanen med Harry Potter og Den Hårde Pik, inden vi tager på afveje med the  
 Girl Next Door! Derefter er der et moderne eventyr i sigte med The Italian Stallion - og for at fejre, at ferien endelig er skudt i gang, byder vi på en lille, sød bonushistorie! Rigtig god fornøjelse! 💦</description>
-      <guid isPermaLink="false">dc99c02a-a5a8-4ae3-9106-96f509a5b642</guid>
-      <pubDate>Thu, 27 Jun 2024 00:01:17 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b8b82ebd-bbb4-4208-8c78-e87d9d3107fb.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>KNEPPETUR TIL KRETA</title>
-      <description>Vi fejrer fars dag med hele FIRE af de mest crazy dating historier, masser af daddy-sex og ikke mindst to fuldstændig fantastiske gæsteværter Stephanie og Lea fra “Du Har Det Ikke Fra Mig”! Det er måske årets sjoveste afsnit, venner! Vi lægger benhårdt ud med en vaskeægte Kneppetur til Kreta inden vi drager på date med Kendisfar og lader hårene rejse sig til den moderne datinggyser Femdobbelt Gevinst 😬 Til sidst lukker og slukker vi med en drivvåd læsesalsromance i historien Den Canadiske Flamme! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">df390b55-fa3b-409b-bc4a-9fe690fcc5ed</guid>
-      <pubDate>Thu, 06 Jun 2024 00:01:21 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/e8dea191-10c5-4889-b2e3-fd5685ef5433.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>TELL ME IF IT HURTS</title>
-      <description>Dagens afsnit er dedikeret særligt til alle, der skal ud at swipe på livet løs i ferierne!! Og så advarer vi også om ekstra klammo afsnit 😬
+   <guid isPermaLink="false">dc99c02a-a5a8-4ae3-9106-96f509a5b642</guid>
+   <pubDate>Thu, 27 Jun 2024 00:01:17 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b8b82ebd-bbb4-4208-8c78-e87d9d3107fb.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>KNEPPETUR TIL KRETA</title>
+   <description>Vi fejrer fars dag med hele FIRE af de mest crazy dating historier, masser af daddy-sex og ikke mindst to fuldstændig fantastiske gæsteværter Stephanie og Lea fra “Du Har Det Ikke Fra Mig”! Det er måske årets sjoveste afsnit, venner! Vi lægger benhårdt ud med en vaskeægte Kneppetur til Kreta inden vi drager på date med Kendisfar og lader hårene rejse sig til den moderne datinggyser Femdobbelt Gevinst 😬 Til sidst lukker og slukker vi med en drivvåd læsesalsromance i historien Den Canadiske Flamme! Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">df390b55-fa3b-409b-bc4a-9fe690fcc5ed</guid>
+   <pubDate>Thu, 06 Jun 2024 00:01:21 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/e8dea191-10c5-4889-b2e3-fd5685ef5433.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>01:00:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>TELL ME IF IT HURTS</title>
+   <description>Dagens afsnit er dedikeret særligt til alle, der skal ud at swipe på livet løs i ferierne!! Og så advarer vi også om ekstra klammo afsnit 😬
 
 Vi skal på et vaskeægte romantisk eventyr i byernes by Lloret De Mar, hvor ordene “Tell Me If It Hurts” falder på det helt rigtige tidspunkt. Derefter skal vi med en nyligt fraskilt med skedesvamp på “Den Våde Biltur”. Til sidst runder vi af hos en ung kvinde, der, inspireret af Adidas slogan’ “All In Or Nothing”, tager på en date med flere ildelugtende kropsudsondringer. Rigtig god weekend!</description>
-      <guid isPermaLink="false">3f8ef782-f59b-4cd2-a1f8-993116418d6a</guid>
-      <pubDate>Thu, 23 May 2024 00:01:25 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/65df968a-56be-436e-8453-f385bd7ea03f.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33:07</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DO WE NEED PROTECTION</title>
-      <description>Glædelig Pinse til alle derude! I dagens afsnit starter vi ud med en historie fra et vaskeægte “Hot Girl Year” inden vi går videre til den moderne klassiker “Rimjob, Undertrøje og Hurra!”. Til sidst runder vi af med et Tanzaniansk Eventyr Gone Diarré-Mareridt i historien “Do We Need Protection?”. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">3a6926d2-d397-480d-a599-5e3310e2a8cb</guid>
-      <pubDate>Thu, 16 May 2024 00:01:18 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b4915bc4-f67a-4209-bcc9-cfb1fea66791.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32:00</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN PIKSØGENDE SKANK</title>
-      <description>Glædelig Kristi Himmelfartsferie! Vi fejrer denne hellige dag med at tage på et vaskeægte verdenstogt! Vi starter i vidunderlige Mexico i hot selskab med Den Gode Amigo. Derefter suser vi på Grindr-date i Tennessee, hvor historien Slikkeri og Hulahop udspiller sig. Endelig runder vi af på en backpackerferie i Sydøstasien i selskab med Den Piksøgende Skank. Rigtig god fornøjelse, der er nye afsnit de næste to torsdage, så stay tuned!</description>
-      <guid isPermaLink="false">4e400872-9e5e-4834-b9b6-44c8504a8eec</guid>
-      <pubDate>Thu, 09 May 2024 00:01:17 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/d058db70-c748-49de-ac6a-8c73a0a7b93f.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32:24</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>MISSION NOT SO IMPOSSIBLE</title>
-      <description>I dagens dampende afsnit lægger vi ud på provinsdiskotek i Herning på en helt særlig Mission Not So Impossible inden vi iler videre til en særdeles juicy historie kaldet Min Helt Egen Mr. Grey. Vi lukker og slukker denne påskeferie med moves, der er frækkere end politiet tillader, når vi skal med på Den Hede Kurbadsdate. Rigtig god fornøjelse, Fries er tilbage næste fredag og Tinder Greatest er retur igen i uge 18, 19, 20 og 21. Vi glæder os til at læse jeres historier - tak for alle bidrag 😍
+   <guid isPermaLink="false">3f8ef782-f59b-4cd2-a1f8-993116418d6a</guid>
+   <pubDate>Thu, 23 May 2024 00:01:25 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/65df968a-56be-436e-8453-f385bd7ea03f.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:33:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DO WE NEED PROTECTION</title>
+   <description>Glædelig Pinse til alle derude! I dagens afsnit starter vi ud med en historie fra et vaskeægte “Hot Girl Year” inden vi går videre til den moderne klassiker “Rimjob, Undertrøje og Hurra!”. Til sidst runder vi af med et Tanzaniansk Eventyr Gone Diarré-Mareridt i historien “Do We Need Protection?”. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">3a6926d2-d397-480d-a599-5e3310e2a8cb</guid>
+   <pubDate>Thu, 16 May 2024 00:01:18 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b4915bc4-f67a-4209-bcc9-cfb1fea66791.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:32:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN PIKSØGENDE SKANK</title>
+   <description>Glædelig Kristi Himmelfartsferie! Vi fejrer denne hellige dag med at tage på et vaskeægte verdenstogt! Vi starter i vidunderlige Mexico i hot selskab med Den Gode Amigo. Derefter suser vi på Grindr-date i Tennessee, hvor historien Slikkeri og Hulahop udspiller sig. Endelig runder vi af på en backpackerferie i Sydøstasien i selskab med Den Piksøgende Skank. Rigtig god fornøjelse, der er nye afsnit de næste to torsdage, så stay tuned!</description>
+   <guid isPermaLink="false">4e400872-9e5e-4834-b9b6-44c8504a8eec</guid>
+   <pubDate>Thu, 09 May 2024 00:01:17 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/d058db70-c748-49de-ac6a-8c73a0a7b93f.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:32:24</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>MISSION NOT SO IMPOSSIBLE</title>
+   <description>I dagens dampende afsnit lægger vi ud på provinsdiskotek i Herning på en helt særlig Mission Not So Impossible inden vi iler videre til en særdeles juicy historie kaldet Min Helt Egen Mr. Grey. Vi lukker og slukker denne påskeferie med moves, der er frækkere end politiet tillader, når vi skal med på Den Hede Kurbadsdate. Rigtig god fornøjelse, Fries er tilbage næste fredag og Tinder Greatest er retur igen i uge 18, 19, 20 og 21. Vi glæder os til at læse jeres historier - tak for alle bidrag 😍
 
 Klip og produktion Jakob Ranum fra Studio25.</description>
-      <guid isPermaLink="false">852b1833-a40e-4cc4-be50-9865c155dc69</guid>
-      <pubDate>Thu, 04 Apr 2024 00:01:23 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/76b5ab4b-592d-4ad0-9c90-3de692a94a5e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32:03</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN RIDENDE DILDOMAND - LIVE FRA AARHUS</title>
-      <description>Påsken er over os og for 2. År i træk forkæler vi jer med et helt særligt påskeæg! Tre fantastiske historier fra vores udsolgte Tinder Greatest Live Show i Aarhus inkl. video. Vi er tilbage igen næste fredag med et dugfriskt afsnit til at runde påsken af med! TAK FOR HISTORIERNE
+   <guid isPermaLink="false">852b1833-a40e-4cc4-be50-9865c155dc69</guid>
+   <pubDate>Thu, 04 Apr 2024 00:01:23 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/76b5ab4b-592d-4ad0-9c90-3de692a94a5e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:32:03</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN RIDENDE DILDOMAND - LIVE FRA AARHUS</title>
+   <description>Påsken er over os og for 2. År i træk forkæler vi jer med et helt særligt påskeæg! Tre fantastiske historier fra vores udsolgte Tinder Greatest Live Show i Aarhus inkl. video. Vi er tilbage igen næste fredag med et dugfriskt afsnit til at runde påsken af med! TAK FOR HISTORIERNE
 
 Historie 1: “Den ridende dildomand”
 Historie 2: “Det behøver mor ikke at vide”
 Historie 3: “Bliver forladt for en yngre model”</description>
-      <guid isPermaLink="false">2d72e767-20f6-49c5-b12c-bdb2e6b6022d</guid>
-      <pubDate>Thu, 28 Mar 2024 03:11:22 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8e7acf63-9fcd-47ac-a7e4-e91308065331.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:35:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/e613c7cd-10bb-4418-b15e-b704930ee963_400x400.png"/>
-    </item>
-    <item>
-      <title>ALTID PLADS TIL PARTYFINGER</title>
-      <description>Sidste afsnit inden en tre ugers pause, hvor vi gør klar til dugfriske påskeafsnit 🐣😀
+   <guid isPermaLink="false">2d72e767-20f6-49c5-b12c-bdb2e6b6022d</guid>
+   <pubDate>Thu, 28 Mar 2024 03:11:22 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/8e7acf63-9fcd-47ac-a7e4-e91308065331.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:35:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/e613c7cd-10bb-4418-b15e-b704930ee963_400x400.png"/>
+  </item>
+  <item>
+   <title>ALTID PLADS TIL PARTYFINGER</title>
+   <description>Sidste afsnit inden en tre ugers pause, hvor vi gør klar til dugfriske påskeafsnit 🐣😀
 Vi lægger hårdt ud med en ordentlig omgang Backpacker Pik, inden vi skal opleve spirende kærlighed på kasernen i historien Altid Plads Til Partyfinger! Til slut runder vi af med et akavet smut i kirke med Klaverspilleren Fra Helvede! 
 
 TUSINDE TAK FOR ALLE BIDRAG, KEEP THEM COMING. VI ELSKER JER</description>
-      <guid isPermaLink="false">a638122e-4549-442a-92c6-cba2621247d0</guid>
-      <pubDate>Fri, 23 Feb 2024 02:11:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/fea3d816-7ef7-4cb8-b457-6c95e88a5f6d.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:35:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/7236efc2-25e9-4e4d-b7f3-a22c867972d4_400x400.png"/>
-    </item>
-    <item>
-      <title>HIT AND RUN I VAL THORENS</title>
-      <description>Ingen vinterferie uden et sandt dating-drama fra sydens afterski 😬 
+   <guid isPermaLink="false">a638122e-4549-442a-92c6-cba2621247d0</guid>
+   <pubDate>Fri, 23 Feb 2024 02:11:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fea3d816-7ef7-4cb8-b457-6c95e88a5f6d.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:35:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7236efc2-25e9-4e4d-b7f3-a22c867972d4_400x400.png"/>
+  </item>
+  <item>
+   <title>HIT AND RUN I VAL THORENS</title>
+   <description>Ingen vinterferie uden et sandt dating-drama fra sydens afterski 😬 
 Men inden turen går til Hit And Run I Val Thorens, skal vi forkæles med historien Et Andet Sprøjt, der virkelig overrasker med et drivvådt plot twist 😬 Vi lukker og slukker til firmajulefrokost med historien Stadig Venner På Facebook? Rigtig god fornøjelse, vi lyttes ved i næste uge!</description>
-      <guid isPermaLink="false">9be5ea22-dfb1-4144-9f64-0c21809ba461</guid>
-      <pubDate>Fri, 16 Feb 2024 02:11:15 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/348aaaa7-3761-4121-b6f9-7b343f6cb69e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33:23</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/5aab9606-393b-4d8d-b16d-502cf55be3ec_400x400.png"/>
-    </item>
-    <item>
-      <title>LONDON EYE</title>
-      <description>Vinterferie i land og by! 
+   <guid isPermaLink="false">9be5ea22-dfb1-4144-9f64-0c21809ba461</guid>
+   <pubDate>Fri, 16 Feb 2024 02:11:15 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/348aaaa7-3761-4121-b6f9-7b343f6cb69e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:33:23</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/5aab9606-393b-4d8d-b16d-502cf55be3ec_400x400.png"/>
+  </item>
+  <item>
+   <title>LONDON EYE</title>
+   <description>Vinterferie i land og by! 
 Det betyder dugfriske afsnit af Tinder Greatest hele tre fredage i træk 😬 I dagens afsnit med stort internationalt islæt har vi en vaskeægte klassiker med fra live-shows, der for første gang ser dagens lys i et afsnit! Så tag med på den vildeste tur i London Eye inden “We Are Going To Ibiza” og napper et Sydamerikansk Forår! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">c838f88e-13af-4021-8861-892f435211f1</guid>
-      <pubDate>Fri, 09 Feb 2024 03:01:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/87a94cbf-83da-47e2-a818-827f6bfdf24e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:05</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/043dcf3f-b426-4086-a950-a69342fe98be_400x400.png"/>
-    </item>
-    <item>
-      <title>TRYLLEPIKKEN</title>
-      <description>Godt nytår til verdens bedste lyttere! Årets sidste afsnit indeholder hele FIRE historier - og for 2. år i træk er vores bedste ven og friend of the pod Emilie Molsted aka sangerinden Jada med os i studiet som gæstevært.
+   <guid isPermaLink="false">c838f88e-13af-4021-8861-892f435211f1</guid>
+   <pubDate>Fri, 09 Feb 2024 03:01:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/87a94cbf-83da-47e2-a818-827f6bfdf24e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/043dcf3f-b426-4086-a950-a69342fe98be_400x400.png"/>
+  </item>
+  <item>
+   <title>TRYLLEPIKKEN</title>
+   <description>Godt nytår til verdens bedste lyttere! Årets sidste afsnit indeholder hele FIRE historier - og for 2. år i træk er vores bedste ven og friend of the pod Emilie Molsted aka sangerinden Jada med os i studiet som gæstevært.
 
 Vi starter under danske himmelstrøg med historien CPH Half 🏃‍♀️ Hernæst skal vi til Dublin, hvor historien Morgenbollehår og 8 % finder sted. Så flyver vi til den ultimative sexby Budapest, hvor vi får eventyret om Tryllepikken inden vi runder af med et juletwist i Trekantens Dronning! 😀
 
 SIDSTE UDKALD TIL TINDER GREATEST LIVESHOW! To shows er allerede udsolgte, yderst få billetter tilbage til Bremen d. 18 januar og få billetter til Aarhus d. 2 februar! Køb via https://pdh.dk/tour/friesbeforeguys/?fbclid=PAAaYvKWMV-2yXlGNFrHUEH18tHkLiibXmTKc01D4yBO5_klM2XoEIJ65kNwo_aem_ARLkL-vg9Es-q9lPk7J8uAtGRColSyxJ4dApTg211l41aWp-UW1ujjOwg82pULO3ViU</description>
-      <guid isPermaLink="false">620bb5de-3f8f-4005-ba07-2c063e14b1ec</guid>
-      <pubDate>Fri, 29 Dec 2023 03:01:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/6bbb08ad-5a55-41a5-a5d4-0ccf55bfaa79.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:44:22</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>SLUGER DU EGENTLIG</title>
-      <description>Det er jul, det er cool og i dagens afsnit byder vi på en tidlig julegave med tre skønne datinghistorier! Vi skal på en walk of shame foran mor i historien Sluger Du Egentlig? Derefter er der et overraskende plot twist i Spafyren(e) inden vi runder af med en vild bytur, der byder på Sex På Dansk. 
+   <guid isPermaLink="false">620bb5de-3f8f-4005-ba07-2c063e14b1ec</guid>
+   <pubDate>Fri, 29 Dec 2023 03:01:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/6bbb08ad-5a55-41a5-a5d4-0ccf55bfaa79.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:44:22</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>SLUGER DU EGENTLIG</title>
+   <description>Det er jul, det er cool og i dagens afsnit byder vi på en tidlig julegave med tre skønne datinghistorier! Vi skal på en walk of shame foran mor i historien Sluger Du Egentlig? Derefter er der et overraskende plot twist i Spafyren(e) inden vi runder af med en vild bytur, der byder på Sex På Dansk. 
 
 Rigtig god jul! 
 Hvis du mangler årets julegave er der FÅ billetter til vores Tinder Greatest Live Shows i Aalborg og Aarhus. 
 
 Køb billet her https://pdh.dk/tour/friesbeforeguys/?fbclid=PAAaaSliyZhWHYUDvM8et4GMHcrwJ_8Qw0UtAGlvZ4Uh6ZVASHd6AkQG4D7OA_aem_AUPMgm3xJOugkGTnUlAN-J9O9PkpLVQ9TEz4uQJyvlPBsYmRAkQJKzxtVMdzX8Nz0BI</description>
-      <guid isPermaLink="false">85da38ad-092a-44ba-b7a9-f205f5f32a2e</guid>
-      <pubDate>Fri, 22 Dec 2023 01:01:19 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/9371ceba-3006-4b21-a89c-2962a4cbb93b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:46</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>FRA ORGASME TIL GIFTERMÅL</title>
-      <description>Vi lægger ud med det moderne juleeventyr Fra Orgasme Til Giftermål, når vi rammer en 40-års fødselsdag hos kusinens mand. Herefter skal vi på date med den falske Vin Diesel aka Old Irish Fuser, inden vi slutter med et brag til sommerfest i et lille lokalsamfund, hvor vi møder ingen ringere end Bowleren. 
+   <guid isPermaLink="false">85da38ad-092a-44ba-b7a9-f205f5f32a2e</guid>
+   <pubDate>Fri, 22 Dec 2023 01:01:19 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/9371ceba-3006-4b21-a89c-2962a4cbb93b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:46</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>FRA ORGASME TIL GIFTERMÅL</title>
+   <description>Vi lægger ud med det moderne juleeventyr Fra Orgasme Til Giftermål, når vi rammer en 40-års fødselsdag hos kusinens mand. Herefter skal vi på date med den falske Vin Diesel aka Old Irish Fuser, inden vi slutter med et brag til sommerfest i et lille lokalsamfund, hvor vi møder ingen ringere end Bowleren. 
 
 SKAL DU OPLEVE TINDER GREATEST LIVE I DET NYE ÅR? DER ER FÅ BILLETTER TILBAGE! 
 
 Køb billet her https://pdh.dk/tour/friesbeforeguys/?fbclid=PAAaaSliyZhWHYUDvM8et4GMHcrwJ_8Qw0UtAGlvZ4Uh6ZVASHd6AkQG4D7OA_aem_AUPMgm3xJOugkGTnUlAN-J9O9PkpLVQ9TEz4uQJyvlPBsYmRAkQJKzxtVMdzX8Nz0BI</description>
-      <guid isPermaLink="false">d9f9b345-41a3-4042-ba48-9fdba40a710c</guid>
-      <pubDate>Fri, 15 Dec 2023 03:11:13 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/aefb25a5-391a-44f3-a4e5-7b11c2fb5dba.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:53</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/7ac45932-8889-482f-8389-f87c1d8c4e81_400x400.png"/>
-    </item>
-    <item>
-      <title>NETFLIX AND NO CHILL</title>
-      <description>Ho, ho, ho! Eller skal vi sige Hoe, Hoe, Hoe? 😬 I dagens afsnit af Tinder Greatest lægger vi ud i bedste julestil med en “Tour De Chambre” J-dag Edition. Derefter skal vi opleve Den Aller Første Gang med 60 venner til 17-års fødselsdag  i Børnehaven - inden vi runder af hos en nyligt fraskilt tilflytter, der oplever en overraskende omgang Netflix And No Chill! Rigtig god fornøjelse! 
+   <guid isPermaLink="false">d9f9b345-41a3-4042-ba48-9fdba40a710c</guid>
+   <pubDate>Fri, 15 Dec 2023 03:11:13 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/aefb25a5-391a-44f3-a4e5-7b11c2fb5dba.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:53</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7ac45932-8889-482f-8389-f87c1d8c4e81_400x400.png"/>
+  </item>
+  <item>
+   <title>NETFLIX AND NO CHILL</title>
+   <description>Ho, ho, ho! Eller skal vi sige Hoe, Hoe, Hoe? 😬 I dagens afsnit af Tinder Greatest lægger vi ud i bedste julestil med en “Tour De Chambre” J-dag Edition. Derefter skal vi opleve Den Aller Første Gang med 60 venner til 17-års fødselsdag  i Børnehaven - inden vi runder af hos en nyligt fraskilt tilflytter, der oplever en overraskende omgang Netflix And No Chill! Rigtig god fornøjelse! 
 
 Køb billet til vores Tinder Greatest Live Show her https://pdh.dk/tour/friesbeforeguys/?fbclid=PAAaaSliyZhWHYUDvM8et4GMHcrwJ_8Qw0UtAGlvZ4Uh6ZVASHd6AkQG4D7OA_aem_AUPMgm3xJOugkGTnUlAN-J9O9PkpLVQ9TEz4uQJyvlPBsYmRAkQJKzxtVMdzX8Nz0BI</description>
-      <guid isPermaLink="false">0c1bf34f-dd1a-448d-a702-5d6863a32409</guid>
-      <pubDate>Fri, 08 Dec 2023 03:11:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c040e670-6d25-4a99-84ca-3fff9ab4f69e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:31</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/821b4cc8-0102-4178-98cc-069bf3652fba_400x400.png"/>
-    </item>
-    <item>
-      <title>VIL I HA’ DETALJER, SÅ SKA’ I FÅ DETALJER</title>
-      <description>“Nu det jul igen 
+   <guid isPermaLink="false">0c1bf34f-dd1a-448d-a702-5d6863a32409</guid>
+   <pubDate>Fri, 08 Dec 2023 03:11:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c040e670-6d25-4a99-84ca-3fff9ab4f69e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:31</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/821b4cc8-0102-4178-98cc-069bf3652fba_400x400.png"/>
+  </item>
+  <item>
+   <title>VIL I HA’ DETALJER, SÅ SKA’ I FÅ DETALJER</title>
+   <description>“Nu det jul igen 
 Og tinder titter frem 
 Vi skal på dates der er så pinli’ 
 Nej det ikke sandt? 
@@ -229,160 +524,160 @@ December er brandvarm, der er nye, mere eller mindre liderlige hver eneste freda
 “En Vred Receptionist, 6 Briter På Et Dorm Room Og Dansk og Irsk Pik” inden vi stryger videre til den mest eksplicitte historie i podcastens historie “Vil I Have Detaljer, Så Skal I Få Detaljer” inden vi runder af med en decideret omgang “Lort På Maven.” 😀 Rigtig god fornøjelse! 
 
 Køb billet til vores Tinder Greatest Live Show her https://pdh.dk/tour/friesbeforeguys/?fbclid=PAAaaSliyZhWHYUDvM8et4GMHcrwJ_8Qw0UtAGlvZ4Uh6ZVASHd6AkQG4D7OA_aem_AUPMgm3xJOugkGTnUlAN-J9O9PkpLVQ9TEz4uQJyvlPBsYmRAkQJKzxtVMdzX8Nz0BI</description>
-      <guid isPermaLink="false">40cc2573-3aac-44fb-9e38-31cd5e9f06ed</guid>
-      <pubDate>Fri, 01 Dec 2023 03:51:12 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/0a57d353-199d-446b-9a4f-60144e3ed2d7.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32:39</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/10fc1b3c-5ecb-4171-9cee-804275374f50_400x400.png"/>
-    </item>
-    <item>
-      <title>FOR LÆKKER TIL LOVE</title>
-      <description>Sidste omgang Tinder Greatest inden vi vender stærkt tilbage i december! 
+   <guid isPermaLink="false">40cc2573-3aac-44fb-9e38-31cd5e9f06ed</guid>
+   <pubDate>Fri, 01 Dec 2023 03:51:12 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/0a57d353-199d-446b-9a4f-60144e3ed2d7.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:32:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/10fc1b3c-5ecb-4171-9cee-804275374f50_400x400.png"/>
+  </item>
+  <item>
+   <title>FOR LÆKKER TIL LOVE</title>
+   <description>Sidste omgang Tinder Greatest inden vi vender stærkt tilbage i december! 
 Vi lægger ekstremt akavet ud med en coronadate fra helvede, hvor vi møder en en ung fys, der er alt For Lækker Til Love. Bagefter skal vi høre en blodig halloweengyser kaldet Min Færden På Den Ældste Stol inden vi lukker og slukker med et kæmpe grin til historien om Den Falske Mr. B!
 
 TAK FOR ALLE BIDRAG, KEEP THEM COMING</description>
-      <guid isPermaLink="false">3a366186-1e29-4552-991d-c8eafc3e8e75</guid>
-      <pubDate>Fri, 27 Oct 2023 00:01:11 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c8291211-453c-4b22-94ae-de0d6c839338.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:29</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DO IT FOR THE PLOT</title>
-      <description>Det er efterårsferie og dagens afsnit er som et langt, liderligt kram. Vi skal med en flok skønne damer til det græske øhav, hvor hovedpersonen bliver enig med sig selv om at Do It For The Plot. Bagefter går turen til hjemlige himmelstrøg, hvor vi møder pølsehornsgnaveren i eventyret Læg Lige På. Endelig runder vi af med en vaskeægte kærlighedshistorie, der bl.a. handler om at have en P*k I Røvhullet. Rigtig god fornøjelse!
+   <guid isPermaLink="false">3a366186-1e29-4552-991d-c8eafc3e8e75</guid>
+   <pubDate>Fri, 27 Oct 2023 00:01:11 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c8291211-453c-4b22-94ae-de0d6c839338.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:29</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DO IT FOR THE PLOT</title>
+   <description>Det er efterårsferie og dagens afsnit er som et langt, liderligt kram. Vi skal med en flok skønne damer til det græske øhav, hvor hovedpersonen bliver enig med sig selv om at Do It For The Plot. Bagefter går turen til hjemlige himmelstrøg, hvor vi møder pølsehornsgnaveren i eventyret Læg Lige På. Endelig runder vi af med en vaskeægte kærlighedshistorie, der bl.a. handler om at have en P*k I Røvhullet. Rigtig god fornøjelse!
 
 TAK for historierne. Vi er tilbage igen næste fredag med endnu en omgang ❤️ Pas på jer selv og hinanden!</description>
-      <guid isPermaLink="false">b48f3fac-0d14-4b07-ac08-7deeac73db8c</guid>
-      <pubDate>Fri, 20 Oct 2023 00:01:19 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/77c0f35c-d5f5-480a-abdd-b4b922d95026.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:12</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>MAGNIFIQUE MAGNIPIK</title>
-      <description>Surprise! I anledning af Tinders fødselsdag i denne uge, skulle I selvfølgelig ikke snydes for et dugfriskt og veloplagt afsnit af Tinder Greatest. Vi skal igennem en eksplicit og liderlig tre-trins raket, så spænd sikkerhedsselen! :D Vi starter i Frankrig med et stykke med Magnifique Magnipik, derefter går turen til Lønstrup efter en omgang Double Trouble i strandkanten - slutteligt lander vi på sjælland i et hedt møde med Bagelfyren. Rigtig god fornøjelse, vi vender tilbage med meget mere i efterårsferien!</description>
-      <guid isPermaLink="false">5f376e94-40a8-413b-9b9b-ed5925f7be04</guid>
-      <pubDate>Fri, 15 Sep 2023 00:01:10 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2a531b85-d16d-4430-b3fa-47852142e9d4.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN UFRIVILLIGE OMSKÆRING</title>
-      <description>Den store finale er her! Sommerens sidste omgang af Tinder Greatest byder på hele fire fantastiske dating historier. Vi lægger hårdt ud med skrækhistorien Den Ufrivillige Omskæring, inden vi skal ombord på et 5-stjernet GoMore Lift, hvorefter vi drager videre mod et behåret eventyr med Aske og Askepot. Endelig slutter vi af på en cringe date med Den Velklædte Mand. Rigtig god fornøjelse! 
+   <guid isPermaLink="false">b48f3fac-0d14-4b07-ac08-7deeac73db8c</guid>
+   <pubDate>Fri, 20 Oct 2023 00:01:19 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/77c0f35c-d5f5-480a-abdd-b4b922d95026.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>MAGNIFIQUE MAGNIPIK</title>
+   <description>Surprise! I anledning af Tinders fødselsdag i denne uge, skulle I selvfølgelig ikke snydes for et dugfriskt og veloplagt afsnit af Tinder Greatest. Vi skal igennem en eksplicit og liderlig tre-trins raket, så spænd sikkerhedsselen! :D Vi starter i Frankrig med et stykke med Magnifique Magnipik, derefter går turen til Lønstrup efter en omgang Double Trouble i strandkanten - slutteligt lander vi på sjælland i et hedt møde med Bagelfyren. Rigtig god fornøjelse, vi vender tilbage med meget mere i efterårsferien!</description>
+   <guid isPermaLink="false">5f376e94-40a8-413b-9b9b-ed5925f7be04</guid>
+   <pubDate>Fri, 15 Sep 2023 00:01:10 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2a531b85-d16d-4430-b3fa-47852142e9d4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:33:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN UFRIVILLIGE OMSKÆRING</title>
+   <description>Den store finale er her! Sommerens sidste omgang af Tinder Greatest byder på hele fire fantastiske dating historier. Vi lægger hårdt ud med skrækhistorien Den Ufrivillige Omskæring, inden vi skal ombord på et 5-stjernet GoMore Lift, hvorefter vi drager videre mod et behåret eventyr med Aske og Askepot. Endelig slutter vi af på en cringe date med Den Velklædte Mand. Rigtig god fornøjelse! 
 
 Tinder Greatest vender tilbage til efteråret! TAK for alle bidrag. I er helt geniale.</description>
-      <guid isPermaLink="false">6406165f-11f9-4f8b-ad36-f35d27721a3d</guid>
-      <pubDate>Fri, 04 Aug 2023 00:01:34 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c5495f64-2882-4764-a35e-7f9307e26a58.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>TWO DANISH GIRLS IN DUBROVNIK</title>
-      <description>Sommerferien går lige så stille på hæld, men historierne i Tinder Greatest er stadig i 100 % ferie mode. I dagens afsnit byder vi på de slibrige romaner Kæmpepikken i Bennys Badekar og Two Danish Girls In Dubrovnik inden vi runder af med Farvel Og Tak Næse Sperm 😬 Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">0c2dad4f-b87d-488a-b6f6-ebdaeac0bbfb</guid>
-      <pubDate>Fri, 28 Jul 2023 00:01:28 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/f47771ee-a1d2-4830-a3a4-1e8dddbdad96.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:55</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN LIDERLIGE LÆRLING</title>
-      <description>Dagens afsnit står i liderlighedens tegn, når vi åbner op for to drivvåde romaner. Vi lægger ud med en fantastisk historie med den mundrette titel Den Ældre Håndværkersvend Med “Den Store P!k” På Firmatur i Spanien - eller slet og ret: Den Liderlige Lærling! Derefter skal vi sammen tage et Trin Op og Trin Ned med “Mr. Hot” og “Mr. Bland”. Rigtig god fornøjelse!
+   <guid isPermaLink="false">6406165f-11f9-4f8b-ad36-f35d27721a3d</guid>
+   <pubDate>Fri, 04 Aug 2023 00:01:34 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c5495f64-2882-4764-a35e-7f9307e26a58.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>TWO DANISH GIRLS IN DUBROVNIK</title>
+   <description>Sommerferien går lige så stille på hæld, men historierne i Tinder Greatest er stadig i 100 % ferie mode. I dagens afsnit byder vi på de slibrige romaner Kæmpepikken i Bennys Badekar og Two Danish Girls In Dubrovnik inden vi runder af med Farvel Og Tak Næse Sperm 😬 Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">0c2dad4f-b87d-488a-b6f6-ebdaeac0bbfb</guid>
+   <pubDate>Fri, 28 Jul 2023 00:01:28 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f47771ee-a1d2-4830-a3a4-1e8dddbdad96.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:55</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN LIDERLIGE LÆRLING</title>
+   <description>Dagens afsnit står i liderlighedens tegn, når vi åbner op for to drivvåde romaner. Vi lægger ud med en fantastisk historie med den mundrette titel Den Ældre Håndværkersvend Med “Den Store P!k” På Firmatur i Spanien - eller slet og ret: Den Liderlige Lærling! Derefter skal vi sammen tage et Trin Op og Trin Ned med “Mr. Hot” og “Mr. Bland”. Rigtig god fornøjelse!
 
 Tak for alle bidrag, der er Tinder Greatest hver fredag frem til d. 4 august. I kan sende jeres historie på friesupyourlife@podimo.com ☀️</description>
-      <guid isPermaLink="false">bc59bed1-4ac2-469c-8ad5-e67378c4391a</guid>
-      <pubDate>Fri, 21 Jul 2023 00:01:23 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8d9a4c08-c043-44d1-9fe5-45f7705e65d8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:50</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>BUTT PLUG GONE WRONG</title>
-      <description>Av, av, av, vi har et eksplicit program til jer i dag venner! Vi lægger benhårdt ud med en helt vild omgang Butt Plug Gone Wrong, inden vi drager på sexet Tinder Eventyr på Familieferien og runder af med en (Not So) Wet Hot Gay Summer. Rigtig god fornøjelse! 
+   <guid isPermaLink="false">bc59bed1-4ac2-469c-8ad5-e67378c4391a</guid>
+   <pubDate>Fri, 21 Jul 2023 00:01:23 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/8d9a4c08-c043-44d1-9fe5-45f7705e65d8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>BUTT PLUG GONE WRONG</title>
+   <description>Av, av, av, vi har et eksplicit program til jer i dag venner! Vi lægger benhårdt ud med en helt vild omgang Butt Plug Gone Wrong, inden vi drager på sexet Tinder Eventyr på Familieferien og runder af med en (Not So) Wet Hot Gay Summer. Rigtig god fornøjelse! 
 
 Tak for alle fantastiske bidrag, der er Tinder Greatest hver fredag frem til d. 4 august. I kan sende jeres historie på friesupyourlife@podimo.com ☀️</description>
-      <guid isPermaLink="false">12be2fad-d6af-40f0-92ec-2ae7e1450d32</guid>
-      <pubDate>Fri, 14 Jul 2023 00:01:22 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/02bba84a-e21d-4b20-bf1a-e48087ee75ba.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:48</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>MØDREGRUPPEN</title>
-      <description>I dagens afsnit af Tinder Greatest får vi virkelig trænet lattermusklerne, når vi skal på ekstremt akavet besøg hos Mødregruppen i første historie for siden at rammes af Et Lyn Fra En Klar Himmel inden vi lukker og slukker sammen med Quasimodo i Milano. Rigtig god fornøjelse! 😬 Vi er tilbage igen næste fredag - I kan godt begynde at glæde jer allerede!!!</description>
-      <guid isPermaLink="false">e0b511ee-12c1-4079-b6ea-bc5e9cec1189</guid>
-      <pubDate>Fri, 07 Jul 2023 00:01:24 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/13b784c7-4c1d-454e-81ed-8ad2000f3718.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:22</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>SPRINGRYTTEREN FRA SKØRPING</title>
-      <description>Sommeren er over os og vi har en fantastisk omgang historier til jer ude fra det danske dating landskab. I dagens afsnit er vi på en sand Tour De Jylland, hvor vi starter i Skagen med historien om Springrytteren Fra Skørping, hvorefter vi skal have 
+   <guid isPermaLink="false">12be2fad-d6af-40f0-92ec-2ae7e1450d32</guid>
+   <pubDate>Fri, 14 Jul 2023 00:01:22 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/02bba84a-e21d-4b20-bf1a-e48087ee75ba.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>MØDREGRUPPEN</title>
+   <description>I dagens afsnit af Tinder Greatest får vi virkelig trænet lattermusklerne, når vi skal på ekstremt akavet besøg hos Mødregruppen i første historie for siden at rammes af Et Lyn Fra En Klar Himmel inden vi lukker og slukker sammen med Quasimodo i Milano. Rigtig god fornøjelse! 😬 Vi er tilbage igen næste fredag - I kan godt begynde at glæde jer allerede!!!</description>
+   <guid isPermaLink="false">e0b511ee-12c1-4079-b6ea-bc5e9cec1189</guid>
+   <pubDate>Fri, 07 Jul 2023 00:01:24 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/13b784c7-4c1d-454e-81ed-8ad2000f3718.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:22</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>SPRINGRYTTEREN FRA SKØRPING</title>
+   <description>Sommeren er over os og vi har en fantastisk omgang historier til jer ude fra det danske dating landskab. I dagens afsnit er vi på en sand Tour De Jylland, hvor vi starter i Skagen med historien om Springrytteren Fra Skørping, hvorefter vi skal have 
 Verdens Værste Femkant i Aarhus inden vi slutter i Aalborg med Historien Om Den Ødelagte Bil Der Aldrig Bliver Glemt. Og så byder vi på en godbid med ekstrahistorien You Up? Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">06e03c88-b59d-4d0d-aab3-5a3245b85dff</guid>
-      <pubDate>Fri, 30 Jun 2023 00:01:30 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/e0e77092-538e-4d2b-b5b3-10a82db552e4.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:09</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>ALDRIG MERE UDEN REGNFRAKKE</title>
-      <description>Sommerferien er endelig over os! De næste syv fredage byder vi derfor på legendariske, drivvåde og kiksede historier fra nær og fjern. Læn jer godt tilbage, på med hørebøfferne og nyd det, når vi skal have Hot Besøg Fra Danmark, spille Disc Golf Med Twist og endelig forfærdes over anti-eventyret Aldrig Mere Uden Regnfrakke!</description>
-      <guid isPermaLink="false">6a733078-ab2e-4ed8-be60-70db0a476ee1</guid>
-      <pubDate>Fri, 23 Jun 2023 00:01:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c7877279-79d9-44f6-9168-974c7384c15a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:16</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN USOIGNEREDE DRAMA QUEEN</title>
-      <description>Først skal vi høre historien med den lidet sexede titel Tandbørste og Hytteost aka Den Usoignerede Drama Queen - og så skal vi med i sommerhus til kæmpe Tinderfest Gone Crazy inden vi slutter af med at være fluen på væggen på Den Bedste Dobbelt Date Nogensinde!
+   <guid isPermaLink="false">06e03c88-b59d-4d0d-aab3-5a3245b85dff</guid>
+   <pubDate>Fri, 30 Jun 2023 00:01:30 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/e0e77092-538e-4d2b-b5b3-10a82db552e4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>ALDRIG MERE UDEN REGNFRAKKE</title>
+   <description>Sommerferien er endelig over os! De næste syv fredage byder vi derfor på legendariske, drivvåde og kiksede historier fra nær og fjern. Læn jer godt tilbage, på med hørebøfferne og nyd det, når vi skal have Hot Besøg Fra Danmark, spille Disc Golf Med Twist og endelig forfærdes over anti-eventyret Aldrig Mere Uden Regnfrakke!</description>
+   <guid isPermaLink="false">6a733078-ab2e-4ed8-be60-70db0a476ee1</guid>
+   <pubDate>Fri, 23 Jun 2023 00:01:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c7877279-79d9-44f6-9168-974c7384c15a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN USOIGNEREDE DRAMA QUEEN</title>
+   <description>Først skal vi høre historien med den lidet sexede titel Tandbørste og Hytteost aka Den Usoignerede Drama Queen - og så skal vi med i sommerhus til kæmpe Tinderfest Gone Crazy inden vi slutter af med at være fluen på væggen på Den Bedste Dobbelt Date Nogensinde!
 
 RIGTIG GOD FORNØJELSE! 
 Tinder Greatest er tilbage i dine ører til sommerferien. TUSINDE tak for historierne! I er altid velkomne til at sende jeres bidrag på friesupyourlife@podimo.com. Af praktiske årsager medtager vi ikke historier modtaget på Instagram, så please husk at ram vores mailindbakke 😍</description>
-      <guid isPermaLink="false">b8f924cd-84ae-44cc-80c3-e9a8a69e0196</guid>
-      <pubDate>Fri, 26 May 2023 00:01:32 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/734d43e5-b73a-4100-ba21-7385a7e1141b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:48</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>FAMILIEHORETUREN</title>
-      <description>Vi lægger stærkt ud med en fuldstændig crazy rejse, når vi drager på Familiehoretur til Gran Canaria. Derefter skal vi stifte tvivlsomt bekendtskab med både Skyggemanden og Den Kølige Sommerhus Charmør. Rigtig god fornøjelse! 
+   <guid isPermaLink="false">b8f924cd-84ae-44cc-80c3-e9a8a69e0196</guid>
+   <pubDate>Fri, 26 May 2023 00:01:32 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/734d43e5-b73a-4100-ba21-7385a7e1141b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>FAMILIEHORETUREN</title>
+   <description>Vi lægger stærkt ud med en fuldstændig crazy rejse, når vi drager på Familiehoretur til Gran Canaria. Derefter skal vi stifte tvivlsomt bekendtskab med både Skyggemanden og Den Kølige Sommerhus Charmør. Rigtig god fornøjelse! 
 
 HUSK at der er NYT afsnit med fantastiske tinder historier hver fredag i hele maj måned i anledning af St. bededag, Mors dag, Kristi Himmelfart og Pinseferien! Hallelujah! TAK FOR ALLE BIDRAG! Send din historie på friesupyourlife@podimo.dk</description>
-      <guid isPermaLink="false">f2f491cf-447a-44e9-a5ca-3f1a7ab0ab32</guid>
-      <pubDate>Fri, 19 May 2023 00:01:32 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ed2a7625-aa14-4f13-b30d-5aeafa30feda.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:12</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>KARNEVALSPIKKEN</title>
-      <description>Vi fejrer mors dag i weekenden - og hvilken måde er bedre end med trilogien om Karnevalspikken, Pizzaduden og Mælkemanden? 😂 Læn dig tilbage, slap af og nyd de legendariske historier! Vi er tilbage igen med nye historier alle fredage i maj. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">ca87ab25-91d4-4420-9775-fd04b5531843</guid>
-      <pubDate>Fri, 12 May 2023 00:01:39 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/41a90b52-2706-4b9f-8401-52c895941c03.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:04</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>FITNESS INFLUENCEREN</title>
-      <description>Så for satan! Der er NYT afsnit med fantastiske tinder historier hver fredag i hele maj måned i anledning af St. bededag, Mors dag, Kristi Himmelfart og Pinseferien! Hallelujah! 
+   <guid isPermaLink="false">f2f491cf-447a-44e9-a5ca-3f1a7ab0ab32</guid>
+   <pubDate>Fri, 19 May 2023 00:01:32 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/ed2a7625-aa14-4f13-b30d-5aeafa30feda.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>KARNEVALSPIKKEN</title>
+   <description>Vi fejrer mors dag i weekenden - og hvilken måde er bedre end med trilogien om Karnevalspikken, Pizzaduden og Mælkemanden? 😂 Læn dig tilbage, slap af og nyd de legendariske historier! Vi er tilbage igen med nye historier alle fredage i maj. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">ca87ab25-91d4-4420-9775-fd04b5531843</guid>
+   <pubDate>Fri, 12 May 2023 00:01:39 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/41a90b52-2706-4b9f-8401-52c895941c03.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>FITNESS INFLUENCEREN</title>
+   <description>Så for satan! Der er NYT afsnit med fantastiske tinder historier hver fredag i hele maj måned i anledning af St. bededag, Mors dag, Kristi Himmelfart og Pinseferien! Hallelujah! 
 
 I dages afsnit skal du møde Fitness Influenceren, deltage i Pandekagedysten og til endelig også stifte bekendtskab med Skoletaskefyren. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">f1c99c57-d864-4f8b-a31c-465015f03ab7</guid>
-      <pubDate>Fri, 05 May 2023 00:01:32 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/0792dccb-ba64-4980-909c-3042daf011ca.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>ORMEN - LIVE FRA AARHUS DEL 2</title>
-      <description>Sidste halvdel af vores Tinder Greatest Live fra Aarhus er ude nu. Vi er tilbage med spritnye afsnit hver fredag i hele maj. 
+   <guid isPermaLink="false">f1c99c57-d864-4f8b-a31c-465015f03ab7</guid>
+   <pubDate>Fri, 05 May 2023 00:01:32 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/0792dccb-ba64-4980-909c-3042daf011ca.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>ORMEN - LIVE FRA AARHUS DEL 2</title>
+   <description>Sidste halvdel af vores Tinder Greatest Live fra Aarhus er ude nu. Vi er tilbage med spritnye afsnit hver fredag i hele maj. 
 Rigtig god fornøjelse! 
 
 Husk I kan sende jeres historie på friesupyourlife@podimo.com - vi takker ydmygt for alle bidrag! 
@@ -391,594 +686,306 @@ Historie 1: Den kæmpe bredspiller
 Historie 2: Den falske kronprins
 Historie 3: Manden der blev til ormen
 Historie 4: Herpes, klamydia og hævede kønslæber</description>
-      <guid isPermaLink="false">c7cb5674-cc7a-49d8-9326-e80cbe04cfc4</guid>
-      <pubDate>Fri, 07 Apr 2023 00:11:24 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a33bee90-3379-4ff7-9f85-de49cf82c204.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:42:14</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>THE DESTROYER - LIVE FRA AARHUS</title>
-      <description>Så blev det endelig påskeferie! Og som en helt særlig påske-treat udgiver vi hele vores udsolgte Tinder Greatest Live Show fra Aarhus inkl. video. Første halvdel er oppe nu! Næste halvdel udkommer næste fredag. Rigtig god fornøjelse! 
+   <guid isPermaLink="false">c7cb5674-cc7a-49d8-9326-e80cbe04cfc4</guid>
+   <pubDate>Fri, 07 Apr 2023 00:11:24 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/a33bee90-3379-4ff7-9f85-de49cf82c204.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:42:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>THE DESTROYER - LIVE FRA AARHUS</title>
+   <description>Så blev det endelig påskeferie! Og som en helt særlig påske-treat udgiver vi hele vores udsolgte Tinder Greatest Live Show fra Aarhus inkl. video. Første halvdel er oppe nu! Næste halvdel udkommer næste fredag. Rigtig god fornøjelse! 
 
 Historie 1: The destroyer 
 Historie 2: Den smukke adonis fra familieferie
 Historie 3: 10 ud af 10 oplevelse 
 Historie 4: Løvernes konge og den islandske pige 
 Historie 5: Netdating med hot emo i kælderens tv-rum</description>
-      <guid isPermaLink="false">c62fc3fb-d333-4c8c-ae47-38df10a027e4</guid>
-      <pubDate>Fri, 31 Mar 2023 00:51:23 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/916c6c35-18b5-4954-808c-a541bb2dd08a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:44:46</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN FLYVENDE BRUNO</title>
-      <description>DEN FLYVENDE BRUNO
+   <guid isPermaLink="false">c62fc3fb-d333-4c8c-ae47-38df10a027e4</guid>
+   <pubDate>Fri, 31 Mar 2023 00:51:23 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/916c6c35-18b5-4954-808c-a541bb2dd08a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:44:46</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN FLYVENDE BRUNO</title>
+   <description>DEN FLYVENDE BRUNO
 Sidste afsnit i vinterferien, inden vi vender stærkt tilbage til påske.Vi skal nyde historierne En Grimmer Smag, Du Må Godt Kalde Mig Malene og ikke mindst Den Flyvende Bruno. Som altid er der lige dele fryd og rædsel på programmet! Rigtig god ferie, Nordjylland og Vestegnen!</description>
-      <guid isPermaLink="false">96678654-6899-4abc-8a01-94901e86b0b2</guid>
-      <pubDate>Fri, 24 Feb 2023 01:01:17 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1f88a97e-8ba9-4670-a85b-bf75ebb05bdf.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN USKYLDIGE SOFADRENG</title>
-      <description>Vinterferien fortsætter! I dag skal vi på på besøg hos Den Uskyldige Sofadreng hjemme i Ålleren, høre eposset Cykelstyrt, BJ og Hundelort og ikke mindst overraskes af en kranfører i historien Høreselsbedraget! Rigtig god fornøjelse - og rigtig god ferie. Vi er tilbage igen næste uge!</description>
-      <guid isPermaLink="false">e176a913-b25a-49f7-9468-f9f30e73bd9a</guid>
-      <pubDate>Fri, 17 Feb 2023 01:01:18 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/22d1c08e-eff7-4fbd-ac23-b03893f40fc3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33:35</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DOLKEN I KØJEN</title>
-      <description>Velkommen til vinterferien! Vi fejrer den de næste tre fredage med spritnye Tinder-historier. I dagens afsnit skal vi fornøje os på spejderlejr med Dolken I Køjen, møde den aparte stønner i Hunden og ikke mindst have “Dobbelt Op” på kønssygdomsbanko. 
+   <guid isPermaLink="false">96678654-6899-4abc-8a01-94901e86b0b2</guid>
+   <pubDate>Fri, 24 Feb 2023 01:01:17 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1f88a97e-8ba9-4670-a85b-bf75ebb05bdf.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN USKYLDIGE SOFADRENG</title>
+   <description>Vinterferien fortsætter! I dag skal vi på på besøg hos Den Uskyldige Sofadreng hjemme i Ålleren, høre eposset Cykelstyrt, BJ og Hundelort og ikke mindst overraskes af en kranfører i historien Høreselsbedraget! Rigtig god fornøjelse - og rigtig god ferie. Vi er tilbage igen næste uge!</description>
+   <guid isPermaLink="false">e176a913-b25a-49f7-9468-f9f30e73bd9a</guid>
+   <pubDate>Fri, 17 Feb 2023 01:01:18 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/22d1c08e-eff7-4fbd-ac23-b03893f40fc3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:33:35</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DOLKEN I KØJEN</title>
+   <description>Velkommen til vinterferien! Vi fejrer den de næste tre fredage med spritnye Tinder-historier. I dagens afsnit skal vi fornøje os på spejderlejr med Dolken I Køjen, møde den aparte stønner i Hunden og ikke mindst have “Dobbelt Op” på kønssygdomsbanko. 
 
 Send os din tinder historie på friesupyourlife@podimo.com</description>
-      <guid isPermaLink="false">365d1f88-82e9-452f-96b9-2b8ecdbf4b52</guid>
-      <pubDate>Fri, 10 Feb 2023 01:01:27 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b9d859ee-e4cf-4484-8de4-664ae2ecf666.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:54</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN LUMRE HIP HOP KRABBE</title>
-      <description>Godt nytår! I dagens afsnit slutter vi året med et kæmpe brag, når vi har Jada med i studiet. Sammen fyrer vi op under en kæmpe tre-trins raket, hvor vi skal møde Den Lumre Hip Hop Krabbe, høre historien om
+   <guid isPermaLink="false">365d1f88-82e9-452f-96b9-2b8ecdbf4b52</guid>
+   <pubDate>Fri, 10 Feb 2023 01:01:27 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b9d859ee-e4cf-4484-8de4-664ae2ecf666.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:54</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN LUMRE HIP HOP KRABBE</title>
+   <description>Godt nytår! I dagens afsnit slutter vi året med et kæmpe brag, når vi har Jada med i studiet. Sammen fyrer vi op under en kæmpe tre-trins raket, hvor vi skal møde Den Lumre Hip Hop Krabbe, høre historien om
 Chokoladerouladen og endelig råbe Yabba Dabba Doo. Husk du kan se episoden på video! 
 
 VIL DU SE TINDER GREATEST LIVE? Køb billet til vores ekstra - ekstra show til januar i Aarhus https://www.musikhuset.dk/en/kalender/fries-before-guys (https://www.musikhuset.dk/en/kalender/fries-before-guys) 
 
 eller København https://www.livenation.dk/show/1397371/fries-before-guys-tinder-
 greatest-ekstra-ekstra-show-/københavn%20v/2023-01-28/dk</description>
-      <guid isPermaLink="false">55968099-8973-4b76-a037-8817ee6b3bc8</guid>
-      <pubDate>Fri, 30 Dec 2022 01:01:30 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/313f781d-ee5e-458a-9270-9df553b790bd.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:35:57</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>CAMPINGVOGNENS GRANDE XL</title>
-      <description>Glædelig lille juleaften - og velkommen til en julespecial i form af vores første filmede episode nogensinde! Vi skal besøge Campingvognens Grande XL, høre Graviditets - og Abort Dirtytalk og ikke mindst opleve mirakler i Eventyret Om Den Canadiske Personal Trainer. Rigtig god fornøjelse! 
+   <guid isPermaLink="false">55968099-8973-4b76-a037-8817ee6b3bc8</guid>
+   <pubDate>Fri, 30 Dec 2022 01:01:30 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/313f781d-ee5e-458a-9270-9df553b790bd.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:35:57</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>CAMPINGVOGNENS GRANDE XL</title>
+   <description>Glædelig lille juleaften - og velkommen til en julespecial i form af vores første filmede episode nogensinde! Vi skal besøge Campingvognens Grande XL, høre Graviditets - og Abort Dirtytalk og ikke mindst opleve mirakler i Eventyret Om Den Canadiske Personal Trainer. Rigtig god fornøjelse! 
 
 VIL DU SE TINDER GREATEST LIVE? Køb billet til vores ekstra - ekstra show til januar i Aarhus https://www.musikhuset.dk/en/kalender/fries-before-guys eller København https://www.livenation.dk/show/1397371/fries-before-guys-tinder-greatest-ekstra-ekstra-show-/københavn%20v/2023-01-28/dk</description>
-      <guid isPermaLink="false">46e64745-766d-431f-a998-29eb0c1db5cc</guid>
-      <pubDate>Fri, 23 Dec 2022 03:00:00 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/d42a2ae8-de16-4dcb-a175-a0d39fdb001a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:30</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>TAKE THAT DICK</title>
-      <description>Den sidste omgang af Tinder i efterårsudgave er landet! Dagens afsnit er ekstremt eksplicit og står virkelig i dillerens tegn. Vi skal møde Den Største Tissemand og høre historien bag Sex-Arret inden vi runder af med at Take That Dick.  
+   <guid isPermaLink="false">46e64745-766d-431f-a998-29eb0c1db5cc</guid>
+   <pubDate>Fri, 23 Dec 2022 03:00:00 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/d42a2ae8-de16-4dcb-a175-a0d39fdb001a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:30</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>TAKE THAT DICK</title>
+   <description>Den sidste omgang af Tinder i efterårsudgave er landet! Dagens afsnit er ekstremt eksplicit og står virkelig i dillerens tegn. Vi skal møde Den Største Tissemand og høre historien bag Sex-Arret inden vi runder af med at Take That Dick.  
 
 Husk at købe billet til vores ekstrashow på Bremen eller Musikhuset i Aarhus til januar!</description>
-      <guid isPermaLink="false">3932476c-e32e-4612-af98-fd31f80fd715</guid>
-      <pubDate>Fri, 21 Oct 2022 00:01:12 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/629ce82e-ad9f-45f3-bde6-54cd2826fee2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN SKIDENDE HARMONIKAMAND</title>
-      <description>Så blev det efterårsferie og det betyder Tinder Greatest! I anledning af annonceringen af vores to store Tinder Greatest Live Shows i januar 23’ består ugens afsnit af cremen fra sommerens live historier! 
+   <guid isPermaLink="false">3932476c-e32e-4612-af98-fd31f80fd715</guid>
+   <pubDate>Fri, 21 Oct 2022 00:01:12 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/629ce82e-ad9f-45f3-bde6-54cd2826fee2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN SKIDENDE HARMONIKAMAND</title>
+   <description>Så blev det efterårsferie og det betyder Tinder Greatest! I anledning af annonceringen af vores to store Tinder Greatest Live Shows i januar 23’ består ugens afsnit af cremen fra sommerens live historier! 
 I skal møde legenden Den Skidende Harmonikamand, vi skal på en ekstrem Tour De Thailand, og sidst, men ikke mindst, skal vi lave et Hattrick På Roskilde Festival! Rigtig god fornøjelse</description>
-      <guid isPermaLink="false">8888ff3d-5109-4065-ac9f-f5da67044bb9</guid>
-      <pubDate>Fri, 14 Oct 2022 00:01:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/10cab546-1363-475f-aec9-7e9ddc043281.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:13</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DE GRÆSKE STALKERE</title>
-      <description>Sommerferien går på hæld og dette er sidste afsnit Tinder Greatest i denne omgang. Vi skal nyde den smukke historie Med Kendis På Hotel inden turen går sydpå til De Græske Stalkere - og endelig runder vi af med en tidsrejse tilbage til 70’erne, hvor vi møder Trine Fra Parallelklassen. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">c58feb5d-a5b8-4071-8777-c480fa353622</guid>
-      <pubDate>Fri, 29 Jul 2022 00:01:44 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/23aced9b-6378-428a-816e-6c27028d6945.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>HVAD SÅ MED ANAL?</title>
-      <description>Sommerens næstsidste runde af Tinder-historier er klar til at få smilebåndene på overarbejde. Vi skal møde en lækker Hammerhaj, se på Fejl Og Mangler, stifte bekendtskab med Den Bløde Og Den Hårde og endelig besvare spørgsmålet Hvad Så Med Anal?</description>
-      <guid isPermaLink="false">18b7e95e-8071-4e3d-897e-ebf69d6f0f6b</guid>
-      <pubDate>Fri, 22 Jul 2022 00:01:40 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7e7e67e2-a70a-4dfa-9624-01298b4745ea.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:03</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>MORGENONANISTEN</title>
-      <description>Endnu en sommerfredag, endnu en brandvarm omgang Tinder Greatest! Vi har fire legendariske historier på programmer: Han Ligner Crocodile Dundee, Veganeroptimisten, 
+   <guid isPermaLink="false">8888ff3d-5109-4065-ac9f-f5da67044bb9</guid>
+   <pubDate>Fri, 14 Oct 2022 00:01:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/10cab546-1363-475f-aec9-7e9ddc043281.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:13</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DE GRÆSKE STALKERE</title>
+   <description>Sommerferien går på hæld og dette er sidste afsnit Tinder Greatest i denne omgang. Vi skal nyde den smukke historie Med Kendis På Hotel inden turen går sydpå til De Græske Stalkere - og endelig runder vi af med en tidsrejse tilbage til 70’erne, hvor vi møder Trine Fra Parallelklassen. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">c58feb5d-a5b8-4071-8777-c480fa353622</guid>
+   <pubDate>Fri, 29 Jul 2022 00:01:44 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/23aced9b-6378-428a-816e-6c27028d6945.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>HVAD SÅ MED ANAL?</title>
+   <description>Sommerens næstsidste runde af Tinder-historier er klar til at få smilebåndene på overarbejde. Vi skal møde en lækker Hammerhaj, se på Fejl Og Mangler, stifte bekendtskab med Den Bløde Og Den Hårde og endelig besvare spørgsmålet Hvad Så Med Anal?</description>
+   <guid isPermaLink="false">18b7e95e-8071-4e3d-897e-ebf69d6f0f6b</guid>
+   <pubDate>Fri, 22 Jul 2022 00:01:40 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7e7e67e2-a70a-4dfa-9624-01298b4745ea.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:03</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>MORGENONANISTEN</title>
+   <description>Endnu en sommerfredag, endnu en brandvarm omgang Tinder Greatest! Vi har fire legendariske historier på programmer: Han Ligner Crocodile Dundee, Veganeroptimisten, 
 Museum eller Mausoleum? og ikke mindst Morgenonanisten. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">7971afa6-6664-4754-b76c-8941c3d2c682</guid>
-      <pubDate>Fri, 15 Jul 2022 00:01:45 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/abd63570-b0dc-4a39-a0fe-78d011a67748.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>SWIPE JA TIL ALLE</title>
-      <description>Vi er klar med Tinder Greatest de næste fire fredage. Tag rigtig godt imod første omgang Live fra Roskilde Festival med masser af mere eller mindre hed teltsex. Vi skal høre Swipe Ja Til Alle og I am spiraling, besøge Samaritteltet i C, have En Stor Overraskelse og endelig slutte af på 
+   <guid isPermaLink="false">7971afa6-6664-4754-b76c-8941c3d2c682</guid>
+   <pubDate>Fri, 15 Jul 2022 00:01:45 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/abd63570-b0dc-4a39-a0fe-78d011a67748.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>SWIPE JA TIL ALLE</title>
+   <description>Vi er klar med Tinder Greatest de næste fire fredage. Tag rigtig godt imod første omgang Live fra Roskilde Festival med masser af mere eller mindre hed teltsex. Vi skal høre Swipe Ja Til Alle og I am spiraling, besøge Samaritteltet i C, have En Stor Overraskelse og endelig slutte af på 
 En Støvet Søbred med Politibesøg og En Ode Til Klamydia.</description>
-      <guid isPermaLink="false">42d5cec4-4ed9-4c22-a002-f906e74d2bdf</guid>
-      <pubDate>Fri, 08 Jul 2022 00:01:44 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7988aed2-c10c-43d8-a93f-11d256b450f9.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:34:09</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN LIDERLIG ONANIST</title>
-      <description>Pinseferien er over os og det skal fejres! Og hvilken bedre måde at fejre på end med Tinder Greatest? Vi byder på masser af akavethed i historien om En Liderlig Onanist, en kilden arbejdspladsaffære i 
+   <guid isPermaLink="false">42d5cec4-4ed9-4c22-a002-f906e74d2bdf</guid>
+   <pubDate>Fri, 08 Jul 2022 00:01:44 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7988aed2-c10c-43d8-a93f-11d256b450f9.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:34:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN LIDERLIG ONANIST</title>
+   <description>Pinseferien er over os og det skal fejres! Og hvilken bedre måde at fejre på end med Tinder Greatest? Vi byder på masser af akavethed i historien om En Liderlig Onanist, en kilden arbejdspladsaffære i 
 Min Helt Egen Derek Shepherd, et mindre mareridt i En Blodig Penis og endelig runder vi af med intet mindre end Vulkanudbruddet!</description>
-      <guid isPermaLink="false">27295981-1dfe-4047-b2ce-abc1816ab8f7</guid>
-      <pubDate>Fri, 03 Jun 2022 00:01:49 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b9c46796-e065-44cb-ac27-d504f21c9486.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:05</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN DOVNE MR PUSSY</title>
-      <description>Glædelig Kr. Himmelfartsferie! Vi er flyvende med tre bandvarme fortællinger fra Tinderland. Vi skal høre eposet Netto-spurt Og Bleg Ginger Røv, Flot Og Hot Men Crazy As Hell samt møde den Real-Life Dovne Mr. Pussy! Husk at lytte med i næste uge, hvor vi skyder pinsen i gang med endnu en omgang Tinder Greatest.</description>
-      <guid isPermaLink="false">cc6f94ae-adec-4996-8ac9-d75fda06e51a</guid>
-      <pubDate>Fri, 27 May 2022 00:01:34 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/9be22e21-2b30-4d26-87f1-9288b404ab91.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:39</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>BÆLTEMANDEN</title>
-      <description>Denne feries sidste omgang af historier - og der er bogstaveligt talt smæk for skillingen. Vi skal møde en særligt begejstret hovedperson i historien Fuck Hvor Er Du Stram og bagefter stifte bekendtskab med Bæltemanden samt manden med En Krop Så Hård Som Sten. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">cbfde7a7-b02b-45b1-9b54-16f74d5ff859</guid>
-      <pubDate>Fri, 22 Apr 2022 00:01:00 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/44fd3744-8805-43e1-bc69-74c38eb8cbdc.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:24</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN LIDERLIG BRITE</title>
-      <description>I dagens afsnit skal vi opklare mysteriet i Hvem Fanden Er Du, møde En Liderlig Brite og ikke mindst tages med på et rigt eventyr i historien Snabelsko, Årgangsøl og Nøgenstøvsugning. Vi udkommer også næste fredag! God påske - og god fornøjelse!</description>
-      <guid isPermaLink="false">0a2c13b8-b409-462c-a957-46c73cd9d061</guid>
-      <pubDate>Fri, 15 Apr 2022 00:00:56 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7098b9b7-1b20-4bd1-936e-e9d0dc179bad.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:59</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DU BØR NOK LIGE BLIVE TJEKKET</title>
-      <description>Vi holder selvfølgelig også jysk vinterferie, så der er lidt vilde historier at varme sig med i en kold tid. Vi skal høre eposet “De fire taxaer og en gammel tampon”, samt skrækhistorien “Du bør nok blive tjekket” - og så skal vi på en rejse med “Den britiske hooligan” og “Juleaften i New York”. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">b11b3e05-b5cb-4ddb-81a6-a920c806b643</guid>
-      <pubDate>Fri, 25 Feb 2022 01:01:00 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2ef9ffeb-f14a-4735-abb9-613e79ca25c0.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:24:13</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DET ER JO IKKE CALLES GAVEBOD</title>
-      <description>Vi skyder vinterferien i gang med intet mindre end et kæmpe penis-tema! Historierne lyder på legendarisk vis “Det er jo ikke Calles Gavebod”, “Dick Guy,” “Mick Lynpik og Kendisskuffelsen” samt “Manga Porno og 3 CM”! God fornøjelse - vi er tilbage igen næste fredag med sidste afsnit inden påske!</description>
-      <guid isPermaLink="false">3577981e-41ef-49f9-a91a-5e92959e1b6e</guid>
-      <pubDate>Fri, 18 Feb 2022 01:00:41 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b2944d29-c6ee-4abd-b8b1-2125a93c5612.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:51</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>CORONAREJSEN</title>
-      <description>Godt nytår! Velkommen til sidste afsnit i denne omgang. Vi skal møde En Dårlig Taber, Anakondaen og Paranoia, Den Korte Akilleshæl - og endelig skal vi stifte bekendtskab med en meget særlig ferieform aka Coronarejsen.</description>
-      <guid isPermaLink="false">5bc43a7a-278f-4942-9c8e-2007f12642b7</guid>
-      <pubDate>Thu, 06 Jan 2022 01:00:00 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b61cb916-ccde-417e-97f4-478b0d29e214.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN SMOOTH AFSKED</title>
-      <description>Godt nytår, venner! Vi lægger ud med at tage jer med på en vaskeægte “familiedate”, inden vi skal høre historierne “Oxfordmanden” og “I wanna be your girlfriend”. Derefter runder vi året af på behørig vis med “En Smooth Afsked”.</description>
-      <guid isPermaLink="false">fb7638a9-467b-41e2-9d0c-0a5fb4055b4b</guid>
-      <pubDate>Fri, 31 Dec 2021 01:00:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/5d90ae44-a52c-4fe7-8cf8-723591cc147b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:40</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN VIRKELIGE SKRIFTESTOL</title>
-      <description>Tinder Greatest leverer lyden til din pause fra julens ræs! Vi skal høre et decideret epos med den mundrette titel “Den tørreste rugklapper, en venindes sexplaylist og akrobatisk reboundsex” og så skal vi besøge  “Den Virkelige Skriftestol” inden vi runder af med  “Den falske hipster”. Rigtig glædelig jul!</description>
-      <guid isPermaLink="false">e5df47b8-46a9-4693-8e19-bdd715ad42f7</guid>
-      <pubDate>Fri, 24 Dec 2021 01:00:27 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8c82740f-6022-46c1-aed9-2555a67985e1.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:04</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN FEDTET KLUMP PÅ MAVEN</title>
-      <description>Juleferien står for døren! De næste fire fredage byder vi endnu en gang på de vildeste historier fra jeres datingliv. I skal høre skrækfortællingen om En Fedtet Klump På Maven, nyklassikeren Bræk og Barbar - og sidst, men ikke mindst, skal vi den lange vej til Vestjylland og stifte bekendtskab med Landmanden Uden Håndtag.</description>
-      <guid isPermaLink="false">f08b67ba-8f6d-4fed-9fed-d8a354239b54</guid>
-      <pubDate>Fri, 17 Dec 2021 01:00:26 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/f1beeb17-35da-4232-a2ec-852c05256dc3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:11</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>HVOR BLEV KONDOMET AF</title>
-      <description>Vi runder ferien af i højt humør med cremen af denne runde datinghistorier. I dag skal vi lede efter et vildfarent kondom - og møde ingen andre end Den Falske John Mayer, Power Point Fyren og Mama’s Boy. God fornøjelse og TUSINDE tak for alle bidrag! Din datinghistorie modtages med kyshånd på friesupyourlife@podimo.com og alle bidrag håndteres anonymt.</description>
-      <guid isPermaLink="false">7fae28d3-6432-4529-8a8d-afde50a6994f</guid>
-      <pubDate>Fri, 22 Oct 2021 00:00:22 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/5159b4bc-12fb-4f49-ae08-361ea13676d2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:05</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN SAND BRONUT</title>
-      <description>Vi skyder efterårsferien i gang med datinghistorier fra øverste hylde de næste to fredage! Vi skal starte i en Amatørmissionær, møde En Sand Bronut, genbesøge en gammel kending i Fnuggi Til Universet 2 og ikke mindst glædes ved Den Italienske Kæbe.</description>
-      <guid isPermaLink="false">14ee82a6-9fd2-4423-9752-d4018bd52a70</guid>
-      <pubDate>Fri, 15 Oct 2021 00:00:24 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/9a780310-b738-49e5-b257-3426ce64ce0f.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:28</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>LILLE MILKSHAKE MAND</title>
-      <description>I dagens afsnit skal vi besøge smertefulde minder, en odder, YouTube, “kæleænderne” - og ikke mindst høre trilogien om De Tre Tinderdates fra Helvede: The Italian Rage, Lille Milkshake Mand og Chai.</description>
-      <guid isPermaLink="false">396e8132-23f1-4f6b-a135-8cd3412450c5</guid>
-      <pubDate>Fri, 30 Jul 2021 00:01:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/f4553d47-2f1e-4204-bb2a-b3aea6ea1415.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:27</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>HEDDER DIN VENINDE IKKE AMALIE</title>
-      <description>I dagens afsnit skal vi møde 
+   <guid isPermaLink="false">27295981-1dfe-4047-b2ce-abc1816ab8f7</guid>
+   <pubDate>Fri, 03 Jun 2022 00:01:49 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b9c46796-e065-44cb-ac27-d504f21c9486.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN DOVNE MR PUSSY</title>
+   <description>Glædelig Kr. Himmelfartsferie! Vi er flyvende med tre bandvarme fortællinger fra Tinderland. Vi skal høre eposet Netto-spurt Og Bleg Ginger Røv, Flot Og Hot Men Crazy As Hell samt møde den Real-Life Dovne Mr. Pussy! Husk at lytte med i næste uge, hvor vi skyder pinsen i gang med endnu en omgang Tinder Greatest.</description>
+   <guid isPermaLink="false">cc6f94ae-adec-4996-8ac9-d75fda06e51a</guid>
+   <pubDate>Fri, 27 May 2022 00:01:34 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/9be22e21-2b30-4d26-87f1-9288b404ab91.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>BÆLTEMANDEN</title>
+   <description>Denne feries sidste omgang af historier - og der er bogstaveligt talt smæk for skillingen. Vi skal møde en særligt begejstret hovedperson i historien Fuck Hvor Er Du Stram og bagefter stifte bekendtskab med Bæltemanden samt manden med En Krop Så Hård Som Sten. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">cbfde7a7-b02b-45b1-9b54-16f74d5ff859</guid>
+   <pubDate>Fri, 22 Apr 2022 00:01:00 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/44fd3744-8805-43e1-bc69-74c38eb8cbdc.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:24</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN LIDERLIG BRITE</title>
+   <description>I dagens afsnit skal vi opklare mysteriet i Hvem Fanden Er Du, møde En Liderlig Brite og ikke mindst tages med på et rigt eventyr i historien Snabelsko, Årgangsøl og Nøgenstøvsugning. Vi udkommer også næste fredag! God påske - og god fornøjelse!</description>
+   <guid isPermaLink="false">0a2c13b8-b409-462c-a957-46c73cd9d061</guid>
+   <pubDate>Fri, 15 Apr 2022 00:00:56 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7098b9b7-1b20-4bd1-936e-e9d0dc179bad.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:59</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DU BØR NOK LIGE BLIVE TJEKKET</title>
+   <description>Vi holder selvfølgelig også jysk vinterferie, så der er lidt vilde historier at varme sig med i en kold tid. Vi skal høre eposet “De fire taxaer og en gammel tampon”, samt skrækhistorien “Du bør nok blive tjekket” - og så skal vi på en rejse med “Den britiske hooligan” og “Juleaften i New York”. Rigtig god fornøjelse!</description>
+   <guid isPermaLink="false">b11b3e05-b5cb-4ddb-81a6-a920c806b643</guid>
+   <pubDate>Fri, 25 Feb 2022 01:01:00 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2ef9ffeb-f14a-4735-abb9-613e79ca25c0.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:13</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DET ER JO IKKE CALLES GAVEBOD</title>
+   <description>Vi skyder vinterferien i gang med intet mindre end et kæmpe penis-tema! Historierne lyder på legendarisk vis “Det er jo ikke Calles Gavebod”, “Dick Guy,” “Mick Lynpik og Kendisskuffelsen” samt “Manga Porno og 3 CM”! God fornøjelse - vi er tilbage igen næste fredag med sidste afsnit inden påske!</description>
+   <guid isPermaLink="false">3577981e-41ef-49f9-a91a-5e92959e1b6e</guid>
+   <pubDate>Fri, 18 Feb 2022 01:00:41 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b2944d29-c6ee-4abd-b8b1-2125a93c5612.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>CORONAREJSEN</title>
+   <description>Godt nytår! Velkommen til sidste afsnit i denne omgang. Vi skal møde En Dårlig Taber, Anakondaen og Paranoia, Den Korte Akilleshæl - og endelig skal vi stifte bekendtskab med en meget særlig ferieform aka Coronarejsen.</description>
+   <guid isPermaLink="false">5bc43a7a-278f-4942-9c8e-2007f12642b7</guid>
+   <pubDate>Thu, 06 Jan 2022 01:00:00 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b61cb916-ccde-417e-97f4-478b0d29e214.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN SMOOTH AFSKED</title>
+   <description>Godt nytår, venner! Vi lægger ud med at tage jer med på en vaskeægte “familiedate”, inden vi skal høre historierne “Oxfordmanden” og “I wanna be your girlfriend”. Derefter runder vi året af på behørig vis med “En Smooth Afsked”.</description>
+   <guid isPermaLink="false">fb7638a9-467b-41e2-9d0c-0a5fb4055b4b</guid>
+   <pubDate>Fri, 31 Dec 2021 01:00:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/5d90ae44-a52c-4fe7-8cf8-723591cc147b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>DEN VIRKELIGE SKRIFTESTOL</title>
+   <description>Tinder Greatest leverer lyden til din pause fra julens ræs! Vi skal høre et decideret epos med den mundrette titel “Den tørreste rugklapper, en venindes sexplaylist og akrobatisk reboundsex” og så skal vi besøge  “Den Virkelige Skriftestol” inden vi runder af med  “Den falske hipster”. Rigtig glædelig jul!</description>
+   <guid isPermaLink="false">e5df47b8-46a9-4693-8e19-bdd715ad42f7</guid>
+   <pubDate>Fri, 24 Dec 2021 01:00:27 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/8c82740f-6022-46c1-aed9-2555a67985e1.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN FEDTET KLUMP PÅ MAVEN</title>
+   <description>Juleferien står for døren! De næste fire fredage byder vi endnu en gang på de vildeste historier fra jeres datingliv. I skal høre skrækfortællingen om En Fedtet Klump På Maven, nyklassikeren Bræk og Barbar - og sidst, men ikke mindst, skal vi den lange vej til Vestjylland og stifte bekendtskab med Landmanden Uden Håndtag.</description>
+   <guid isPermaLink="false">f08b67ba-8f6d-4fed-9fed-d8a354239b54</guid>
+   <pubDate>Fri, 17 Dec 2021 01:00:26 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f1beeb17-35da-4232-a2ec-852c05256dc3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:11</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>HVOR BLEV KONDOMET AF</title>
+   <description>Vi runder ferien af i højt humør med cremen af denne runde datinghistorier. I dag skal vi lede efter et vildfarent kondom - og møde ingen andre end Den Falske John Mayer, Power Point Fyren og Mama’s Boy. God fornøjelse og TUSINDE tak for alle bidrag! Din datinghistorie modtages med kyshånd på friesupyourlife@podimo.com og alle bidrag håndteres anonymt.</description>
+   <guid isPermaLink="false">7fae28d3-6432-4529-8a8d-afde50a6994f</guid>
+   <pubDate>Fri, 22 Oct 2021 00:00:22 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/5159b4bc-12fb-4f49-ae08-361ea13676d2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>EN SAND BRONUT</title>
+   <description>Vi skyder efterårsferien i gang med datinghistorier fra øverste hylde de næste to fredage! Vi skal starte i en Amatørmissionær, møde En Sand Bronut, genbesøge en gammel kending i Fnuggi Til Universet 2 og ikke mindst glædes ved Den Italienske Kæbe.</description>
+   <guid isPermaLink="false">14ee82a6-9fd2-4423-9752-d4018bd52a70</guid>
+   <pubDate>Fri, 15 Oct 2021 00:00:24 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/9a780310-b738-49e5-b257-3426ce64ce0f.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:28</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>LILLE MILKSHAKE MAND</title>
+   <description>I dagens afsnit skal vi besøge smertefulde minder, en odder, YouTube, “kæleænderne” - og ikke mindst høre trilogien om De Tre Tinderdates fra Helvede: The Italian Rage, Lille Milkshake Mand og Chai.</description>
+   <guid isPermaLink="false">396e8132-23f1-4f6b-a135-8cd3412450c5</guid>
+   <pubDate>Fri, 30 Jul 2021 00:01:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f4553d47-2f1e-4204-bb2a-b3aea6ea1415.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:27</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>HEDDER DIN VENINDE IKKE AMALIE</title>
+   <description>I dagens afsnit skal vi møde 
 den tyske fyr og en vaske ægte idiot, spille uno og roomies samt høre historierne what the fuck, hedder din veninde ikke Amalie?, og “min historie”.</description>
-      <guid isPermaLink="false">d4a2da10-7a38-44c6-b62d-a64c7b70b4a4</guid>
-      <pubDate>Fri, 23 Jul 2021 00:00:15 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7306c791-b1e9-4c8f-8d59-37f6f1cbb359.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:34</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>VODKAPIKKEN</title>
-      <description>I dagens afsnit skal vi på date med 
+   <guid isPermaLink="false">d4a2da10-7a38-44c6-b62d-a64c7b70b4a4</guid>
+   <pubDate>Fri, 23 Jul 2021 00:00:15 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7306c791-b1e9-4c8f-8d59-37f6f1cbb359.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:34</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>VODKAPIKKEN</title>
+   <description>I dagens afsnit skal vi på date med 
 trelitersboksen, en løgnhals, vodkapikken, den jordnære krejler, en fodboldfan, prinsen af klamydiaslottet - og så skal vi spise fyldte chokolader og høre det moderne datingeventyr “nu du alligevel er her”.</description>
-      <guid isPermaLink="false">681defbe-36b0-4ddb-8317-9afe663a620e</guid>
-      <pubDate>Thu, 15 Jul 2021 22:57:04 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8b78ff05-2a76-4299-ac8b-e089f4683eb3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>GAVEN DER BLIVER VED MED AT GIVE</title>
-      <description>I dagens afsnit skal vi vidt omkring! Vi byder på en efterlysning, møder  sugemallen, den fattige, spøgelsesdrengen, madpakken og en kløpind før vi åbner gaven, der bliver ved med at give. Endelig stifter vi også bekendtskab med moderne klassikere som “The one and only”, “Sig det med Key” og “Stoler du på mig”.</description>
-      <guid isPermaLink="false">4649ab64-6432-49f8-93a7-babbaad1dd4a</guid>
-      <pubDate>Fri, 09 Jul 2021 00:00:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/40ad548c-da10-47ad-8512-f6ba34294513.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:04</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>FNUGGI TIL UNIVERSET</title>
-      <description>I dagens afsnit går vi fra 0-100 med en italiener, gyser over Kählervasen og Mandschauvanisten, før vi kalder Fnuggi til universet og runder af med “forresten, sjov historie…”</description>
-      <guid isPermaLink="false">0a483429-4e86-4ecf-8df8-77dd255f06d5</guid>
-      <pubDate>Fri, 02 Jul 2021 00:00:35 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b3cafd00-c8f9-4bd5-b793-decaeaebf55c.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:43</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>AWKWARD AWARD</title>
-      <description>I dagens afsnit skal vi uddele en Awkward Award, møde skraldemanden og fodboldspilleren - og så selvfølgelig et smut på PornHub, før vi til sidst løber ind i en olivenolie-elskende kending fra fortiden.</description>
-      <guid isPermaLink="false">175a8f5c-4b77-4917-9f39-9900512995ce</guid>
-      <pubDate>Fri, 25 Jun 2021 00:00:37 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/485645be-739c-47e7-a564-32f42801be25.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:47</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>TYS TYS TUREN</title>
-      <description>Dagens afsnit er en form for datingens tre-trins raket, hvor liderlighed og livslektier står i kø! Vi lægger ud med det hotteste hook-up til Gymnasiefesten hvorefter vi skal på tre måneders rundrejse i Asien med The Grand Finale i Berlin i historien “KitKat!” Til sidst er der lagt op til en legendarisk Tys Tys Sommerhustur med en meget lykkelig slutning. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">ed7d9bd2-1ca8-4dca-a603-df6956069649</guid>
-      <pubDate>Thu, 01 Aug 2024 02:01:46 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/73af5c1a-3773-4250-b91a-9d3636873c05.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:38</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/ef655eff-30e5-4832-8306-db81fb5ad9d3_400x400.png"/>
-    </item>
-    <item>
-      <title>ENKELTMANDSSENGEN</title>
-      <description>Sommeren går på hæld og i dagens afsnit presser vi citronen for det allersidste rejse-juice! Men inden vi drager mod det store udland, starter vi under hjemlige himmelstrøg, når vi skal på besøg i Enkeltmandssengen! Derefter tager vi på ultrasexy Solotrip til Østeuropa og runder af i støvlelandet med en omgang af The Italian Tongue. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">5e5d381c-859a-4a0c-a334-d2f680a8b4dc</guid>
-      <pubDate>Thu, 08 Aug 2024 02:01:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/3b981457-81c6-4785-8573-734fe72cc752.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:55</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/b0efca73-f39e-420f-a18e-956249f3e2ae_400x400.png"/>
-    </item>
-    <item>
-      <title>SUSHI SKATEREN</title>
-      <description>Appen Tinder har fødselsdag - og det fejrer vi i dag med tre helt fantastiske historier! Vi lægger benhårdt ud med den utrolige fortælling om daten fra helvede med Sushi Skateren før vi skal på ferie med to veninder og nyde en omgang Danish Pussy. Vi lukker og slukker festen med En Vild Weekend i Mexico Del 1! Vi er tilbage med Del 2 og meget mere Tinder Greatest på torsdag i uge 41. Men hold øje med vores Instagram i mellemtiden - for snart annoncerer vi noget vildt!</description>
-      <guid isPermaLink="false">7956827d-82c8-4709-bb9c-2ba8b59418b7</guid>
-      <pubDate>Thu, 12 Sep 2024 02:01:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/d920474f-fefe-4d6c-bb1f-23cd54463b81.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:21</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/c4ee89e4-eda8-4a5b-ac70-26fb359f851b_400x400.png"/>
-    </item>
-    <item>
-      <title>EN BOGSTAVELIGT TALT LORTET HISTORIE</title>
-      <description>Efterårsferien er over os og vi byder på hele to afsnit af Tinder Greatest denne og næste torsdag 😍 Indbakken bugner af legendariske dates og dagens historier er ingen undtagelse 🤠 Vi lægger ud med et aalborgensisk møde med Den Ekstralagrede Sofavælger inden vi skal til et sexet møde med en Højtstønnende Polak 🔥 Vi lukker og slukker med et gensyn gone wrong i En Bogstaveligt Talt Lortet Historie! 😅 Rigtig god fornøjelse!
-
-DER ER NU MELDT FÅ BILLETTER TIL DET KÆMPE TINDER GREATEST LIVE SHOW! Køb din billet her https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/57006/#tixsp og husk at sende os din historie, hvis den skal med til Live Show!</description>
-      <guid isPermaLink="false">4421fae8-8367-4aab-aa11-21dc40074d4e</guid>
-      <pubDate>Thu, 10 Oct 2024 00:01:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/3fdbf472-a333-4445-8383-e775d10b9d2e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:43</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>EN VILD WEEKEND I MEXICO DEL 2</title>
-      <description>Vi skal tilbage til det Mexicanske paradis og høre fortsættelsen til En Vild Weeked I Mexico fra episoden Sushi Skateren, hvor vi skal direkte fra 
-den hotte Antoine til en tysk Ryan Gosling! Derefter skal vi høre endnu en orgasmisk solskinshistorie Den Bedste Udsigt inden vi runder af på klammeste vis med En Rigtig Lortekæreste. 
-
-Tinder Greatest er retur i uge 48! DER ER MEGET FÅ BILLETTER TIL DET KÆMPE STORE TINDER GREATEST LIVE SHOW! Køb din billet her https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/57006/#tixsp og husk at sende os din historie, hvis den skal med til Live Show!</description>
-      <guid isPermaLink="false">da5938a8-3d93-42b0-9622-a292db00bc1f</guid>
-      <pubDate>Thu, 17 Oct 2024 03:01:35 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1421dec9-2e17-4e69-9ec0-d83c14ba1786.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:08</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/79486eab-f043-4616-9152-bb9b58e4993f_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN GAVMILDE VAMPYR</title>
-      <description>Julen har bragt velsignet bud! Seks torsdage i streg med Tinder Greatest - fra alle os til alle jer 🎄 Vi lægger ud med at tage på hot date med Mr. Green Flag inden vi skal have det rigtig vildt med vennerne Luna &amp; Rosa i historien Den Gavmilde Vampyr! Endelig skal vi lytte til første del af den saftdryppende Jessie’s Girl! Rigtig god fornøjelse!
-
-Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
-
-Følg vores adventskalender Kender Du Juletypen på Instagram friesb4guyspodcast!</description>
-      <guid isPermaLink="false">be74e6f2-0ace-4ba6-9e14-509e127d7d81</guid>
-      <pubDate>Thu, 28 Nov 2024 01:00:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/432ca7fb-6a34-4ed1-affd-1fbc67f0f41a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:33:09</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>JESSIE’S GIRL PT. 2</title>
-      <description>Vi skal endnu en gang med på sexy nostalgi-trip til Auckland, inden turen omsider går hjem til DK. Her skal vi selvfølgelig Med Kendis På Hotel, hvilket bestemt ikke går stille - eller renligt - for sig. Vi lukker og slukker med en genkendelig historie fra en 3.g’er kaldet Zero Søvn og Zero Orgasme. Rigtig god fornøjelse! 
-
-Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
-
-Følg vores adventskalender Kender Du Juletypen på vores insta friesb4guyspodcast og på YouTube🎅🏼</description>
-      <guid isPermaLink="false">373027f9-46a2-4a99-8a71-1c721591b6a1</guid>
-      <pubDate>Thu, 05 Dec 2024 01:00:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2262bb79-a88c-4f61-85ad-3d77f9373a96.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>SWEET TALKER OG STALKER</title>
-      <description>I dagens afsnit lægger vi ud med en kondomjagt i smilets by i historien “Jeg Kan Ikke Få Det ud.” Bagefter skal vi bevidne et vildt møde mellem en ung liderbuks og en ny, udenlandsk medarbejder i “Sweet Talker og Stalker” - for til sidst at stifte bekendtskab med en enorm Schlong i historien “Øh, Er Det Ikke Lidt For Sent Nu?” Rigtig god fornøjelse! 
-
-Køb billet til vores ekstra show af “Det Kæmpe Store Tinder Greatest Live Show” via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp
-
-Følg vores adventskalender Kender Du Juletypen på vores insta friesb4guyspodcast og på YouTube🎅🏼</description>
-      <guid isPermaLink="false">812a7d46-1557-44c6-939b-549222a6e16a</guid>
-      <pubDate>Thu, 12 Dec 2024 04:11:10 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/6c3f7252-220d-4489-98ec-6e03ff066822.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:22</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/fbfe8d24-81b5-4150-a87f-30cf242ef20c_400x400.png"/>
-    </item>
-    <item>
-      <title>THE BOOTY SWALLOWER ft. Thomas og Emil</title>
-      <description>I anledning af juleferien byder vi på et vaskeægte særafsnit med hele fire historier og to utroligt sjove gæster - Thomas Skov og Emil Thorup ❤️ 
-Vi har været en tur i gemmerne fra vores live shows og taget et par af de helt legendariske historier med i denne særlige anledning 😀
-
-Vi skal en tur til Skagen og drikke  
-rosé på dåse i historien No To Daddy, og derefter skal vi møde The Bootyswallower, 
-Hurtigknepperen Der Fik Mig Indlagt og et kæmpe Man Child i Kbh! Rigtig god fornøjelse! 
-
-Vil du med til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til ekstra showet via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
-      <guid isPermaLink="false">fc513359-b4b6-417d-94f6-d67c8f97de0d</guid>
-      <pubDate>Thu, 19 Dec 2024 03:11:15 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a78eea7a-286d-402b-9892-39c0c7b0aa52.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:40:26</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/264551ea-186c-4703-9be2-ed4b3292c851_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN ÆLDSTE STOLEDANS</title>
-      <description>Rigtig glædelig 2. Juledag, kære venner! Vi har selvfølgelig en skøn julegave til jer i form af tre helt fantastiske lytterhistorier 😀 Vi lægger saftigt ud med en omgang af Den Ældste Stoledans, inden vi drager sydpå til et helt særligt Siciliansk Poolparty 💦 I anledning af den søde juletid, slutter vi selvfølgelig af med at date både Jesus og Paven! Rigtig god fornøjelse! Skal du med til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til vores ekstra show kl. 16 via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
-      <guid isPermaLink="false">600a4cde-6d09-49e8-8c67-98c1761588b7</guid>
-      <pubDate>Thu, 26 Dec 2024 03:11:11 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/98c103b0-2349-438d-a69e-5988479e0582.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:55</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/2f056097-7d37-467b-819e-35234a5e3631_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN IVRIGE RAPPER</title>
-      <description>Godt nytår til verdens bedste lyttere! Vi kommer jer SELVFØGLELIG til undsætning med verdens bedste kur mod tømmermænd - moralske såvel som fysiske eller åndelige. Vi har for tredje år i træk allieret os med verdens bedste co-host Emilie Molsted aka Jada og den største friend of the pod. Vi skal igennem tre fantastiske fortællinger og lægger hårdt ud med 
-Jeg Har Ikke Skrællet Gulerod, så skal vi møde en desp ung mand i historien Den Ivrige Rapper - inden vi runder af i den latrinære ende med Et Ufrivilligt Golden Shower! Sæt i gang!  
-
-Vil du også starte året med et brag af en aften til “Det Kæmpe Store Tinder Greatest Live Show”? Køb billet til ekstra showet via linket https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/23679/58383/#tixsp</description>
-      <guid isPermaLink="false">005552b7-b2f5-4c47-97cd-c5706ddcbb3b</guid>
-      <pubDate>Wed, 01 Jan 2025 01:10:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/76144ed1-3db6-41c5-833c-2015323a3427.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:37:42</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/15841259-74c3-44b5-a25a-d16c157b8874_400x400.png"/>
-    </item>
-    <item>
-      <title>JEG GIK I PANIK, OKAY</title>
-      <description>Så er der Tinder Greatest hver torsdag i uge 6, 7 og 8! Efter 25-års endt ægteskab skal vi med på Den Første Tinder Date med 90’er finger i strandkanten, inden vi bliver udsat for et decideret Sherlock Holmes-værdigt mysterie i den danske udgave af Tømmermænd i Thailand. Vi lukker med den fuldstændig fantastiske moderne klassiker Jeg Gik I Panik, Okay! Den vil I IKKE gå glip af. Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">33e23d85-3718-4e1c-820a-70e82f1a4a8d</guid>
-      <pubDate>Thu, 06 Feb 2025 01:00:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/9064ea0f-196a-4f16-ae25-f675fa7e593e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:43</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN FORSVUNDNE BOLLETAMPON</title>
-      <description>Glædelig vinterferie allesammen! Vi spreder god energi i dagens afsnit, hvor vi først skal lære en meget vigtig livslektie i historien om den forsvundne bolletampon. Bagefter skal vi med to raske ungmøer til Gili T til en omgang med Morild, Mænd og Magiske Møder! Vi slutter af under hjemlige himmelstrøg med et temmelig spooky første møde 👻 Rigtig god fornøjelse, vi er tilbage igen allerede næste torsdag 😀</description>
-      <guid isPermaLink="false">0e6ce35d-e0fb-4681-83ed-c45cfaaa6f0b</guid>
-      <pubDate>Thu, 13 Feb 2025 01:00:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/64bacc22-fbb2-4ed3-927e-1c1b7251957c.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:20</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>TREKANT PÅ KOLLEGIET</title>
-      <description>Vinterferien er slut og vi runder af med et lykkeligt hattrick - tre historier fra nær og fjern med masser af sex og god energi! Først skal vi med til kollegiefest, der ender i en trekant på altanen og en fantastisk rejse. Derefter suger vi varmen til os sammen med Den Dynamiske Duo i Cambodia inden vi skal have det endnu mere hot på Zanzibar med Mr. Manager! Rigtig god fornøjelse, vi er tilbage igen i påskeferien med endnu mere Tinder Greatest!</description>
-      <guid isPermaLink="false">99a7ec5b-d6d6-43d0-93ec-5445378598f0</guid>
-      <pubDate>Thu, 20 Feb 2025 01:00:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2945144d-9b48-408d-8f9e-acdd528d6bc8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:50</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>WHAT THE FUCK IS THIS</title>
-      <description>Vi tager forskud på påsken med et dugfriskt afsnit af Tinder Greatest! Spænd sikkerhedsselen og hold på hat og briller, for det går vildt for sig i dagens episode, hvor vi først skal høre om en tampon på afveje i det mexicanske eventyr “What The Fuck Is This”! Bagefter skal vi med en nyligt fraskilt på date med den såkaldte pizzamand, inden der står afføring på programmet i Solidaritetshistorien Til Lortekasteren, der ikke er en datinghistorie, men som blot var for god til ikke at komme med. Vi lyttes ved igen næste torsdag! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">99e86128-0956-47db-a0d7-040943618d2b</guid>
-      <pubDate>Thu, 10 Apr 2025 03:11:13 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c817cac8-55c2-4d5b-a937-d6cf5c41c6dd.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:21</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/ce8c5831-2dcd-4a3a-ad13-b8efcd54bf91_400x400.png"/>
-    </item>
-    <item>
-      <title>POOL, PIK OG PISTI</title>
-      <description>Vi lægger ud med en hel dobbelt-romance under sydens sol i historien Pool, Pik og Pisti! 
-Bagefter har vi fornøjelsen af at være fluen på væggen under en vaskeægte hoe-fase på Roskilde Festival i historien “Må Jeg Vise Dig Området?”, inden vi slutter med den hjertevarme og dryppende liderlige historie “Sæt Din Tinder Til Kvinder!”
-Rigtig god fornøjelse, vi er tilbage igen med flere historier i uge 19 i gode gamle kristi himmelfart ferie :D</description>
-      <guid isPermaLink="false">ca5f0dc0-558c-4279-9c74-b9a25aeaa01d</guid>
-      <pubDate>Thu, 17 Apr 2025 00:00:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2278d574-3114-44e4-abc1-4ca9e746f9ff.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:35:46</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6469c8e4-b35e-412b-a38e-5449315908b0_400x400.png"/>
-    </item>
-    <item>
-      <title>PROPTRÆKKEREN </title>
-      <description>Tinder Greatest er tilbage de næste tre torsdage! I dagens afsnit har vi fantastiske Carla Mickelborg som medvært. Vi starter på toppen i sydens varme med Cumshot Og Synkronknepning inden det går støt nedad i mødet med Det “Tyggegummignaskende Finansflop.” Endelig lukker og slukker vi med den mildt chokerende  “Proptrækkeren” :) Rigtig god fornøjelse! 
-
-</description>
-      <guid isPermaLink="false">0be4104d-a7eb-4355-9916-6b767039aaa1</guid>
-      <pubDate>Thu, 29 May 2025 03:11:22 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a2bb5e29-4faf-47f7-9ff0-84d142aa5b17.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:39:57</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/a4c5ea45-9ba3-4df2-9a7a-c595f47acd15_400x400.png"/>
-    </item>
-    <item>
-      <title>PITABRØDSMANDEN</title>
-      <description>Glædelig grundlovsdag vennerne! Humøret er højt i studiet, når vi skal med på en af de mest bizarre dates i nyere tid med ingen ringere end Pitabrødsmanden! Bagefter napper vi 24 legendariske timer i Aya Napa, hvor det bestemt ikke går stille for sig. 
-Vores gæsteværter er Anna Munch og Karoline Hamm, der begge er aktuelle i filmen SMUKKERE, der går i biografen LIGE NU! Se den, den er mega god!
-
-</description>
-      <guid isPermaLink="false">d967ba33-fcca-426e-b063-2c8ef8b22695</guid>
-      <pubDate>Thu, 05 Jun 2025 03:11:40 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8fcea7e7-39e7-4bea-b101-4554e103c236.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:40:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/c249f2a9-f761-4b00-80b8-4216af40b577_400x400.png"/>
-    </item>
-    <item>
-      <title>SLIKKEMINISTEREN</title>
-      <description>Så er der hattrick! Sidste omgang af Tinder Greatest er landet i en (lettere sen) pinseversion - men vi er tilbage igen om kun to uger med afsnit til hele din sommer! Inden da skal vi dog have en vild oplevelse med Opkast På Model-Penis inden vi skal med til et vaskeægte Meet-Cute På Løbeturen 🫶 Vi lukker og slukker på de højeste tinder i mødet med ingen ringere end Slikkeministeren! Rigtig god fornøjelse! 
-
-Skal I med til Tinder Greatest Live På Marienlyst i 2026?
-
-Køb billet https://www.ticketmaster.dk/event/dinnershow-med-fries-before-guys-tinder-greatest-billetter/9576595</description>
-      <guid isPermaLink="false">2ca9ae76-7c31-4e49-a0a8-4dfc7fe9b8aa</guid>
-      <pubDate>Thu, 12 Jun 2025 03:11:31 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ee8e3276-7965-46bb-b9f0-4346c913b396.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:32:50</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/ca134243-4c01-4947-8510-cb31434dc34b_400x400.png"/>
-    </item>
-    <item>
-      <title>HÅNDKLÆDEFYREN</title>
-      <description>Sommerferien er over og vi kommer til at byde på Tinder Greatest hele syv torsdage i træk! Vi lægger benhårdt ud med historien om “Pigen, der prøvede en strap-on for første gang” inden vi skal en tur på festival og have et hot møde med “Hr. Grower!” Vi runder af med et lidt for ømt øjeblik i selskab med “Håndklædefyren” - det er bare at læne sig tilbage og nyde hele molevitten! Tak for historierne og rigtig god fornøjelse. 
-
-VIL DU OPLEVE OS LIVE MED POP-UP SHOW PÅ ROSKILDE FESTIVAL FREDAG D. 4? Tjek vores Insta friesb4guyspodcast ud den kommende tid for mere info. </description>
-      <guid isPermaLink="false">9a033685-984f-4e0b-b1f0-c5c7595980d9</guid>
-      <pubDate>Thu, 26 Jun 2025 03:11:34 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/107ddf01-6dbe-4f69-b241-36aac9ba4bfb.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:49</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/8766dc21-8261-4114-8a39-15c652ee2f63_400x400.png"/>
-    </item>
-    <item>
-      <title>JEG VIL AMMES NU</title>
-      <description>Hold på hat og briller, for dagens episode af Tinder Greatest byder på tre helt legendariske historie. Vi lægger blodigt ud med en omgang Minigolf og Sprunget Pikstreng, inden vi skal have den fantastiske lortekaster-historie Den Flyvende Kokosnød. Vi slutter af med en ægte Kink Surprise i historien Jeg Vil Ammes Nu! Rigtig god fornøjelse 
-
-VIL DU OPLEVE OS LIVE MED POP-UP SHOW PÅ ROSKILDE FESTIVAL FREDAG D. 4? Vi ses 10.30 i Dream City H68 hos Camp Shots Sherifferne 
-</description>
-      <guid isPermaLink="false">31ca865a-3533-43d0-b039-e8d4c0830cb6</guid>
-      <pubDate>Thu, 03 Jul 2025 02:11:25 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/01886e47-a7e7-444f-a6e0-692da5ba6421.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:41</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/7bb0cf12-96ab-4893-bb2d-f70205300414_400x400.png"/>
-    </item>
-    <item>
-      <title>ONE NIGHT IN AALBORG </title>
-      <description>Sommeren ruller på og det samme gør datinghistorierne! I dagens afsnit lægger vi hårdt ud på en date med en professionel sportsudøver i historien “Må jeg stadig låne din HBO?” 😆  Bagefter tager vi en sexy runde med “Den aseksuelle, der slet ikke var det alligevel” inden vi runder af på hotel i byernes by med den sexede “One night in Aalborg”! Rigtig god fornøjelse ❤️</description>
-      <guid isPermaLink="false">d4f14071-b4f9-4482-96d9-b59a94414f77</guid>
-      <pubDate>Thu, 10 Jul 2025 02:10:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/888c00c3-3938-4ec8-8b31-811afb85740e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:01</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/48c735ab-f2e1-4a96-9453-95d5b9942d06_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN ÆLDSTE, MØGBEHÅREDE STOL</title>
-      <description>Vi starter dagens afsnit, hvor vi sluttede i sidste uge: nemlig hjemme i Nordens Paris! Denne gang skal vi en tur i kanen med Den Sovende, Slikkende Skotte inden vi skal med en ung lytter på besøg i Den Ældste Møgbehårede stol! Til sidst afslører Jose et skjult talent i det fantastiske eventyr om Elverknaldet, hvilket efterlader Nanna i en decideret chokstilstand. Rigtig god fornøjelse :D </description>
-      <guid isPermaLink="false">ef6164f2-484b-4b14-87e4-515677cc1a85</guid>
-      <pubDate>Thu, 17 Jul 2025 02:10:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c50bcff9-4317-44ae-b354-7d43f97c0dac.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:24:44</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/2947f873-7713-418a-bd4a-b8c1ced2491d_400x400.png"/>
-    </item>
-    <item>
-      <title>DEN TIGGENDE SPILLEMAND</title>
-      <description>Vi starter dagens afsnit ud i smilets by, hvor en date med Novellefyren får en særdeles uventet afslutning! ❤️ Derefter skal kærligheden findes et utroligt sted i eposet Pornopik og Køkkenknep før vi lukker og slukker på festival med Den Tiggende (og nøgne) Spillemand 😀 Rigtig god fornøjelse! 
-</description>
-      <guid isPermaLink="false">b2229374-62a2-4a16-ab27-2a87e596f7a2</guid>
-      <pubDate>Thu, 24 Jul 2025 02:11:27 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/80c305eb-3dd9-4f90-8d41-01c6413317ef.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:36</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/e2e857f0-4f52-400f-b51b-5d3087e0fe88_400x400.png"/>
-    </item>
-    <item>
-      <title>STRAFFEFANGEN </title>
-      <description>Sommerferien går på hæld, men så er det godt, at det næstsidste afsnit af denne omgang tinder består af tre så legendariske historier, at man tror, det er løgn! Vi starter på besøg i udslusningsfængslet, hvor en date tager en helt særlig drejning i hænderne på Straffefangen! Derefter skal vi til en blodig omgang i mødet med Den Lille Og Store Patient inden vi runder af i udlandet med den helt igennem vidunderlige Runner Boy! I gætter aldrig, hvad han gjorde! 
-Rigtig god fornøjelse! 😃 </description>
-      <guid isPermaLink="false">1dcfa197-87b5-4afb-8fbb-b64d30cf8209</guid>
-      <pubDate>Thu, 31 Jul 2025 03:11:32 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/863679d9-d48f-4c54-8323-10379e112cd8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:50</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/1d4ba6fe-190e-4416-be63-bdd5e5426ac0_400x400.png"/>
-    </item>
-    <item>
-      <title>ANAL I ALANYA </title>
-      <description>Sommerens allersidste afsnit af Tinder Greatest! Vi runder af  med et brag, hvor vi lægger ud under varme himmelstrøg med en omgang Anal I Alanya. Bagefter går turen endnu længere sydpå til The Land Downunder hvor vi sammen med fortælleren skal køre en omgang Pink Goon på Dingo’s. Tro mod den danske sommer slutter vi af på festival med intet mindre end en ildelugtende Indershorts Surprise 😂 Rigtig god fornøjelse og af hjertet tak for alle sommerens historier! Vi er tilbage i næste måned med et fejringsafsnit af Tinders fødselsdag 🇩🇰
-</description>
-      <guid isPermaLink="false">b7c07a83-1499-448e-8abc-b9b13c038625</guid>
-      <pubDate>Thu, 07 Aug 2025 02:10:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7b4be4ac-7e21-48be-8a60-9ba149b008eb.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:53</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/6e95c444-392c-4c5a-b900-3229eadfea63_400x400.png"/>
-    </item>
-    <item>
-      <title>TINDER SURPRISE </title>
-      <description>Traditionen tro fejrer vi appen Tinders fødselsdag med et brag af et fejringsafsnit! Sang, flag og tre helt igennem fantastiske historier, hvor vi lægger ud med at tage et smut på Roskilde og møde ingen ringere end De Frække Telttyve🤣 Derefter skal vi stifte bekendtskab med Den Veludrustede Herre med skumle planer, inden vi runder af med en vaske ægte Anal Krise! Rigtig god fornøjelse!</description>
-      <guid isPermaLink="false">8c2b27a7-7e42-4701-9257-abdc98634aa9</guid>
-      <pubDate>Thu, 11 Sep 2025 02:10:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/faec14f8-ded6-448a-81f1-5996b7039f09.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:37</itunes:duration>
-    </item>
-  </channel>
+   <guid isPermaLink="false">681defbe-36b0-4ddb-8317-9afe663a620e</guid>
+   <pubDate>Thu, 15 Jul 2021 22:57:04 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/8b78ff05-2a76-4299-ac8b-e089f4683eb3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>GAVEN DER BLIVER VED MED AT GIVE</title>
+   <description>I dagens afsnit skal vi vidt omkring! Vi byder på en efterlysning, møder  sugemallen, den fattige, spøgelsesdrengen, madpakken og en kløpind før vi åbner gaven, der bliver ved med at give. Endelig stifter vi også bekendtskab med moderne klassikere som “The one and only”, “Sig det med Key” og “Stoler du på mig”.</description>
+   <guid isPermaLink="false">4649ab64-6432-49f8-93a7-babbaad1dd4a</guid>
+   <pubDate>Fri, 09 Jul 2021 00:00:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/40ad548c-da10-47ad-8512-f6ba34294513.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>FNUGGI TIL UNIVERSET</title>
+   <description>I dagens afsnit går vi fra 0-100 med en italiener, gyser over Kählervasen og Mandschauvanisten, før vi kalder Fnuggi til universet og runder af med “forresten, sjov historie…”</description>
+   <guid isPermaLink="false">0a483429-4e86-4ecf-8df8-77dd255f06d5</guid>
+   <pubDate>Fri, 02 Jul 2021 00:00:35 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b3cafd00-c8f9-4bd5-b793-decaeaebf55c.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:43</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+  <item>
+   <title>AWKWARD AWARD</title>
+   <description>I dagens afsnit skal vi uddele en Awkward Award, møde skraldemanden og fodboldspilleren - og så selvfølgelig et smut på PornHub, før vi til sidst løber ind i en olivenolie-elskende kending fra fortiden.</description>
+   <guid isPermaLink="false">175a8f5c-4b77-4917-9f39-9900512995ce</guid>
+   <pubDate>Fri, 25 Jun 2021 00:00:37 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/485645be-739c-47e7-a564-32f42801be25.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7f274102-ebda-4c5a-ab60-b7dfafbc4c96_400x400.png"/>
+  </item>
+ </channel>
 </rss>

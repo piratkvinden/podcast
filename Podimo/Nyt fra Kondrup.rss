@@ -1,1070 +1,1544 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Nyt fra Kondrup</title>
-    <description>Emil Kondrup er tilbage. Og han har selv skrevet den her beskrivelse til podcasten, hvilket er lidt underligt. I hvert fald er det meget lidt nordjysk at tale om sig selv i tredje person. Men! Der er podcast. Om alt og intet. Jeg udkommer to gange om ugen og tømmer mit hoved for hvad end der må fylde. Sommetider ringer jeg til gæster. Andre gange har jeg Lisa Marie med. Jeg håber, at I vil lytte med.</description>
-    <link>https://podimo.com/dk/shows/7887a1a6-fe83-4f4c-a824-a4bfcc9fd912</link>
-    <image>
-      <url>https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png</url>
-      <title>Nyt fra Kondrup</title>
-      <link>https://podimo.com/dk/shows/7887a1a6-fe83-4f4c-a824-a4bfcc9fd912</link>
-    </image>
-    <item>
-      <title>#99 – &quot;Alle de andre må ta' til håndboldstævne&quot;</title>
-      <description>Det her er det længste afsnit af den her podcast, du kommer til at lytte til i denne uge. Medmindre vi finder på noget bindegalt til fredag. Det er nemlig et jubilæum. Men det tror jeg ikke, I skal regne med.
+ <channel>
+  <title>Nyt fra Kondrup</title>
+  <description>Emil Kondrup er tilbage. Og han har selv skrevet den her beskrivelse til podcasten, hvilket er lidt underligt. I hvert fald er det meget lidt nordjysk at tale om sig selv i tredje person. Men! Der er podcast. Om alt og intet. Jeg udkommer to gange om ugen og tømmer mit hoved for hvad end der må fylde. Sommetider ringer jeg til gæster. Andre gange har jeg Lisa Marie med. Jeg håber, at I vil lytte med.</description>
+  <link>https://podimo.com/dk/shows/7887a1a6-fe83-4f4c-a824-a4bfcc9fd912</link>
+  <image>
+   <url>https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png</url>
+   <title>Nyt fra Kondrup</title>
+   <link>https://podimo.com/dk/shows/7887a1a6-fe83-4f4c-a824-a4bfcc9fd912</link>
+  </image>
+  <item>
+   <title>#145 – Tissemands-plakater</title>
+   <description>Vi har været i legerum der havde tissemands-plakater. Lisa Marie overvejer bogklub. Alt er ligeså tørt som det lyder.</description>
+   <guid isPermaLink="false">440b10b7-29ea-56a3-b85c-4646cda286b6</guid>
+   <pubDate>Tue, 07 Oct 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/68034762/afsnit_145.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#144 – En tur i gongbad</title>
+   <description>Lyt. Lev. Dø ung. Dystert? Ja. Fortrudt? Ja. Undskyld.</description>
+   <guid isPermaLink="false">c09185f9-aa5f-5852-8858-8fac889578af</guid>
+   <pubDate>Fri, 03 Oct 2025 00:02:44 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67993079/afsnit_144.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:02</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#143 – Kødsovs og andre klamme ord</title>
+   <description>Venner. Der er afsnit. Ind og lyt. Tak. Ses.</description>
+   <guid isPermaLink="false">41bf1a8b-bc85-5fbd-a848-4044c2b0126e</guid>
+   <pubDate>Tue, 30 Sep 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67940139/afsnit_143.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:17</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#142 – C21 og Statsministeriet</title>
+   <description>Lisa Marie er tilbage. Resten er samme kaos og rod som det plejer.</description>
+   <guid isPermaLink="false">ce00a272-59f6-573e-8414-62641390d9e7</guid>
+   <pubDate>Fri, 26 Sep 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67880299/afsnit_142.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:13</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#141 – Spild af alles tid</title>
+   <description>Lisa Marie sover. Jeg yapper. Velkommen til 12 minutter i en form for helvede. 
 
-Kys</description>
-      <guid isPermaLink="false">adea5a4b-0c6c-4acb-b166-694a8f4a0af0</guid>
-      <pubDate>Tue, 11 Mar 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64797100/afsnit_99.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:59</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#98 – Stand up og syge børn</title>
-      <description>Er Lasse Dein og Martin Johannes Larsen egentlig typerne, der kan lide lasergame? Du har helt sikkert tænkt spørgsmålet. Og det samme har Lisa Marie også. Forskellen på jer og hende er, at hun spørger om det. Jeg ved bare ikke, hvad jeg skal svare. Og nå ja, så snakker vi også om nogle andre ting. God lytter.</description>
-      <guid isPermaLink="false">9e5b78fe-ee03-4650-af13-643dcfca705e</guid>
-      <pubDate>Fri, 07 Mar 2025 01:15:08 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64738903/afsnit_98.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#97 – Man gemmer ikke fisk for sin partner</title>
-      <description>Og det gør man bare ikke. Nyd forårets fremme, venner.  Og husk at køkkenet kan bruges til mere end madlavning. God lytter.</description>
-      <guid isPermaLink="false">12482022-22a4-47af-a865-c970d6dd2290</guid>
-      <pubDate>Tue, 04 Mar 2025 01:15:10 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64679798/afsnit_97.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:10</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#96 – &quot;Det er ligesom i Mr. Bean&quot;</title>
-      <description>Så er der fandme afsnit til weekenden. Husk, hvis du får blåt maling på dine ting, så bare vask det af. God weekend, vennerne.</description>
-      <guid isPermaLink="false">7142e2d8-a8b2-47f7-aa0e-1bc03679359a</guid>
-      <pubDate>Fri, 28 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64611460/afsnit_96.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:31</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#95 – &quot;Jeg booker Skråen til dig&quot;</title>
-      <description>Vi vender MGP-weekenden, taler om, hvad ishockey-trøjen bliver solgt for, og så selvfølgelig den klassiske livskrise, der altid ligger og ulmer.</description>
-      <guid isPermaLink="false">9bb004b3-8370-404f-aff9-6f63c9a0e37b</guid>
-      <pubDate>Tue, 25 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64551038/afsnit_95.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#94 – Herning is calling</title>
-      <description>Så står den i Herning. På MGP. På feriemesse. På alt, hvad der er godt. Og så en relativt klassisk McDonald's- eller Burger King-diskussion, og lidt om, at jeg håber, at nogen vil betale en masse penge for en trøje, jeg har spillet ishockey i.</description>
-      <guid isPermaLink="false">e8434249-4617-4367-b5e8-4be546968c0f</guid>
-      <pubDate>Fri, 21 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64482284/afsnit_94.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:55</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#93 – Nyt fra det nordjyske ferieland</title>
-      <description>Der er ferie i nordjylland. Vi har simpelthen optaget en lørdag. Jeg har redigeret det fra min bærbar. Det er jeg ikke trænet i. Jeg håber, volumen er nogenlunde. Jeg elsker jer.</description>
-      <guid isPermaLink="false">c8a44d6f-4799-450f-a67b-85923a09c4d1</guid>
-      <pubDate>Tue, 18 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64422304/afsnit_93.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#92 – En americano med ekstra vand</title>
-      <description>Jeg fortæller om vanvittige bestillinger på københavnske restauranter. Lisa Marie fortæller, at hun er ligeglad med Valentines dag. Alt er love. God lytter.</description>
-      <guid isPermaLink="false">bb5e6640-f6ca-48b0-8a37-c2c631373dfa</guid>
-      <pubDate>Fri, 14 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64363740/afsnit_92.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:39</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#91 – Isrand til dessert?</title>
-      <description>Jeg er skuffet over Lisa Marie efter det her afsnit. Jeg føler ikke, at hun levede op til de lektier, hun havde fået. Og denne tekst er skrevet, mens jeg er lidt irriteret over det, kan jeg mærke. Det er en irritation, jeg kan gå med i flere dage. Det er jeg god til. En frygtelig evne. Så går jeg for mig selv og er irriteret over dét, uden at fortælle hende om det. Så går vi bare rundt og lever vores liv videre, hvor jeg så kan lide hende 5 % mindre, fordi hun gjorde noget, jeg ikke havde forventet. Er det kærlighed? Måske. Er det usundt? Stensikkert.
+Tilbage fredag!</description>
+   <guid isPermaLink="false">5ddab5d7-85f8-59be-9773-b87a50def18d</guid>
+   <pubDate>Tue, 23 Sep 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67855961/afsnit_141.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:13:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#140 – Det bedste afsnit nogensinde</title>
+   <description>... eller sådan noget i den stil.</description>
+   <guid isPermaLink="false">4c17c56d-a3ad-57d7-99db-5545690108f3</guid>
+   <pubDate>Fri, 19 Sep 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67784504/afsnit_140.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:06</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#139 – Vejle Cup og fødselsdag</title>
+   <description>Jeg var til Vejle Cup. Lisa Marie havde fødselsdag. 
+Jeg kan mærke, at jeg er faldet af på de her captions. Men jeg føler ikke, at der er nogen der læser dem alligevel. Og så er det jo ligemeget? 
+
+Kys.</description>
+   <guid isPermaLink="false">3f538eaf-51ce-511b-9781-c2e55211bf15</guid>
+   <pubDate>Tue, 16 Sep 2025 00:15:09 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67770860/afsnit_139.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#138 – Swingerklubber og brudekjoler</title>
+   <description>og halsen af en svane!
+Den som kysser pigerne, han har en hæslig vane!</description>
+   <guid isPermaLink="false">aad23518-0d0d-5736-afe9-e8045875a8b5</guid>
+   <pubDate>Fri, 12 Sep 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67724674/afsnit_138.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:42</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#137 – Lisa Marie i livskrise</title>
+   <description>... fem dage efter et lykkeligt bryllup begynder Lisa Marie nu at betvivle hele sin tilværelse – og vil kaste livet, hun kender, op i luften.</description>
+   <guid isPermaLink="false">c024186b-b49c-5fac-acdd-6edd5fbe3b7e</guid>
+   <pubDate>Tue, 09 Sep 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67680020/afsnit_137.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#136 – Bare mere bryllup</title>
+   <description>Ja, vi gør det igen. Det er sgu primært bryllup. God lytter.</description>
+   <guid isPermaLink="false">6cf855db-901e-52d6-aefa-53780d251a12</guid>
+   <pubDate>Fri, 05 Sep 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67636859/afsnit_136.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#135 – Bryllup med bryllup på</title>
+   <description>Hader du bryllupper – eller mere specifikt – hader du at høre andre tale om deres eget bryllup, så er det her afsnit ikke noget for dig. 
+
+Mvh.</description>
+   <guid isPermaLink="false">e727e38f-bcc3-5691-b70f-9da27836e0dd</guid>
+   <pubDate>Tue, 02 Sep 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67584373/afsnit_bryllup_mindre.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:34:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#134 – VI ER TILBAGE</title>
+   <description>Undskyld, venner. Arbejde og bryllups-stress tog lige tiden fra os. Men nu er vi her! Og vi har tænkt os at fortsætte ufortrødent. Indtil vi ikke har længere.</description>
+   <guid isPermaLink="false">a916f1ed-4dae-5444-afb4-fd2e1b13720a</guid>
+   <pubDate>Tue, 26 Aug 2025 05:20:54 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67514704/afsnit_110.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#133 – Bær over med os</title>
+   <description>Bær... Som i solbær. Ja, bare lyt. Og grin. Jeg er et geni.</description>
+   <guid isPermaLink="false">04d77dc8-604f-4d77-ba91-cbb8dd3cf159</guid>
+   <pubDate>Fri, 15 Aug 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67372409/afsnit_109.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#132 – Værtsgaven der blev ved at gi'</title>
+   <description>Københavnertur og bryllupskaos.</description>
+   <guid isPermaLink="false">a68cdb40-f216-4208-b5f9-dbc304ee3c5c</guid>
+   <pubDate>Tue, 12 Aug 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67335511/afsnit_mille.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:53</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#131 – Status på bryllup</title>
+   <description>Jeg skriver den her tekst tre dage efter vi har opdaget. Jeg aner ikke hvad det handler om. Sorry.</description>
+   <guid isPermaLink="false">9648bf39-c0e9-40ed-b590-cb535730b311</guid>
+   <pubDate>Tue, 05 Aug 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67250301/faustix_afsnit.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#130 – Nyt fra Bindslev</title>
+   <description>Så er der nyt. Optaget i intermistisk setup i Hirtshals, hvilket kan gøre, at lyden er anderledes, end den plejer at være. God lytter. Også til jer der ikke kommer fra Bindslev. Men selvfølgelig mest til jer derfra.</description>
+   <guid isPermaLink="false">8d3ee638-2a15-4949-b544-07150343a2ad</guid>
+   <pubDate>Fri, 01 Aug 2025 00:15:16 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67207751/afsnit_fra_hirtshals_31_juli.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#129 – Spontan nat i Hirtshals</title>
+   <description>... Og så er jeg blevet 32. Tillykke til mig. Tak for det.</description>
+   <guid isPermaLink="false">1d82dbed-2ddf-4c92-92b9-1390836c3862</guid>
+   <pubDate>Tue, 29 Jul 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67162585/afsnit_129.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#128 – Døv efter Grøn Koncert</title>
+   <description>Så er der fandme intro-eventyr for alle pengene. God lytter.</description>
+   <guid isPermaLink="false">78becff8-0d40-4b8f-b2f9-7c95e1c9c9d9</guid>
+   <pubDate>Tue, 22 Jul 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67059873/afsnit_128.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#127- Hønsebesøget fra helvede</title>
+   <description>Sommerferienyt der både sender tankerne til Hirtshals og Indien.</description>
+   <guid isPermaLink="false">960cc825-8033-4835-8fc1-c6c9949699d0</guid>
+   <pubDate>Fri, 18 Jul 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/67017371/afsnit_127.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:36</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#127 – Nyt fra Hirtshals</title>
+   <description>Vi sidder og steger i den nordjyske sommersol og snakker om at være uvenner. Alt er godt. God sommer.</description>
+   <guid isPermaLink="false">c8cb3eb6-c931-4d8e-82bc-18440ec650d4</guid>
+   <pubDate>Tue, 15 Jul 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66977230/ferieafsnit_fra_hirtshals.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#126 – Ferienyt eller mangel på samme</title>
+   <description>Jeg kan ikke samle mig om at lave en god beskrivelse, da jeg har panikangst over, om jeg er kommet til at uploade et gammelt afsnit igen.</description>
+   <guid isPermaLink="false">7360c562-609d-4e47-bbfe-263ba67bbcb2</guid>
+   <pubDate>Fri, 11 Jul 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/31582f24-5b6b-4d0e-9ead-8222e6483fa4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>NY TIL DEM FRA PODIMO</title>
+   <description>Hey venner. Så prøver vi sgu igen!</description>
+   <guid isPermaLink="false">ce0c49bb-a245-46f3-99c0-2f97d618d3df</guid>
+   <pubDate>Wed, 09 Jul 2025 10:27:09 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/0e02f075-73b9-4b43-b07d-ded0b944602c.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#125 – UTILGIVELIGT</title>
+   <description>Dagens ord er utilgiveligt. Det er både at sove i bilen og at bede en Tour-vinder om at sætte køkken op og lægge gulv. God lytter. God sommer. Ses fredag.</description>
+   <guid isPermaLink="false">6d25492c-d07f-46ff-9d2d-6809aad9b8b3</guid>
+   <pubDate>Tue, 08 Jul 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2e3b0be1-d59b-42e2-a172-c08675588fb5.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#124 – Lisa Maries polterabend</title>
+   <description>Det viser sig, at vi kun skal giftes, fordi Frederik fra Bachelorette ikke vil ha' Lisa Marie.</description>
+   <guid isPermaLink="false">b7c5e714-8a34-4933-90f6-2090f609f429</guid>
+   <pubDate>Tue, 01 Jul 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66810575/afsnit_124.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:22</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#123 – Drikkepenge og tandlægeregning</title>
+   <description>... og et afbud fra Lisa Marie. Utilgiveligt. Hun vil det ikke nok, og det er helt klart noget, der bliver taget op til næste MUS.</description>
+   <guid isPermaLink="false">3ae32f07-2ee6-4a4e-8b31-cf68f9b40f90</guid>
+   <pubDate>Fri, 27 Jun 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66763756/afsnit_123.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#122 – Ikke et afsnit der får en i bedre humør</title>
+   <description>Titlen siger det hele. Jeg kører en omgang sur med sur på og har været i seriøse overvejelser om, hvorvidt det overhovedet skulle udgives. Men så ender det i lidt feriesnak, og det føles som om, det bliver en smule mere opløftende. Men... nu er du advaret.</description>
+   <guid isPermaLink="false">3fa8dac6-b372-4470-af6c-703a0cab6b61</guid>
+   <pubDate>Tue, 24 Jun 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66713465/afsnit_122.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#121 – Den om tandlæger og revisorer</title>
+   <description>Endnu en uge med to afsnit. En form for stime vi er inde i. Niveauet er i den grad også derefter.</description>
+   <guid isPermaLink="false">7fc1fd56-2f2c-463f-9a7d-02ceffc6bc0c</guid>
+   <pubDate>Fri, 20 Jun 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66638047/afsnit_121.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#120 – Folkemøde-evaluering</title>
+   <description>Vi vender, at Lisa Marie børster tænder på en fuldkommen vanvittig måde og at jeg har fået taget billeder med to kæmpestore personligheder på Folkemødet. God lytter!</description>
+   <guid isPermaLink="false">466f75be-36aa-4331-bf42-53ed6b714140</guid>
+   <pubDate>Tue, 17 Jun 2025 00:15:09 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66582914/afsnit_120.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:59</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#119 – Bland selv slik og vanvittige dillemaer</title>
+   <description>Sindssygt, at man skal finde på en lille beskrivelse hver gang.</description>
+   <guid isPermaLink="false">eca8aed4-b233-46b9-9ba7-e2443ff84383</guid>
+   <pubDate>Fri, 13 Jun 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66527098/afsnit_119.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#118 – Ikk’ vink til mig, fordi vi har ens biler</title>
+   <description>Et dugfriskt afsnit fra et hjem der har været lagt ned med sygdom hele pinsen. Vi vender fars dag og folkemødet. God lytter.</description>
+   <guid isPermaLink="false">1d71b799-1fcf-4055-8581-dc2a300b9b28</guid>
+   <pubDate>Tue, 10 Jun 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66477308/afsnit_118.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:42</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#117 – Om at blive kaldt 'Underarmen'</title>
+   <description>.. og om at mit drømmejob åbenbart er værtstjansen på Go' Morgen Danmark. God lytter.</description>
+   <guid isPermaLink="false">bb435099-0994-416f-a6e3-e68a5c179caf</guid>
+   <pubDate>Tue, 03 Jun 2025 00:30:09 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66373883/afsnit_117.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#116 – Sur på verden</title>
+   <description>Lidt om livssyn, havebryllupper og syge børn.</description>
+   <guid isPermaLink="false">078aabed-1684-4a07-8ded-3cdb03cef769</guid>
+   <pubDate>Tue, 27 May 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66286605/afsnit_116.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#115 – Den store kirkegulvs-diskusison</title>
+   <description>Ha' en vidunderlig weekend. Kh.</description>
+   <guid isPermaLink="false">57a83dbf-d1c6-4883-8da8-7f0450a7534d</guid>
+   <pubDate>Fri, 23 May 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66201109/afsnit_115.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:24</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#114 – Dækhotel og prinsessebryllup</title>
+   <description>I det her afsnit fortæller jeg, hvordan det er at være en prinsesse, der drømmer om et stort, flot, lyserødt bryllup – fanget i en nordjysk mands krop. Og nå ja, undskyld for, at vi har været så elendige til at udkomme regelmæssigt. Det stopper nu. Nyt afsnit ude på fredag!</description>
+   <guid isPermaLink="false">98dfe1ac-f957-44e2-a0e9-363ad8c04281</guid>
+   <pubDate>Tue, 20 May 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66158204/afsnit_114.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#113 – Det her skulle ikke ha' været udgivet</title>
+   <description>Men nu får I det alligevel. Uanset hvor trofast en Kondrouper du er, skal du ikke føle dig forpligtet til noget som helst. En dårlig dag på kontoret. Bogstaveligt talt.</description>
+   <guid isPermaLink="false">0de3a7ab-4428-4ecf-9408-958b64120f70</guid>
+   <pubDate>Tue, 13 May 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66061475/afsnit_113.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:53</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#112 – Fra hotel i København</title>
+   <description>Vi beklager for lyden, hvis der er bøvl og baks. Afsnittet er lavet væk fra hjemmekontoret, hvorfor der måske kan være noget, der ikke lyder, som det plejer. Men der er i hvert fald et afsnit, og så må I ha' verdens bedste weekend. Kys.</description>
+   <guid isPermaLink="false">6b03048f-3349-4f71-881a-6a2e42945ee2</guid>
+   <pubDate>Fri, 09 May 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/66004816/afsnit_112_hotel_k_benhavn.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:06</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#111 – Den om jakken, der var pæn, indtil den ikke var det længere</title>
+   <description>Et bilkøb, en åben dåse makrel og en jakke, der åbenbart ikke er pæn – det var de ingredienser, Professor Utonium brugte for at skabe de perfekte små piger: Blomst, Bobbel og Bellis.
+
+Hvad fanden snakker jeg om.</description>
+   <guid isPermaLink="false">d1c87b87-2be7-4bcc-8094-3ec26b227b81</guid>
+   <pubDate>Tue, 06 May 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65927370/afsnit_111.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:32</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#110 – Skideskam og Knorr-lasagne</title>
+   <description>Ja. Ind og lyt. Det er faktisk et solidt afsnit, hvis jeg selv skal sige det.</description>
+   <guid isPermaLink="false">400389c3-4db1-491a-85a4-cced4d54b58b</guid>
+   <pubDate>Fri, 02 May 2025 00:15:09 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65831783/afsnit_110.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:29</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#109 – Det store comeback</title>
+   <description>Selvfølgelig skal der lyde en stor beklagelse over vores fravær i sidste uge. Livet, venner. Men vi er tilbage. Eller i hvert fald er vi det snart. Her er i hvert fald 20 minutter, hvor vi får banket lidt rust af. Tak for kærligheden i indbakken – og for at I lytter med.
+
+Kh.</description>
+   <guid isPermaLink="false">e85fcf7f-0b03-45fd-a363-a5f0f8a2cbb5</guid>
+   <pubDate>Tue, 29 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65785049/afsnit_109.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#108 – Lang fredag - standard længde afsnit</title>
+   <description>Det er påske. Der er et afsnit. God påske. God lytter.</description>
+   <guid isPermaLink="false">3299a693-1fda-40c0-8e2e-0980114e05b5</guid>
+   <pubDate>Fri, 18 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65617051/afsnit_108.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#107 – Mens vi venter på nachos</title>
+   <description>Ja. Det her er lavet med nachos i ovnen. Et dogme der ville presse de fleste podcasts. Men det ville klæde verden. Fat dig i korthed eller æd brændte chips. 
+
+God påske.</description>
+   <guid isPermaLink="false">74d3b6a1-093c-4806-b3db-b5cb1bc81576</guid>
+   <pubDate>Tue, 15 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65571025/afsnit_107.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:22</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#106 – Jeg er jo en pick me boy</title>
+   <description>Og udover at være dét – hvis jeg da har forstået det rigtigt – får jeg også kaldt mig selv en mellemting mellem Uffe Holm og Clement Kjærsgaard. Og Lisa Marie har været sindssygt akavet. Alt det – og meget mere. God lytter</description>
+   <guid isPermaLink="false">b894f35e-946b-4480-b4ba-ed0b624b5913</guid>
+   <pubDate>Fri, 11 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65530848/afsnit_106.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#105 – En slags Emma Gad for bagerbestillinger</title>
+   <description>Vi er omkring, at voksne mennesker ikke kan vælge specifikke kager, når man bestiller ved bageren. Og at jeg har forsinket en ambulance. Og nå ja, at jeg så har et bygkorn og er på vej ud ad døren.
+
+God lytter.</description>
+   <guid isPermaLink="false">efa68cce-3cba-4090-b2cd-106d64a7e9d1</guid>
+   <pubDate>Tue, 08 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65410986/afsnit_105.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:43</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#104 – Vi er på IMDB</title>
+   <description>Sikke en rutsjebanetur, jeg er ude på. Først en lykkerus over, at vi har made it til IMDb – for så lynhurtigt at opdage, at de har kaldt mig Emil Korndrup. Og nå ja, så kommer vi også lige omkring både Helle Thorning og Margrethe Vestager. God lytter – og god weekend!</description>
+   <guid isPermaLink="false">825b1687-4d78-456c-995c-0dc3f967483d</guid>
+   <pubDate>Fri, 04 Apr 2025 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65340615/afsnit_104.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#103 – Vi har købt en hundehvalp og flytter til København</title>
+   <description>Det slår mig, her mens jeg uploader, at det jo er 1. april afsnittet udkommer. Så derfor har jeg lige givet den lidt gas i navnet på episoden. Problemet er så lidt, at vi slet ikke snakker om det i afsnittet. Så det bliver sgu lidt fesent det hele. 
+
+God dag.</description>
+   <guid isPermaLink="false">9053a38a-5eb8-48be-afab-f38873d0f1f0</guid>
+   <pubDate>Tue, 01 Apr 2025 00:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65261076/afsnit_103.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:45</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#104 – En ensom ananas</title>
+   <description>Jeg kører den ind alene, med morbide jokes og ananas-historier. Det er ikke et afsnit, du skal høre færdig af medlidenhed. Så skifter du bare over og holder dig en dejlig weekend. Vi er til gengæld tilbage på tirsdag, mere friske end nogensinde.</description>
+   <guid isPermaLink="false">61b9e922-c6e7-4ce8-8938-6a6efc428c98</guid>
+   <pubDate>Fri, 28 Mar 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65170221/afsnit_102_alene.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:10:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#103 – Hva' så, din terrier</title>
+   <description>Nyt! Ude nu. Og allerede pisseforsinket, så der er ikke tid til et skriv her. 
 
 Ses.</description>
-      <guid isPermaLink="false">0094eaee-b603-455d-ae8f-2174f26fc588</guid>
-      <pubDate>Tue, 11 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64307190/afsnit_91.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#90 – Timeout i Comwell</title>
-      <description>Lidt om at være tidtager. Om at frygte at ens sidste tid bliver taget fra én, og noget om hvad vi ser frem til om et halvt års tid. Tid må være episodens nøgleord.</description>
-      <guid isPermaLink="false">2a466ca1-1f3b-425c-888c-cb15f31e17b8</guid>
-      <pubDate>Fri, 07 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64234441/afsnit_90.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:24</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#89 – Helt ind i sindet</title>
-      <description>Er der følelser? Ja. Sådan, hvor det bliver for meget? Formentlig. Skal jeg alligevel lytte med? Det synes jeg bestemt.
+   <guid isPermaLink="false">8334be6d-723a-4d44-b152-2c7ac2818910</guid>
+   <pubDate>Tue, 25 Mar 2025 11:05:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/65103534/afsnit_103.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#102 – Røverhistorier fra hovedstaden</title>
+   <description>For første gang i hvad der føles som evigheder, er der rent faktisk noget at berette om – noget, den anden ikke har været en del af.
+
+God weekend.</description>
+   <guid isPermaLink="false">3434c1c9-939b-483b-a84c-c6c41236521e</guid>
+   <pubDate>Fri, 21 Mar 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64996695/afsnit_102.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#101 – En ægte koncertweekend</title>
+   <description>Vi har koncertet derudaf. I lidt forskellige boldgader, dog. Og så snakker vi om, at jeg er pissekedelig, hvis jeg er ædru, og pisseirriterende når jeg er fuld – hvilket jo gør, at jeg uanset hvad bare er dårligt selskab. 
+
+God lytter.</description>
+   <guid isPermaLink="false">1bd68e03-e0e8-44ec-9548-07877592cd54</guid>
+   <pubDate>Tue, 18 Mar 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64930888/afsnit_101.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#100 – Et tarveligt jubilæum</title>
+   <description>Det havde været fedt, hvis det ikke først var gået op for mig midt inde i afsnittet, at det var jubilæum. Så havde vi skudt med konfetti og drukket bobler. I stedet blev det en snak om makrel. God lytter.</description>
+   <guid isPermaLink="false">1a6fd6a5-dcb8-4ad1-8931-d7cf439094f5</guid>
+   <pubDate>Fri, 14 Mar 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64869295/afsnit_100.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#99 – &quot;Alle de andre må ta' til håndboldstævne&quot;</title>
+   <description>Det her er det længste afsnit af den her podcast, du kommer til at lytte til i denne uge. Medmindre vi finder på noget bindegalt til fredag. Det er nemlig et jubilæum. Men det tror jeg ikke, I skal regne med.
+
+Kys</description>
+   <guid isPermaLink="false">adea5a4b-0c6c-4acb-b166-694a8f4a0af0</guid>
+   <pubDate>Tue, 11 Mar 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64797100/afsnit_99.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:59</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#98 – Stand up og syge børn</title>
+   <description>Er Lasse Dein og Martin Johannes Larsen egentlig typerne, der kan lide lasergame? Du har helt sikkert tænkt spørgsmålet. Og det samme har Lisa Marie også. Forskellen på jer og hende er, at hun spørger om det. Jeg ved bare ikke, hvad jeg skal svare. Og nå ja, så snakker vi også om nogle andre ting. God lytter.</description>
+   <guid isPermaLink="false">9e5b78fe-ee03-4650-af13-643dcfca705e</guid>
+   <pubDate>Fri, 07 Mar 2025 01:15:08 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64738903/afsnit_98.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#97 – Man gemmer ikke fisk for sin partner</title>
+   <description>Og det gør man bare ikke. Nyd forårets fremme, venner.  Og husk at køkkenet kan bruges til mere end madlavning. God lytter.</description>
+   <guid isPermaLink="false">12482022-22a4-47af-a865-c970d6dd2290</guid>
+   <pubDate>Tue, 04 Mar 2025 01:15:10 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64679798/afsnit_97.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:10</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#96 – &quot;Det er ligesom i Mr. Bean&quot;</title>
+   <description>Så er der fandme afsnit til weekenden. Husk, hvis du får blåt maling på dine ting, så bare vask det af. God weekend, vennerne.</description>
+   <guid isPermaLink="false">7142e2d8-a8b2-47f7-aa0e-1bc03679359a</guid>
+   <pubDate>Fri, 28 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64611460/afsnit_96.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:31</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#95 – &quot;Jeg booker Skråen til dig&quot;</title>
+   <description>Vi vender MGP-weekenden, taler om, hvad ishockey-trøjen bliver solgt for, og så selvfølgelig den klassiske livskrise, der altid ligger og ulmer.</description>
+   <guid isPermaLink="false">9bb004b3-8370-404f-aff9-6f63c9a0e37b</guid>
+   <pubDate>Tue, 25 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64551038/afsnit_95.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#94 – Herning is calling</title>
+   <description>Så står den i Herning. På MGP. På feriemesse. På alt, hvad der er godt. Og så en relativt klassisk McDonald's- eller Burger King-diskussion, og lidt om, at jeg håber, at nogen vil betale en masse penge for en trøje, jeg har spillet ishockey i.</description>
+   <guid isPermaLink="false">e8434249-4617-4367-b5e8-4be546968c0f</guid>
+   <pubDate>Fri, 21 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64482284/afsnit_94.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:55</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#93 – Nyt fra det nordjyske ferieland</title>
+   <description>Der er ferie i nordjylland. Vi har simpelthen optaget en lørdag. Jeg har redigeret det fra min bærbar. Det er jeg ikke trænet i. Jeg håber, volumen er nogenlunde. Jeg elsker jer.</description>
+   <guid isPermaLink="false">c8a44d6f-4799-450f-a67b-85923a09c4d1</guid>
+   <pubDate>Tue, 18 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64422304/afsnit_93.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#92 – En americano med ekstra vand</title>
+   <description>Jeg fortæller om vanvittige bestillinger på københavnske restauranter. Lisa Marie fortæller, at hun er ligeglad med Valentines dag. Alt er love. God lytter.</description>
+   <guid isPermaLink="false">bb5e6640-f6ca-48b0-8a37-c2c631373dfa</guid>
+   <pubDate>Fri, 14 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64363740/afsnit_92.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#91 – Isrand til dessert?</title>
+   <description>Jeg er skuffet over Lisa Marie efter det her afsnit. Jeg føler ikke, at hun levede op til de lektier, hun havde fået. Og denne tekst er skrevet, mens jeg er lidt irriteret over det, kan jeg mærke. Det er en irritation, jeg kan gå med i flere dage. Det er jeg god til. En frygtelig evne. Så går jeg for mig selv og er irriteret over dét, uden at fortælle hende om det. Så går vi bare rundt og lever vores liv videre, hvor jeg så kan lide hende 5 % mindre, fordi hun gjorde noget, jeg ikke havde forventet. Er det kærlighed? Måske. Er det usundt? Stensikkert.
+
+Ses.</description>
+   <guid isPermaLink="false">0094eaee-b603-455d-ae8f-2174f26fc588</guid>
+   <pubDate>Tue, 11 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64307190/afsnit_91.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#90 – Timeout i Comwell</title>
+   <description>Lidt om at være tidtager. Om at frygte at ens sidste tid bliver taget fra én, og noget om hvad vi ser frem til om et halvt års tid. Tid må være episodens nøgleord.</description>
+   <guid isPermaLink="false">2a466ca1-1f3b-425c-888c-cb15f31e17b8</guid>
+   <pubDate>Fri, 07 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64234441/afsnit_90.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:24</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#89 – Helt ind i sindet</title>
+   <description>Er der følelser? Ja. Sådan, hvor det bliver for meget? Formentlig. Skal jeg alligevel lytte med? Det synes jeg bestemt.
 
 Ses!</description>
-      <guid isPermaLink="false">9214f56d-c3ef-48ce-9ec2-835920ba1ae1</guid>
-      <pubDate>Tue, 04 Feb 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64176419/afsnit_89.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:47</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#88 – Formuespecialist og muligt stand up comeback</title>
-      <description>Endnu et afsnit hvor jeg får nævnt min årebrok i venstre testikel. Det skal jeg snart holde op med.</description>
-      <guid isPermaLink="false">b50c8cbb-a58e-4c60-a924-5b268b84f8ef</guid>
-      <pubDate>Fri, 31 Jan 2025 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/64057187/afsnit_88.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:56</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#87 – Internetfænomen på glatis</title>
-      <description>Et rigtigt natteravns-afsnit. &quot;Lad os optage podcast, når ungerne sover,&quot; hed aftalen, men det endte med, at vi begge faldt i søvn under hver vores putning. Sådan er det.
+   <guid isPermaLink="false">9214f56d-c3ef-48ce-9ec2-835920ba1ae1</guid>
+   <pubDate>Tue, 04 Feb 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64176419/afsnit_89.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#88 – Formuespecialist og muligt stand up comeback</title>
+   <description>Endnu et afsnit hvor jeg får nævnt min årebrok i venstre testikel. Det skal jeg snart holde op med.</description>
+   <guid isPermaLink="false">b50c8cbb-a58e-4c60-a924-5b268b84f8ef</guid>
+   <pubDate>Fri, 31 Jan 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/64057187/afsnit_88.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:56</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#87 – Internetfænomen på glatis</title>
+   <description>Et rigtigt natteravns-afsnit. &quot;Lad os optage podcast, når ungerne sover,&quot; hed aftalen, men det endte med, at vi begge faldt i søvn under hver vores putning. Sådan er det.
 
 Vi er her. Lidt rustne i stemmen, lidt søvn i øjnene. Men ellers er alt, som det skal være.
 
 I øvrigt – en lille disclaimer. Afsnittet er langt. Så hvis du tidligere har brugt afsnittenes længde som rettesnor i din dagligdag – for eksempel: &quot;Et afsnit passer for mig med et toiletbesøg&quot; – så må jeg bare sige, at du halvvejs skal rejse dig op, når det begynder at snurre i dine ben. Ellers kan det gå grueligt galt.
 
 God lytning!</description>
-      <guid isPermaLink="false">a6e2bfe5-b769-48ff-9307-6b6bf96984a9</guid>
-      <pubDate>Tue, 28 Jan 2025 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63942318/afsnit_87.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:07</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#86 – Jeg skal ha' forskellige farver underbukser</title>
-      <description>Et stærkt afsnit. Med en skarp bagkant. Den slags der fordrer kreativitet. Og så en helvedes masse små, løse, irriterende projekter vi ikke må snakke om. For helvede, jeg hader, hvem vi er blevet. 
+   <guid isPermaLink="false">a6e2bfe5-b769-48ff-9307-6b6bf96984a9</guid>
+   <pubDate>Tue, 28 Jan 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63942318/afsnit_87.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#86 – Jeg skal ha' forskellige farver underbukser</title>
+   <description>Et stærkt afsnit. Med en skarp bagkant. Den slags der fordrer kreativitet. Og så en helvedes masse små, løse, irriterende projekter vi ikke må snakke om. For helvede, jeg hader, hvem vi er blevet. 
 
 God lytter.</description>
-      <guid isPermaLink="false">b21cc975-0281-43ae-9b52-179785ee80b9</guid>
-      <pubDate>Fri, 24 Jan 2025 01:05:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63852876/afsnit_86.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:02</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#85 – På klunketur til Hobro</title>
-      <description>En weekend med BSS og kage. Hårdt for kuren. Men godt for livet. Et liv, som man finder ud af hvor kært, man har – både når man hører, hvordan sine børn mener, man nedprioritererer dem, og når man ligger og får scannet løgposen på et sygehus i Hobro. 
+   <guid isPermaLink="false">b21cc975-0281-43ae-9b52-179785ee80b9</guid>
+   <pubDate>Fri, 24 Jan 2025 01:05:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63852876/afsnit_86.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:02</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#85 – På klunketur til Hobro</title>
+   <description>En weekend med BSS og kage. Hårdt for kuren. Men godt for livet. Et liv, som man finder ud af hvor kært, man har – både når man hører, hvordan sine børn mener, man nedprioritererer dem, og når man ligger og får scannet løgposen på et sygehus i Hobro. 
 
 God lytter.</description>
-      <guid isPermaLink="false">5e29799f-850e-44fe-b7aa-1f5e6a120246</guid>
-      <pubDate>Tue, 21 Jan 2025 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63768809/afsnit_85.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:16</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#84 – Mørk chokolade og tanker om hussalg</title>
-      <description>Jeg baiter i titlen. Prøver at få dit blik til at fange HUSSALG, så du tænker &quot;OMG. Sælger de huset fra fjernsynet!?&quot; Og nej. Det gør vi ikke. For vi aner ikke, hvor vi skal hen bagefter. Men en dag skal vi i et stort hus, fordi vi er så nordjyske, at vi tænker, vores børn skal ha' hvert deres værelse.</description>
-      <guid isPermaLink="false">07f3207a-88cd-4dae-86b7-3cbf507f1229</guid>
-      <pubDate>Fri, 17 Jan 2025 01:00:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63715393/afsnit_84.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:07</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#83 – En rådden tomat</title>
-      <description>Dyre BMW'er, rådne grøntsager og alt det andet fra leverpostejslivet i Nordjylland. Lyt med. Det er afsnit 83 – så gammel Tina Turner blev. Vi nævner hende ikke i afsnittet, men det skal afgjort betragtes som en hyldest til hende. Lidt på bagkant, bevares.</description>
-      <guid isPermaLink="false">ad08acb6-83d6-400c-99da-3877afd11e6a</guid>
-      <pubDate>Tue, 14 Jan 2025 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63676530/afsnit_83.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#82 – Den spæde start på bryllupsplanlægning</title>
-      <description>Vi har været rundt og se venues – eller lokaler, alt efter hvem man er. Der er så småt taget hul på bryllupsplanlægningen, i hvert fald. Og nå ja, jeg bliver beordret til at tage væk hjemmefra, fordi Lisa Marie pønser på et nyt vanvidsprojekt.</description>
-      <guid isPermaLink="false">583cbd95-ae41-4e6f-a375-fffaf2ce9e74</guid>
-      <pubDate>Fri, 10 Jan 2025 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63631883/afsnit_82.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:21</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#81 – Tivoli har væltet hegnet</title>
-      <description>Det var mandag med mandag. Men der var også noget med en bon, der gav 2 kroner til det regnskab, som Lisa Marie åbenbart vil bruge på at købe et nyt hus. Alt det – og meget mere.</description>
-      <guid isPermaLink="false">36b92acc-2a56-4965-a4c7-24afc87600f4</guid>
-      <pubDate>Tue, 07 Jan 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63594090/afsnit_81.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:47</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#80 – Hovedspring fra rutsjebanen</title>
-      <description>Det nye år er startet. Men mens den lige står på juleferie et par dage endnu, er det som om, at hele 'New year - New me'-tingen lader vente på sig. For nye livsstile kan man jo kun starte på mandage. 
+   <guid isPermaLink="false">5e29799f-850e-44fe-b7aa-1f5e6a120246</guid>
+   <pubDate>Tue, 21 Jan 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63768809/afsnit_85.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#84 – Mørk chokolade og tanker om hussalg</title>
+   <description>Jeg baiter i titlen. Prøver at få dit blik til at fange HUSSALG, så du tænker &quot;OMG. Sælger de huset fra fjernsynet!?&quot; Og nej. Det gør vi ikke. For vi aner ikke, hvor vi skal hen bagefter. Men en dag skal vi i et stort hus, fordi vi er så nordjyske, at vi tænker, vores børn skal ha' hvert deres værelse.</description>
+   <guid isPermaLink="false">07f3207a-88cd-4dae-86b7-3cbf507f1229</guid>
+   <pubDate>Fri, 17 Jan 2025 01:00:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63715393/afsnit_84.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#83 – En rådden tomat</title>
+   <description>Dyre BMW'er, rådne grøntsager og alt det andet fra leverpostejslivet i Nordjylland. Lyt med. Det er afsnit 83 – så gammel Tina Turner blev. Vi nævner hende ikke i afsnittet, men det skal afgjort betragtes som en hyldest til hende. Lidt på bagkant, bevares.</description>
+   <guid isPermaLink="false">ad08acb6-83d6-400c-99da-3877afd11e6a</guid>
+   <pubDate>Tue, 14 Jan 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63676530/afsnit_83.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#82 – Den spæde start på bryllupsplanlægning</title>
+   <description>Vi har været rundt og se venues – eller lokaler, alt efter hvem man er. Der er så småt taget hul på bryllupsplanlægningen, i hvert fald. Og nå ja, jeg bliver beordret til at tage væk hjemmefra, fordi Lisa Marie pønser på et nyt vanvidsprojekt.</description>
+   <guid isPermaLink="false">583cbd95-ae41-4e6f-a375-fffaf2ce9e74</guid>
+   <pubDate>Fri, 10 Jan 2025 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63631883/afsnit_82.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#81 – Tivoli har væltet hegnet</title>
+   <description>Det var mandag med mandag. Men der var også noget med en bon, der gav 2 kroner til det regnskab, som Lisa Marie åbenbart vil bruge på at købe et nyt hus. Alt det – og meget mere.</description>
+   <guid isPermaLink="false">36b92acc-2a56-4965-a4c7-24afc87600f4</guid>
+   <pubDate>Tue, 07 Jan 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63594090/afsnit_81.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#80 – Hovedspring fra rutsjebanen</title>
+   <description>Det nye år er startet. Men mens den lige står på juleferie et par dage endnu, er det som om, at hele 'New year - New me'-tingen lader vente på sig. For nye livsstile kan man jo kun starte på mandage. 
 
 Vi vender det hele. Og mere til. Ind og lyt. Kys.</description>
-      <guid isPermaLink="false">bba49ec6-a02d-41bb-8b82-67958a0a8452</guid>
-      <pubDate>Fri, 03 Jan 2025 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63549491/afsnit_80.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#79 – &quot;Men du er også svær at købe gaver til&quot;</title>
-      <description>Vi evaluerer på strabadserne fra juleaften. Og traditionen om at Lisa Marie købte en dårlig gave blev holdt i hævd på en helt ny måde. God lytter, god jul og god...t liv for helvede.</description>
-      <guid isPermaLink="false">932d69a3-4d75-4a61-b1e9-90a3e075240f</guid>
-      <pubDate>Fri, 27 Dec 2024 01:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63480559/afsnit_79.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:09</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#78 – Det ér dagen, du ved!</title>
-      <description>Det er jul. Vi sidder på mit gamle børneværelse. Og det går op for mig, at jeg hader foruroligende meget, der hører sig med julen. God lytter. Og ikke mindst – rigtig god jul!</description>
-      <guid isPermaLink="false">53dcf9e9-4612-48eb-bb7f-76f14f690366</guid>
-      <pubDate>Tue, 24 Dec 2024 00:15:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63450607/afsnit_hirtshals_jul.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:33</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#77 – Salmer, smør og forsinkede julegaver</title>
-      <description>Der er gang i den, sang i den og faktisk også både mere ramasjang og tjubang i den. 
+   <guid isPermaLink="false">bba49ec6-a02d-41bb-8b82-67958a0a8452</guid>
+   <pubDate>Fri, 03 Jan 2025 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63549491/afsnit_80.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#79 – &quot;Men du er også svær at købe gaver til&quot;</title>
+   <description>Vi evaluerer på strabadserne fra juleaften. Og traditionen om at Lisa Marie købte en dårlig gave blev holdt i hævd på en helt ny måde. God lytter, god jul og god...t liv for helvede.</description>
+   <guid isPermaLink="false">932d69a3-4d75-4a61-b1e9-90a3e075240f</guid>
+   <pubDate>Fri, 27 Dec 2024 01:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63480559/afsnit_79.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#78 – Det ér dagen, du ved!</title>
+   <description>Det er jul. Vi sidder på mit gamle børneværelse. Og det går op for mig, at jeg hader foruroligende meget, der hører sig med julen. God lytter. Og ikke mindst – rigtig god jul!</description>
+   <guid isPermaLink="false">53dcf9e9-4612-48eb-bb7f-76f14f690366</guid>
+   <pubDate>Tue, 24 Dec 2024 00:15:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63450607/afsnit_hirtshals_jul.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:33</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#77 – Salmer, smør og forsinkede julegaver</title>
+   <description>Der er gang i den, sang i den og faktisk også både mere ramasjang og tjubang i den. 
 Er Pyrus med, tænker du? 
 Nej. Kæmpe skuffelse. Jeg ringede til Jan Linnebjerg, men hans kalender er helt bollet de her dage. Den står på det ene storcenter efter det andet, som skal straffes af en omgang omvendt kasket-hue.</description>
-      <guid isPermaLink="false">bf1102e9-c4c3-44a0-afff-563b0c0429c5</guid>
-      <pubDate>Fri, 20 Dec 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63401545/afsnit_78.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:12</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#76 – Et oprør mod mental load</title>
-      <description>Har prøvet ny strategi her. Hvis du ikke er normal lytter, men er faldet over titlen, fordi du vil være klar til at blive forarget over mig og skrive et læserbrev til en avis og få mig cancelled – så kys dine børn og spis en æbleskive. Det handler bare om, at jeg synes, at det er gået for vidt, at jeg skal hente min egen julegave i en pakkeshop, fordi det er &quot;min tjans&quot;. 
+   <guid isPermaLink="false">bf1102e9-c4c3-44a0-afff-563b0c0429c5</guid>
+   <pubDate>Fri, 20 Dec 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63401545/afsnit_78.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#76 – Et oprør mod mental load</title>
+   <description>Har prøvet ny strategi her. Hvis du ikke er normal lytter, men er faldet over titlen, fordi du vil være klar til at blive forarget over mig og skrive et læserbrev til en avis og få mig cancelled – så kys dine børn og spis en æbleskive. Det handler bare om, at jeg synes, at det er gået for vidt, at jeg skal hente min egen julegave i en pakkeshop, fordi det er &quot;min tjans&quot;. 
 
 God lytter. 
 Kh.</description>
-      <guid isPermaLink="false">a274b723-5525-4ef3-a578-4c26054f2707</guid>
-      <pubDate>Tue, 17 Dec 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63345221/afsnit_74.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:33</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#75 – Diktat og rød løber</title>
-      <description>Pissemeget undskyld. Der var ingen afsnit i starten af ugen, og der har generelt været for mange udeblivelser den seneste måneds tid (læs: to). Vi gør os umage og retter op på det. Ikke på en måde, så vi laver ekstra for dem, vi mangler, men prøver at sørge for, at der ikke sker flere af den slags svipsere.
+   <guid isPermaLink="false">a274b723-5525-4ef3-a578-4c26054f2707</guid>
+   <pubDate>Tue, 17 Dec 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63345221/afsnit_74.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:33</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#75 – Diktat og rød løber</title>
+   <description>Pissemeget undskyld. Der var ingen afsnit i starten af ugen, og der har generelt været for mange udeblivelser den seneste måneds tid (læs: to). Vi gør os umage og retter op på det. Ikke på en måde, så vi laver ekstra for dem, vi mangler, men prøver at sørge for, at der ikke sker flere af den slags svipsere.
 
 
 Jeg synes I skal lytte med. For helt ærligt. Hvad fanden skulle I ellers lave?</description>
-      <guid isPermaLink="false">55f4b846-c351-49be-9874-fd58663b3ff9</guid>
-      <pubDate>Fri, 13 Dec 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63290151/afsnit_75.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:13</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#74 – Gigantiske nyheder og nyt billede</title>
-      <description>Nyt afsnit. Som altid. Sygt, hvis det havde været et gammelt afsnit, egentlig.
+   <guid isPermaLink="false">55f4b846-c351-49be-9874-fd58663b3ff9</guid>
+   <pubDate>Fri, 13 Dec 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63290151/afsnit_75.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:13</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#74 – Gigantiske nyheder og nyt billede</title>
+   <description>Nyt afsnit. Som altid. Sygt, hvis det havde været et gammelt afsnit, egentlig.
 
 Men der er ægte nyheder, faktisk. Eller... Ikke på den der &quot;Ny lov vedtaget på Christiansborg&quot; eller noget med Trump. Så ikke nyheder, der betyder noget for verden. Men sådan er det jo. Går man op i den slags, lytter man jo ikke med her.
 
 Der er også nyt billede. Nyd det lige. Også selvom den her tekst er skrevet, inden jeg helt ved, om det virker.
 
 God fredag, venner.</description>
-      <guid isPermaLink="false">e1391c80-b0ec-450a-bddd-450a634727b5</guid>
-      <pubDate>Fri, 06 Dec 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63174275/afsnit_74.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:45</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#73 – Abba eller C21</title>
-      <description>Jeg har været ved lægen, vi hader æbleskiver og så er vi lidt i tvivl om oprindelsen bag One Night in Bangkok. 
+   <guid isPermaLink="false">e1391c80-b0ec-450a-bddd-450a634727b5</guid>
+   <pubDate>Fri, 06 Dec 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63174275/afsnit_74.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:45</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#73 – Abba eller C21</title>
+   <description>Jeg har været ved lægen, vi hader æbleskiver og så er vi lidt i tvivl om oprindelsen bag One Night in Bangkok. 
 
 Alt er godt. God lytter.</description>
-      <guid isPermaLink="false">1d684b58-3fa0-4c19-ae12-bafb8e7f4775</guid>
-      <pubDate>Mon, 02 Dec 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63097345/afsnit_73.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:33</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#72 – Tilbage på dansk jord</title>
-      <description>Vi er tilbage. Men vi skal lige ryste det jetlag af os, som den ene times tidsforskel mærkeligt nok har sat sig dybt i os. Derfor er tempoet nok derefter – og det beklager vi selvfølgelig. Især fordi der heller ikke kom et afsnit i tirsdags. Egentlig en frygtelig uge, især efter at vi i sidste uge peakede. Snak om at smide momentum!</description>
-      <guid isPermaLink="false">72601ec5-6a2f-4f73-9c00-252f2b2939fd</guid>
-      <pubDate>Fri, 29 Nov 2024 01:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/63052283/afsnit_72.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:16</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#71 – &quot;Jeg oplever mange mænd trække vejret tungt i buffeten&quot;</title>
-      <description>Vi er stadig i charter-land. Vi vender det hele. Buffeten – og det bevidste valg om mangel på samme. Hvor bøvlet det er at få en taxa, når man er en familie på fem. Og at en svensk guide tror, at vores barn hedder noget helt andet. 
+   <guid isPermaLink="false">1d684b58-3fa0-4c19-ae12-bafb8e7f4775</guid>
+   <pubDate>Mon, 02 Dec 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63097345/afsnit_73.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:33</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#72 – Tilbage på dansk jord</title>
+   <description>Vi er tilbage. Men vi skal lige ryste det jetlag af os, som den ene times tidsforskel mærkeligt nok har sat sig dybt i os. Derfor er tempoet nok derefter – og det beklager vi selvfølgelig. Især fordi der heller ikke kom et afsnit i tirsdags. Egentlig en frygtelig uge, især efter at vi i sidste uge peakede. Snak om at smide momentum!</description>
+   <guid isPermaLink="false">72601ec5-6a2f-4f73-9c00-252f2b2939fd</guid>
+   <pubDate>Fri, 29 Nov 2024 01:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/63052283/afsnit_72.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#71 – &quot;Jeg oplever mange mænd trække vejret tungt i buffeten&quot;</title>
+   <description>Vi er stadig i charter-land. Vi vender det hele. Buffeten – og det bevidste valg om mangel på samme. Hvor bøvlet det er at få en taxa, når man er en familie på fem. Og at en svensk guide tror, at vores barn hedder noget helt andet. 
 
 God lytter.</description>
-      <guid isPermaLink="false">8163f79c-d714-42e5-840b-ad835d4dbfce</guid>
-      <pubDate>Fri, 22 Nov 2024 02:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62959511/afsnit_71.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#70 – Så for massøren!</title>
-      <description>Nyt afsnit! Nyt fra Riffen. Jeg har været ved massør, voldsom oplevelse. Og jeg bruger podcasten til at fortælle Lisa Marie om det i tilfælde af en farlig reaktion. 
+   <guid isPermaLink="false">8163f79c-d714-42e5-840b-ad835d4dbfce</guid>
+   <pubDate>Fri, 22 Nov 2024 02:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62959511/afsnit_71.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#70 – Så for massøren!</title>
+   <description>Nyt afsnit! Nyt fra Riffen. Jeg har været ved massør, voldsom oplevelse. Og jeg bruger podcasten til at fortælle Lisa Marie om det i tilfælde af en farlig reaktion. 
 
 Det går forrygende. Vi har skiftet hotel. Jeg er lidt irriteret over, at Lisa Marie er irriteret over, at jeg var irriteret over, at det nye hotel ligger irriterende langt fra alt. Sådan er det jo. Ellers er alt godt. Send flere penge. 
 
 Kh.</description>
-      <guid isPermaLink="false">26f1e232-b9b1-4895-8cdb-a3d0a4a2aa09</guid>
-      <pubDate>Tue, 19 Nov 2024 02:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62791406/afsnit_70.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:05</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#69 – og andre ting, vi laver, når ungerne sover på ferien</title>
-      <description>Nyt afsnit. Stadig på Tenerife. Vi taler om ferie og om de ting, man sætter større pris på nu, når man rejser. Du kan lytte til det her. Til trods for det frække episodenummer kommer jeg kun med et par enkelte tøhø-kommentarer</description>
-      <guid isPermaLink="false">a8ac970f-04ad-4e90-9b8f-4c32cb22b5ae</guid>
-      <pubDate>Fri, 15 Nov 2024 02:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62744034/afsnit_riffen_dos.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:40</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#68 – Tenerifbjerg har ordet</title>
-      <description>Vi er på Tenerife. Livet er skønt. Men livet er også hårdt. For engang var livet et skænderi i sin entre på vej ud af døren, om hvorvidt der skulle hue og vanter på, eller om det var tid til overgangs- eller vinterjakke. Den slags problematikker døjer vi sgu ikke med hernede. Men som C.V. Jørgensen også sang det, så &quot;kæmper vi af helvede til med den forbandede solcreme&quot;. Om han egentlig synger det, eller om det bare er noget, jeg husker, efter de 12 Doradas (som øllen, de drikker hernede, hedder) jeg har drukket på altanen til aften, ved jeg ikke. 
+   <guid isPermaLink="false">26f1e232-b9b1-4895-8cdb-a3d0a4a2aa09</guid>
+   <pubDate>Tue, 19 Nov 2024 02:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62791406/afsnit_70.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#69 – og andre ting, vi laver, når ungerne sover på ferien</title>
+   <description>Nyt afsnit. Stadig på Tenerife. Vi taler om ferie og om de ting, man sætter større pris på nu, når man rejser. Du kan lytte til det her. Til trods for det frække episodenummer kommer jeg kun med et par enkelte tøhø-kommentarer</description>
+   <guid isPermaLink="false">a8ac970f-04ad-4e90-9b8f-4c32cb22b5ae</guid>
+   <pubDate>Fri, 15 Nov 2024 02:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62744034/afsnit_riffen_dos.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#68 – Tenerifbjerg har ordet</title>
+   <description>Vi er på Tenerife. Livet er skønt. Men livet er også hårdt. For engang var livet et skænderi i sin entre på vej ud af døren, om hvorvidt der skulle hue og vanter på, eller om det var tid til overgangs- eller vinterjakke. Den slags problematikker døjer vi sgu ikke med hernede. Men som C.V. Jørgensen også sang det, så &quot;kæmper vi af helvede til med den forbandede solcreme&quot;. Om han egentlig synger det, eller om det bare er noget, jeg husker, efter de 12 Doradas (som øllen, de drikker hernede, hedder) jeg har drukket på altanen til aften, ved jeg ikke. 
 
 
 Handler afsnitet om noget af det, jeg har lige har skrevet her? Overhovedet ikke. God lytter.</description>
-      <guid isPermaLink="false">13169f30-5cc8-4d56-b1aa-5891e9f4b349</guid>
-      <pubDate>Tue, 12 Nov 2024 02:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62696522/afsnit_tenerife.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:39</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#67 – Nyt fra udebanen</title>
-      <description>Vi er taget afsted. Har haft passet fremme og sat kurs mod varmere himmelstrøg. Det kan lyden måske bære præg af, men vi lover dig, at vi gør os umage.
+   <guid isPermaLink="false">13169f30-5cc8-4d56-b1aa-5891e9f4b349</guid>
+   <pubDate>Tue, 12 Nov 2024 02:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62696522/afsnit_tenerife.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#67 – Nyt fra udebanen</title>
+   <description>Vi er taget afsted. Har haft passet fremme og sat kurs mod varmere himmelstrøg. Det kan lyden måske bære præg af, men vi lover dig, at vi gør os umage.
 
 Kh.</description>
-      <guid isPermaLink="false">cca77f60-3f1a-4082-abcb-66ba87ad32d6</guid>
-      <pubDate>Fri, 08 Nov 2024 02:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62658293/afsnit_67.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:26</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#66 – Frieri og karaoke</title>
-      <description>Der er nyt. Og der er sket hæsblæsende ting. Kys.</description>
-      <guid isPermaLink="false">47579f6f-b887-4825-87b6-9b4c81f244c3</guid>
-      <pubDate>Tue, 05 Nov 2024 01:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62613512/afsnit_66.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:00</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#65 – Sankthans og silikonebryster</title>
-      <description>Der er nyt. Nyt fra Kondrup. Det hedder podcasten. Og du skal til at lytte med.</description>
-      <guid isPermaLink="false">13d2ae7e-f203-44e3-85a2-91477bc97e50</guid>
-      <pubDate>Fri, 01 Nov 2024 01:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62575086/afsnit_65.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#64 – Lille p*k og hva' så</title>
-      <description>Vi går ned ad memory lane. Snakker om gode pranks. Dårlige pranks. Om håndboldmål. Om hvordan Halloween er gået fra at være én dag om året til at være en form for festival. God lytter.
+   <guid isPermaLink="false">cca77f60-3f1a-4082-abcb-66ba87ad32d6</guid>
+   <pubDate>Fri, 08 Nov 2024 02:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62658293/afsnit_67.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#66 – Frieri og karaoke</title>
+   <description>Der er nyt. Og der er sket hæsblæsende ting. Kys.</description>
+   <guid isPermaLink="false">47579f6f-b887-4825-87b6-9b4c81f244c3</guid>
+   <pubDate>Tue, 05 Nov 2024 01:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62613512/afsnit_66.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#65 – Sankthans og silikonebryster</title>
+   <description>Der er nyt. Nyt fra Kondrup. Det hedder podcasten. Og du skal til at lytte med.</description>
+   <guid isPermaLink="false">13d2ae7e-f203-44e3-85a2-91477bc97e50</guid>
+   <pubDate>Fri, 01 Nov 2024 01:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62575086/afsnit_65.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#64 – Lille p*k og hva' så</title>
+   <description>Vi går ned ad memory lane. Snakker om gode pranks. Dårlige pranks. Om håndboldmål. Om hvordan Halloween er gået fra at være én dag om året til at være en form for festival. God lytter.
 
 Kh.</description>
-      <guid isPermaLink="false">da1236ad-f9ae-4f5e-895a-fdaf76e93552</guid>
-      <pubDate>Tue, 29 Oct 2024 01:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62534405/afsnit_64.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:47</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#63 – Kram eller konflikt</title>
-      <description>Så er der nyt afsnit. Vi vender, at dagen startede dårligt. At jeg igen, igen, igen starter ny livsstil, OG så starter jeg op for konceptet &quot;kram eller konflikt&quot;, som jeg hev ud af røven lige inden, vi startede med at optage.
+   <guid isPermaLink="false">da1236ad-f9ae-4f5e-895a-fdaf76e93552</guid>
+   <pubDate>Tue, 29 Oct 2024 01:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62534405/afsnit_64.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#63 – Kram eller konflikt</title>
+   <description>Så er der nyt afsnit. Vi vender, at dagen startede dårligt. At jeg igen, igen, igen starter ny livsstil, OG så starter jeg op for konceptet &quot;kram eller konflikt&quot;, som jeg hev ud af røven lige inden, vi startede med at optage.
 
 Lisa Marie har stadig gener fra tandlægebesøget. Mest visuelle, bevares. Men hvis der er ekstra vejrtrækning eller lignende, så vil hun gerne henvise til, at dét kan være årsagen.Kh.</description>
-      <guid isPermaLink="false">0dceefc2-1a9d-4156-bc59-d4519215929e</guid>
-      <pubDate>Fri, 25 Oct 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62493692/afsnit_63.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:14</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#62 – TILBAGE MED ET BRAG</title>
-      <description>Vi er tilbage. Lisa Marie er øm i kæben. Og så siger jeg ikke mere. Men det gør jeg i podcasten. Den kan man lytte til ved at trykke på play-ikonet et eller andet sted på din skærm lige nu. 
+   <guid isPermaLink="false">0dceefc2-1a9d-4156-bc59-d4519215929e</guid>
+   <pubDate>Fri, 25 Oct 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62493692/afsnit_63.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#62 – TILBAGE MED ET BRAG</title>
+   <description>Vi er tilbage. Lisa Marie er øm i kæben. Og så siger jeg ikke mere. Men det gør jeg i podcasten. Den kan man lytte til ved at trykke på play-ikonet et eller andet sted på din skærm lige nu. 
 
 Kys.</description>
-      <guid isPermaLink="false">9a77739d-4155-4a55-bfba-24fef002763f</guid>
-      <pubDate>Mon, 21 Oct 2024 23:45:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62443398/afsnit_62.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#61 – Der må du aldrig gå hen, Emil</title>
-      <description>Selvransagelsens afsnit. Måske lidt mørkt. Men af mørke skal lys skinne frem, sagde en god ven engang. Eller Jesus. Faktisk ret sikker på, at det var Jesus. 
+   <guid isPermaLink="false">9a77739d-4155-4a55-bfba-24fef002763f</guid>
+   <pubDate>Mon, 21 Oct 2024 23:45:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62443398/afsnit_62.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#61 – Der må du aldrig gå hen, Emil</title>
+   <description>Selvransagelsens afsnit. Måske lidt mørkt. Men af mørke skal lys skinne frem, sagde en god ven engang. Eller Jesus. Faktisk ret sikker på, at det var Jesus. 
 
 Kh.</description>
-      <guid isPermaLink="false">008b5dc5-f25f-43be-b1dd-e772594a8b81</guid>
-      <pubDate>Fri, 11 Oct 2024 01:15:00 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62321516/afsnit61.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:39</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#60 – Lisa Marie skylder en undskyldning</title>
-      <description>Det ville nok være store ord at sige, at den her podcast har genopfundet sig selv. Og hvis ikke man vidste bedre, ville man tro, at afsnittet er på samme måde som alle de andre. Fordi det er det. Og det kan man lytte til, hvis ens nysgerrighed er blevet pirret i forhold til, hvad pokker mon Lisa Marie skal sige undskyld for.</description>
-      <guid isPermaLink="false">259d7ddc-5c63-40e8-a6f0-a10ed64bcc84</guid>
-      <pubDate>Tue, 08 Oct 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62274752/afsnit_60.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#59 EN NY START?</title>
-      <description>Vi har åbent redaktionsmøde. Podcasten skal rebrandes. Lisa Marie skal frem i bussen. Hun har en gæstefølelse, hun skal af med. Og det kommer vi omkring. Stemningen bliver god undervejs i podcasten. Så god at den nærmest er lidt smålummer til sidst. Men bare rolig. Det var bare noget, jeg troede, kan jeg konstatere, mens jeg skriver det her.</description>
-      <guid isPermaLink="false">67a55808-21b3-4600-9bae-cb6d509f32fc</guid>
-      <pubDate>Fri, 04 Oct 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62216520/afsnit_59.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#58 – Ingen mur at kaste bolden på</title>
-      <description>En hård omgang. Jeg vender håndbolddebuten. Mangler Lisa Marie. Snakker om en aften ude. Mangler Lisa Marie. Snakker om en mærkelig SMS. Mangler Lisa Marie. Snakker om at købe en Playstation. Mangler Lisa Marie.</description>
-      <guid isPermaLink="false">a6800f8b-6bbd-4c0b-95b0-176f5ad43cf3</guid>
-      <pubDate>Tue, 01 Oct 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62170533/afsnit_58.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:11</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#57 – Fra den helt klamme side</title>
-      <description>Vi snakker om nutella. Og negle. Og om at desperations-snacke. Altså det har ikke noget med neglene at gøre. Og så har Lisa Marie nyt fra koret. 
+   <guid isPermaLink="false">008b5dc5-f25f-43be-b1dd-e772594a8b81</guid>
+   <pubDate>Fri, 11 Oct 2024 01:15:00 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62321516/afsnit61.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#60 – Lisa Marie skylder en undskyldning</title>
+   <description>Det ville nok være store ord at sige, at den her podcast har genopfundet sig selv. Og hvis ikke man vidste bedre, ville man tro, at afsnittet er på samme måde som alle de andre. Fordi det er det. Og det kan man lytte til, hvis ens nysgerrighed er blevet pirret i forhold til, hvad pokker mon Lisa Marie skal sige undskyld for.</description>
+   <guid isPermaLink="false">259d7ddc-5c63-40e8-a6f0-a10ed64bcc84</guid>
+   <pubDate>Tue, 08 Oct 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62274752/afsnit_60.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#59 EN NY START?</title>
+   <description>Vi har åbent redaktionsmøde. Podcasten skal rebrandes. Lisa Marie skal frem i bussen. Hun har en gæstefølelse, hun skal af med. Og det kommer vi omkring. Stemningen bliver god undervejs i podcasten. Så god at den nærmest er lidt smålummer til sidst. Men bare rolig. Det var bare noget, jeg troede, kan jeg konstatere, mens jeg skriver det her.</description>
+   <guid isPermaLink="false">67a55808-21b3-4600-9bae-cb6d509f32fc</guid>
+   <pubDate>Fri, 04 Oct 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62216520/afsnit_59.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#58 – Ingen mur at kaste bolden på</title>
+   <description>En hård omgang. Jeg vender håndbolddebuten. Mangler Lisa Marie. Snakker om en aften ude. Mangler Lisa Marie. Snakker om en mærkelig SMS. Mangler Lisa Marie. Snakker om at købe en Playstation. Mangler Lisa Marie.</description>
+   <guid isPermaLink="false">a6800f8b-6bbd-4c0b-95b0-176f5ad43cf3</guid>
+   <pubDate>Tue, 01 Oct 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62170533/afsnit_58.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:11</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#57 – Fra den helt klamme side</title>
+   <description>Vi snakker om nutella. Og negle. Og om at desperations-snacke. Altså det har ikke noget med neglene at gøre. Og så har Lisa Marie nyt fra koret. 
 Ind og lyt. Du er så tæt på, hvis du allerede læser det her. Formentligt bare ét enkelt tryk. 
 
 God weekend!</description>
-      <guid isPermaLink="false">1f35906e-53d2-4e6a-bb4f-668bdf292fba</guid>
-      <pubDate>Fri, 27 Sep 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62120953/afsnit_57.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:00</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#56 – &quot;Jeg har brugt 20.000&quot;</title>
-      <description>Kæmpe afsnit. I er med i soveværelset. I er med i bilen på vej til Sjællands Odde. Og I er med alle mulige andre steder henne også. Fælles for dem alle er, at det bliver lidt halvulækkert at høre på. 
+   <guid isPermaLink="false">1f35906e-53d2-4e6a-bb4f-668bdf292fba</guid>
+   <pubDate>Fri, 27 Sep 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62120953/afsnit_57.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#56 – &quot;Jeg har brugt 20.000&quot;</title>
+   <description>Kæmpe afsnit. I er med i soveværelset. I er med i bilen på vej til Sjællands Odde. Og I er med alle mulige andre steder henne også. Fælles for dem alle er, at det bliver lidt halvulækkert at høre på. 
 
 God lytter!</description>
-      <guid isPermaLink="false">8c60adc0-5fa1-494f-a274-d8ae8c0260f6</guid>
-      <pubDate>Tue, 24 Sep 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62082067/afsnit_56.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:41</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#55 – Ægteskabstesten fra ChatGPT</title>
-      <description>Vi tester, om vi har den samme livsanskuelse. Det har vi ikke, kan jeg godt afsløre. Derudover vender vi en travl uge og slutter af med en snak om, at vi er ret sikre på, at der også var skiderodet hjemme hos vores forældre, da vi var børn, men at man bare ikke kan huske det. Altså. Ikke &quot;vores forældre&quot; som i at vi er søskende. Det er vi ikke. Men. Ja. I forstår! Danmarks klogeste lyttere.</description>
-      <guid isPermaLink="false">cca9c763-7cba-470a-9aff-7a3b0640b8b0</guid>
-      <pubDate>Fri, 20 Sep 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/62016592/afsnit_55.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:25</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#54 – En leverpostej i fryseren</title>
-      <description>Nå. Jeg har et vågent barn, tror jeg. Så smider det bare lige hurtigt op. Godnat!</description>
-      <guid isPermaLink="false">e6dc0ac2-8096-4655-be85-e11c92fe9c67</guid>
-      <pubDate>Tue, 17 Sep 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61868350/afsnit_54.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:38</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#53 – Det taktiske håndboldværksted</title>
-      <description>Hva' så, Bent Nyegaard. Så fandt du også min podcast, hva? Og bare rolig. Den kommer ikke til at skuffe dig. Eller måske gør den sidste del. Der handler den om Lisa Maries kor-comeback. Korback, kan man vel faktisk kalde det, hvis man er sådan lidt reklamemands-agtig. Ha' en pokkers god lytter og en mindst ligeså god weekend bagefter. 
+   <guid isPermaLink="false">8c60adc0-5fa1-494f-a274-d8ae8c0260f6</guid>
+   <pubDate>Tue, 24 Sep 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62082067/afsnit_56.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#55 – Ægteskabstesten fra ChatGPT</title>
+   <description>Vi tester, om vi har den samme livsanskuelse. Det har vi ikke, kan jeg godt afsløre. Derudover vender vi en travl uge og slutter af med en snak om, at vi er ret sikre på, at der også var skiderodet hjemme hos vores forældre, da vi var børn, men at man bare ikke kan huske det. Altså. Ikke &quot;vores forældre&quot; som i at vi er søskende. Det er vi ikke. Men. Ja. I forstår! Danmarks klogeste lyttere.</description>
+   <guid isPermaLink="false">cca9c763-7cba-470a-9aff-7a3b0640b8b0</guid>
+   <pubDate>Fri, 20 Sep 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/62016592/afsnit_55.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:25</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#54 – En leverpostej i fryseren</title>
+   <description>Nå. Jeg har et vågent barn, tror jeg. Så smider det bare lige hurtigt op. Godnat!</description>
+   <guid isPermaLink="false">e6dc0ac2-8096-4655-be85-e11c92fe9c67</guid>
+   <pubDate>Tue, 17 Sep 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61868350/afsnit_54.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#53 – Det taktiske håndboldværksted</title>
+   <description>Hva' så, Bent Nyegaard. Så fandt du også min podcast, hva? Og bare rolig. Den kommer ikke til at skuffe dig. Eller måske gør den sidste del. Der handler den om Lisa Maries kor-comeback. Korback, kan man vel faktisk kalde det, hvis man er sådan lidt reklamemands-agtig. Ha' en pokkers god lytter og en mindst ligeså god weekend bagefter. 
 
 Emil Eggert.</description>
-      <guid isPermaLink="false">08ec3240-7ae0-457d-91b1-95987acf5741</guid>
-      <pubDate>Fri, 13 Sep 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61403105/afsnit_53.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:38</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#52 – Rødvin eller champignon</title>
-      <description>Så er der nyt afsnit! 52, sgu! Medmindre du har talt efter. For så er det faktisk 53. Men hvem tæller? Nå! Der er nyt fra weekenden. Jeg har været på sommerhustur med nogle venner, og Lisa Marie har været herhjemme med nogle børn. Hver sine lyster, siger jeg bare. 
+   <guid isPermaLink="false">08ec3240-7ae0-457d-91b1-95987acf5741</guid>
+   <pubDate>Fri, 13 Sep 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61403105/afsnit_53.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#52 – Rødvin eller champignon</title>
+   <description>Så er der nyt afsnit! 52, sgu! Medmindre du har talt efter. For så er det faktisk 53. Men hvem tæller? Nå! Der er nyt fra weekenden. Jeg har været på sommerhustur med nogle venner, og Lisa Marie har været herhjemme med nogle børn. Hver sine lyster, siger jeg bare. 
 
 God lytter!</description>
-      <guid isPermaLink="false">0b5a0ede-9aee-4267-8ddf-608e275dcf58</guid>
-      <pubDate>Tue, 10 Sep 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61311614/afsnit_52.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:44</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#51 – Ørelæge og pumpkin spice</title>
-      <description>Jeg har været fanget i Føtex. Vi sover ikke om natten. Og så får jeg lagt mig ud med hele byen. God lytter.</description>
-      <guid isPermaLink="false">73aee67c-118f-4593-8e0a-be996f35acc6</guid>
-      <pubDate>Fri, 06 Sep 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61272790/afsnit_51.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:26</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#50 – Lisa Marie er begyndt til kor</title>
-      <description>Ja. I hørte det her først. Og jeg er da også meget i tvivl om, hvor I ellers skulle ha' hørt det. Men Lisa Marie er begyndt til kor. Og derudover er vi bare mere trætte end nogensinde. God lytter!</description>
-      <guid isPermaLink="false">ac47c141-aa4f-46cc-8020-b7a583fe6920</guid>
-      <pubDate>Tue, 03 Sep 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61244186/afsnit_50.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:41</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#49 – Don't Cryo For Me Argentina</title>
-      <description>Vi har været i cryo. Vi vender den oplevelse! Og vi er også omkring, at fiskemanden troede, at Lisa Marie var gravid. Jeg er træt. Har lige løbet en tur. Det nævner jeg ikke i podcasten, fordi den var optaget inden. Men vigtigt lige at få nævnt alligevel.</description>
-      <guid isPermaLink="false">05862bcb-614c-43aa-9141-b6455892c17d</guid>
-      <pubDate>Fri, 30 Aug 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61202363/afsnit_49.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:23</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#48 – BJ og massage</title>
-      <description>Det lyder som en god fredagaften. Men der er naturligvis tale om isen. Og nå, ja. Så er jeg blevet masseret af en mand, der gerne ville snakke med mig imens. Og så vil jeg på forhånd gerne undskylde for at lyden stikker helt af. Det gør vi til sidst, fordi bølgerne går højt, og vi snakker om at alt i livet åbenbart er en konkurrence, som Lisa Marie har vundet. PS. Der er lidt ekstra til sidst, venner</description>
-      <guid isPermaLink="false">eb52203e-a6b7-47a5-8284-578e78549949</guid>
-      <pubDate>Tue, 27 Aug 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61162248/afsnit_47_rigtigt.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:46</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#47 – En håndboldpodcast er født</title>
-      <description>Østtysk og fransk, opdækning i feltet, angrebsfejl og overtrådt. Vi er omkring det hele i første afsnit af den håndboldpodcast, du ikke vidste, du gik og manglede. Og nå ja. Så vender vi også alle de hæsblæsende ting i vores liv. For eksempel at vi ikke har fået taget vasketøjet ind, selvom det regnede.</description>
-      <guid isPermaLink="false">3b6861aa-aeb7-497a-af46-a68a653cd613</guid>
-      <pubDate>Fri, 23 Aug 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61117792/afsnit_47.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:54</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#46 – En presset situation</title>
-      <description>Jeg har været ved at skide i bukserne. Og hvis ikke du vil høre om det, så tror jeg, at du skal sidde over på det her afsnit. Vil du til gengæld høre om, at Lisa Marie og jeg var uvenner over den berømte og berygtede byfest... Jamen så skal du lige overleve skide i bukserne-historien, inden den kommer. Og så bliver det her også den sidste podcast i mit liv, jeg udgiver, hvor jeg ikke går til håndbold.</description>
-      <guid isPermaLink="false">da2e1b4c-36aa-4322-8cd4-3e88f847367c</guid>
-      <pubDate>Tue, 20 Aug 2024 00:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61084975/afsnit_46.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:41</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#45 – Børnefødselsdag og fodboldmæssige bøllebank</title>
-      <description>Jeg har lige tabt 15-3 i fodboldkamp. Jeg er voksen. Voksnes fodboldkampe ender ikke 15-3. Jeg er rasende og skuffet. Selvfølgelig kan jeg ikke lave en tekst til det her afsnit.</description>
-      <guid isPermaLink="false">82b87bb5-3f8a-451c-8eac-3a6fb22293c5</guid>
-      <pubDate>Fri, 16 Aug 2024 00:30:07 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61042509/afsnit_45.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:08</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#44 – Tips til smalltalk</title>
-      <description>Hverdagen kalder og vi har været til bryllup. Deler ud af lidt tips og tricks. Vi har også børnefødselsdags-festival i den kommende uge. Og vi har som de eneste partout-billet. Ind og lyt.</description>
-      <guid isPermaLink="false">44561483-0a16-4793-aadd-1a1412555691</guid>
-      <pubDate>Tue, 13 Aug 2024 00:30:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/61002052/afsnit_44.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:35</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#43 – &quot;Du kender sgu da godt?&quot;</title>
-      <description>Vi har været i Legoland. Det fortæller vi om. Vi skal også til bryllup. Det fortæller vi også om. 
+   <guid isPermaLink="false">0b5a0ede-9aee-4267-8ddf-608e275dcf58</guid>
+   <pubDate>Tue, 10 Sep 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61311614/afsnit_52.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:44</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#51 – Ørelæge og pumpkin spice</title>
+   <description>Jeg har været fanget i Føtex. Vi sover ikke om natten. Og så får jeg lagt mig ud med hele byen. God lytter.</description>
+   <guid isPermaLink="false">73aee67c-118f-4593-8e0a-be996f35acc6</guid>
+   <pubDate>Fri, 06 Sep 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61272790/afsnit_51.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#50 – Lisa Marie er begyndt til kor</title>
+   <description>Ja. I hørte det her først. Og jeg er da også meget i tvivl om, hvor I ellers skulle ha' hørt det. Men Lisa Marie er begyndt til kor. Og derudover er vi bare mere trætte end nogensinde. God lytter!</description>
+   <guid isPermaLink="false">ac47c141-aa4f-46cc-8020-b7a583fe6920</guid>
+   <pubDate>Tue, 03 Sep 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61244186/afsnit_50.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#49 – Don't Cryo For Me Argentina</title>
+   <description>Vi har været i cryo. Vi vender den oplevelse! Og vi er også omkring, at fiskemanden troede, at Lisa Marie var gravid. Jeg er træt. Har lige løbet en tur. Det nævner jeg ikke i podcasten, fordi den var optaget inden. Men vigtigt lige at få nævnt alligevel.</description>
+   <guid isPermaLink="false">05862bcb-614c-43aa-9141-b6455892c17d</guid>
+   <pubDate>Fri, 30 Aug 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61202363/afsnit_49.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:23</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#48 – BJ og massage</title>
+   <description>Det lyder som en god fredagaften. Men der er naturligvis tale om isen. Og nå, ja. Så er jeg blevet masseret af en mand, der gerne ville snakke med mig imens. Og så vil jeg på forhånd gerne undskylde for at lyden stikker helt af. Det gør vi til sidst, fordi bølgerne går højt, og vi snakker om at alt i livet åbenbart er en konkurrence, som Lisa Marie har vundet. PS. Der er lidt ekstra til sidst, venner</description>
+   <guid isPermaLink="false">eb52203e-a6b7-47a5-8284-578e78549949</guid>
+   <pubDate>Tue, 27 Aug 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61162248/afsnit_47_rigtigt.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:46</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#47 – En håndboldpodcast er født</title>
+   <description>Østtysk og fransk, opdækning i feltet, angrebsfejl og overtrådt. Vi er omkring det hele i første afsnit af den håndboldpodcast, du ikke vidste, du gik og manglede. Og nå ja. Så vender vi også alle de hæsblæsende ting i vores liv. For eksempel at vi ikke har fået taget vasketøjet ind, selvom det regnede.</description>
+   <guid isPermaLink="false">3b6861aa-aeb7-497a-af46-a68a653cd613</guid>
+   <pubDate>Fri, 23 Aug 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61117792/afsnit_47.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:54</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#46 – En presset situation</title>
+   <description>Jeg har været ved at skide i bukserne. Og hvis ikke du vil høre om det, så tror jeg, at du skal sidde over på det her afsnit. Vil du til gengæld høre om, at Lisa Marie og jeg var uvenner over den berømte og berygtede byfest... Jamen så skal du lige overleve skide i bukserne-historien, inden den kommer. Og så bliver det her også den sidste podcast i mit liv, jeg udgiver, hvor jeg ikke går til håndbold.</description>
+   <guid isPermaLink="false">da2e1b4c-36aa-4322-8cd4-3e88f847367c</guid>
+   <pubDate>Tue, 20 Aug 2024 00:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61084975/afsnit_46.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#45 – Børnefødselsdag og fodboldmæssige bøllebank</title>
+   <description>Jeg har lige tabt 15-3 i fodboldkamp. Jeg er voksen. Voksnes fodboldkampe ender ikke 15-3. Jeg er rasende og skuffet. Selvfølgelig kan jeg ikke lave en tekst til det her afsnit.</description>
+   <guid isPermaLink="false">82b87bb5-3f8a-451c-8eac-3a6fb22293c5</guid>
+   <pubDate>Fri, 16 Aug 2024 00:30:07 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61042509/afsnit_45.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:08</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#44 – Tips til smalltalk</title>
+   <description>Hverdagen kalder og vi har været til bryllup. Deler ud af lidt tips og tricks. Vi har også børnefødselsdags-festival i den kommende uge. Og vi har som de eneste partout-billet. Ind og lyt.</description>
+   <guid isPermaLink="false">44561483-0a16-4793-aadd-1a1412555691</guid>
+   <pubDate>Tue, 13 Aug 2024 00:30:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/61002052/afsnit_44.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:35</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#43 – &quot;Du kender sgu da godt?&quot;</title>
+   <description>Vi har været i Legoland. Det fortæller vi om. Vi skal også til bryllup. Det fortæller vi også om. 
 
 ... Altså helt ærligt. Jeg ved aldrig, hvad jeg skal skrive i de her tekster, men er der seriøst folk, der har fravalgt at lytte til et afsnit podcast på baggrund af teksten? Det håber jeg.</description>
-      <guid isPermaLink="false">f0accf48-df5d-4e16-87e2-827c79940ec0</guid>
-      <pubDate>Fri, 09 Aug 2024 00:20:03 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60960635/afsnit_43.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#43 – Nyt fra Ebeltoft</title>
-      <description>Vi er på Djursland. Alt er godt. Kvium kigger på os fra alle vinkler. Lyden er stensikkert jammerlig. Ind og lyt! Kys.</description>
-      <guid isPermaLink="false">1b62f682-1f1d-4c5a-b06c-9d72c86d3e27</guid>
-      <pubDate>Tue, 06 Aug 2024 00:10:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60929533/afsnit_ebeltoft.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:27:38</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#42 Kato er provinsens Alberte Winding</title>
-      <description>Lyt. Leg. Lær. Jeg har ikke mere at sige. Eller jo. Lidt måske. Det handler om tomatpure og ender i en smuk og rørende snak om engang, Lisa Marie ville sætte 3300 kroner ind i banken. Den historie vil være ærgerlig at gå glip af. Den har så mange lag. Man både griner og græder lidt. Jeg tør godt at love, at der kommer til at være et før og et efter Lisa Maries bank-historie.</description>
-      <guid isPermaLink="false">7f8960e9-7390-47b4-9244-1628211abc2c</guid>
-      <pubDate>Fri, 02 Aug 2024 00:15:03 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60867166/afsnit_42.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:28:00</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#41 – Feedback fra folket</title>
-      <description>Vi har fået feedback fra en lytter. Og så giver jeg en anbefaling på et haveredskab, der vil gøre dit liv ikke bare nemmere, men også mere fantastisk. Ind og lyt.</description>
-      <guid isPermaLink="false">45806acb-0f97-4c9c-bc96-eaea79ed571f</guid>
-      <pubDate>Tue, 30 Jul 2024 00:30:03 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60851874/afsnit_41_rettet.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:01</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#40 – Der lugter af yoghurt</title>
-      <description>Samtalen åbnes med ChatGPT og føres os helt naturligt hen på en aften hvor vi går i seng som uvenner. Der er også mere. Og der er lydeffekter. Ind og lyt!</description>
-      <guid isPermaLink="false">b9a69b78-7df6-445f-be61-3b03bf7b51a5</guid>
-      <pubDate>Fri, 26 Jul 2024 00:20:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60805898/afsnit_40.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:24:01</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#39 – Og vi danser og danser og danser</title>
-      <description>Velkommen til et nyt afsnit af din foretrukne Johnny Madsen-podcast. Nyd den. Selvom du ikke har vanvittigt lyst. (Den giver mening, hvis du hører afsnittet).</description>
-      <guid isPermaLink="false">faaa2e25-cd47-4f85-9c2c-ea076b69b504</guid>
-      <pubDate>Tue, 23 Jul 2024 00:25:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60770415/afsnit_39.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:24:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#38 – Ikk' lyt mens du spiser</title>
-      <description>Vennerne! Der er nyt afsnit. Det er sommer. Vi er hjemme. Drikker vin. Og snakker lidt for meget om klamme toilletter.</description>
-      <guid isPermaLink="false">5d686ff8-318e-4c32-966b-24c626d71322</guid>
-      <pubDate>Fri, 19 Jul 2024 01:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60732682/afsnit_38.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:50</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#37 – En sok' i munden</title>
-      <description>Et afsnit der har været lidt længere tid undervejs. Der sker simpelthen det, at der bliver optaget et afsnit, hvor vi bare kan konstatere, at jeg har været for sur hele vejen igennem. 
+   <guid isPermaLink="false">f0accf48-df5d-4e16-87e2-827c79940ec0</guid>
+   <pubDate>Fri, 09 Aug 2024 00:20:03 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60960635/afsnit_43.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#43 – Nyt fra Ebeltoft</title>
+   <description>Vi er på Djursland. Alt er godt. Kvium kigger på os fra alle vinkler. Lyden er stensikkert jammerlig. Ind og lyt! Kys.</description>
+   <guid isPermaLink="false">1b62f682-1f1d-4c5a-b06c-9d72c86d3e27</guid>
+   <pubDate>Tue, 06 Aug 2024 00:10:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60929533/afsnit_ebeltoft.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:27:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#42 Kato er provinsens Alberte Winding</title>
+   <description>Lyt. Leg. Lær. Jeg har ikke mere at sige. Eller jo. Lidt måske. Det handler om tomatpure og ender i en smuk og rørende snak om engang, Lisa Marie ville sætte 3300 kroner ind i banken. Den historie vil være ærgerlig at gå glip af. Den har så mange lag. Man både griner og græder lidt. Jeg tør godt at love, at der kommer til at være et før og et efter Lisa Maries bank-historie.</description>
+   <guid isPermaLink="false">7f8960e9-7390-47b4-9244-1628211abc2c</guid>
+   <pubDate>Fri, 02 Aug 2024 00:15:03 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60867166/afsnit_42.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:28:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#41 – Feedback fra folket</title>
+   <description>Vi har fået feedback fra en lytter. Og så giver jeg en anbefaling på et haveredskab, der vil gøre dit liv ikke bare nemmere, men også mere fantastisk. Ind og lyt.</description>
+   <guid isPermaLink="false">45806acb-0f97-4c9c-bc96-eaea79ed571f</guid>
+   <pubDate>Tue, 30 Jul 2024 00:30:03 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60851874/afsnit_41_rettet.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#40 – Der lugter af yoghurt</title>
+   <description>Samtalen åbnes med ChatGPT og føres os helt naturligt hen på en aften hvor vi går i seng som uvenner. Der er også mere. Og der er lydeffekter. Ind og lyt!</description>
+   <guid isPermaLink="false">b9a69b78-7df6-445f-be61-3b03bf7b51a5</guid>
+   <pubDate>Fri, 26 Jul 2024 00:20:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60805898/afsnit_40.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#39 – Og vi danser og danser og danser</title>
+   <description>Velkommen til et nyt afsnit af din foretrukne Johnny Madsen-podcast. Nyd den. Selvom du ikke har vanvittigt lyst. (Den giver mening, hvis du hører afsnittet).</description>
+   <guid isPermaLink="false">faaa2e25-cd47-4f85-9c2c-ea076b69b504</guid>
+   <pubDate>Tue, 23 Jul 2024 00:25:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60770415/afsnit_39.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#38 – Ikk' lyt mens du spiser</title>
+   <description>Vennerne! Der er nyt afsnit. Det er sommer. Vi er hjemme. Drikker vin. Og snakker lidt for meget om klamme toilletter.</description>
+   <guid isPermaLink="false">5d686ff8-318e-4c32-966b-24c626d71322</guid>
+   <pubDate>Fri, 19 Jul 2024 01:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60732682/afsnit_38.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#37 – En sok' i munden</title>
+   <description>Et afsnit der har været lidt længere tid undervejs. Der sker simpelthen det, at der bliver optaget et afsnit, hvor vi bare kan konstatere, at jeg har været for sur hele vejen igennem. 
 
 Her er jeg. Glad som altid. God lytter.</description>
-      <guid isPermaLink="false">06767304-bb2a-4656-8d40-db94dbd7b5ee</guid>
-      <pubDate>Tue, 16 Jul 2024 00:25:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60688254/afsnit_37_hvor_jeg_ikke_er_sur.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:04</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#36 – Øjeblikke man aldrig glemmer</title>
-      <description>Vi er stadig i Hirtshals. Vi snakker om de minder, man giver sine børn, de aldrig glemmer. Og så fortæller jeg om en oplevelse, jeg havde i min ungdomsklub, som jeg aldrig glemmer — og som aldrig har været mere aktuel.
+   <guid isPermaLink="false">06767304-bb2a-4656-8d40-db94dbd7b5ee</guid>
+   <pubDate>Tue, 16 Jul 2024 00:25:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60688254/afsnit_37_hvor_jeg_ikke_er_sur.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:04</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#36 – Øjeblikke man aldrig glemmer</title>
+   <description>Vi er stadig i Hirtshals. Vi snakker om de minder, man giver sine børn, de aldrig glemmer. Og så fortæller jeg om en oplevelse, jeg havde i min ungdomsklub, som jeg aldrig glemmer — og som aldrig har været mere aktuel.
 
 God lytter!</description>
-      <guid isPermaLink="false">a32e6252-f398-4c4f-8148-0aa1c5d10bbd</guid>
-      <pubDate>Fri, 12 Jul 2024 00:15:22 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60667777/nyt_afsnit_2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#35 – Nyt fra Hirtshals</title>
-      <description>Lyden er anderledes. Men det er den på alle måder i Hirtshals. Og Lisa Marie snakker om den frække, skaldede fyr fra Suspekt. 
+   <guid isPermaLink="false">a32e6252-f398-4c4f-8148-0aa1c5d10bbd</guid>
+   <pubDate>Fri, 12 Jul 2024 00:15:22 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60667777/nyt_afsnit_2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#35 – Nyt fra Hirtshals</title>
+   <description>Lyden er anderledes. Men det er den på alle måder i Hirtshals. Og Lisa Marie snakker om den frække, skaldede fyr fra Suspekt. 
 
 Jeg håber, at I overlever. Både lyd og indhold. Jeg skal lige bruge lidt tid på at bearbejde det, kan jeg mærke.</description>
-      <guid isPermaLink="false">938a6049-1965-4de7-958c-475f9df2bb13</guid>
-      <pubDate>Tue, 09 Jul 2024 00:25:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60635777/afsnit_podcast_fra_hirtshals.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:07</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#34 – Et suspekt afsnit</title>
-      <description>Lisa Marie er på festival. Jeg er alene. Og jeg er bare blevet i tvivl om, om det kun er det med at cykle man aldrig glemmer, hvis først man har lært. Eller om det også gælder at lave podcast alene. 
+   <guid isPermaLink="false">938a6049-1965-4de7-958c-475f9df2bb13</guid>
+   <pubDate>Tue, 09 Jul 2024 00:25:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60635777/afsnit_podcast_fra_hirtshals.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#34 – Et suspekt afsnit</title>
+   <description>Lisa Marie er på festival. Jeg er alene. Og jeg er bare blevet i tvivl om, om det kun er det med at cykle man aldrig glemmer, hvis først man har lært. Eller om det også gælder at lave podcast alene. 
 
 I hvert fald har jeg givet det et forsøg. Jeg snakker om Suspekt-koncerter og om at være bange for at blive vækket af mine børn.</description>
-      <guid isPermaLink="false">7f433b67-3d4b-4228-b8f4-b0dd909b3b9a</guid>
-      <pubDate>Fri, 05 Jul 2024 00:35:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60604838/afsnit_34.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:45</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#33 – Nyt fra Jesperhus</title>
-      <description>Vi er i Jesperhus. Vi snakker om forskellen på at skælde sine børn ud på hjemme- og udebane. Og så bruger vi overraskende lang tid på at gætte hvad en fodboldkamp ender, som blev spillet i lørdags, hvorfor det giver absolut nul mening at høre om på bagkant. 
+   <guid isPermaLink="false">7f433b67-3d4b-4228-b8f4-b0dd909b3b9a</guid>
+   <pubDate>Fri, 05 Jul 2024 00:35:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60604838/afsnit_34.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:45</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#33 – Nyt fra Jesperhus</title>
+   <description>Vi er i Jesperhus. Vi snakker om forskellen på at skælde sine børn ud på hjemme- og udebane. Og så bruger vi overraskende lang tid på at gætte hvad en fodboldkamp ender, som blev spillet i lørdags, hvorfor det giver absolut nul mening at høre om på bagkant. 
 
 God lytter!</description>
-      <guid isPermaLink="false">f6b26171-5523-4cc0-9339-208ce5fb4d78</guid>
-      <pubDate>Tue, 02 Jul 2024 00:15:04 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60571494/afsnit_33.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:16</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#32 – Lisa Marie tømmer bøtten</title>
-      <description>Opdatering på mit seneste fodboldeventyr, hvor jeg faldt i søvn i bussen. Men også en snak om, at Lisa Marie er blevet mere vild med snacks, siden vi startede vores forhold. Alt det og meget mere kan du få, hvis du trykker play!
+   <guid isPermaLink="false">f6b26171-5523-4cc0-9339-208ce5fb4d78</guid>
+   <pubDate>Tue, 02 Jul 2024 00:15:04 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60571494/afsnit_33.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#32 – Lisa Marie tømmer bøtten</title>
+   <description>Opdatering på mit seneste fodboldeventyr, hvor jeg faldt i søvn i bussen. Men også en snak om, at Lisa Marie er blevet mere vild med snacks, siden vi startede vores forhold. Alt det og meget mere kan du få, hvis du trykker play!
 
 God weekend!</description>
-      <guid isPermaLink="false">a2849aa2-9fd9-4385-a19b-cdba1ea1ab81</guid>
-      <pubDate>Fri, 28 Jun 2024 00:15:06 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60532206/afsnit_32.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#31 – Det længste afsnit nogensinde</title>
-      <description>Her er det. Det længste afsnit nogensinde. Jeg tror måske, at jeg får sagt &quot;sovet under en sten&quot;, hvor jeg mente &quot;levet under en sten&quot;. Men I ved, hvad jeg mener. 
+   <guid isPermaLink="false">a2849aa2-9fd9-4385-a19b-cdba1ea1ab81</guid>
+   <pubDate>Fri, 28 Jun 2024 00:15:06 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60532206/afsnit_32.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#31 – Det længste afsnit nogensinde</title>
+   <description>Her er det. Det længste afsnit nogensinde. Jeg tror måske, at jeg får sagt &quot;sovet under en sten&quot;, hvor jeg mente &quot;levet under en sten&quot;. Men I ved, hvad jeg mener. 
 
 God lytter. I udkommende stund er jeg i München. Jeg har det sikkert skønt. Det håber jeg også, at du har.</description>
-      <guid isPermaLink="false">bb4bf211-aa08-43ef-9336-5d417f76e29f</guid>
-      <pubDate>Tue, 25 Jun 2024 00:16:05 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60481971/afsnit_31.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:31:16</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#30 – 80.000 følgere og et ryk i grenen</title>
-      <description>&quot;Så' det weekend, så' det endelig weekend&quot; sang Super Sisters. Og de havde jo ret. I hvert fald hvis man lyttede til den om fredagen. Det gør du måske med den her podcast. I så fald. God weekend!
+   <guid isPermaLink="false">bb4bf211-aa08-43ef-9336-5d417f76e29f</guid>
+   <pubDate>Tue, 25 Jun 2024 00:16:05 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60481971/afsnit_31.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:31:16</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#30 – 80.000 følgere og et ryk i grenen</title>
+   <description>&quot;Så' det weekend, så' det endelig weekend&quot; sang Super Sisters. Og de havde jo ret. I hvert fald hvis man lyttede til den om fredagen. Det gør du måske med den her podcast. I så fald. God weekend!
 
 Kys.</description>
-      <guid isPermaLink="false">57a1b2d1-24af-4baf-bd44-0c4e3793cf0f</guid>
-      <pubDate>Fri, 21 Jun 2024 00:30:04 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60437264/afsnit_30.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:01</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#29 – EM ødelægger familier</title>
-      <description>Særafsnit. Som udkommer lige med det vuns! 
+   <guid isPermaLink="false">57a1b2d1-24af-4baf-bd44-0c4e3793cf0f</guid>
+   <pubDate>Fri, 21 Jun 2024 00:30:04 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60437264/afsnit_30.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#29 – EM ødelægger familier</title>
+   <description>Særafsnit. Som udkommer lige med det vuns! 
 
 Det handler om en mulig fodboldtur. Som er endt i to fodboldture. 
 
 God lytter.</description>
-      <guid isPermaLink="false">2e215fff-a416-4e25-bf0b-3b26cf0586be</guid>
-      <pubDate>Wed, 19 Jun 2024 09:31:36 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60434777/afsnit_29.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:20</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#28 – Folkemøde-evaluering</title>
-      <description>Først og fremmest skal der lyde en gigantisk undskyldning for at I ikke fik et afsnit i fredags. Men her er i stedet 25 minutters undskyldning om hvorfor. 
+   <guid isPermaLink="false">2e215fff-a416-4e25-bf0b-3b26cf0586be</guid>
+   <pubDate>Wed, 19 Jun 2024 09:31:36 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60434777/afsnit_29.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#28 – Folkemøde-evaluering</title>
+   <description>Først og fremmest skal der lyde en gigantisk undskyldning for at I ikke fik et afsnit i fredags. Men her er i stedet 25 minutters undskyldning om hvorfor. 
 
 Vi snakker om Bornholm, shotsrør og bryllupsplanlægning. Tre ting der sagtens kunne hænge sammen. 
 
 God lytter.</description>
-      <guid isPermaLink="false">72eab121-e1f8-4114-9808-22bcb06fc2bc</guid>
-      <pubDate>Tue, 18 Jun 2024 00:55:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60416309/afsnit_28.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:24:23</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#27 – Det blev sent og mærkeligt</title>
-      <description>Optagelserne kom i kassen lige omkring midnat. Tanken var tom og vi kørte på dampene – og dem kan I indånde her. 
+   <guid isPermaLink="false">72eab121-e1f8-4114-9808-22bcb06fc2bc</guid>
+   <pubDate>Tue, 18 Jun 2024 00:55:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60416309/afsnit_28.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:24:23</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#27 – Det blev sent og mærkeligt</title>
+   <description>Optagelserne kom i kassen lige omkring midnat. Tanken var tom og vi kørte på dampene – og dem kan I indånde her. 
 
 22 minutter der minder om de snakke, du havde med din makker, der lå i underkøjen, til den årlige omgang nat-badminton, da du var barn. 
 
 God lytter.</description>
-      <guid isPermaLink="false">65672de8-417c-4a62-a96f-a0ad3071e6be</guid>
-      <pubDate>Mon, 10 Jun 2024 23:50:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60343714/afsnit_27.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:20</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#26 – Lisa Maries drøm om at være radiovært</title>
-      <description>Huha for at afsnit. Et af dem hvor hårene på armene rejser sig flere gange. I hvert fald hos os mens vi var i gang. Der var nemlig gennemtræk på kontoret. What. En joke. 
+   <guid isPermaLink="false">65672de8-417c-4a62-a96f-a0ad3071e6be</guid>
+   <pubDate>Mon, 10 Jun 2024 23:50:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60343714/afsnit_27.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#26 – Lisa Maries drøm om at være radiovært</title>
+   <description>Huha for at afsnit. Et af dem hvor hårene på armene rejser sig flere gange. I hvert fald hos os mens vi var i gang. Der var nemlig gennemtræk på kontoret. What. En joke. 
 
 Kan man komme på kursus i episodebeskrivelser?</description>
-      <guid isPermaLink="false">ad16d047-c53b-46b4-870f-dad932d340d6</guid>
-      <pubDate>Fri, 07 Jun 2024 00:15:03 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60303063/afsnit_26.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:45</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#25 – Det kan man godt skyde en lyserød pi* efter</title>
-      <description>Vi er tilbage. Stemningen bliver høj, selvom der var lidt fra weekenden der lige skulle styr på. Eksempelvis at man ikke bare lader den der putter sove videre, hvis vedkommende falder i søvn. Vi snakker også om noget andet. Men det er nemmere bare at lytte, end at jeg skriver meget mere.</description>
-      <guid isPermaLink="false">b6d465bf-9c3e-4c41-8d78-2f4095fda83f</guid>
-      <pubDate>Tue, 04 Jun 2024 00:45:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60266567/afsnit_25.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:51</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#24 – Find på et godt navn</title>
-      <description>Og find lige på en god tekst bagefter.</description>
-      <guid isPermaLink="false">fb4bdf3f-3c20-44b3-9327-e61eab37f384</guid>
-      <pubDate>Fri, 31 May 2024 00:00:05 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60217657/afsnit_24.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:20</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#23 – Hvor mange gange kan man dø på en weekend?</title>
-      <description>En rædselsfuld weekend er færdig. Det er mandag. Og jeg kigger tilbage på et Forræder-mord i fredags, mit livs værste job om lørdagen – og et bollespark af en anden verden på Brøndby Stadion i søndags. Lisa Marie er med til at samle mig op. 
+   <guid isPermaLink="false">ad16d047-c53b-46b4-870f-dad932d340d6</guid>
+   <pubDate>Fri, 07 Jun 2024 00:15:03 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60303063/afsnit_26.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:45</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#25 – Det kan man godt skyde en lyserød pi* efter</title>
+   <description>Vi er tilbage. Stemningen bliver høj, selvom der var lidt fra weekenden der lige skulle styr på. Eksempelvis at man ikke bare lader den der putter sove videre, hvis vedkommende falder i søvn. Vi snakker også om noget andet. Men det er nemmere bare at lytte, end at jeg skriver meget mere.</description>
+   <guid isPermaLink="false">b6d465bf-9c3e-4c41-8d78-2f4095fda83f</guid>
+   <pubDate>Tue, 04 Jun 2024 00:45:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60266567/afsnit_25.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#24 – Find på et godt navn</title>
+   <description>Og find lige på en god tekst bagefter.</description>
+   <guid isPermaLink="false">fb4bdf3f-3c20-44b3-9327-e61eab37f384</guid>
+   <pubDate>Fri, 31 May 2024 00:00:05 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60217657/afsnit_24.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#23 – Hvor mange gange kan man dø på en weekend?</title>
+   <description>En rædselsfuld weekend er færdig. Det er mandag. Og jeg kigger tilbage på et Forræder-mord i fredags, mit livs værste job om lørdagen – og et bollespark af en anden verden på Brøndby Stadion i søndags. Lisa Marie er med til at samle mig op. 
 
 God lytter.</description>
-      <guid isPermaLink="false">b9791268-f5b2-4f75-85f0-b75bdc5f158c</guid>
-      <pubDate>Tue, 28 May 2024 05:02:54 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60194379/afsnit_23_ny.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#22 – Bedstefar tar' bagdøren</title>
-      <description>22. Nummeret Daniel Agger havde på trøjen, da han slog igennem i Brøndby. Men også nummeret på dagens afsnit. 
+   <guid isPermaLink="false">b9791268-f5b2-4f75-85f0-b75bdc5f158c</guid>
+   <pubDate>Tue, 28 May 2024 05:02:54 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60194379/afsnit_23_ny.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#22 – Bedstefar tar' bagdøren</title>
+   <description>22. Nummeret Daniel Agger havde på trøjen, da han slog igennem i Brøndby. Men også nummeret på dagens afsnit. 
 
 Pinsen lakker mod ende, Lisa Marie er med og stemningen er helt i top. Lyt!</description>
-      <guid isPermaLink="false">61bbaeff-c5a0-4c8e-ae47-23a07d3b1654</guid>
-      <pubDate>Tue, 21 May 2024 00:15:03 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60102354/afsnit_22.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:11</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#21 – En ært med orm og en frodig forhave</title>
-      <description>Der er nyt. Jeg har ikke lyst til at sige meget mere end det. I skal tænke på, at jeg lige har optaget og nu sidder og uploader det. Jeg har jo ikke flere ord i mig. De er allesammen brugt i podcasten. 
+   <guid isPermaLink="false">61bbaeff-c5a0-4c8e-ae47-23a07d3b1654</guid>
+   <pubDate>Tue, 21 May 2024 00:15:03 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60102354/afsnit_22.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:11</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#21 – En ært med orm og en frodig forhave</title>
+   <description>Der er nyt. Jeg har ikke lyst til at sige meget mere end det. I skal tænke på, at jeg lige har optaget og nu sidder og uploader det. Jeg har jo ikke flere ord i mig. De er allesammen brugt i podcasten. 
 
 God fornøjelse. 
 
 (Note to self: Arbejd på dine episodebeskrivelser)</description>
-      <guid isPermaLink="false">0d516b6b-8b56-4358-af74-af4605f86bc9</guid>
-      <pubDate>Fri, 17 May 2024 00:05:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60064041/afsnit_21.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:21</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#20 – Emil Kondrup som medvært</title>
-      <description>Lisa Marie har overtaget det hele. Vi vender vores frygtelige Københavner-tur, snakker om at livet er kaos, og Lisa Marie vil enormt gerne ha' et plastik babybadekar i voksenstørrelse. 
+   <guid isPermaLink="false">0d516b6b-8b56-4358-af74-af4605f86bc9</guid>
+   <pubDate>Fri, 17 May 2024 00:05:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60064041/afsnit_21.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#20 – Emil Kondrup som medvært</title>
+   <description>Lisa Marie har overtaget det hele. Vi vender vores frygtelige Københavner-tur, snakker om at livet er kaos, og Lisa Marie vil enormt gerne ha' et plastik babybadekar i voksenstørrelse. 
 
 God lytter. Og hvis du lytter ud fra ovenstående beskrivelse, så har du jo nærmest for meget tid i dit liv.</description>
-      <guid isPermaLink="false">12f08876-925c-4bce-abf7-94732ae2032b</guid>
-      <pubDate>Tue, 14 May 2024 00:25:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/60011252/afsnit_20.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:08</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#19 – Ikke et ord om Bachelorette</title>
-      <description>Lisa Marie er med. Der er panik før lukketid. Taskerne er pakket inden en forlænget weekend i København. 
+   <guid isPermaLink="false">12f08876-925c-4bce-abf7-94732ae2032b</guid>
+   <pubDate>Tue, 14 May 2024 00:25:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/60011252/afsnit_20.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:08</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#19 – Ikke et ord om Bachelorette</title>
+   <description>Lisa Marie er med. Der er panik før lukketid. Taskerne er pakket inden en forlænget weekend i København. 
 
 Jeg vil ikke tease mere. Lisa Marie er med. Bare lyt.</description>
-      <guid isPermaLink="false">aff3cf5f-1d97-4ac0-be7a-2255597971bd</guid>
-      <pubDate>Fri, 10 May 2024 00:35:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59952051/afsnit_nyt.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:17</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#18 – Lisa Marie: &quot;Man kan ikke både skide og tisse på samme tid&quot;</title>
-      <description>Nyt afsnit. Stærk titel, hva? Men ja. Det siger hun sgu. Du kan selv lytte efter. 
+   <guid isPermaLink="false">aff3cf5f-1d97-4ac0-be7a-2255597971bd</guid>
+   <pubDate>Fri, 10 May 2024 00:35:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59952051/afsnit_nyt.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:17</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#18 – Lisa Marie: &quot;Man kan ikke både skide og tisse på samme tid&quot;</title>
+   <description>Nyt afsnit. Stærk titel, hva? Men ja. Det siger hun sgu. Du kan selv lytte efter. 
 
 Hun er med igen. Både fordi hun jo er fremragende selskab, men også fordi en travl arbejdskalender har gjort at podcasten i de her uger i højere grad kalder på en snak med Lisa Marie, end på at jeg dykker ned i de fjerneste afkroge af min hjerne. Men det skal vi nok komme til igen! 
 
 God lytter.</description>
-      <guid isPermaLink="false">89be0b31-dddc-429e-9050-865bf04c057f</guid>
-      <pubDate>Mon, 06 May 2024 23:45:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59884020/afsnit_18.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:51</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#17 – Lisa Marie til undsætning!</title>
-      <description>Jeg løber stærkt. Ikke på måden man kan tracke på Strava. Men med lange arbejdsdage. Foredrag og den slags og det er vildt dejligt, at der er gang i butikken. Men jeg skal også være ærlig og indrømme, at det var derfor jeg lige brugte tyve minutter af mit liv på at lave en podcast direkte fra hoften med Lisa Marie. 
+   <guid isPermaLink="false">89be0b31-dddc-429e-9050-865bf04c057f</guid>
+   <pubDate>Mon, 06 May 2024 23:45:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59884020/afsnit_18.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#17 – Lisa Marie til undsætning!</title>
+   <description>Jeg løber stærkt. Ikke på måden man kan tracke på Strava. Men med lange arbejdsdage. Foredrag og den slags og det er vildt dejligt, at der er gang i butikken. Men jeg skal også være ærlig og indrømme, at det var derfor jeg lige brugte tyve minutter af mit liv på at lave en podcast direkte fra hoften med Lisa Marie. 
 
 Jeg glæder mig til snart igen, at have tid til at gå dybt ind i min hjerne. Men det her kan I altså også godt nyde selvom Lisa Marie italesætter, at det er dårligt.</description>
-      <guid isPermaLink="false">87b1ed32-210b-4a8c-a4df-8759b65cdbe3</guid>
-      <pubDate>Thu, 02 May 2024 23:40:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59788636/afsnit_17.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:51</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#16 – Øl i skuret, onani i bilka og andre ting der skaber en god weekend</title>
-      <description>Der sker det, at jeg lover at Lisa Marie kommer ned i slutningen af afsnittet. 
+   <guid isPermaLink="false">87b1ed32-210b-4a8c-a4df-8759b65cdbe3</guid>
+   <pubDate>Thu, 02 May 2024 23:40:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59788636/afsnit_17.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#16 – Øl i skuret, onani i bilka og andre ting der skaber en god weekend</title>
+   <description>Der sker det, at jeg lover at Lisa Marie kommer ned i slutningen af afsnittet. 
 
 Der sker så også det, at Lisa Marie ikke kommer ned i slutningen af afsnittet. Hun sover. Og det fortjener hun bare. I stedet snakker jeg om en tur i et skur, om min mulige Folkemøde-debut og om at naboen har fået høns. Kæmpe ting!</description>
-      <guid isPermaLink="false">7ad63bfe-8dce-4bc7-b1a0-99c23328b44c</guid>
-      <pubDate>Mon, 29 Apr 2024 23:45:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59709428/afsnit_16.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:29</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#15 – Krisemøde i den lille familie</title>
-      <description>Lisa Marie er indkaldt. Luften er så tyk at man kan skære i den. Men hvad bedre til at løfte stemningen end en hyggesnak i æteren. 
+   <guid isPermaLink="false">7ad63bfe-8dce-4bc7-b1a0-99c23328b44c</guid>
+   <pubDate>Mon, 29 Apr 2024 23:45:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59709428/afsnit_16.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:29</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#15 – Krisemøde i den lille familie</title>
+   <description>Lisa Marie er indkaldt. Luften er så tyk at man kan skære i den. Men hvad bedre til at løfte stemningen end en hyggesnak i æteren. 
 
 Vi prøver i hvert fald. God bededag.</description>
-      <guid isPermaLink="false">b84e9891-0175-45ab-a065-0b346e72700d</guid>
-      <pubDate>Fri, 26 Apr 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59659775/afsnit_15.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:52</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#14 – Sur og ked af det, cirkus og Forræder</title>
-      <description>Nyt afsnit. Med en mørk og fræk stemme. Jeg har nemlig råbt hele weekenden. Jeg har også været ked af det. Og fuld. Det er noget tid siden, men jeg havde optaget det, og nu ser optagelserne dagens lys. 
+   <guid isPermaLink="false">b84e9891-0175-45ab-a065-0b346e72700d</guid>
+   <pubDate>Fri, 26 Apr 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59659775/afsnit_15.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#14 – Sur og ked af det, cirkus og Forræder</title>
+   <description>Nyt afsnit. Med en mørk og fræk stemme. Jeg har nemlig råbt hele weekenden. Jeg har også været ked af det. Og fuld. Det er noget tid siden, men jeg havde optaget det, og nu ser optagelserne dagens lys. 
 Ind og lyt. Like, del, subscribe. Og råb til mig på gaden, hvis du ser mig, og fortæl at du lytter med. Kys.</description>
-      <guid isPermaLink="false">158f2ce0-502b-4fb4-9607-d231673d1981</guid>
-      <pubDate>Mon, 22 Apr 2024 22:50:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59596766/afsnit_14.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:14</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#13 – En update fra den røde løber</title>
-      <description>Her er der altså en dugfrisk rapportering fra halvandet døgn i København der bød på gallapremiere i Imperial. Jeg kan ligeså godt være ærlig at sige, at vi når faktisk ikke omkring meget mere end det.
+   <guid isPermaLink="false">158f2ce0-502b-4fb4-9607-d231673d1981</guid>
+   <pubDate>Mon, 22 Apr 2024 22:50:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59596766/afsnit_14.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#13 – En update fra den røde løber</title>
+   <description>Her er der altså en dugfrisk rapportering fra halvandet døgn i København der bød på gallapremiere i Imperial. Jeg kan ligeså godt være ærlig at sige, at vi når faktisk ikke omkring meget mere end det.
 
 Alligevel vil du gerne høre om alle rød løber-hemmelighederne som jeg exposer. 
 
 God lytter.</description>
-      <guid isPermaLink="false">eeab71b1-7d77-4884-9553-ab7a5b6e9605</guid>
-      <pubDate>Fri, 19 Apr 2024 04:32:39 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59542816/afsnit_13.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:21</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#12 – &quot;Hvis du vil være en stor stjerne, så bliver du en stor stjerne&quot;</title>
-      <description>Lisa Marie er med. Fra start. Men der er stadig røverhistorier fra sidste uges Københavner-tur, som sad jeg alene. Stemningen er god. Nærmest for god, og Lisa Marie skamroser mig flere gange, hvor jeg må mane til besindighed og sige, at det ikke er sådan en slags podcast. 
+   <guid isPermaLink="false">eeab71b1-7d77-4884-9553-ab7a5b6e9605</guid>
+   <pubDate>Fri, 19 Apr 2024 04:32:39 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59542816/afsnit_13.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#12 – &quot;Hvis du vil være en stor stjerne, så bliver du en stor stjerne&quot;</title>
+   <description>Lisa Marie er med. Fra start. Men der er stadig røverhistorier fra sidste uges Københavner-tur, som sad jeg alene. Stemningen er god. Nærmest for god, og Lisa Marie skamroser mig flere gange, hvor jeg må mane til besindighed og sige, at det ikke er sådan en slags podcast. 
 
 Og hvis du har brugt tid på at læse det her, så kan du altså også ligeså godt læse med.</description>
-      <guid isPermaLink="false">0d6163a1-db37-4a28-9b16-84e6e13c5d97</guid>
-      <pubDate>Mon, 15 Apr 2024 23:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59476805/afsnit_12.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:07</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#11 – Jeg er blevet slikket af Thomas Skov</title>
-      <description>Du har lige læst titlen. Hvis du også læser det her uden at trykke afspil, jamen så kan du ikke baites. Men det er ikke løgn det hele. Det involverer slikkeri, koriander og så er jeg lige ved at få alle landets mødregrupper på nakken. Men jeg tror, jeg klarer frisag. 
+   <guid isPermaLink="false">0d6163a1-db37-4a28-9b16-84e6e13c5d97</guid>
+   <pubDate>Mon, 15 Apr 2024 23:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59476805/afsnit_12.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#11 – Jeg er blevet slikket af Thomas Skov</title>
+   <description>Du har lige læst titlen. Hvis du også læser det her uden at trykke afspil, jamen så kan du ikke baites. Men det er ikke løgn det hele. Det involverer slikkeri, koriander og så er jeg lige ved at få alle landets mødregrupper på nakken. Men jeg tror, jeg klarer frisag. 
 
 Kys.</description>
-      <guid isPermaLink="false">e9d5fdc6-199c-40fa-bccf-bc71179fe271</guid>
-      <pubDate>Thu, 11 Apr 2024 23:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59423512/afsnit_11.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:58</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#10 – Sund livsstil og dårlige kys</title>
-      <description>Jeg har haft en sund mandag. Med forhåbning om at det varer resten af mit liv. Men sandheden er nok, at jeg spiser en pose Dumle inden den her tekst overhovedet har ramt internettet. 
+   <guid isPermaLink="false">e9d5fdc6-199c-40fa-bccf-bc71179fe271</guid>
+   <pubDate>Thu, 11 Apr 2024 23:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59423512/afsnit_11.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#10 – Sund livsstil og dårlige kys</title>
+   <description>Jeg har haft en sund mandag. Med forhåbning om at det varer resten af mit liv. Men sandheden er nok, at jeg spiser en pose Dumle inden den her tekst overhovedet har ramt internettet. 
 
 Lisa Marie kigger også forbi til en lille (og slet ikke farlig) leg, hvor vi skal fortælle om ting ved den anden, som vi ikke kan li'. 
 
 God lytter!</description>
-      <guid isPermaLink="false">2e4d23ad-1067-43b6-ac2e-8a58885ccec8</guid>
-      <pubDate>Tue, 09 Apr 2024 00:10:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59352620/afsnit_10.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:01</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#9 – En anmelderrost podcast</title>
-      <description>Så blev det slut med bare at være en podcast. For nu er det pludselig blevet en anmelderrost en af slagsen. 
+   <guid isPermaLink="false">2e4d23ad-1067-43b6-ac2e-8a58885ccec8</guid>
+   <pubDate>Tue, 09 Apr 2024 00:10:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59352620/afsnit_10.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:01</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#9 – En anmelderrost podcast</title>
+   <description>Så blev det slut med bare at være en podcast. For nu er det pludselig blevet en anmelderrost en af slagsen. 
 
 Vi snakker om at hoste på teams, om ikke at ha' stærke nok holdninger til at orke bøvlet og om Lisa Maries lumre sms'er fra da vi var unge.</description>
-      <guid isPermaLink="false">c9af8f66-d761-4f28-8054-5a84082263c0</guid>
-      <pubDate>Fri, 05 Apr 2024 00:20:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59298283/afsnit_9.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:18</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#8 – Aprilsnar, sommertid og andre latterlige ting</title>
-      <description>Lisa Marie er med ved spisebordet. Og jeg laver et af de ældste tricks i bogen. Jeg kalder det &quot;Dårlig nyt med god timing&quot;. Lyt, lær og brug det. 
+   <guid isPermaLink="false">c9af8f66-d761-4f28-8054-5a84082263c0</guid>
+   <pubDate>Fri, 05 Apr 2024 00:20:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59298283/afsnit_9.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:18</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#8 – Aprilsnar, sommertid og andre latterlige ting</title>
+   <description>Lisa Marie er med ved spisebordet. Og jeg laver et af de ældste tricks i bogen. Jeg kalder det &quot;Dårlig nyt med god timing&quot;. Lyt, lær og brug det. 
 
 God lytter!</description>
-      <guid isPermaLink="false">d7dfe241-b2ca-42cd-b068-ef09d76eb5b7</guid>
-      <pubDate>Tue, 02 Apr 2024 00:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59252840/afsnit_8_done.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:12</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#7 - Hemmeligheden bag at være den perfekte familie</title>
-      <description>Lisa Marie er med igen. Vi svarer på ting fra DM og lader som om, at alt i vores familie er perfekt og at vi har regnet den ud. 
+   <guid isPermaLink="false">d7dfe241-b2ca-42cd-b068-ef09d76eb5b7</guid>
+   <pubDate>Tue, 02 Apr 2024 00:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59252840/afsnit_8_done.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#7 - Hemmeligheden bag at være den perfekte familie</title>
+   <description>Lisa Marie er med igen. Vi svarer på ting fra DM og lader som om, at alt i vores familie er perfekt og at vi har regnet den ud. 
 
 Så lyt med og lad os være det familiemæssige kompas du kan følge.
 
 Kys Kondrup.</description>
-      <guid isPermaLink="false">dd4111d0-8697-4838-b086-be3284df56ea</guid>
-      <pubDate>Tue, 26 Mar 2024 01:15:02 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59172085/afsnit_7_f_rdig_f_rdig.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:37</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#6 – 'Highlights' fra generalforsamlingen</title>
-      <description>Lisa Marie fik presset mig i bestyrelsen for byens idrætscenter. Kæmpe svinestreg. Jeg tager jer med ind i mødelokalets hellige gemakker og fortæller om alt hvad der skete. Ellers er jeg lidt sur på x-factor, som jeg synes er blevet underligt. 
+   <guid isPermaLink="false">dd4111d0-8697-4838-b086-be3284df56ea</guid>
+   <pubDate>Tue, 26 Mar 2024 01:15:02 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59172085/afsnit_7_f_rdig_f_rdig.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#6 – 'Highlights' fra generalforsamlingen</title>
+   <description>Lisa Marie fik presset mig i bestyrelsen for byens idrætscenter. Kæmpe svinestreg. Jeg tager jer med ind i mødelokalets hellige gemakker og fortæller om alt hvad der skete. Ellers er jeg lidt sur på x-factor, som jeg synes er blevet underligt. 
 
 God lytter!</description>
-      <guid isPermaLink="false">f345d3b6-cc9c-4f6d-9ee3-683cf0f6b98f</guid>
-      <pubDate>Fri, 22 Mar 2024 05:52:54 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59134269/afsnit_6.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:10</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#5 – Lisa Marie på arbejdsmarkedet</title>
-      <description>Lisa Marie er med. Det er en kæmpe fest. Og lige om lidt skal hun ud og smage på arbejdsmarkedet, som det selvfølgelig er oplagt, at jeg lige får hende klædt på til!
+   <guid isPermaLink="false">f345d3b6-cc9c-4f6d-9ee3-683cf0f6b98f</guid>
+   <pubDate>Fri, 22 Mar 2024 05:52:54 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59134269/afsnit_6.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:10</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#5 – Lisa Marie på arbejdsmarkedet</title>
+   <description>Lisa Marie er med. Det er en kæmpe fest. Og lige om lidt skal hun ud og smage på arbejdsmarkedet, som det selvfølgelig er oplagt, at jeg lige får hende klædt på til!
 
 Ha' en kæmpestor, fed, fornøjelse!</description>
-      <guid isPermaLink="false">db6d094a-d6e6-4468-9dff-84aae6969602</guid>
-      <pubDate>Tue, 19 Mar 2024 01:50:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59091262/afsnit_5.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:10</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#4 – Forræder-nyt</title>
-      <description>Jeg har været i København, fordi det skulle offentligøres, at jeg er med i den nye sæson af Forræder. Der er magiske historier fra turen. Om et perfekt afslagsshow i Aalborg Lufthavn og om at hilse på Cengiz, mens han stod med sig selv i hånden. 
+   <guid isPermaLink="false">db6d094a-d6e6-4468-9dff-84aae6969602</guid>
+   <pubDate>Tue, 19 Mar 2024 01:50:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59091262/afsnit_5.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:10</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#4 – Forræder-nyt</title>
+   <description>Jeg har været i København, fordi det skulle offentligøres, at jeg er med i den nye sæson af Forræder. Der er magiske historier fra turen. Om et perfekt afslagsshow i Aalborg Lufthavn og om at hilse på Cengiz, mens han stod med sig selv i hånden. 
 God lytter!</description>
-      <guid isPermaLink="false">0ce1dc4c-5f58-48a5-8591-578d32ffdf73</guid>
-      <pubDate>Fri, 15 Mar 2024 01:20:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59046687/afsnit_4_done.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:15</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#3 – Verdens længste historie fra McDrive</title>
-      <description>Et hæsblæsende afsnit. Hvis man med hæsblæsende mener to historier, hvor den ene har en fesen slutning, og den anden slet ikke når derhen. 
+   <guid isPermaLink="false">0ce1dc4c-5f58-48a5-8591-578d32ffdf73</guid>
+   <pubDate>Fri, 15 Mar 2024 01:20:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59046687/afsnit_4_done.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#3 – Verdens længste historie fra McDrive</title>
+   <description>Et hæsblæsende afsnit. Hvis man med hæsblæsende mener to historier, hvor den ene har en fesen slutning, og den anden slet ikke når derhen. 
 
 Vi snakker om baderegler og om kærligheden til tastysovs. 
 
 God lytter.</description>
-      <guid isPermaLink="false">64aaea6e-26ae-4453-b61e-44927689232c</guid>
-      <pubDate>Tue, 12 Mar 2024 02:15:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/59005556/afsnit_3_done.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:13:14</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#2 – Sne i marts og bradepandepizza</title>
-      <description>Så er der endnu et dugfriskt afsnit. Ude alle steder! I hvert fald lige her, hvor du læser det. Men hvem læser i grunden de her beskrivelser.
+   <guid isPermaLink="false">64aaea6e-26ae-4453-b61e-44927689232c</guid>
+   <pubDate>Tue, 12 Mar 2024 02:15:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/59005556/afsnit_3_done.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:13:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#2 – Sne i marts og bradepandepizza</title>
+   <description>Så er der endnu et dugfriskt afsnit. Ude alle steder! I hvert fald lige her, hvor du læser det. Men hvem læser i grunden de her beskrivelser.
 
 Nå! Men turen går til forældrespisning i børnehaven og ellers varmes der op til, at jeg skal med min nye filmklub ind og se en film, der lyder som bandet med Mattias Kolstrup!
 
 
 God lytter!</description>
-      <guid isPermaLink="false">13524e2e-da83-4fa2-ae46-758c9482c2a9</guid>
-      <pubDate>Fri, 08 Mar 2024 01:25:01 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/58964740/afsnit_2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:40</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-    <item>
-      <title>#1 – Jomfruhinden sprænges... igen!</title>
-      <description>VI ER TILBAGE. Eller... Jeg er.
+   <guid isPermaLink="false">13524e2e-da83-4fa2-ae46-758c9482c2a9</guid>
+   <pubDate>Fri, 08 Mar 2024 01:25:01 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/58964740/afsnit_2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+  <item>
+   <title>#1 – Jomfruhinden sprænges... igen!</title>
+   <description>VI ER TILBAGE. Eller... Jeg er.
 
 Med spritnye jingles, samme langsomme tempo. Jeg snakker lidt om min triste start på det nye år, og så er der reportage fra genbrugspladsen.
 
 Og måske ikke SÅ meget andet. Men lidt har også ret!
 
 God lytter.</description>
-      <guid isPermaLink="false">a1cd3eae-fb30-49cc-ad2b-23ed067f8a96</guid>
-      <pubDate>Mon, 04 Mar 2024 14:59:00 +0000</pubDate>
-      <enclosure url="https://api.spreaker.com/download/episode/58920318/kondrup_afsnit_1.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:19</itunes:duration>
-      <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
-    </item>
-  </channel>
+   <guid isPermaLink="false">a1cd3eae-fb30-49cc-ad2b-23ed067f8a96</guid>
+   <pubDate>Mon, 04 Mar 2024 14:59:00 +0000</pubDate>
+   <enclosure url="https://api.spreaker.com/download/episode/58920318/kondrup_afsnit_1.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9e969eb0-58c1-44d3-8ea5-8eefcd12d1b6_400x400.png"/>
+  </item>
+ </channel>
 </rss>

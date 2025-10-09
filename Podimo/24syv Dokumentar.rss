@@ -1,515 +1,586 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>24syv Dokumentar</title>
-    <description>24syv Dokumentar er resultatet af ugens samlede Råbånd - klippet sammen til en dokumentar på en time.</description>
-    <link>https://podimo.com/dk/shows/9442f838-c9c4-4449-b9e5-e6a4258ed869</link>
-    <image>
-      <url>https://cdn.podimo.com/images/48a6d053-e646-4c88-b074-eb84add1090e_400x400.png</url>
-      <title>24syv Dokumentar</title>
-      <link>https://podimo.com/dk/shows/9442f838-c9c4-4449-b9e5-e6a4258ed869</link>
-    </image>
-    <item>
-      <title>Udåden - #19 Han har hele tiden ønsket at optræde</title>
-      <description>Samme dag Peter Madsen bliver idømt en livstidsdom for drabet på Kim Wall, udgiver Steen Lorck en bog om ubåden og Peter Madsen, som han har kendt i ni år. Peter Madsen var altid bevidst om sin medieoptræden, og det var vigtigt for ham at være showman. Tilrettelæggelse, optagelse og klip: Katrine Krøjby, Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">103efdeb-d209-4010-ae6f-087c14ecfbf7</guid>
-      <pubDate>Thu, 04 Sep 2025 04:11:23 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/7bdefbaa-859e-47e1-b1ce-afc81a7b4845.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:38:08</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #18 Det’ ham fra BT, der ringer</title>
-      <description>“Hvad skulle Peter også med den sav i ubåden?”, siger Jens Falkenberg, da hans ven bliver idømt livstidsstraf, og han selv bliver kimet ned af journalister. Falkenberg tror i øvrigt ikke på, at Peter Madsen har haft blazer på i retten, og han kan ikke se, hvordan Peter Madsen nogensinde skal få råd til at betale erstatningen. Tilrettelæggelse, optagelse og klip: Katrine Krøjby, Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">df0391a2-12bc-4a0f-948f-2943bf0353f9</guid>
-      <pubDate>Thu, 04 Sep 2025 04:00:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/dc8fc786-fb13-4870-b097-cb07b85fef6a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:12:44</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #16 En silhuet i horisionten</title>
-      <description>Peter Faurhøj hører at ubåden Nautilus er forsvundet og sammen med en kollega sejler han ud for at hjælpe med eftersøgningen. De ser ubåden i horisonten, men så snart de når ud til den, synker den, og Peter Madsen hopper i havet. Få timer efter bliver han sigtet for drabet på den svenske journalist Kim Wall. Optagelse, klip og tilrettelæggelse: Katrine Krøjby</description>
-      <guid isPermaLink="false">923e7365-39c2-4343-abc5-c31e20bda9c8</guid>
-      <pubDate>Thu, 04 Sep 2025 03:50:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b6e40feb-f4d0-45a8-8584-7c878907f4f6.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:05</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #17 Kun en psykopat parterer</title>
-      <description>Kim Walls bopæl, Peter Madsen laboratorium og ubåden Nautilus lå indenfor en radius af 500 meter ude på Refshaleøen. Det overrasker tidligere drabschef for Rejseholdet, Kurt Kragh, da vi står derude. Han tegner profilen af en gerningsmand, der er følelseskold og har fokus rettet mod sig selv. Optagelse, tilrettelæggelse og klip: Katrine Krøjby, Redaktør Mikkel Clausen.</description>
-      <guid isPermaLink="false">9ae8b1f0-252e-44b8-85ea-56a274a84f32</guid>
-      <pubDate>Thu, 04 Sep 2025 03:40:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/62e7901e-f36e-4fdf-b964-143b6a9d6a31.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:38:00</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #15 Mentalerklæringen</title>
-      <description>Svært afvigende personlighed med narcissistiske og psykopatiske træk, udtalt glat med overfladisk charme, en patologisk løgner, der fremstår højst utroværdig, følelsesmæssigt hæmmet med alvorlig mangel på anger og skyldfølelse, svært seksuelt afvigende og pervers. Vi går bag om begreberne fra Peter Madsens mentalerklæring sammen med Kim Balsløv, overlæge på Retspsykiatrisk Afsnit på Middelfart Sygehus. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
-      <guid isPermaLink="false">07c664e1-9cc4-4ace-9181-49ccd0a08bed</guid>
-      <pubDate>Thu, 04 Sep 2025 03:30:04 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/06f84832-136e-48d0-bd69-04b45ad7775a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:09</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #14 En dedikeret outsider</title>
-      <description>Da Peter Madsen er seks år, bliver hans forældre skilt. Han flytter alene med sin far til Sæby og ser ikke længere sin mor. Hans gamle fysiklærer Ole Aaberg beskriver ham som en videbegærlig, engageret dreng med særlige interesser. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
-      <guid isPermaLink="false">bc9e6211-dec1-465e-a7d3-d8f1be1dd035</guid>
-      <pubDate>Thu, 04 Sep 2025 03:11:26 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/771702e7-f80b-43f5-9b1a-b2661db8fced.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:41</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #13 Som sand mellem fingrene</title>
-      <description>Jens Falkenberg er forvirret, forundret og chokeret over, at hans ven, Peter Madsen, er tiltalt for drab. Hans ven, der godt kan lide en udfordring, men som var stresset i tiden op til den 10. august 2017. Sammen har de bygget Nautilus og brugt tusindvis af timer i hinandens selskab. Dog gik Peter Madsen aldrig i detaljer om sine kvinder, men de var hans anker til virkeligheden. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
-      <guid isPermaLink="false">353f5287-7128-4067-a611-d05cf67b8b1a</guid>
-      <pubDate>Thu, 04 Sep 2025 03:11:26 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1ae229e5-e5e5-410d-affe-9e70777edc05.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:38:54</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #12 En gal raketbygger</title>
-      <description>Michael blev praktikant på Raketmadsens Rumlaboratorium, fordi han havde brug for noget, der kunne skinne lidt på hans kvote 2 ansøgning til universitetet. I løbet af sin tid som frivillig, oplevede han Peter Madsen, som en mand, der var dybt engageret i sit arbejde. Det ændrede Michaels verdensbillede, da Peter Madsen blev tiltalt for drab. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
-      <guid isPermaLink="false">e7f3936b-15ee-48c6-a764-9f06551972e3</guid>
-      <pubDate>Thu, 04 Sep 2025 03:00:11 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/cbbc91d5-f4f7-480d-9a62-e7630a46097b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:55</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #11 Det hele var muligt</title>
-      <description>Peter Madsen har opstillet tre scenarier for, hvordan han mener, at Kim Wall kan være omkommet i ubåden. En marinehistoriker ved Forsvarakadamiet fortæller om fastsugede luger, ballasttanke og ventiler. Men vi starter i Nordhavn, hvor Nautilus ligger pakket ind i presenninger, og en fotograf beskriver, hvordan undervandsbåden ser ud indeni. Optagelse, tilrettelæggelse og klip: Katrine Krøjby.</description>
-      <guid isPermaLink="false">c05aa652-ebbe-4aab-bb5e-30ebab671e8b</guid>
-      <pubDate>Thu, 04 Sep 2025 02:50:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1a9d002c-95f9-47cb-ab5e-314d4e04c7f6.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:30</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #10 Universets hersker</title>
-      <description>Ser man dødsporno, kan det øge risikoen for at føre fantasierne ud i virkeligheden. Det fortæller Henrik Høgh Olesen, der er professor i psykologi. Han fortæller også, at der findes mennesker, der, hvis de føler sig trådt på, kun kan genvinde kontrollen ved at ydmyge et andet menneske. For hvis hvis ikke de kan skabe, så kan de ødelægge. Optagelse, tilrettelæggelse og klip: Katrine Krøjby.</description>
-      <guid isPermaLink="false">2d6f21f9-4a7e-4f5a-b0a0-b5dcae09f872</guid>
-      <pubDate>Thu, 04 Sep 2025 02:40:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/5e25c02f-03bf-46ca-9483-f07587abce2a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:32</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #9 Rendyrket ondskab</title>
-      <description>Et vidne har i retten fortalt, at Peter Madsen talte om at lave snuff. Det er film, der bliver lavet med det formål at slå nogen ihjel. Vi besøger Jan Jarlbæk, der har været 23 år i politiet, hvor han blandt andet så en video af en kvinde, der blev slået ihjel. Ægtheden blev aldrig slået fast, men mangel på beviser er ikke det samme, som at de ikke eksisterer. Dog er det sikkert, at når først du har set det, vil du aldrig kunne slette det fra din hukommelse. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
-      <guid isPermaLink="false">9ea43a73-beb3-403b-bf35-264538a0b275</guid>
-      <pubDate>Thu, 04 Sep 2025 02:30:10 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/5966dda2-747f-44df-a494-655f4f98d377.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:20</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #8 Terminator findes ikke</title>
-      <description>I et brev til Kim Walls amerikanske veninde May Jeong, skriver Peter Madsen, at han har set filmen Terminator 2. Og at han identificerer sig med karakteren Sarah Connor, der spilles af Linda Hamilton. En karakter, som myndighederne betragter som utroværdig og mentalt forstyrret. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">6ca5dff5-5fc1-4c4d-902f-93df367d26f1</guid>
-      <pubDate>Thu, 04 Sep 2025 02:10:19 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1d8f9d1d-5eb7-449b-93b5-64010213f3c0.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:12:49</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #7 Havuhyret</title>
-      <description>Peter Madsens ubåd Nautilus er opkaldt efter undervandsfartøjet i Jules Vernes roman 'En verdenomsejling under havet'. Vi fortsætter ned af sidesporet angående Peter Madsens yndlingsværker. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">71b50159-e320-4624-9500-e105978dc55f</guid>
-      <pubDate>Thu, 04 Sep 2025 02:10:19 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/4e67d1fb-5d3c-4aec-8155-942053cf78bd.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:50</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #6 Herr Kaleun</title>
-      <description>For få dage siden modtog vi et link med timevis af privatoptagelser af Peter Madsen i sin ubåd. Flere gange slår han over i tysk og spiller kaptajnløjtnant med reference til den tyske filmklassiker Das Boot fra 1981. En film han også har skrevet om på sin blog. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">e44307bf-5cf0-4582-bce4-9c331e47dedd</guid>
-      <pubDate>Thu, 04 Sep 2025 01:50:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/fbe50aab-6c39-41d3-9cfe-260bffcce6c7.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:12:48</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #5 Den glemte politirapport</title>
-      <description>I sidste uge fortalte vores kilde Ulrik Bing, at politiet glemte en rapport på Peter Madsens værksted. En rapport som blandt andet indeholder fortrolige billeder af Kim Walls torso. Nu bekræfter politiet historien, men de vil ikke forholde sig til vores tip om, en mand har affotograferet rapporten og siden er stukket af til Tyskland. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">ab47b449-f0bc-43ed-8ef7-313a3466688d</guid>
-      <pubDate>Thu, 04 Sep 2025 01:50:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1c38adef-9f13-4b21-b676-ba1bfa6330a9.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:05:10</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #4 Det mørkeste af alle rum</title>
-      <description>Under retssagen har Peter Madsens seksualitet været et tema. Han gik til sexfester og sendte truende sms-beskeder, som han selv forklarer var en sexleg. I Måløv bor en professionel domina, der tager os med ind i det mørke univers og forklarer, hvordan spillet fungerer, når mennesker dominerer hinanden totalt. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">0565bc97-16d4-4198-acb0-331d7306b550</guid>
-      <pubDate>Thu, 04 Sep 2025 01:40:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/73ae1dc6-5cd8-47e9-b296-8810f2a81db4.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:00</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #3 Submarino sandwich</title>
-      <description>Restauratøren Ulrik Bing får indblik i Peter Madsens seksualitet, da han betror ham, at han vil opsøge den tidligere pornostjerne og gangbang-dronning, amerikaneren Sasha Grey. Vi får også nys om en glemt politirapport med billeder af Kim Walls lig. Billeder, som en ukendt mand affotograferede, inden han forsvandt. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">15dd104e-dfb6-4082-acec-c7fdff86a9f8</guid>
-      <pubDate>Thu, 04 Sep 2025 01:30:09 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/345ed65e-b54c-43cf-ac04-f95178ac34e3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:37</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #2 Han prøver at gøre en bange</title>
-      <description>Den tidligere pornoskuespiller Dorthe Damsgaard kendte ikke Peter Madsen. Ikke før han opsøgte hende. De mødtes og havde samtaler om seksuelle fantasier, ind til Dorthe blev utryg ved ham og gled af på hans tilbud om kaffe og kage i ubåden. Optagelse og tilrettelæggelse Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">cc28a619-2f71-4e55-932c-1918997cefed</guid>
-      <pubDate>Thu, 04 Sep 2025 01:11:17 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/770c98fb-96b1-49eb-a123-95e3ba7a195d.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:15</itunes:duration>
-    </item>
-    <item>
-      <title>Udåden - #1 De døde taler ikke</title>
-      <description>Mens alverdens journalister stimler sammen om Københavns byret for at følge retsopgøret med ubådsbyggeren Peter Madsen - som står anklaget for at have mishandlet og dræbt journalist Kim Wall - går journalist Katrine Krøjby sine egne veje. Hun er overbevist om, at der findes uopdagede kilder derude, som kan gøre os klogere på hvad der foregik nede i ubåden Nautilus, og hvad der ledte frem til Kim Walls død.
-
-Den 27-årige Ivy blev få dage inden Kim Walls død inviteret på date på den berygtede ubåd af en af Peter Madsens bekendte. Men vi starter foran Københavns Byret torsdag d. 8. marts, hvor en mærkværdig mand med tatoveringer i ansigtet er mødt op side om side med alverdens kriminalreportere. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip &amp; redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">f7af2edd-fdd5-4c97-8005-e38721728542</guid>
-      <pubDate>Thu, 04 Sep 2025 01:11:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/bb0613ea-af77-428c-b62d-60ae611fe0fb.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:46:51</itunes:duration>
-    </item>
-    <item>
-      <title>Hele Danmarks Helle</title>
-      <description>Helle Thorning-Schmidt har hidtil holdt sig tilbage i forhold til fortællingen om sin tid i socialdemokratiet. Men nu åbner hun døren på klem og fortæller om den til tider barske tid i S, og om en meget voldsom 1. maj. Udsendelsen rummer også personlige fortællinger om hendes forældres skilsmisse, hendes oplevelse af terrorangrebet i Krudttønden, hvordan det er at bære et underernæret barn og hvorfor det at flytte til London hjalp hende til at udvikle sig selv. Optagelse og tilrettelæggelse: Iben Maria Zeuthen. Klip og mix: Morten Narvedsen. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">5e3d83a1-f8fc-4ab0-94b1-8dfb0b5555cc</guid>
-      <pubDate>Thu, 27 Mar 2025 00:30:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/cf3626d7-c06b-4ed5-9b00-390e87ee91fb.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:56:57</itunes:duration>
-    </item>
-    <item>
-      <title>Hele Danmarks Casper</title>
-      <description>For nylig fandt Casper Christensen en tegning, han havde tegnet som lille. Den forestillede en mild mand i kassebukser. En figur der ikke kunne ligge ham fjernere. Dengang sad han med et stort behov for at blive set og en drøm om at blive berømt. Der skulle automatrifler i Las Vegas, drukture i Thailand og et meget dyrt hus på Frederiksberg til før at Casper indså, at det ikke handlede om at blive set, det handlede om selv at se. Og desuden, at han nu selv er blevet den mand han tegnede som dreng. Optagelse og tilrettelæggelse: Iben Maria Zeuthen. Redaktør: Mikkel Clausen. Klip og mix: Kim G Hansen</description>
-      <guid isPermaLink="false">e920df8d-92e7-45d5-8e12-2c0dc3ee5745</guid>
-      <pubDate>Thu, 27 Mar 2025 00:11:15 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a70c7e1a-5c52-4a71-a16f-538a9c0ddc58.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:52:39</itunes:duration>
-    </item>
-    <item>
-      <title>Hele Danmarks Ghita</title>
-      <description>‘Det er dybt forfærdeligt, sårende og udleverende’, siger Ghita Nørby til Iben Maria Zeuthens forsøg på at lave et tilbundsgående portræt af den store skuespillerinde. På det tidspunkt har mødet mellem dem kun varet ni minutter. Resten af interviewet viser nogle sider af Hele Danmarks Ghita, som nok vil komme bag på de fleste lyttere. En smertefuld samtale om at være ung og gammel, stor og lille, mor og datter, klog og dum. Optagelse: Iben Maria Zeuthen. Tilrettelæggelse: Iben Maria Zeuthen, Mikkel Clausen og Kim G Hansen. Klip og mix: Kim G Hansen. Redaktør: Mikkel Clausen.</description>
-      <guid isPermaLink="false">0f241922-bbda-41e1-a0fb-fa6f090ee986</guid>
-      <pubDate>Thu, 27 Mar 2025 00:11:12 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/93ab1e4d-a75b-4824-8a2d-eab33627b470.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:58:03</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - I en kælder på Fyn (8:8)</title>
-      <description>Glemte dokumenter dukker op i en kælder på Fyn og en person som kendte Egon træder frem. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Jesper Henriksen. Redaktør: Mads Brügger.</description>
-      <guid isPermaLink="false">9cf16093-d2e8-4f53-8aa5-bfb5ef0e22e7</guid>
-      <pubDate>Fri, 05 Sep 2025 02:20:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/a5626892-8a4d-405c-966f-14fbc1b3ce96.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:49:48</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Udsigten til Risø (7:8)</title>
-      <description>Vi besøger det hus i Gershøj som familien Ploug boede i, mens den lokale købmand fremlægger sin teori om, hvorfor Egon kom af dage på overfarten til England. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Ole Fugl og Kim G. Hansen. Musik: Kim G. Hansen</description>
-      <guid isPermaLink="false">d98c181e-d21d-4437-b882-b150b1b4bc00</guid>
-      <pubDate>Fri, 05 Sep 2025 02:10:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/50ee92af-30a1-4a2e-82d7-e1d9bc764bb5.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:26:52</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Sidste udvej (6:8)</title>
-      <description>Vi gransker endnu en teori om, hvordan og hvorfor Egon Ploug endte sine dage i Nordsøen. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger
-</description>
-      <guid isPermaLink="false">177936ad-8f0d-4774-8641-cc16d78d4589</guid>
-      <pubDate>Fri, 05 Sep 2025 02:00:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1d89b339-1bec-473c-853e-0db89c7ab480.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:21</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Forfulgt (5:8)</title>
-      <description>Vi dykker ned i Egons liv som formodet opfinder, og 70ernes fjendtlige opfindermiljø inddrages. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger.</description>
-      <guid isPermaLink="false">a67e4126-6804-46a6-a7ea-8f3c17126a13</guid>
-      <pubDate>Fri, 05 Sep 2025 01:50:04 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/93cea197-aec8-4035-957b-e193c8ea285b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:34</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Egons sidste timer (4:8)</title>
-      <description>Vi får kortlagt Egons færd før, under og efter Dana Regina har forladt havnen i Esbjerg og fisker efter nye detaljer om Egons sidste timer. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
-      <guid isPermaLink="false">5a7586af-20d0-43f8-a849-41f3104de68d</guid>
-      <pubDate>Fri, 05 Sep 2025 01:40:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ef78c7e2-ca07-4d7e-a14b-dd392c34fb55.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:54</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Egons ophav (3:8)</title>
-      <description>Vi besøger Egons hjemby og lærer nyt om hans fortid. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
-      <guid isPermaLink="false">f260193a-a4f3-446b-b80c-9955203e2a84</guid>
-      <pubDate>Fri, 05 Sep 2025 01:20:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/08d952e5-51c0-487c-9726-241a9c794f68.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:34:27</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Kilometervis af mikrofilm (2:8)</title>
-      <description>Vi støvsuger det Det Kongelige Biblioteks avisarkiver for materiale om sagen, og lærer mere om, hvad der er op og ned i mysteriet om Egon Plougs endeligt. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
-      <guid isPermaLink="false">12e04619-88ef-4370-8d4e-737c2459616d</guid>
-      <pubDate>Fri, 05 Sep 2025 01:20:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ee9bcc6b-45f0-4ab7-a20f-44988d5cc465.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:10:49</itunes:duration>
-    </item>
-    <item>
-      <title>Mord i Rum Sø - Prologen (1:8)</title>
-      <description>To journalister undersøger en gådefuld historie fra 1975 om opfinderen Egon Ploug, og hans tragiske og bizarre endeligt.
-Ploug forsvinder fra passagerfærgen, Dana Regina på vej fra Esbjerg til Harwich i England i sommeren 1975. En måned senere bliver hans lig fundet drivende omkring i Nordsøen. Egon var på vej til patentkontoret i London, for her at registrere en opfindelse som ifølge ham selv ville ændre menneskehedens historie. Men hvem var denne Egon Ploug, hvad gik hans opfindelse ud på, og hvorfor endte han sine dage i Nordsøen? Det er blot nogle af de spørgsmål som ”Mord i Rum Sø” forsøger at finde svar på. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Kim G. Hansen. Redaktør: Mads Brügger</description>
-      <guid isPermaLink="false">1f7bd45c-5dba-4509-8831-c251a162dd9a</guid>
-      <pubDate>Fri, 05 Sep 2025 01:10:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/2d6e4cc2-6c9f-4c9c-8389-210ee4d8797e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:05:28</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 20: Dommen</title>
-      <description>Tirsdag d. 6. februar 2018 blev Mads Andersen idømt to år og ni måneders fængsel for omfattende dokumentfalsk, bedrageri og tyveri. Desuden blev han dømt til at tilbagebetale over 400.000 kr. til de mange mennesker han har snydt. Uden det mindste tegn på anger, forholdt Mads sig til anklageskriftet som en kølig forretningsmand, der gennemgår et regnskab. Vi har talt med Anita, som er Mads Andersens mors kusine. Hun har kendt Mads siden han kom til Danmark fra Korea, og var vidne til hvordan han langsomt, men sikkert udviklede sig til den dreng, ingen i familien ønskede at tale om. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Musik: Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">16d159ec-23a0-4975-81a4-fa3b3733b49f</guid>
-      <pubDate>Mon, 08 Sep 2025 02:20:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/4f6402f5-d5ba-437b-ab6f-ebbdb7675bd2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:47:52</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 19: 166</title>
-      <description>30. oktober 2017. I torsdags anholdt tysk politi Mads Andersen i Hamborg. Nu venter dansk politi på at få ham udleveret. Han kan se frem til at blive sigtet for 166 forhold, svarende til 166 versioner af svindel, bedrageri eller anden berigelseskriminalitet. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">28030bc4-af33-4342-9415-9dd80bc0abf8</guid>
-      <pubDate>Mon, 08 Sep 2025 02:10:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/07e2aedd-3f55-40e4-9fa4-5577852055e3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:04:56</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 18: Terningerne er kastet</title>
-      <description>Det er gået galt altid, siger Thomas Andersens mor i et kort telefoninterview. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media..</description>
-      <guid isPermaLink="false">ab202a19-f853-40ba-9e87-c61dfd1cc5b8</guid>
-      <pubDate>Mon, 08 Sep 2025 02:00:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/33c9502d-2663-4a71-a31c-d66b041934a2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:10:57</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 17: Klasselæreren</title>
-      <description>1976-1985. Siden første klasse havde Thomas’ lærer Susanne et nært forhold til Thomas. Hun lærte ham at læse og skrive på sin helt egen måde, og han sad ofte på hendes skød. Men i løbet af folkeskolen ændrede Thomas sig så meget, at Susanne til sidst ikke længere kunne kende sin gamle elev. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
-      <guid isPermaLink="false">7322a343-7e73-464f-a280-6244a81b2c09</guid>
-      <pubDate>Mon, 08 Sep 2025 01:50:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/24148be7-e0f4-4532-921e-7b4b8cc81883.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:29:38</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 16: Øltang</title>
-      <description>Omkring 1970-71 ankommer to koreanske børn til gården Øltang lidt uden for Stenløse. Øltang var også øgenavnet man brugte om Thomas Andersens adoptivfar, en streng og firskåren arbejdsmand, der gerne startede dagen med en pose øl hos købmanden. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">da62112a-c8ad-4f9c-9a30-514c28db8018</guid>
-      <pubDate>Mon, 08 Sep 2025 01:40:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/e4ae00b1-1929-4d00-81cd-0403f5c31f07.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:19</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 15: Heavy-Klaus</title>
-      <description>1980’erne. En ung kvinde i Stenløse bliver voldtaget. De to venner Heavy Klaus og Korea-Tom beslutter sig for at opsøge gerningsmanden og give ham som fortjent. Politiet får også fat i voldtægtsmanden og retfærdigheden sker fyldest. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">2ebd786f-f828-461d-a713-71c4b51e2d82</guid>
-      <pubDate>Mon, 08 Sep 2025 01:30:09 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/fce83da5-4b0d-4bd9-ad8a-68ac8f7dcec8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:50</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 14: Sandra</title>
-      <description>1991-1993. Som pole-dancer på klubben Orientbar møder Sandra Thomas, der snart inviterer på eventyr på Gran Canaria. Inden længe står Sandra uden penge, møbler og lejlighed. Til gengæld er hun gravid med Thomas Andersens datter. Medvirkende er skuespiller Anne Vester Høyer. Manus på baggrund af telefoninterview med Sandra. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">82999bf4-4f79-4f55-b863-9c580cd7238b</guid>
-      <pubDate>Mon, 08 Sep 2025 01:10:17 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/fdd2c69a-7517-4618-ac38-3f7ac41c6e84.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:16:02</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 13: Muldvarpen</title>
-      <description>December 2007. Lene ringer til politiet for at tjekke sin nabo Thomas, som hun mistænker for at have snydt hende for 25.000. Politiet fortæller, at han er efterlyst af Interpol. Snart bliver Lene instrueret i at agere muldvarp for PET. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">df15a84c-a64c-4b09-94de-103c518bdeb8</guid>
-      <pubDate>Mon, 08 Sep 2025 01:10:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/fd220e41-4dd6-40b4-92c8-8309f0ea7b0d.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:11:21</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 12: John Anker</title>
-      <description>D. 3. august 2017 udsender Københavns politi en efterlysning af Mads Andersen. Den bringer os på sporet af den polske kvinde Aginieska, en penthouselejlighed i Gdansk, anmeldelser i Norge, forsorgshjemmet Overmarksgården i Kolding og John Anker, der var så letsindig at leje en Volkswagen Caddy til Mads/Thomas Andersen… Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">2d580598-0865-47d0-90bc-74811f73612e</guid>
-      <pubDate>Mon, 08 Sep 2025 01:00:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ea1ece71-935d-4be1-b408-05384ea4e86b.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:15:40</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 11: Korea-Tom</title>
-      <description>1980-1991, Stenløse. De gamle venner Kim og Henrik husker tilbage på hvordan Mads Andersen var som barn og ung. I klubben, på fodboldbanen og på de lokale diskoteker. Mads havde altid masser af penge, og rygtet gik, at han havde koden til sin fars pengeskab. Men Mads var en glad og sjov dreng, som virkede helt upåvirket af forstadens nederlag og tæsk. Selv den blodige ulykke på gården, hvor han boede, tog han i stiv arm. Tilrettelæggelse &amp;amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">1d9bfab6-7f12-4f4b-b3ac-e6432b374866</guid>
-      <pubDate>Mon, 08 Sep 2025 00:50:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/58476aeb-3a8f-4319-b414-2debd6c8cd0f.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30:56</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 10: I får ikke en krone!</title>
-      <description>2007. Dygtigt og selvsikkert udfører Mads et af sine yndlingsnumre. Med løfter om stensikre afkast, lokker han den unge håndværker Martin til at smide kolde kontanter i tomme investeringer. Men en stenhugger i Brønshøj sørger for, at Mads kommer til at stå ansigt til ansigt med nogle af de mange mennesker han skylder penge – og hvordan reagerer Mads så i den situation? Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
-      <guid isPermaLink="false">f43ce39f-15fd-460b-be27-c80bdae8501e</guid>
-      <pubDate>Mon, 08 Sep 2025 00:40:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/8bc457f5-d77a-4177-a51e-acb35e2149f3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:44</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 9: Black Cobra banker på</title>
-      <description>2008. Malene er lige vendt hjem efter et længere ophold i Spanien, da hun løber ind i Mads. Hun falder i snak med ham i Tivoli efter en koncert med Michael Falch. Snakken udvikler sig til en bytur, der bliver til flere – og pludselig er Mads nærmest flyttet ind hos Malene. Men en dag Mads ikke er i lejligheden, banker uventede gæster på døren. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">a10e97ef-8dfa-40cb-90f0-046242fe54b7</guid>
-      <pubDate>Mon, 08 Sep 2025 00:30:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/d4fa24e8-69f4-4a0a-91c8-e45311e13e23.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:12</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 8: Eventyret på Kos</title>
-      <description>Sommer, 2010. Med en buket blomster på trappestenen genopliver Mads et bekendtskab fra en nytårsaften halvandet år tilbage. Charmeoffensiven virker. På et splitsekund er blomster blevet til kærlighed og frieri. Kort efter rejser Mads med sin nyforlovede til Kos i Grækenland for at møde svigerforældrene... og her får han en idé, der ender med at koste familien flere hundrede tusinde kroner. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">9efeabac-c122-4b69-a6fc-17ceb007bbe1</guid>
-      <pubDate>Mon, 08 Sep 2025 00:11:32 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/c0052ad5-6732-4c82-8b6d-32c49986527c.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:49</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 7: Indsat med Mads</title>
-      <description>Forår, 2010. Maria afsoner i Hobro Arrest sammen med Mads Andersen. Han sidder inde for et ‘konkursramt byggeprojekt’, fortæller han Maria. Hun køber et par labre vinterjakker af mærket Canadian Goose og betaler forud. Men hun opdager også et andet karaktertræk ved Mads, der ligger lige bag det imødekommende og veltalende ydre. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
-      <guid isPermaLink="false">4985e3f4-8510-4eb8-8855-cc83f15f98d5</guid>
-      <pubDate>Mon, 08 Sep 2025 00:11:30 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/f4d50ed0-05cd-4919-9ba1-f02624df1af4.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:58</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 6: Prinsen i den blå Audi</title>
-      <description>Mads møder op i en blå Audi, da han hjælper Olivers søster med at flytte til Jylland. Olivers mors nye, cool kæreste giver et godt indtryk. Kæresteriet bliver til frieri, og forberedelserne til brylluppet går i gang. Samtidig er Oliver ved at spare penge sammen til drømmerejsen til Australien. Også her er mors kommende mand er hjælpsom. Faktisk kan Olivers opsparing hurtigt vokse sig stor i et lukrativt byggeprojekt. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
-      <guid isPermaLink="false">2265faac-859e-4327-85be-9dce7fa80810</guid>
-      <pubDate>Mon, 08 Sep 2025 00:00:16 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/3bae9b32-ec9a-4b8b-9379-34d88ea40be8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:21:39</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 5: Narko i pengekassen</title>
-      <description>Betina lever i et usundt forhold, som hun gerne vil ud af. På nettet møder hun Mads Andersen, der hurtigt udtænker en snedig plan, der skal få Betina væk fra sin mand. Planen involverer: En fætter i Rødovre politi, en nyt sted at bo, en pengekasse fyldt med kontanter og guldtøj og en smule narkotika. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">098ec635-cd8a-4c7f-868e-c2ef9a24e7e4</guid>
-      <pubDate>Sun, 07 Sep 2025 23:50:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/6359ac87-f27a-4b42-8489-9a3356899b31.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:23:34</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 4: 200 kroner og en falsk adresse</title>
-      <description>Dating er en af Mads Andersens foretrukne scener. Forklædt som charmør og engageret kavaler planter han drømme om kærlighed, tryghed og ægteskab i de kvinder, han møder på internettets mange datingportaler. I dette afsnit får du Lenes historie, der starter med god spadseretur på stranden. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">1e0a867f-6831-4541-a85c-fa1101915cb1</guid>
-      <pubDate>Sun, 07 Sep 2025 23:40:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/24cc150a-2cab-4c98-ac4e-5dd8fa4b2dc2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:25:39</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 3: En lejlighed i Ballerup &amp; en ferie på solkysten</title>
-      <description>Maj ‘17 indlogerer Mads sig på Solvang, et herberg for hjemløse. Med drømmen om en ny lejlighed og en gratis rejse til Malaga vinder Mads hurtigt de hjemløses hjerter. Stemningen på herberget er i top... Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
-      <guid isPermaLink="false">ca97f72b-233e-4179-9715-3e840b62a538</guid>
-      <pubDate>Sun, 07 Sep 2025 23:30:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/775654bd-d5e1-46d6-92da-6780ce3655e8.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:12</itunes:duration>
-    </item>
-    <item>
-      <title>Man kan aldrig vide - Afsnit 2: Han er set på Gl. Vardevej</title>
-      <description>Mads Andersen er ikke hans rigtige navn, men en identitet han tit bruger: En menneskelignende maske, udstyret med falsk kørekort, utallige telefonnumre og facebook-profiler. Men to manglende fingerspidser på to af fingrene på venstre hånd, gør ham let at identificere. Et tip leder os til Esbjerg, men vi er ikke alene om at jagte Mads Andersen, også politiet, junkier, lokale bander, tatovører og enlige mødre er ude efter ham med hver deres udestående. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
-      <guid isPermaLink="false">070d19af-7d46-4198-9d8d-d3ca65560ad2</guid>
-      <pubDate>Sun, 07 Sep 2025 23:20:08 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b48dbaaf-3206-4fce-8765-8ee6ec1608aa.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:22:23</itunes:duration>
-    </item>
-    <item>
-      <title>Huset Rothschild - London</title>
-      <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
-      <guid isPermaLink="false">bf8e91ae-cfd8-4d10-bf85-75659ec07008</guid>
-      <pubDate>Tue, 09 Sep 2025 00:00:12 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/24b0dc03-1a96-4a4e-91ad-337a5b8773ca.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:54:07</itunes:duration>
-    </item>
-    <item>
-      <title>Huset Rothschild - Paris</title>
-      <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
-      <guid isPermaLink="false">b319c35c-bfd1-482f-a1df-bfb9679a6ac8</guid>
-      <pubDate>Mon, 08 Sep 2025 23:50:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/3054fe16-cc23-4310-bf09-749caf4fb555.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:54:22</itunes:duration>
-    </item>
-    <item>
-      <title>Huset Rothschild - Wien</title>
-      <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
-      <guid isPermaLink="false">78b3b0f2-a51b-4f1a-bdf4-166d4e913719</guid>
-      <pubDate>Mon, 08 Sep 2025 23:20:48 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b2cb42b6-84e0-40b9-9fb7-a9e4b5752b37.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:54:06</itunes:duration>
-    </item>
-    <item>
-      <title>Huset Rothschild - Napoli</title>
-      <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
-      <guid isPermaLink="false">4b93a6ab-44f8-42be-b065-31d35ab6ab52</guid>
-      <pubDate>Mon, 08 Sep 2025 23:20:47 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/41601f48-bdc0-43b4-bf53-0a7711673baa.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:52:20</itunes:duration>
-    </item>
-    <item>
-      <title>Huset Rothschild - Frankfurt</title>
-      <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
-      <guid isPermaLink="false">98d78cee-4fb8-462a-963e-eadf17dc0efd</guid>
-      <pubDate>Mon, 08 Sep 2025 23:10:47 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/ba34ff9c-dd9f-4121-a785-4790a2444ec0.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:52:43</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 8: Mennesket</title>
-      <description>I dette sidste afsnit går vi tættere på den art, der er skyld i ‘Den sjette masseuddøen’. Menneskearten Homo sapiens. Hvordan blev dette dyr i stand til at erobre kloden, forårsage masseuddøen, og hvad blev der egentligt af de tidligere menneskearter? Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">a1377f1f-38ea-40bf-a5b0-1d3a792edb44</guid>
-      <pubDate>Wed, 10 Sep 2025 00:40:20 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/f922064e-b534-41f9-82f1-6eb011b4262c.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:19:26</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 7: Ulven</title>
-      <description>Den lille jyske by Ulfborg danner ramme om syvende episode. Her er ulven nemlig vendt tilbage efter 199 års fravær. Men borgerne i den lille by er ikke begejstrede for den nye beboer. Ulven er nemlig en konkurrent til mennesket…Og mennesker ser helst at konkurrenter bliver ‘skudt’. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">63c1a7a8-f688-41db-88cd-e390a2963069</guid>
-      <pubDate>Wed, 10 Sep 2025 00:00:14 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/66aecb23-0c1b-4f6a-96f5-cadc24266f2e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:38</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 6: Fugle</title>
-      <description>Gennem de sidste par tusind år er mange tusind arter af fugle forsvundet pga af mennesket, og den tendens ser ikke ud til at stoppe. I Danmark er kirkeuglen nærmest uddød, storken ligeså og stæren har heller ikke meget at være ‘fornøjet’ over. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">44b6a589-aeb5-4abc-bd27-b5c02e7c034c</guid>
-      <pubDate>Wed, 10 Sep 2025 00:00:13 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/89dadd9a-7bc2-44fa-8e7a-311e0f3c3660.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:14:40</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 5: Bier og Insekter</title>
-      <description>Den domestiserede honningbi er bare én ud af 233 forskellige bi-arter i Danmark. Hør om den episke blåhatjordbi, og om hvordan de vilde bier og insekter egentligt har det i Europas mest opdyrkede land, hvor mennesker er besatte af at opdyrke jorden. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">820174eb-1a43-48b1-a348-ad457a010e8c</guid>
-      <pubDate>Tue, 09 Sep 2025 23:50:19 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/b9ad5d4b-0867-425a-a0d1-904dafa08687.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:18:02</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 4: Rotter</title>
-      <description>Der findes vindere og tabere i ‘Den sjette masseuddøen’, hvor dyrearter overalt på jorden uddør med hurtigt tempo. I dette afsnit skal vi kigge nærmere på en vinder. Rotten stortrives nemlig blandt mennesker, og måske vil vi i fremtiden møde intelligente kæmperotter, som kan blive lige så store som får. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">6029f786-2b12-4540-b661-881eb86b698f</guid>
-      <pubDate>Tue, 09 Sep 2025 23:40:10 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/1e5e869b-15cc-433e-bc30-fe37fc665750.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:17:57</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 3: Gejrfuglen</title>
-      <description>Gejrfuglen er en uddød fugleart. Den var udbredt overalt på den nordlige halvkugle, hvor den stortrivedes i kæmpe flokke. Men en dag opdagede mennesket, at der fandtes gejrfugle. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">e3e71a68-410b-48c6-998c-7638d72b7ecc</guid>
-      <pubDate>Tue, 09 Sep 2025 23:30:04 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/32dce0c9-2da6-4cda-9631-50060af4aa4d.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:12:30</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 2: Sommerfugle</title>
-      <description>Mange sommerfuglearter er uddøde, og pt. er hver tiende art i fare for at uddø i Europa. I dette afsnit er vi taget til Møn for at lede efter den yderst sjældne ‘Sortplettede Blåfugl’. Engang levede den mange steder i Danmark, men i dag er der kun omkring 500 eksemplarer tilbage, og de lever alle på Møn. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">2049f51c-0077-4446-a62c-6e59cb460aba</guid>
-      <pubDate>Tue, 09 Sep 2025 23:20:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/3c0a9d41-9ff7-46f1-8933-2bcb90ea1cf9.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:20:25</itunes:duration>
-    </item>
-    <item>
-      <title>Den Sjette Masseuddøen - Afsnit 1: Opråb</title>
-      <description>Jorden har fem gange været ramt af masseuddøen blandt arter. For 65 millioner år siden kolliderede en asteroide med jordkloden og op imod 75 procent af alt dyre- og planteliv forsvandt, heriblandt datidens herskere dinosaurerne. Dette var 'den femte store masseuddøen'. Nu sker det igen! Jordens arter uddør i et hastigt tempo. Denne gang er det dog hverken supervulkaner, ekstreme istider eller asteroidenedslag der står bag, men derimod nutidens herskere, menneskearten Homo sapiens.
+ <channel>
+  <title>24syv Dokumentar</title>
+  <description>24syv Dokumentar er resultatet af ugens samlede Råbånd - klippet sammen til en dokumentar på en time.</description>
+  <link>https://podimo.com/dk/shows/9442f838-c9c4-4449-b9e5-e6a4258ed869</link>
+  <image>
+   <url>https://cdn.podimo.com/images/48a6d053-e646-4c88-b074-eb84add1090e_400x400.png</url>
+   <title>24syv Dokumentar</title>
+   <link>https://podimo.com/dk/shows/9442f838-c9c4-4449-b9e5-e6a4258ed869</link>
+  </image>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 8: Mennesket</title>
+   <description>I dette sidste afsnit går vi tættere på den art, der er skyld i ‘Den sjette masseuddøen’. Menneskearten Homo sapiens. Hvordan blev dette dyr i stand til at erobre kloden, forårsage masseuddøen, og hvad blev der egentligt af de tidligere menneskearter? Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">a1377f1f-38ea-40bf-a5b0-1d3a792edb44</guid>
+   <pubDate>Wed, 10 Sep 2025 00:40:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f922064e-b534-41f9-82f1-6eb011b4262c.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:26</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/8f2374ce-d299-416a-88f3-2c45df80eafc_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 7: Ulven</title>
+   <description>Den lille jyske by Ulfborg danner ramme om syvende episode. Her er ulven nemlig vendt tilbage efter 199 års fravær. Men borgerne i den lille by er ikke begejstrede for den nye beboer. Ulven er nemlig en konkurrent til mennesket…Og mennesker ser helst at konkurrenter bliver ‘skudt’. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">63c1a7a8-f688-41db-88cd-e390a2963069</guid>
+   <pubDate>Wed, 10 Sep 2025 00:00:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/66aecb23-0c1b-4f6a-96f5-cadc24266f2e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/2bd4ad30-6754-4b5b-a9aa-5950be4fcac6_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 6: Fugle</title>
+   <description>Gennem de sidste par tusind år er mange tusind arter af fugle forsvundet pga af mennesket, og den tendens ser ikke ud til at stoppe. I Danmark er kirkeuglen nærmest uddød, storken ligeså og stæren har heller ikke meget at være ‘fornøjet’ over. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">44b6a589-aeb5-4abc-bd27-b5c02e7c034c</guid>
+   <pubDate>Wed, 10 Sep 2025 00:00:13 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/89dadd9a-7bc2-44fa-8e7a-311e0f3c3660.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ef538b60-202b-4181-9275-8e8a15553cbd_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 5: Bier og Insekter</title>
+   <description>Den domestiserede honningbi er bare én ud af 233 forskellige bi-arter i Danmark. Hør om den episke blåhatjordbi, og om hvordan de vilde bier og insekter egentligt har det i Europas mest opdyrkede land, hvor mennesker er besatte af at opdyrke jorden. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">820174eb-1a43-48b1-a348-ad457a010e8c</guid>
+   <pubDate>Tue, 09 Sep 2025 23:50:19 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b9ad5d4b-0867-425a-a0d1-904dafa08687.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:02</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/308b0f91-5bf5-45f3-9da7-f97d0b1d76cf_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 4: Rotter</title>
+   <description>Der findes vindere og tabere i ‘Den sjette masseuddøen’, hvor dyrearter overalt på jorden uddør med hurtigt tempo. I dette afsnit skal vi kigge nærmere på en vinder. Rotten stortrives nemlig blandt mennesker, og måske vil vi i fremtiden møde intelligente kæmperotter, som kan blive lige så store som får. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">6029f786-2b12-4540-b661-881eb86b698f</guid>
+   <pubDate>Tue, 09 Sep 2025 23:40:10 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1e5e869b-15cc-433e-bc30-fe37fc665750.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:17:57</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/78f462a9-1f8d-4ff0-80ba-4380ccedd6ca_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 3: Gejrfuglen</title>
+   <description>Gejrfuglen er en uddød fugleart. Den var udbredt overalt på den nordlige halvkugle, hvor den stortrivedes i kæmpe flokke. Men en dag opdagede mennesket, at der fandtes gejrfugle. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">e3e71a68-410b-48c6-998c-7638d72b7ecc</guid>
+   <pubDate>Tue, 09 Sep 2025 23:30:04 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/32dce0c9-2da6-4cda-9631-50060af4aa4d.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:12:30</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/30978e02-64f1-4988-b65b-dbeb00e51635_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 2: Sommerfugle</title>
+   <description>Mange sommerfuglearter er uddøde, og pt. er hver tiende art i fare for at uddø i Europa. I dette afsnit er vi taget til Møn for at lede efter den yderst sjældne ‘Sortplettede Blåfugl’. Engang levede den mange steder i Danmark, men i dag er der kun omkring 500 eksemplarer tilbage, og de lever alle på Møn. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Per Stadel Nielsen. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">2049f51c-0077-4446-a62c-6e59cb460aba</guid>
+   <pubDate>Tue, 09 Sep 2025 23:20:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/3c0a9d41-9ff7-46f1-8933-2bcb90ea1cf9.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:25</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/fdcb6fc0-9c9b-4c3f-9181-47fe5cb28718_400x400.png"/>
+  </item>
+  <item>
+   <title>Den Sjette Masseuddøen - Afsnit 1: Opråb</title>
+   <description>Jorden har fem gange været ramt af masseuddøen blandt arter. For 65 millioner år siden kolliderede en asteroide med jordkloden og op imod 75 procent af alt dyre- og planteliv forsvandt, heriblandt datidens herskere dinosaurerne. Dette var 'den femte store masseuddøen'. Nu sker det igen! Jordens arter uddør i et hastigt tempo. Denne gang er det dog hverken supervulkaner, ekstreme istider eller asteroidenedslag der står bag, men derimod nutidens herskere, menneskearten Homo sapiens.
 
 Vi lever i en tid, hvor dyre- og plantearter uddør i ekstremt hurtigt tempo, vi er nemlig i gang med hvad forskere kalder den sjette masseuddøen. Det er dog ikke noget, der bekymrer hr. og fru Danmark. De fleste ved faktisk ikke, hvad det er. Efter en ide af Nikolaj Kirk og Jens Raunkjær Christensen. Medvirkende: Bent Lindow. Tilrettelæggelse, optagelse og klip: Nikolaj Kirk, Jens Raunkjær Christensen og Iben Foss. Medtilrettelæggelse: Peter Schwarz-Nielsen. Fortæller: Karsten Pharao. Redaktør: Mikkel Clausen</description>
-      <guid isPermaLink="false">e12f2ec1-74f2-4095-99ed-42a4b1df0208</guid>
-      <pubDate>Tue, 09 Sep 2025 23:10:06 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/bc0cfbad-a9b6-498f-8698-874bc176ee53.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:12:38</itunes:duration>
-    </item>
-  </channel>
+   <guid isPermaLink="false">e12f2ec1-74f2-4095-99ed-42a4b1df0208</guid>
+   <pubDate>Tue, 09 Sep 2025 23:10:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/bc0cfbad-a9b6-498f-8698-874bc176ee53.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:12:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/769bd9c1-8be6-4c5c-a8fc-38b82ac28acf_400x400.png"/>
+  </item>
+  <item>
+   <title>Huset Rothschild - London</title>
+   <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
+   <guid isPermaLink="false">bf8e91ae-cfd8-4d10-bf85-75659ec07008</guid>
+   <pubDate>Tue, 09 Sep 2025 00:00:12 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/24b0dc03-1a96-4a4e-91ad-337a5b8773ca.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:54:07</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/68f25a68-8d20-4230-8c24-119085644bd9_400x400.png"/>
+  </item>
+  <item>
+   <title>Huset Rothschild - Paris</title>
+   <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
+   <guid isPermaLink="false">b319c35c-bfd1-482f-a1df-bfb9679a6ac8</guid>
+   <pubDate>Mon, 08 Sep 2025 23:50:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/3054fe16-cc23-4310-bf09-749caf4fb555.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:54:22</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/3cbbab8d-cf69-4b88-9a8d-c4e8cc590a54_400x400.png"/>
+  </item>
+  <item>
+   <title>Huset Rothschild - Wien</title>
+   <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
+   <guid isPermaLink="false">78b3b0f2-a51b-4f1a-bdf4-166d4e913719</guid>
+   <pubDate>Mon, 08 Sep 2025 23:20:48 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b2cb42b6-84e0-40b9-9fb7-a9e4b5752b37.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:54:06</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/aaf5338a-0e76-4504-b40c-8f7ca02b4cf9_400x400.png"/>
+  </item>
+  <item>
+   <title>Huset Rothschild - Napoli</title>
+   <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
+   <guid isPermaLink="false">4b93a6ab-44f8-42be-b065-31d35ab6ab52</guid>
+   <pubDate>Mon, 08 Sep 2025 23:20:47 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/41601f48-bdc0-43b4-bf53-0a7711673baa.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:52:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/a1613a5b-5bf9-4d07-9a95-c84252b94ddb_400x400.png"/>
+  </item>
+  <item>
+   <title>Huset Rothschild - Frankfurt</title>
+   <description>I familien Rothschilds våbenskjold ses en handske, der holder om fem pile. Historien bag motivet er den, at familiens stamfader, den jødiske bankier Mayer Amschel Rothschild, omkring år 1800 sendte sine fem sønner afsted til fem forskellige europæiske storbyer for her at opstarte selvstændige bankvirksomheder, som skulle videreføre hans indbringende geschæft. De fem byer var Frankfurt, Napoli, Wien, Paris og London. Resultatet blev særdeles vellykket, lad os bare kalde det det. Rothschilderne blev nemlig Europas rigeste og mest magtfulde familie, og deres navn giver ekko i evigheden. Radio24syv har bedt historikeren Thomas Oldrup følge de fem pile i Rothschilds våbenskjold til de fem byer - Frankfurt, Napoli, Wien, Paris og London for at fortælle historien om Rothschild-dynastiet. Optagelse og tilrettelæggelse: Thomas Oldrup</description>
+   <guid isPermaLink="false">98d78cee-4fb8-462a-963e-eadf17dc0efd</guid>
+   <pubDate>Mon, 08 Sep 2025 23:10:47 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/ba34ff9c-dd9f-4121-a785-4790a2444ec0.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:52:43</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/91d8bbf3-98f3-4556-9446-4a2f7af30678_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 20: Dommen</title>
+   <description>Tirsdag d. 6. februar 2018 blev Mads Andersen idømt to år og ni måneders fængsel for omfattende dokumentfalsk, bedrageri og tyveri. Desuden blev han dømt til at tilbagebetale over 400.000 kr. til de mange mennesker han har snydt. Uden det mindste tegn på anger, forholdt Mads sig til anklageskriftet som en kølig forretningsmand, der gennemgår et regnskab. Vi har talt med Anita, som er Mads Andersens mors kusine. Hun har kendt Mads siden han kom til Danmark fra Korea, og var vidne til hvordan han langsomt, men sikkert udviklede sig til den dreng, ingen i familien ønskede at tale om. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Musik: Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">16d159ec-23a0-4975-81a4-fa3b3733b49f</guid>
+   <pubDate>Mon, 08 Sep 2025 02:20:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/4f6402f5-d5ba-437b-ab6f-ebbdb7675bd2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:47:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/b2e9e2bd-91f5-4e01-a60c-02f0cdf7dee4_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 19: 166</title>
+   <description>30. oktober 2017. I torsdags anholdt tysk politi Mads Andersen i Hamborg. Nu venter dansk politi på at få ham udleveret. Han kan se frem til at blive sigtet for 166 forhold, svarende til 166 versioner af svindel, bedrageri eller anden berigelseskriminalitet. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">28030bc4-af33-4342-9415-9dd80bc0abf8</guid>
+   <pubDate>Mon, 08 Sep 2025 02:10:20 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/07e2aedd-3f55-40e4-9fa4-5577852055e3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:04:56</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ef6cceb2-d527-4800-9e5b-de81fc641b3e_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 18: Terningerne er kastet</title>
+   <description>Det er gået galt altid, siger Thomas Andersens mor i et kort telefoninterview. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media..</description>
+   <guid isPermaLink="false">ab202a19-f853-40ba-9e87-c61dfd1cc5b8</guid>
+   <pubDate>Mon, 08 Sep 2025 02:00:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/33c9502d-2663-4a71-a31c-d66b041934a2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:10:57</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/6c47ccb3-bbe9-4865-8ba1-9d2bc3fba7ba_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 17: Klasselæreren</title>
+   <description>1976-1985. Siden første klasse havde Thomas’ lærer Susanne et nært forhold til Thomas. Hun lærte ham at læse og skrive på sin helt egen måde, og han sad ofte på hendes skød. Men i løbet af folkeskolen ændrede Thomas sig så meget, at Susanne til sidst ikke længere kunne kende sin gamle elev. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
+   <guid isPermaLink="false">7322a343-7e73-464f-a280-6244a81b2c09</guid>
+   <pubDate>Mon, 08 Sep 2025 01:50:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/24148be7-e0f4-4532-921e-7b4b8cc81883.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:29:38</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9a5054e3-db61-4ec5-acbb-c26e7c535e87_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 16: Øltang</title>
+   <description>Omkring 1970-71 ankommer to koreanske børn til gården Øltang lidt uden for Stenløse. Øltang var også øgenavnet man brugte om Thomas Andersens adoptivfar, en streng og firskåren arbejdsmand, der gerne startede dagen med en pose øl hos købmanden. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">da62112a-c8ad-4f9c-9a30-514c28db8018</guid>
+   <pubDate>Mon, 08 Sep 2025 01:40:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/e4ae00b1-1929-4d00-81cd-0403f5c31f07.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:19</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7b1597ee-afa4-45a6-bd28-c306ae1c4f70_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 15: Heavy-Klaus</title>
+   <description>1980’erne. En ung kvinde i Stenløse bliver voldtaget. De to venner Heavy Klaus og Korea-Tom beslutter sig for at opsøge gerningsmanden og give ham som fortjent. Politiet får også fat i voldtægtsmanden og retfærdigheden sker fyldest. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">2ebd786f-f828-461d-a713-71c4b51e2d82</guid>
+   <pubDate>Mon, 08 Sep 2025 01:30:09 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fce83da5-4b0d-4bd9-ad8a-68ac8f7dcec8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/a46d000f-a75d-4b25-9d72-c17e072239d9_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 14: Sandra</title>
+   <description>1991-1993. Som pole-dancer på klubben Orientbar møder Sandra Thomas, der snart inviterer på eventyr på Gran Canaria. Inden længe står Sandra uden penge, møbler og lejlighed. Til gengæld er hun gravid med Thomas Andersens datter. Medvirkende er skuespiller Anne Vester Høyer. Manus på baggrund af telefoninterview med Sandra. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">82999bf4-4f79-4f55-b863-9c580cd7238b</guid>
+   <pubDate>Mon, 08 Sep 2025 01:10:17 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fdd2c69a-7517-4618-ac38-3f7ac41c6e84.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:02</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/66185a14-50b2-47e4-b71d-c25dcbb08b4d_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 13: Muldvarpen</title>
+   <description>December 2007. Lene ringer til politiet for at tjekke sin nabo Thomas, som hun mistænker for at have snydt hende for 25.000. Politiet fortæller, at han er efterlyst af Interpol. Snart bliver Lene instrueret i at agere muldvarp for PET. Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">df15a84c-a64c-4b09-94de-103c518bdeb8</guid>
+   <pubDate>Mon, 08 Sep 2025 01:10:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fd220e41-4dd6-40b4-92c8-8309f0ea7b0d.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:11:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/a4e96d10-9b53-40e4-b0a1-e5d26f54da2a_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 12: John Anker</title>
+   <description>D. 3. august 2017 udsender Københavns politi en efterlysning af Mads Andersen. Den bringer os på sporet af den polske kvinde Aginieska, en penthouselejlighed i Gdansk, anmeldelser i Norge, forsorgshjemmet Overmarksgården i Kolding og John Anker, der var så letsindig at leje en Volkswagen Caddy til Mads/Thomas Andersen… Tilrettelæggelse og redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">2d580598-0865-47d0-90bc-74811f73612e</guid>
+   <pubDate>Mon, 08 Sep 2025 01:00:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/ea1ece71-935d-4be1-b408-05384ea4e86b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:40</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/15758227-cfac-4107-aed9-ece6b89d39b6_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 11: Korea-Tom</title>
+   <description>1980-1991, Stenløse. De gamle venner Kim og Henrik husker tilbage på hvordan Mads Andersen var som barn og ung. I klubben, på fodboldbanen og på de lokale diskoteker. Mads havde altid masser af penge, og rygtet gik, at han havde koden til sin fars pengeskab. Men Mads var en glad og sjov dreng, som virkede helt upåvirket af forstadens nederlag og tæsk. Selv den blodige ulykke på gården, hvor han boede, tog han i stiv arm. Tilrettelæggelse &amp;amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">1d9bfab6-7f12-4f4b-b3ac-e6432b374866</guid>
+   <pubDate>Mon, 08 Sep 2025 00:50:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/58476aeb-3a8f-4319-b414-2debd6c8cd0f.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:30:56</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/31f918c7-e3cd-47fd-9bb1-f5a79c250016_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 10: I får ikke en krone!</title>
+   <description>2007. Dygtigt og selvsikkert udfører Mads et af sine yndlingsnumre. Med løfter om stensikre afkast, lokker han den unge håndværker Martin til at smide kolde kontanter i tomme investeringer. Men en stenhugger i Brønshøj sørger for, at Mads kommer til at stå ansigt til ansigt med nogle af de mange mennesker han skylder penge – og hvordan reagerer Mads så i den situation? Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
+   <guid isPermaLink="false">f43ce39f-15fd-460b-be27-c80bdae8501e</guid>
+   <pubDate>Mon, 08 Sep 2025 00:40:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/8bc457f5-d77a-4177-a51e-acb35e2149f3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:44</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/0e0acd90-9e23-46fa-bbda-4001e9da1427_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 9: Black Cobra banker på</title>
+   <description>2008. Malene er lige vendt hjem efter et længere ophold i Spanien, da hun løber ind i Mads. Hun falder i snak med ham i Tivoli efter en koncert med Michael Falch. Snakken udvikler sig til en bytur, der bliver til flere – og pludselig er Mads nærmest flyttet ind hos Malene. Men en dag Mads ikke er i lejligheden, banker uventede gæster på døren. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">a10e97ef-8dfa-40cb-90f0-046242fe54b7</guid>
+   <pubDate>Mon, 08 Sep 2025 00:30:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/d4fa24e8-69f4-4a0a-91c8-e45311e13e23.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/aa2077eb-94b9-437c-8149-f8e058eeed3c_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 8: Eventyret på Kos</title>
+   <description>Sommer, 2010. Med en buket blomster på trappestenen genopliver Mads et bekendtskab fra en nytårsaften halvandet år tilbage. Charmeoffensiven virker. På et splitsekund er blomster blevet til kærlighed og frieri. Kort efter rejser Mads med sin nyforlovede til Kos i Grækenland for at møde svigerforældrene... og her får han en idé, der ender med at koste familien flere hundrede tusinde kroner. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">9efeabac-c122-4b69-a6fc-17ceb007bbe1</guid>
+   <pubDate>Mon, 08 Sep 2025 00:11:32 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/c0052ad5-6732-4c82-8b6d-32c49986527c.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:49</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/bceff178-a1e6-4f4c-b9e6-ab9959d85b7a_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 7: Indsat med Mads</title>
+   <description>Forår, 2010. Maria afsoner i Hobro Arrest sammen med Mads Andersen. Han sidder inde for et ‘konkursramt byggeprojekt’, fortæller han Maria. Hun køber et par labre vinterjakker af mærket Canadian Goose og betaler forud. Men hun opdager også et andet karaktertræk ved Mads, der ligger lige bag det imødekommende og veltalende ydre. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen og Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
+   <guid isPermaLink="false">4985e3f4-8510-4eb8-8855-cc83f15f98d5</guid>
+   <pubDate>Mon, 08 Sep 2025 00:11:30 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/f4d50ed0-05cd-4919-9ba1-f02624df1af4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:58</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/e7d25023-75d9-4b0a-9d65-461f491aa28a_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 6: Prinsen i den blå Audi</title>
+   <description>Mads møder op i en blå Audi, da han hjælper Olivers søster med at flytte til Jylland. Olivers mors nye, cool kæreste giver et godt indtryk. Kæresteriet bliver til frieri, og forberedelserne til brylluppet går i gang. Samtidig er Oliver ved at spare penge sammen til drømmerejsen til Australien. Også her er mors kommende mand er hjælpsom. Faktisk kan Olivers opsparing hurtigt vokse sig stor i et lukrativt byggeprojekt. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
+   <guid isPermaLink="false">2265faac-859e-4327-85be-9dce7fa80810</guid>
+   <pubDate>Mon, 08 Sep 2025 00:00:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/3bae9b32-ec9a-4b8b-9379-34d88ea40be8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/f9ca9475-43de-4b8b-b350-cbf6d09e2aa7_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 5: Narko i pengekassen</title>
+   <description>Betina lever i et usundt forhold, som hun gerne vil ud af. På nettet møder hun Mads Andersen, der hurtigt udtænker en snedig plan, der skal få Betina væk fra sin mand. Planen involverer: En fætter i Rødovre politi, en nyt sted at bo, en pengekasse fyldt med kontanter og guldtøj og en smule narkotika. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">098ec635-cd8a-4c7f-868e-c2ef9a24e7e4</guid>
+   <pubDate>Sun, 07 Sep 2025 23:50:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/6359ac87-f27a-4b42-8489-9a3356899b31.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:34</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/045dac87-eaf6-4b70-a476-7fee402c53db_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 4: 200 kroner og en falsk adresse</title>
+   <description>Dating er en af Mads Andersens foretrukne scener. Forklædt som charmør og engageret kavaler planter han drømme om kærlighed, tryghed og ægteskab i de kvinder, han møder på internettets mange datingportaler. I dette afsnit får du Lenes historie, der starter med god spadseretur på stranden. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">1e0a867f-6831-4541-a85c-fa1101915cb1</guid>
+   <pubDate>Sun, 07 Sep 2025 23:40:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/24cc150a-2cab-4c98-ac4e-5dd8fa4b2dc2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:25:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/c832e714-31c4-4c62-b27b-bf273fbbb3dc_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 3: En lejlighed i Ballerup &amp; en ferie på solkysten</title>
+   <description>Maj ‘17 indlogerer Mads sig på Solvang, et herberg for hjemløse. Med drømmen om en ny lejlighed og en gratis rejse til Malaga vinder Mads hurtigt de hjemløses hjerter. Stemningen på herberget er i top... Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media</description>
+   <guid isPermaLink="false">ca97f72b-233e-4179-9715-3e840b62a538</guid>
+   <pubDate>Sun, 07 Sep 2025 23:30:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/775654bd-d5e1-46d6-92da-6780ce3655e8.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:12</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/bd36fbe6-f6c5-4603-8bad-55294da803b0_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 2: Han er set på Gl. Vardevej</title>
+   <description>Mads Andersen er ikke hans rigtige navn, men en identitet han tit bruger: En menneskelignende maske, udstyret med falsk kørekort, utallige telefonnumre og facebook-profiler. Men to manglende fingerspidser på to af fingrene på venstre hånd, gør ham let at identificere. Et tip leder os til Esbjerg, men vi er ikke alene om at jagte Mads Andersen, også politiet, junkier, lokale bander, tatovører og enlige mødre er ude efter ham med hver deres udestående. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">070d19af-7d46-4198-9d8d-d3ca65560ad2</guid>
+   <pubDate>Sun, 07 Sep 2025 23:20:08 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b48dbaaf-3206-4fce-8765-8ee6ec1608aa.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:22:23</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/a5453e96-418f-4f8f-a278-dd2290a5f3f2_400x400.png"/>
+  </item>
+  <item>
+   <title>Man kan aldrig vide - Afsnit 1: En rødglødende tatovør</title>
+   <description>En mand stikker af fra regningen fra en tatovør på Vesterbro i København. Samtidig forsvinder 3500 kroner i kontanter. Tatovør, Casper Milo undersøger hvem kunden er, og straks efter begynder historierne om en mærkelig mand, Mads Andersen kalder hans sig, at vælte frem. Et større persongalleri kan berette om falsk identitet, forførelse og bedrageri. Tilrettelæggelse &amp; redigering: Morten Narvedsen, Mikkel Clausen &amp; Kim G Hansen. Redaktør: Mikkel Clausen. Produceret i samarbejde med Wingman Media.</description>
+   <guid isPermaLink="false">9dd8c156-8254-4f7b-a6c3-b3656ef95e5a</guid>
+   <pubDate>Sun, 07 Sep 2025 23:10:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fbaecb32-b8d0-43d3-b020-d000202dffac.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:47</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/fd7d7a8e-db7b-43d9-b9b2-b4ccb413633c_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - I en kælder på Fyn (8:8)</title>
+   <description>Glemte dokumenter dukker op i en kælder på Fyn og en person som kendte Egon træder frem. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Jesper Henriksen. Redaktør: Mads Brügger.</description>
+   <guid isPermaLink="false">9cf16093-d2e8-4f53-8aa5-bfb5ef0e22e7</guid>
+   <pubDate>Fri, 05 Sep 2025 02:20:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/a5626892-8a4d-405c-966f-14fbc1b3ce96.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:49:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/08dd6bda-f372-4b64-bb65-a5e803746553_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Udsigten til Risø (7:8)</title>
+   <description>Vi besøger det hus i Gershøj som familien Ploug boede i, mens den lokale købmand fremlægger sin teori om, hvorfor Egon kom af dage på overfarten til England. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Ole Fugl og Kim G. Hansen. Musik: Kim G. Hansen</description>
+   <guid isPermaLink="false">d98c181e-d21d-4437-b882-b150b1b4bc00</guid>
+   <pubDate>Fri, 05 Sep 2025 02:10:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/50ee92af-30a1-4a2e-82d7-e1d9bc764bb5.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:26:52</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/e24a9d20-3c5f-4c06-8733-7d8fca69cf67_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Sidste udvej (6:8)</title>
+   <description>Vi gransker endnu en teori om, hvordan og hvorfor Egon Ploug endte sine dage i Nordsøen. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger
+</description>
+   <guid isPermaLink="false">177936ad-8f0d-4774-8641-cc16d78d4589</guid>
+   <pubDate>Fri, 05 Sep 2025 02:00:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1d89b339-1bec-473c-853e-0db89c7ab480.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:21</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/5c49e697-1404-4b70-940c-d8311ef281e6_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Forfulgt (5:8)</title>
+   <description>Vi dykker ned i Egons liv som formodet opfinder, og 70ernes fjendtlige opfindermiljø inddrages. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger.</description>
+   <guid isPermaLink="false">a67e4126-6804-46a6-a7ea-8f3c17126a13</guid>
+   <pubDate>Fri, 05 Sep 2025 01:50:04 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/93cea197-aec8-4035-957b-e193c8ea285b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:34</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/b0e1cd0e-ccef-4ef8-bcc7-1953b6059f5b_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Egons sidste timer (4:8)</title>
+   <description>Vi får kortlagt Egons færd før, under og efter Dana Regina har forladt havnen i Esbjerg og fisker efter nye detaljer om Egons sidste timer. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
+   <guid isPermaLink="false">5a7586af-20d0-43f8-a849-41f3104de68d</guid>
+   <pubDate>Fri, 05 Sep 2025 01:40:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/ef78c7e2-ca07-4d7e-a14b-dd392c34fb55.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:23:54</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/3ff1e577-0ffc-4e9b-91b8-f6a189162984_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Egons ophav (3:8)</title>
+   <description>Vi besøger Egons hjemby og lærer nyt om hans fortid. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
+   <guid isPermaLink="false">f260193a-a4f3-446b-b80c-9955203e2a84</guid>
+   <pubDate>Fri, 05 Sep 2025 01:20:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/08d952e5-51c0-487c-9726-241a9c794f68.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:34:27</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/f1756f75-0992-4a8e-8c81-b5965bd6b6aa_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Kilometervis af mikrofilm (2:8)</title>
+   <description>Vi støvsuger det Det Kongelige Biblioteks avisarkiver for materiale om sagen, og lærer mere om, hvad der er op og ned i mysteriet om Egon Plougs endeligt. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Morten Narvedsen og Kim G. Hansen. Redaktør: Mads Brügger</description>
+   <guid isPermaLink="false">12e04619-88ef-4370-8d4e-737c2459616d</guid>
+   <pubDate>Fri, 05 Sep 2025 01:20:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/ee9bcc6b-45f0-4ab7-a20f-44988d5cc465.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:10:49</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/149301cf-d9b9-4646-9d7b-d5802ee0f3af_400x400.png"/>
+  </item>
+  <item>
+   <title>Mord i Rum Sø - Prologen (1:8)</title>
+   <description>To journalister undersøger en gådefuld historie fra 1975 om opfinderen Egon Ploug, og hans tragiske og bizarre endeligt.
+Ploug forsvinder fra passagerfærgen, Dana Regina på vej fra Esbjerg til Harwich i England i sommeren 1975. En måned senere bliver hans lig fundet drivende omkring i Nordsøen. Egon var på vej til patentkontoret i London, for her at registrere en opfindelse som ifølge ham selv ville ændre menneskehedens historie. Men hvem var denne Egon Ploug, hvad gik hans opfindelse ud på, og hvorfor endte han sine dage i Nordsøen? Det er blot nogle af de spørgsmål som ”Mord i Rum Sø” forsøger at finde svar på. Tilrettelæggelse: Anders Thorkil Bechgaard og Jesper Henriksen. Klip: Kim G. Hansen. Redaktør: Mads Brügger</description>
+   <guid isPermaLink="false">1f7bd45c-5dba-4509-8831-c251a162dd9a</guid>
+   <pubDate>Fri, 05 Sep 2025 01:10:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/2d6e4cc2-6c9f-4c9c-8389-210ee4d8797e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:05:28</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/e4bf9f01-4691-4413-84aa-3b1df917e338_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #19 Han har hele tiden ønsket at optræde</title>
+   <description>Samme dag Peter Madsen bliver idømt en livstidsdom for drabet på Kim Wall, udgiver Steen Lorck en bog om ubåden og Peter Madsen, som han har kendt i ni år. Peter Madsen var altid bevidst om sin medieoptræden, og det var vigtigt for ham at være showman. Tilrettelæggelse, optagelse og klip: Katrine Krøjby, Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">103efdeb-d209-4010-ae6f-087c14ecfbf7</guid>
+   <pubDate>Thu, 04 Sep 2025 04:11:23 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/7bdefbaa-859e-47e1-b1ce-afc81a7b4845.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:38:08</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/7c1eaa00-413b-4799-b3b2-234ec1780b30_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #18 Det’ ham fra BT, der ringer</title>
+   <description>“Hvad skulle Peter også med den sav i ubåden?”, siger Jens Falkenberg, da hans ven bliver idømt livstidsstraf, og han selv bliver kimet ned af journalister. Falkenberg tror i øvrigt ikke på, at Peter Madsen har haft blazer på i retten, og han kan ikke se, hvordan Peter Madsen nogensinde skal få råd til at betale erstatningen. Tilrettelæggelse, optagelse og klip: Katrine Krøjby, Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">df0391a2-12bc-4a0f-948f-2943bf0353f9</guid>
+   <pubDate>Thu, 04 Sep 2025 04:00:14 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/dc8fc786-fb13-4870-b097-cb07b85fef6a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:12:44</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/2d421698-b18f-43e1-b963-8373abd2739c_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #16 En silhuet i horisionten</title>
+   <description>Peter Faurhøj hører at ubåden Nautilus er forsvundet og sammen med en kollega sejler han ud for at hjælpe med eftersøgningen. De ser ubåden i horisonten, men så snart de når ud til den, synker den, og Peter Madsen hopper i havet. Få timer efter bliver han sigtet for drabet på den svenske journalist Kim Wall. Optagelse, klip og tilrettelæggelse: Katrine Krøjby</description>
+   <guid isPermaLink="false">923e7365-39c2-4343-abc5-c31e20bda9c8</guid>
+   <pubDate>Thu, 04 Sep 2025 03:50:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/b6e40feb-f4d0-45a8-8584-7c878907f4f6.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:05</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/5597af28-92ea-4e6d-9fe2-ea57708511e0_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #17 Kun en psykopat parterer</title>
+   <description>Kim Walls bopæl, Peter Madsen laboratorium og ubåden Nautilus lå indenfor en radius af 500 meter ude på Refshaleøen. Det overrasker tidligere drabschef for Rejseholdet, Kurt Kragh, da vi står derude. Han tegner profilen af en gerningsmand, der er følelseskold og har fokus rettet mod sig selv. Optagelse, tilrettelæggelse og klip: Katrine Krøjby, Redaktør Mikkel Clausen.</description>
+   <guid isPermaLink="false">9ae8b1f0-252e-44b8-85ea-56a274a84f32</guid>
+   <pubDate>Thu, 04 Sep 2025 03:40:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/62e7901e-f36e-4fdf-b964-143b6a9d6a31.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:38:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/efdad211-b308-4796-8741-d322658cf48c_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #15 Mentalerklæringen</title>
+   <description>Svært afvigende personlighed med narcissistiske og psykopatiske træk, udtalt glat med overfladisk charme, en patologisk løgner, der fremstår højst utroværdig, følelsesmæssigt hæmmet med alvorlig mangel på anger og skyldfølelse, svært seksuelt afvigende og pervers. Vi går bag om begreberne fra Peter Madsens mentalerklæring sammen med Kim Balsløv, overlæge på Retspsykiatrisk Afsnit på Middelfart Sygehus. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
+   <guid isPermaLink="false">07c664e1-9cc4-4ace-9181-49ccd0a08bed</guid>
+   <pubDate>Thu, 04 Sep 2025 03:30:04 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/06f84832-136e-48d0-bd69-04b45ad7775a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:19:09</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/c4f88f59-eda2-439e-8106-143a4db4da37_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #14 En dedikeret outsider</title>
+   <description>Da Peter Madsen er seks år, bliver hans forældre skilt. Han flytter alene med sin far til Sæby og ser ikke længere sin mor. Hans gamle fysiklærer Ole Aaberg beskriver ham som en videbegærlig, engageret dreng med særlige interesser. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
+   <guid isPermaLink="false">bc9e6211-dec1-465e-a7d3-d8f1be1dd035</guid>
+   <pubDate>Thu, 04 Sep 2025 03:11:26 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/771702e7-f80b-43f5-9b1a-b2661db8fced.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:41</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/4f52becb-8022-408a-9e61-1758aad47d5c_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #13 Som sand mellem fingrene</title>
+   <description>Jens Falkenberg er forvirret, forundret og chokeret over, at hans ven, Peter Madsen, er tiltalt for drab. Hans ven, der godt kan lide en udfordring, men som var stresset i tiden op til den 10. august 2017. Sammen har de bygget Nautilus og brugt tusindvis af timer i hinandens selskab. Dog gik Peter Madsen aldrig i detaljer om sine kvinder, men de var hans anker til virkeligheden. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
+   <guid isPermaLink="false">353f5287-7128-4067-a611-d05cf67b8b1a</guid>
+   <pubDate>Thu, 04 Sep 2025 03:11:26 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1ae229e5-e5e5-410d-affe-9e70777edc05.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:38:54</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/5b4d44b2-26f9-49cf-89f6-077a66a0e609_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #12 En gal raketbygger</title>
+   <description>Michael blev praktikant på Raketmadsens Rumlaboratorium, fordi han havde brug for noget, der kunne skinne lidt på hans kvote 2 ansøgning til universitetet. I løbet af sin tid som frivillig, oplevede han Peter Madsen, som en mand, der var dybt engageret i sit arbejde. Det ændrede Michaels verdensbillede, da Peter Madsen blev tiltalt for drab. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
+   <guid isPermaLink="false">e7f3936b-15ee-48c6-a764-9f06551972e3</guid>
+   <pubDate>Thu, 04 Sep 2025 03:00:11 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/cbbc91d5-f4f7-480d-9a62-e7630a46097b.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:55</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/8086e0ad-a1e2-4766-bf04-8c6686714ad4_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #11 Det hele var muligt</title>
+   <description>Peter Madsen har opstillet tre scenarier for, hvordan han mener, at Kim Wall kan være omkommet i ubåden. En marinehistoriker ved Forsvarakadamiet fortæller om fastsugede luger, ballasttanke og ventiler. Men vi starter i Nordhavn, hvor Nautilus ligger pakket ind i presenninger, og en fotograf beskriver, hvordan undervandsbåden ser ud indeni. Optagelse, tilrettelæggelse og klip: Katrine Krøjby.</description>
+   <guid isPermaLink="false">c05aa652-ebbe-4aab-bb5e-30ebab671e8b</guid>
+   <pubDate>Thu, 04 Sep 2025 02:50:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1a9d002c-95f9-47cb-ab5e-314d4e04c7f6.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:30</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/be956d1e-62d1-499a-90c5-b82c56df031f_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #10 Universets hersker</title>
+   <description>Ser man dødsporno, kan det øge risikoen for at føre fantasierne ud i virkeligheden. Det fortæller Henrik Høgh Olesen, der er professor i psykologi. Han fortæller også, at der findes mennesker, der, hvis de føler sig trådt på, kun kan genvinde kontrollen ved at ydmyge et andet menneske. For hvis hvis ikke de kan skabe, så kan de ødelægge. Optagelse, tilrettelæggelse og klip: Katrine Krøjby.</description>
+   <guid isPermaLink="false">2d6f21f9-4a7e-4f5a-b0a0-b5dcae09f872</guid>
+   <pubDate>Thu, 04 Sep 2025 02:40:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/5e25c02f-03bf-46ca-9483-f07587abce2a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:14:32</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/c5c2efe6-7264-44c3-8a07-4197c0600b5c_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #9 Rendyrket ondskab</title>
+   <description>Et vidne har i retten fortalt, at Peter Madsen talte om at lave snuff. Det er film, der bliver lavet med det formål at slå nogen ihjel. Vi besøger Jan Jarlbæk, der har været 23 år i politiet, hvor han blandt andet så en video af en kvinde, der blev slået ihjel. Ægtheden blev aldrig slået fast, men mangel på beviser er ikke det samme, som at de ikke eksisterer. Dog er det sikkert, at når først du har set det, vil du aldrig kunne slette det fra din hukommelse. Optagelse, tilrettelæggelse og klip: Katrine Krøjby</description>
+   <guid isPermaLink="false">9ea43a73-beb3-403b-bf35-264538a0b275</guid>
+   <pubDate>Thu, 04 Sep 2025 02:30:10 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/5966dda2-747f-44df-a494-655f4f98d377.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:16:20</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/9efcc12c-ef60-4f1b-b004-0a6b751d2d81_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #8 Terminator findes ikke</title>
+   <description>I et brev til Kim Walls amerikanske veninde May Jeong, skriver Peter Madsen, at han har set filmen Terminator 2. Og at han identificerer sig med karakteren Sarah Connor, der spilles af Linda Hamilton. En karakter, som myndighederne betragter som utroværdig og mentalt forstyrret. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">6ca5dff5-5fc1-4c4d-902f-93df367d26f1</guid>
+   <pubDate>Thu, 04 Sep 2025 02:10:19 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1d8f9d1d-5eb7-449b-93b5-64010213f3c0.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:12:49</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/f3411876-a7bd-4bdf-a309-3bbef88fd5c5_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #7 Havuhyret</title>
+   <description>Peter Madsens ubåd Nautilus er opkaldt efter undervandsfartøjet i Jules Vernes roman 'En verdenomsejling under havet'. Vi fortsætter ned af sidesporet angående Peter Madsens yndlingsværker. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">71b50159-e320-4624-9500-e105978dc55f</guid>
+   <pubDate>Thu, 04 Sep 2025 02:10:19 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/4e67d1fb-5d3c-4aec-8155-942053cf78bd.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:20:50</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/63fdb335-698c-4c1f-95c9-6a4a695e067d_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #6 Herr Kaleun</title>
+   <description>For få dage siden modtog vi et link med timevis af privatoptagelser af Peter Madsen i sin ubåd. Flere gange slår han over i tysk og spiller kaptajnløjtnant med reference til den tyske filmklassiker Das Boot fra 1981. En film han også har skrevet om på sin blog. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">e44307bf-5cf0-4582-bce4-9c331e47dedd</guid>
+   <pubDate>Thu, 04 Sep 2025 01:50:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/fbe50aab-6c39-41d3-9cfe-260bffcce6c7.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:12:48</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/78f1c73b-e492-4184-bdef-33378dc5e0d1_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #5 Den glemte politirapport</title>
+   <description>I sidste uge fortalte vores kilde Ulrik Bing, at politiet glemte en rapport på Peter Madsens værksted. En rapport som blandt andet indeholder fortrolige billeder af Kim Walls torso. Nu bekræfter politiet historien, men de vil ikke forholde sig til vores tip om, en mand har affotograferet rapporten og siden er stukket af til Tyskland. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">ab47b449-f0bc-43ed-8ef7-313a3466688d</guid>
+   <pubDate>Thu, 04 Sep 2025 01:50:06 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/1c38adef-9f13-4b21-b676-ba1bfa6330a9.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:05:10</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/5deb6fc7-80e2-489c-a0df-033dc0ffd55b_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #4 Det mørkeste af alle rum</title>
+   <description>Under retssagen har Peter Madsens seksualitet været et tema. Han gik til sexfester og sendte truende sms-beskeder, som han selv forklarer var en sexleg. I Måløv bor en professionel domina, der tager os med ind i det mørke univers og forklarer, hvordan spillet fungerer, når mennesker dominerer hinanden totalt. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">0565bc97-16d4-4198-acb0-331d7306b550</guid>
+   <pubDate>Thu, 04 Sep 2025 01:40:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/73ae1dc6-5cd8-47e9-b296-8810f2a81db4.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:18:00</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/039b109c-77b1-4a80-9ac6-5aea11ae5af1_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #3 Submarino sandwich</title>
+   <description>Restauratøren Ulrik Bing får indblik i Peter Madsens seksualitet, da han betror ham, at han vil opsøge den tidligere pornostjerne og gangbang-dronning, amerikaneren Sasha Grey. Vi får også nys om en glemt politirapport med billeder af Kim Walls lig. Billeder, som en ukendt mand affotograferede, inden han forsvandt. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">15dd104e-dfb6-4082-acec-c7fdff86a9f8</guid>
+   <pubDate>Thu, 04 Sep 2025 01:30:09 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/345ed65e-b54c-43cf-ac04-f95178ac34e3.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:21:37</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/082578bf-2836-4633-9141-f772266eeddc_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #2 Han prøver at gøre en bange</title>
+   <description>Den tidligere pornoskuespiller Dorthe Damsgaard kendte ikke Peter Madsen. Ikke før han opsøgte hende. De mødtes og havde samtaler om seksuelle fantasier, ind til Dorthe blev utryg ved ham og gled af på hans tilbud om kaffe og kage i ubåden. Optagelse og tilrettelæggelse Katrine Krøjby. Klip og redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">cc28a619-2f71-4e55-932c-1918997cefed</guid>
+   <pubDate>Thu, 04 Sep 2025 01:11:17 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/770c98fb-96b1-49eb-a123-95e3ba7a195d.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:15:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/33176934-106c-44f7-8ebb-b5f8bc0de378_400x400.png"/>
+  </item>
+  <item>
+   <title>Udåden - #1 De døde taler ikke</title>
+   <description>Mens alverdens journalister stimler sammen om Københavns byret for at følge retsopgøret med ubådsbyggeren Peter Madsen - som står anklaget for at have mishandlet og dræbt journalist Kim Wall - går journalist Katrine Krøjby sine egne veje. Hun er overbevist om, at der findes uopdagede kilder derude, som kan gøre os klogere på hvad der foregik nede i ubåden Nautilus, og hvad der ledte frem til Kim Walls død.
+
+Den 27-årige Ivy blev få dage inden Kim Walls død inviteret på date på den berygtede ubåd af en af Peter Madsens bekendte. Men vi starter foran Københavns Byret torsdag d. 8. marts, hvor en mærkværdig mand med tatoveringer i ansigtet er mødt op side om side med alverdens kriminalreportere. Optagelse og tilrettelæggelse: Katrine Krøjby. Klip &amp; redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">f7af2edd-fdd5-4c97-8005-e38721728542</guid>
+   <pubDate>Thu, 04 Sep 2025 01:11:16 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/bb0613ea-af77-428c-b62d-60ae611fe0fb.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:46:51</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/ff85636c-4031-4bf4-840d-62b763b5fa4b_400x400.png"/>
+  </item>
+  <item>
+   <title>Hele Danmarks Helle</title>
+   <description>Helle Thorning-Schmidt har hidtil holdt sig tilbage i forhold til fortællingen om sin tid i socialdemokratiet. Men nu åbner hun døren på klem og fortæller om den til tider barske tid i S, og om en meget voldsom 1. maj. Udsendelsen rummer også personlige fortællinger om hendes forældres skilsmisse, hendes oplevelse af terrorangrebet i Krudttønden, hvordan det er at bære et underernæret barn og hvorfor det at flytte til London hjalp hende til at udvikle sig selv. Optagelse og tilrettelæggelse: Iben Maria Zeuthen. Klip og mix: Morten Narvedsen. Redaktør: Mikkel Clausen</description>
+   <guid isPermaLink="false">5e3d83a1-f8fc-4ab0-94b1-8dfb0b5555cc</guid>
+   <pubDate>Thu, 27 Mar 2025 00:30:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/cf3626d7-c06b-4ed5-9b00-390e87ee91fb.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:56:57</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/fff20f5c-a695-4ad0-b8b9-1258afbc5b6f_400x400.png"/>
+  </item>
+  <item>
+   <title>Hele Danmarks Casper</title>
+   <description>For nylig fandt Casper Christensen en tegning, han havde tegnet som lille. Den forestillede en mild mand i kassebukser. En figur der ikke kunne ligge ham fjernere. Dengang sad han med et stort behov for at blive set og en drøm om at blive berømt. Der skulle automatrifler i Las Vegas, drukture i Thailand og et meget dyrt hus på Frederiksberg til før at Casper indså, at det ikke handlede om at blive set, det handlede om selv at se. Og desuden, at han nu selv er blevet den mand han tegnede som dreng. Optagelse og tilrettelæggelse: Iben Maria Zeuthen. Redaktør: Mikkel Clausen. Klip og mix: Kim G Hansen</description>
+   <guid isPermaLink="false">e920df8d-92e7-45d5-8e12-2c0dc3ee5745</guid>
+   <pubDate>Thu, 27 Mar 2025 00:11:15 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/a70c7e1a-5c52-4a71-a16f-538a9c0ddc58.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:52:39</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/3f1a2cef-0bb7-47a6-a878-6bfe7262f1af_400x400.png"/>
+  </item>
+  <item>
+   <title>Hele Danmarks Ghita</title>
+   <description>‘Det er dybt forfærdeligt, sårende og udleverende’, siger Ghita Nørby til Iben Maria Zeuthens forsøg på at lave et tilbundsgående portræt af den store skuespillerinde. På det tidspunkt har mødet mellem dem kun varet ni minutter. Resten af interviewet viser nogle sider af Hele Danmarks Ghita, som nok vil komme bag på de fleste lyttere. En smertefuld samtale om at være ung og gammel, stor og lille, mor og datter, klog og dum. Optagelse: Iben Maria Zeuthen. Tilrettelæggelse: Iben Maria Zeuthen, Mikkel Clausen og Kim G Hansen. Klip og mix: Kim G Hansen. Redaktør: Mikkel Clausen.</description>
+   <guid isPermaLink="false">0f241922-bbda-41e1-a0fb-fa6f090ee986</guid>
+   <pubDate>Thu, 27 Mar 2025 00:11:12 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/93ab1e4d-a75b-4824-8a2d-eab33627b470.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:58:03</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/77f41f1c-491a-4e3f-8142-24f9ceb42e64_400x400.png"/>
+  </item>
+ </channel>
 </rss>

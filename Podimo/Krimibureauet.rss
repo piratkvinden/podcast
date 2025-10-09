@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Krimibureauet</title>
-    <description>Podcasten til dig der elsker at nørde i krimier. Træd ind på bureauet, hvor bestsellerforfatterne Stefan Ahnhem og Lone Theils tager krimien dødsens alvorligt. Vi dykker ned i forfatterskaber og snakker plot, skriveteknik, berømmelse, sårbarhed og alle de andre ting, der findes mellem linjerne med branchens bedste talenter. Både dem, der står på forsiden af bogen, og dem der trækker i trådene.</description>
-    <link>https://podimo.com/dk/shows/025c5f94-fd4b-493e-b117-a4441f5fb7cb</link>
-    <image>
-      <url>https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png</url>
-      <title>Krimibureauet</title>
-      <link>https://podimo.com/dk/shows/025c5f94-fd4b-493e-b117-a4441f5fb7cb</link>
-    </image>
-    <item>
-      <title>Velkommen til bureauet - din nye krimipodcast med Lone Theils og Stefan Ahnhem</title>
-      <description>Hvordan beslutter man sig for at man vil være krimiforfatter? Hvordan laver man et medrivende plot? Den gode helt? Den modbydelige skurk? Vi åbner for podcasten 'Krimibureauet' med dette første afsnit, hvor værterne Lone Theils og Stefan Ahnhem taler om hvordan de blev bidt af krimifeberen, hvad der inspirerer dem til at skrive, og hvordan de selv kom igang med deres krimiuniverser. Der er også plads til lidt kærlig konkurrence mellem de to forfattere, der quizzer hinanden i hvor godt de kender deres egen tekst.
+ <channel>
+  <title>Krimibureauet</title>
+  <description>Podcasten til dig der elsker at nørde i krimier. Træd ind på bureauet, hvor bestsellerforfatterne Stefan Ahnhem og Lone Theils tager krimien dødsens alvorligt. Vi dykker ned i forfatterskaber og snakker plot, skriveteknik, berømmelse, sårbarhed og alle de andre ting, der findes mellem linjerne med branchens bedste talenter. Både dem, der står på forsiden af bogen, og dem der trækker i trådene.</description>
+  <link>https://podimo.com/dk/shows/025c5f94-fd4b-493e-b117-a4441f5fb7cb</link>
+  <image>
+   <url>https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png</url>
+   <title>Krimibureauet</title>
+   <link>https://podimo.com/dk/shows/025c5f94-fd4b-493e-b117-a4441f5fb7cb</link>
+  </image>
+  <item>
+   <title>Årets krimidebutant Mikkel Blaabjerg om afslag, modstand og det store gennembrud</title>
+   <description>Hvordan er det at debutere med en bog? For Mikkel Blaabjerg var det behæftet med en del modstand og afslag før han endelig landede sin debut med bogen 'Den 6. magt', der modtog debutantprisen, der uddeles af Det danske kriminalakademi. For værterne Lone Theils og Stefan Ahnhem var historien en anden, omend vejen mod debuten også var behæftet med afstikkere hen mod den første bog. Bliv klogere på hvordan man finder sin stemme, når man slet ikke ved hvilken retning man går i.
 
 Værter: Lone Theils og Stefan Ahnhem
+Gæst: Mikkel Blaabjerg
 Klipper: Caroline Juul Mørck
 Redaktør: Andreas Lindinger Saxild
 
 Husk at du kan skrive til Krimibureauet på krimibureauet@sagaegmont.com</description>
-      <guid isPermaLink="false">4cc379a6-e5f2-4b5b-82c2-3ab0cfc2474c</guid>
-      <pubDate>Wed, 10 Sep 2025 01:20:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/47bae703-2876-4310-af58-29d9f20f6aa5.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:45:14</itunes:duration>
-    </item>
-    <item>
-      <title>Forbrydelsens fader Søren Sveistrup gæster bureauet - En samtale om filmatiseringer, succes og stress</title>
-      <description>I 2007 lagde Søren Sveistrup de danske gader øde søndag aften, da hans tv-serie 'Forbrydelsen' blev sendt på Danmarks Radio. Serien var banebrydende for tv-krimien, og lagde fundamentet for den form vi kender fra utallige krimiserier i dag. Søren Sveistrup gæster i dette afsnit 'Krimibureauet' for at tale om at gå fra at skrive tv-dramaer til at skrive bøger, og hvad det har givet ham af læring undervejs.
-Værterne Stefan Ahnhem og Lone Theils taler om at blive filmatiseret, og hvordan det er at se sine karakterer og sin historie blive vækket til live i et helt andet format end det oprindeligt var tiltænkt.
-
-Værter: Lone Theils og Stefan Ahnhem
-Gæst: Søren Sveistrup
-Klipper: Caroline Juul Mørck
-Redaktør: Andreas Lindinger Saxild
-
-Husk at du kan skrive til Krimibureauet på krimibureauet@sagaegmont.com</description>
-      <guid isPermaLink="false">fc5929b5-d31c-4fb4-a2c2-0fa1ab301a27</guid>
-      <pubDate>Wed, 17 Sep 2025 01:10:02 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/292c3d85-395c-4068-b938-7594a6b0a2f2.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:58:10</itunes:duration>
-    </item>
-    <item>
-      <title>Danmarks hemmelige krimikonge Lars Kjædegaard om mord og spænding i hjembyen Helsingør</title>
-      <description>&quot;Danmarks hemmelige krimikonge&quot;. Sådan er Lars Kjædegaard blevet kaldt af danske medier, og det er der en god grund til. For Lars Kjædegaard har skrevet over 50 kriminalromaner, og mange af disse foregår i hjembyen Helsingør, en by han kender bedre end sin egen baglomme.
+   <guid isPermaLink="false">631a6829-3c57-435c-b962-7cf17a015e8d</guid>
+   <pubDate>Wed, 01 Oct 2025 01:00:05 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/085f276b-f15c-4295-9c84-789a688c0a3e.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:59:15</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png"/>
+  </item>
+  <item>
+   <title>Danmarks hemmelige krimikonge Lars Kjædegaard om mord og spænding i hjembyen Helsingør</title>
+   <description>&quot;Danmarks hemmelige krimikonge&quot;. Sådan er Lars Kjædegaard blevet kaldt af danske medier, og det er der en god grund til. For Lars Kjædegaard har skrevet over 50 kriminalromaner, og mange af disse foregår i hjembyen Helsingør, en by han kender bedre end sin egen baglomme.
 I dette afsnit af 'Krimibureauet' fortæller han til værterne Lone Theils og Stefan Ahnhem om at skrive krimier ind i den by han kender så godt.
 
 Værter: Lone Theils og Stefan Ahnhem
@@ -50,40 +36,43 @@ Klipper: Caroline Juul Mørck
 Redaktør: Andreas Lindinger Saxild
 
 Husk at du kan skrive til Krimibureauet på krimibureauet@sagaegmont.com</description>
-      <guid isPermaLink="false">45465959-73f5-4daf-98ee-f40ff28fd8e1</guid>
-      <pubDate>Wed, 24 Sep 2025 01:10:07 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/6b48606b-6db0-4441-894f-350250b0d49a.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:55:32</itunes:duration>
-    </item>
-    <item>
-      <title>Årets krimidebutant Mikkel Blaabjerg om afslag, modstand og det store gennembrud</title>
-      <description>Hvordan er det at debutere med en bog? For Mikkel Blaabjerg var det behæftet med en del modstand og afslag før han endelig landede sin debut med bogen 'Den 6. magt', der modtog debutantprisen, der uddeles af Det danske kriminalakademi. For værterne Lone Theils og Stefan Ahnhem var historien en anden, omend vejen mod debuten også var behæftet med afstikkere hen mod den første bog. Bliv klogere på hvordan man finder sin stemme, når man slet ikke ved hvilken retning man går i.
+   <guid isPermaLink="false">45465959-73f5-4daf-98ee-f40ff28fd8e1</guid>
+   <pubDate>Wed, 24 Sep 2025 01:10:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/6b48606b-6db0-4441-894f-350250b0d49a.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:55:32</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png"/>
+  </item>
+  <item>
+   <title>Forbrydelsens fader Søren Sveistrup gæster bureauet - En samtale om filmatiseringer, succes og stress</title>
+   <description>I 2007 lagde Søren Sveistrup de danske gader øde søndag aften, da hans tv-serie 'Forbrydelsen' blev sendt på Danmarks Radio. Serien var banebrydende for tv-krimien, og lagde fundamentet for den form vi kender fra utallige krimiserier i dag. Søren Sveistrup gæster i dette afsnit 'Krimibureauet' for at tale om at gå fra at skrive tv-dramaer til at skrive bøger, og hvad det har givet ham af læring undervejs.
+Værterne Stefan Ahnhem og Lone Theils taler om at blive filmatiseret, og hvordan det er at se sine karakterer og sin historie blive vækket til live i et helt andet format end det oprindeligt var tiltænkt.
 
 Værter: Lone Theils og Stefan Ahnhem
-Gæst: Mikkel Blaabjerg
+Gæst: Søren Sveistrup
 Klipper: Caroline Juul Mørck
 Redaktør: Andreas Lindinger Saxild
 
 Husk at du kan skrive til Krimibureauet på krimibureauet@sagaegmont.com</description>
-      <guid isPermaLink="false">631a6829-3c57-435c-b962-7cf17a015e8d</guid>
-      <pubDate>Wed, 01 Oct 2025 01:00:05 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/085f276b-f15c-4295-9c84-789a688c0a3e.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:59:15</itunes:duration>
-    </item>
-    <item>
-      <title>Alt på spil - Katrine Engberg om at bruge sig selv i krimien</title>
-      <description>&quot;Hvor meget af dig selv er der i bogen&quot;? Det er et af de spørgsmål som krimiforfatteren rigtig ofte får fra nysgerrige læsere og journalister. Men hvor meget kan man egentlig bruge af sige selv i sine historier uden at komme for tæt på? I dette afsnit af 'Krimibureauet' får værterne Lone Theils og Stefan Ahnhem besøg af krimiforfatter Katrine Engberg, der netop har trukket rigtig meget på sin egen slægtshistorie i sine bøger. Men er der en grænse, og i så fald hvor går den? Lyt med til en samtale der tager sit udspring i forfatterens brug af sig selv i sine historier, men som tager dig vidt omkring ind i krimigenren.
+   <guid isPermaLink="false">fc5929b5-d31c-4fb4-a2c2-0fa1ab301a27</guid>
+   <pubDate>Wed, 17 Sep 2025 01:10:02 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/292c3d85-395c-4068-b938-7594a6b0a2f2.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:58:10</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png"/>
+  </item>
+  <item>
+   <title>Velkommen til bureauet - din nye krimipodcast med Lone Theils og Stefan Ahnhem</title>
+   <description>Hvordan beslutter man sig for at man vil være krimiforfatter? Hvordan laver man et medrivende plot? Den gode helt? Den modbydelige skurk? Vi åbner for podcasten 'Krimibureauet' med dette første afsnit, hvor værterne Lone Theils og Stefan Ahnhem taler om hvordan de blev bidt af krimifeberen, hvad der inspirerer dem til at skrive, og hvordan de selv kom igang med deres krimiuniverser. Der er også plads til lidt kærlig konkurrence mellem de to forfattere, der quizzer hinanden i hvor godt de kender deres egen tekst.
 
 Værter: Lone Theils og Stefan Ahnhem
-Gæst: Katrine Engberg
 Klipper: Caroline Juul Mørck
 Redaktør: Andreas Lindinger Saxild
 
-Husk at du kan skrive til Lone og Stefan på krimibureauet@sagaegmont.com</description>
-      <guid isPermaLink="false">0ea942fa-1dda-4db0-86be-470e956fa6ba</guid>
-      <pubDate>Wed, 08 Oct 2025 01:20:03 +0000</pubDate>
-      <enclosure url="https://cdn.podimo.com/audios/085beb9f-9c3c-440f-b588-8325d6029fcf.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:51:55</itunes:duration>
-    </item>
-  </channel>
+Husk at du kan skrive til Krimibureauet på krimibureauet@sagaegmont.com</description>
+   <guid isPermaLink="false">4cc379a6-e5f2-4b5b-82c2-3ab0cfc2474c</guid>
+   <pubDate>Wed, 10 Sep 2025 01:20:07 +0000</pubDate>
+   <enclosure url="https://cdn.podimo.com/audios/47bae703-2876-4310-af58-29d9f20f6aa5.mp3" length="0" type="audio/mpeg"/>
+   <itunes:duration>00:45:14</itunes:duration>
+   <itunes:image href="https://cdn.podimo.com/images/944dd675-a9a2-444f-b006-6fb35e88c94c_400x400.png"/>
+  </item>
+ </channel>
 </rss>
