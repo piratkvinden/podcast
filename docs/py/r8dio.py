@@ -47,7 +47,6 @@ def fetch_podcast_data():
             slug = entry.get('slug', 'N/A')
             episodes_url = f"{BASE_URL}/{slug}/episodes"
             program_url = f"https://r8dio.dk/program/{slug}"
-            print(f"Fetching episodes for podcast {entry['title']} (slug: {slug})")
             episodes_response = requests.get(episodes_url)
             
             if episodes_response.status_code == 200:
@@ -61,7 +60,6 @@ def fetch_podcast_data():
                     'program_url': program_url,
                     'episodes': episodes
                 })
-                print(f"Episoder blev tilføjet succesfuldt til podcast: {entry['title']}")
             else:
                 print(f"Kunne ikke hente episoder for podcast '{entry['title']}'. Statuskode: {episodes_response.status_code}")
         except Exception as e:
@@ -95,6 +93,9 @@ def generate_rss(podcast_data):
     for episode in podcast_data.get('episodes', []):
         episode_guid = str(episode['id'])
         if episode_guid in existing_guids:
+            continue
+        if not episode.get('premiumAudio'):
+            print(f"Skipping episode '{episode.get('title', 'unknown')}' in podcast '{podcast_data['title']}' due to missing or invalid premiumAudio")
             continue
         item = ET.SubElement(channel, "item")
         episode_title = ET.SubElement(item, "title")
