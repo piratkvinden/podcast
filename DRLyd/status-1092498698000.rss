@@ -6,6 +6,15 @@
   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7ef898e43b46d2840619f?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Lørdag 11. okt. 2025</title>
+   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
+Vært: Jonas Hansen.</description>
+   <itunes:duration>02:57:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 14:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-11-okt-2025-16452525416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68551776de5d5eb0ff636e3c/686da1e8450b72f857b1763f691c7acdba0f52d1b8fe7fbc2f5d6293e2edd37e" length="254881995" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Søndag 5. okt. 2025</title>
    <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
@@ -283,15 +292,6 @@ Vært: Jonas Hansen.</description>
    <pubDate>Sun, 11 May 2025 14:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-11-maj-2025-16452525197</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68129f072d2b2fe91b80aff7/e364eb633fbf23c5e1a55dd03b350e59bd2c480fb7192de342ff2a5e39deabdf" length="254881995" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Lørdag 10. maj. 2025</title>
-   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
-Vært: Jonas Hansen.</description>
-   <itunes:duration>02:57:00</itunes:duration>
-   <pubDate>Sat, 10 May 2025 14:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-10-maj-2025-16452525196</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68114ce8200e68c83397e381/bbd9a0f6ce75fbbe8e95fe3b2173d5823dedf351749534086109c0e2e6d003c3" length="254881995" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
