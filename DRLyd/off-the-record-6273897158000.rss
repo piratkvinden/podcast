@@ -9,6 +9,17 @@ Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne
 Alt det, der gør det fedt at være musikfan!</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68342ccab55477aa47215e52?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Lørdag 11. okt. 2025</title>
+   <description>Her dyrker vi alt det, der gør musik til mere end bare dét, der kommer ud af højtalerne.
+Robert Haugsted dykker ned i tidens mest spændende musikhistorier - og vi er ikke bange for at stikke hovedet for dybt.
+Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne og i afkrogene af musikverdenen.
+Alt det, der gør det fedt at være musikfan!</description>
+   <itunes:duration>01:45:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 12:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/loerdag-11-okt-2025-16452521416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68d13663d97801dbf0924a6c/1020193939f73178e0c4fc2a5e48522a9ee40181c2c9b8a68cf7fd68f2c6f6fc" length="151202167" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Søndag 5. okt. 2025</title>
    <description>Her dyrker vi alt det, der gør musik til mere end bare dét, der kommer ud af højtalerne.
 Robert Haugsted dykker ned i tidens mest spændende musikhistorier - og vi er ikke bange for at stikke hovedet for dybt.
@@ -298,16 +309,6 @@ P6 følger lige i hælene på et dansk band, som vi synes, du skal have en forlo
    <pubDate>Sat, 10 May 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/nogle-gange-skal-det-bare-vaere-sjovt-16452521196</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f4ecbb867a0ea6fedcd668/635c563e2ec666aa124f5c0fe53a9d04082e57e2ba0768d3798d03e12397169b" length="151201615" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Tag godt imod... MEGA-festival!</title>
-   <description>Vi skal teste en idé den her søndag. Kan vi bytte alle danske festivaler ud med én, stor, samlet 3-ugers festival?
-Og hvor meget rockstjerne skal man være, før man må være en nar?
-Det er de store spørgsmål, der vendes i søndagens program, som også byder på fødselsdag og comeback.</description>
-   <itunes:duration>01:45:00</itunes:duration>
-   <pubDate>Sun, 27 Apr 2025 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/tag-godt-imod-mega-festival-16452521177</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67f4ecbb867a0ea6fedcd649/dd27bd2265022b313e6293a8f92561ac332f2377d625c4bcea23bc6288e78a47" length="151201606" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
