@@ -6,6 +6,54 @@
   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c92752248c98a43900f0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7975f16b698305ffc93/cae5b33e5de454b03660229384aafa487c79ec6705f423a6839a7522e98963a9" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6b4c1384bae2f2a2ca6/e9eb836630352888f662d1a7e09f82b759a550a0092b892fbc1c75e6beb48881" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6645f16b698305fed9e/0542b003abb459b438b5b161c27134a47bc0019fda5aa0a1c06c6a64797eef20" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5e0dc1fbc0f1f77a1e3/8b60b6c1e7dc67c6507958717e7b56cfd01080c5618b468627d7bd7979b94b36" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b571b55477aa472bfd65/2a675e96455cf5a5245baac034dc0c61001aeeb45976d0c5f1ecf4d921c37e68" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 11 Oct 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512416</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b342b55477aa472bec72/5b7298532c85a1482e5e2a5a2ac3976ea7134e42942f06bb36654cb12eb539cb" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Seneste nyt kl. 17:30</title>
    <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
    <itunes:duration>00:03:00</itunes:duration>
@@ -84,134 +132,6 @@
    <pubDate>Mon, 06 Oct 2025 06:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510411</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835874edf03c6aa9bc30eba/4d384d2aa4453e04c3f83d0785817be2bc5fcbc64a604c9fb1122b0fe6da7f63" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 17:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-17-30-14702519412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9bcf0501130c3bd0578/7cd7e5aeea4451a4768e0df0c2f3b692047af2c38bca40e453641d282cc6af3f" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-16-30-14702518412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b8feb55477aa472c2906/e23dbe7aac0ed15567f0270632a39363d7029411f94e45c1cb0d55391b28d404" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-15-30-14702517412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b81ad37c69cd6657615c/5882c576eca04fbac8c57f0eae1c7b138a12adb9f8ca8d12884a7f0c660f7b21" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7a8b55477aa472c1c97/fc06bdeaca6ed7934e2494a1644b258aebb754b7af25812e6316d0292f286c9e" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6c5d37c69cd665754cf/76e375008f1351ffe8c9517b2105d10671212d7402e6b06900d09a2ce96af49a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6a0d37c69cd6657531e/8df2028aaf46531c58fabc98ca3bab4582f9b6d99f7098357dd053fc386b021c" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5d1f0501130c3bcd8b5/b38d4f70519f3d4eaa0c0e087eb9cc66530e8298bf8c446e53f8d10372c3bce9" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b51fb55477aa472bf8b7/8dec1e4160ad2005b0a66626abe1bc829b48531dd4419ec136dce79e266042e5" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b3255f16b698305fc934/e0e7bf6ef20000beaa893360f685710a55507c102e670f1181fb90bd2a0da82b" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510412</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683586ade37efcb63bef6bc7/6018b549a1f900deabea0471d942b63da0948f29a57444802e7b42a03f23bd15" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7e6f0501130c3bcf033/a003d24d8f67d354b2762d560bf889824eb44e1cf825c9cf23d1284435125cae" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b703dc1fbc0f1f77b0c9/a08976082a1572be993a3b298fb0ed5218bd80a9f06611dbfc9cbfdbc8aa9ed8" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b645f0501130c3bcdf0b/375423faa640bceb4bbc1985e92d0a4a4f232591251a20f82f0fb17a342e454d" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5d2b55477aa472c0554/ef5bf99c497fc0dd5e324b5b25a149acf2a34044239685c2585e64ffb5110908" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b561b55477aa472bfc3b/1535a74e379bae52d71e2a7758968514a85f11ad3c0ca9a5582448811ea7fc1e" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 12 Oct 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512417</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b302ef271ab62ebc2283/66b2c67e7bbe6408f30c0bbcd58d03e7d62481fd227597f8846b87985dc830d1" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
@@ -473,6 +393,166 @@
    <title>Seneste nyt kl. 17:30</title>
    <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
    <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-17-30-14702519415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9f1f0501130c3bd08b4/cda131492b3d68115aef2d19e33f14b0b730dc33759f4b0c816b9ee8da9d7663" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-16-30-14702518415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b91bb55477aa472c2a95/d8426b82324f99a643dd5cc1e753a996bf7368b4dac36f8d562522be233c534a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-15-30-14702517415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b81a5f16b698306001be/35834eb0029db847bb037a09bca1f7714164e80015297d2062804004044206b3" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b787c1384bae2f2a348e/7ad9d3495526378f6fcf6b9a0bc02916b998932b34e98641d72510116d000c17" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6e1c1384bae2f2a2ea8/1546245beb18d02b27b70cca39e28d4baa3ede2da475eafdafd5add9f2b06bd0" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6645f16b698305fed94/ed47677d1a9ee50d1e400b78417c0d4a4cb83e261d75313d8728b921f6b14109" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b602f0501130c3bcdb12/b1b2c9047e2e9ae1aef9a75441f91360a4c5c83429c11140ec4b9d86a2dab90f" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5205f16b698305fd8a7/ce09cce860159a8cd08cc5cdb8cf7cc88359f222df5b166e60b593a11f17e5de" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b302ef271ab62ebc227a/50bb05da9a66879c89fead906eaab5400288fe1f7951d985a43821ee018d5b2a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Fri, 10 Oct 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510415</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835878b5f16b698305e6e53/e7ef228320a909cc4f0ef1d0236f2f6e6c6700b5393886edb6c4b6e172d8d676" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-17-30-14702519412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9bcf0501130c3bd0578/7cd7e5aeea4451a4768e0df0c2f3b692047af2c38bca40e453641d282cc6af3f" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-16-30-14702518412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b8feb55477aa472c2906/e23dbe7aac0ed15567f0270632a39363d7029411f94e45c1cb0d55391b28d404" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-15-30-14702517412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b81ad37c69cd6657615c/5882c576eca04fbac8c57f0eae1c7b138a12adb9f8ca8d12884a7f0c660f7b21" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7a8b55477aa472c1c97/fc06bdeaca6ed7934e2494a1644b258aebb754b7af25812e6316d0292f286c9e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6c5d37c69cd665754cf/76e375008f1351ffe8c9517b2105d10671212d7402e6b06900d09a2ce96af49a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6a0d37c69cd6657531e/8df2028aaf46531c58fabc98ca3bab4582f9b6d99f7098357dd053fc386b021c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5d1f0501130c3bcd8b5/b38d4f70519f3d4eaa0c0e087eb9cc66530e8298bf8c446e53f8d10372c3bce9" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b51fb55477aa472bf8b7/8dec1e4160ad2005b0a66626abe1bc829b48531dd4419ec136dce79e266042e5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b3255f16b698305fc934/e0e7bf6ef20000beaa893360f685710a55507c102e670f1181fb90bd2a0da82b" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 07 Oct 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510412</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683586ade37efcb63bef6bc7/6018b549a1f900deabea0471d942b63da0948f29a57444802e7b42a03f23bd15" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:03:00</itunes:duration>
    <pubDate>Thu, 09 Oct 2025 17:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-17-30-14702519414</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9e1dc1fbc0f1f77d15a/d7ca3db3a629c7fbc29d2b39efab5fedc31b791f7115ffbfffc4877c3d4803de" length="0" type="audio/x-m4a"/>
@@ -548,6 +628,54 @@
    <pubDate>Thu, 09 Oct 2025 06:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510414</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835874ef65287d865e52e13/c6c4994e6afe08f88180090160dc1d374391c259b3a9c5688a89969f801428ab" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7e6f0501130c3bcf033/a003d24d8f67d354b2762d560bf889824eb44e1cf825c9cf23d1284435125cae" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b703dc1fbc0f1f77b0c9/a08976082a1572be993a3b298fb0ed5218bd80a9f06611dbfc9cbfdbc8aa9ed8" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b645f0501130c3bcdf0b/375423faa640bceb4bbc1985e92d0a4a4f232591251a20f82f0fb17a342e454d" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5d2b55477aa472c0554/ef5bf99c497fc0dd5e324b5b25a149acf2a34044239685c2585e64ffb5110908" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b561b55477aa472bfc3b/1535a74e379bae52d71e2a7758968514a85f11ad3c0ca9a5582448811ea7fc1e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 12 Oct 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512417</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b302ef271ab62ebc2283/66b2c67e7bbe6408f30c0bbcd58d03e7d62481fd227597f8846b87985dc830d1" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 17:30</title>
@@ -628,134 +756,6 @@
    <pubDate>Wed, 08 Oct 2025 06:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510413</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683586aeb544adf892857384/5f30ea6ee4257e7812ea4512fbe1202d987cbe4062cb9ab621be15c6a743a999" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b7975f16b698305ffc93/cae5b33e5de454b03660229384aafa487c79ec6705f423a6839a7522e98963a9" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6b4c1384bae2f2a2ca6/e9eb836630352888f662d1a7e09f82b759a550a0092b892fbc1c75e6beb48881" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6645f16b698305fed9e/0542b003abb459b438b5b161c27134a47bc0019fda5aa0a1c06c6a64797eef20" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5e0dc1fbc0f1f77a1e3/8b60b6c1e7dc67c6507958717e7b56cfd01080c5618b468627d7bd7979b94b36" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b571b55477aa472bfd65/2a675e96455cf5a5245baac034dc0c61001aeeb45976d0c5f1ecf4d921c37e68" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 11 Oct 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512416</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b342b55477aa472bec72/5b7298532c85a1482e5e2a5a2ac3976ea7134e42942f06bb36654cb12eb539cb" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 17:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-17-30-14702519415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9f1f0501130c3bd08b4/cda131492b3d68115aef2d19e33f14b0b730dc33759f4b0c816b9ee8da9d7663" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-16-30-14702518415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b91bb55477aa472c2a95/d8426b82324f99a643dd5cc1e753a996bf7368b4dac36f8d562522be233c534a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-15-30-14702517415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b81a5f16b698306001be/35834eb0029db847bb037a09bca1f7714164e80015297d2062804004044206b3" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-12-30-14702516415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b787c1384bae2f2a348e/7ad9d3495526378f6fcf6b9a0bc02916b998932b34e98641d72510116d000c17" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-11-30-14702515415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6e1c1384bae2f2a2ea8/1546245beb18d02b27b70cca39e28d4baa3ede2da475eafdafd5add9f2b06bd0" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-10-30-14702514415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b6645f16b698305fed94/ed47677d1a9ee50d1e400b78417c0d4a4cb83e261d75313d8728b921f6b14109" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-09-30-14702513415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b602f0501130c3bcdb12/b1b2c9047e2e9ae1aef9a75441f91360a4c5c83429c11140ec4b9d86a2dab90f" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-08-30-14702511415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5205f16b698305fd8a7/ce09cce860159a8cd08cc5cdb8cf7cc88359f222df5b166e60b593a11f17e5de" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-07-30-14702512415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b302ef271ab62ebc227a/50bb05da9a66879c89fead906eaab5400288fe1f7951d985a43821ee018d5b2a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Sjælland.</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 10 Oct 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-sjaelland-regionale-nyheder/p4-sjaelland-regionale-nyheder/seneste-nyt-kl-06-30-14702510415</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835878b5f16b698305e6e53/e7ef228320a909cc4f0ef1d0236f2f6e6c6700b5393886edb6c4b6e172d8d676" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
