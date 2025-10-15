@@ -8,6 +8,16 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4415a52248c98a43c535d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Onsdag 15. oktober 2025</title>
+   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+   <itunes:duration>00:12:00</itunes:duration>
+   <pubDate>Wed, 15 Oct 2025 19:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/onsdag-15-oktober-2025-15452533423</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c3c578930036054c1fb2d/9b62c96e296fc3645ff42fa32e34b1a955e2bc8afc0d9dad2fd1b7024826a686" length="17281494" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 11. oktober 2025</title>
    <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
 Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
@@ -316,16 +326,6 @@ Vært: Ivan Gregersen.</description>
    <pubDate>Sat, 17 May 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/loerdag-17-maj-2025-15452532206</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6819e3a4005cc6aa547aff9a/270de4d64d802384bc4ed340e722cb008161af5301c977610d6e423bf31b4897" length="151201496" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Onsdag 14. maj. 2025</title>
-   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-   <itunes:duration>00:12:00</itunes:duration>
-   <pubDate>Wed, 14 May 2025 19:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/onsdag-14-maj-2025-15452533203</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681694138e3a344c916e61f3/ad842b3232d633c55b91c251a70451c8cd6a0d667a366eb9bd94a5829973ba28" length="17281494" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
