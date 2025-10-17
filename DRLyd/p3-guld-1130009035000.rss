@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>P3 Guld</title>
+  <link>https://www.dr.dk/lyd/p3/p3-guld-1130009035000</link>
+  <description>P3 hylder dansk musik med sit helt eget awardshow.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68bff4ee1e226ed5abe9c677?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <item>
+   <title>P3 Guld Forfesten med Julie Rahbek</title>
+   <description>Julie Rahbek varmer op med de største, bedste og vigtigste musikøjeblikke fra P3 Gulds historie. Der er garanteret masser af hits og perfekt fredagsstemning.</description>
+   <itunes:duration>02:57:00</itunes:duration>
+   <pubDate>Fri, 17 Oct 2025 16:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/p3-guld/p3-guld/p3-guld-forfesten-med-julie-rahbek-13332599711</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68bff4f81e226ed5abe9c6e1/fe3958823bc32f9ca15045587f1611a1efb76367c5af1db08420a51009adf0ca" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
+</rss>
