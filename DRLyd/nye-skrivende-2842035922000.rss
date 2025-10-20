@@ -6,15 +6,6 @@
   <description>I serien 'Nye skrivende' kan du møde en række danske forfattertalenter. De fortæller, hvordan tidens strømninger og deres generations samfundsudfordringer har fundet vej ind i deres romaner. Serien præsenterer nogle af de nye stemmer i litteraturen og er et supplement til mødet med de etablerede danske forfattere i serien DR Romanprisen.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e2c2b91e0398987b2b016d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
-   <title>Ingrid Nymo</title>
-   <description>Ligesom flere andre debutanter for tiden interesserer Ingrid Nymo sig for sorg og den afbrudte relation til den afdøde mor eller far. I Ingrid Nymos tilfælde var det hendes fars død, der satte gang i trangen til at skrive en længere sammenhængende fortælling. Diana Bach er fulgt med Ingrid Nymo til barndommens landskab i Thy, som også danner ramme for en del af hendes debutroman Kloster.
-Vært: Diana Bach.</description>
-   <itunes:duration>00:25:33</itunes:duration>
-   <pubDate>Fri, 11 Nov 2022 12:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/nye-skrivende/2022/ingrid-nymo-11032209001</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636ae350db2ca083f5cc1f7d/bb9f5f0dd72b5aca42b58ed270ffc8fc21bd224e8872d849ac51c5d6af0a9266" length="36804187" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Fine Gråbøl</title>
    <description>Fine Gråbøl har skrevet sin første roman Ungeenheden, om en flok unge der lever sammen på et midlertidigt psykiatrisk bosted. Her øver de sig i almindelige hverdagsting som at snitte løg, købe ind og holde en døgnrytme. Imens personalet passer på, at de unge ikke tager deres eget liv. 
 Fine Gråbøl ønsker at gøre op med psykiatrilitteratur, der dyrker klicheen om vanviddets mørke. Hun vil hellere vise, hvordan det føles, når katastroferne er en del af hverdagen og dårlige arbejdsforhold for pædagogerne gør det svært for de skrøbelige unge.
@@ -69,6 +60,15 @@ Redaktør: Jesper Langballe.</description>
    <pubDate>Sat, 06 Nov 2021 14:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p1/nye-skrivende/2021/luca-engberg-talamona-11532170005</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:61787e223f3eb0ce46326db3/1e417a2820b84fa232ad88be031138c552e7b2b20c607c69b44a2293602fbafb" length="39756717" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Ingrid Nymo</title>
+   <description>Ligesom flere andre debutanter for tiden interesserer Ingrid Nymo sig for sorg og den afbrudte relation til den afdøde mor eller far. I Ingrid Nymos tilfælde var det hendes fars død, der satte gang i trangen til at skrive en længere sammenhængende fortælling. Diana Bach er fulgt med Ingrid Nymo til barndommens landskab i Thy, som også danner ramme for en del af hendes debutroman Kloster.
+Vært: Diana Bach.</description>
+   <itunes:duration>00:25:33</itunes:duration>
+   <pubDate>Fri, 11 Nov 2022 12:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/nye-skrivende/2022/ingrid-nymo-11032209001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:636ae350db2ca083f5cc1f7d/bb9f5f0dd72b5aca42b58ed270ffc8fc21bd224e8872d849ac51c5d6af0a9266" length="36804187" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
