@@ -82,14 +82,6 @@ Vært:  Vincent F. Hendricks.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2683e330eac2f135b9202/13a90622727dedafa2ced226a0f432b4099e8affc66065dace44b1ccb6c776fc" length="43200621" type="audio/mpeg"/>
   </item>
   <item>
-   <title>Lørdag 24. Nov. 2018</title>
-   <description>Rosenkjærprisen 2018 offentliggøres og overrækkes i Koncerthusets Studie 3 for et inviteret publikum og sendes live. Rosenkjærprisen er P1's formidlingspris og gives til en person, der har formået at gøre sit stofområde særligt tilgængeligt for mange. På scenen er radioværterne Alberte Clement Meldal og Adam Holm klar til at interviewe vinderen og øvrige medvirkende.</description>
-   <itunes:duration>00:57:00</itunes:duration>
-   <pubDate>Sat, 24 Nov 2018 13:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/rosenkjaerprisen/rosenkjaerprisen/loerdag-24-nov-2018-11031822476</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2684a330eac2f135b924a/3aa526479bea438a902a8092415417dfbdc3c30510d0ff6269a46dfd9adb8569" length="82082349" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Et andet blik på magt og demokrati 1:5</title>
    <description>Fem foredrag af professor emerita, dr.phil., Birgitte Possing, der modtog DR's Rosenkjærpris i 2020.
 Første foredrag: 'En detektivisk trang til at lægge et andet blik på vores historie'.
@@ -240,6 +232,14 @@ Tilrettelægger: Anne Kjær.</description>
    <pubDate>Tue, 13 Sep 2016 13:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p1/rosenkjaerprisen/rosenkjaerprisen-2016/det-meningsfulde-liv-med-svend-brinkmann-6-6-11521609422</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa26848330eac2f135b9240/87291e15c7bc2e26f2c66a6762d91e2c8315e1bb8a37bff20592a9bdf5635b8f" length="42698187" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 24. Nov. 2018</title>
+   <description>Rosenkjærprisen 2018 offentliggøres og overrækkes i Koncerthusets Studie 3 for et inviteret publikum og sendes live. Rosenkjærprisen er P1's formidlingspris og gives til en person, der har formået at gøre sit stofområde særligt tilgængeligt for mange. På scenen er radioværterne Alberte Clement Meldal og Adam Holm klar til at interviewe vinderen og øvrige medvirkende.</description>
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Sat, 24 Nov 2018 13:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/rosenkjaerprisen/rosenkjaerprisen/loerdag-24-nov-2018-11031822476</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:5fa2684a330eac2f135b924a/3aa526479bea438a902a8092415417dfbdc3c30510d0ff6269a46dfd9adb8569" length="82082349" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
