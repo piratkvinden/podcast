@@ -1,7 +1,7 @@
 name: DR Lyd
 on:
   schedule:
-    - cron: '*/120 * * * *'  
+    - cron: '*/240 * * * *'  
   push:  
     branches: [main]
   workflow_dispatch: 
