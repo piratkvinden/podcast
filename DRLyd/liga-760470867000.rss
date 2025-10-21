@@ -6,6 +6,14 @@
   <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb6?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Tirsdag 21. oktober 2025</title>
+   <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+   <itunes:duration>04:55:00</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 18:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/tirsdag-21-oktober-2025-13652502432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cbff994e0efd14f5096d9c/74e02ffae0701c67bc802e25c32b6fadc77db365baf2a2bd57273e7ba242f725" length="424801400" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Mandag 20. oktober 2025</title>
    <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
    <itunes:duration>03:59:29</itunes:duration>
@@ -124,14 +132,6 @@
    <pubDate>Wed, 24 Sep 2025 18:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/onsdag-24-sep-2025-13652502393</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b948ee3d1da25c23423bd3/3e6f07b54e52eaa53c8c12b3ec8a0a3fb5b5fdc13fcc88f13ce59966637cb0b3" length="341508920" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Mandag 22. sep. 2025</title>
-   <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-   <itunes:duration>04:00:03</itunes:duration>
-   <pubDate>Mon, 22 Sep 2025 18:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/mandag-22-sep-2025-13652502391</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689b2062985ac6b7e09599d2/3acca9d252c7fca99017c6eab5f48477578e028b806a3bbbe17c97cecf75436f" length="345685496" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
