@@ -6,198 +6,52 @@
   <description>De seneste nyheder - døgnet rundt.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d02da937a46b974f8ee0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
-   <title>Seneste nyt kl. 23:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 23:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/seneste-nyt-kl-23-00-14842523432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c8f0301a80356e6ffb7a/0b8a01ad55af266e3bea15217e65bd95475024a7af94c4cf5465c78f1a519597" length="4465944" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 22:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 22:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/seneste-nyt-kl-22-00-14842522432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c811301a80356e6ff37a/a72691e48297856ce97bd99f9c0c90b7ee92606996a90de932a4d7da963296e3" length="4419864" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 21:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:03</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 21:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/seneste-nyt-kl-21-00-14842521432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c6e0301a80356e6fe85e/5dbb2ee7a8dfbe71a41e31c30bc3e99fe724f53e668cebfb207f7320b22d077b" length="4417560" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 20:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 20:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/seneste-nyt-kl-20-00-14842520432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b64d301a80356e6f52a0/dc633ca822ef590e7f2addd56be0a60041e0d89e218a7d48016ecb8c442ae0b6" length="4440600" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 19:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 19:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/seneste-nyt-kl-19-00-14842519432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b589de2818e2a03ba092/fec8e629fa381b5820f45736bd7a2d49c011ef0725af3430fe1d54a04fc2648d" length="4440600" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 18:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/seneste-nyt-kl-18-00-14842518432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b334de2818e2a03b8b7d/e510a6f6418a38c327d618fe00b82fb4ea1a3eb752b4bdc73586d87c0e675a21" length="7314840" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 17:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 17:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/seneste-nyt-kl-17-00-14842517432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6894871f301a80356e64bace/0959333e4de85e877ba2dd8787346583af66840934026b2bcdeb744b16a03d8a" length="7318872" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 16:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/seneste-nyt-kl-16-00-14842516432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68948657301a80356e64b258/a252aafe19ee0f18e22a63b1bf4772f449c0e3efbfafa63861b67fd72499118e" length="7304472" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/seneste-nyt-kl-15-00-14842515432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68948486de2818e2a03168fb/b9a39db108887179641bb98653ebd99bf063707525c403df4813aac505b69396" length="4430808" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 14:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:03</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f13deab10e7b0b689e6f4/9d69c36992c97825c18cff6edf398e25f2c9205d75070c501e43a0cf6ceface7" length="4410648" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 13:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f1350ab10e7b0b689e14a/3a7d75fae0eff2bf4e14c434ca8b816a318f3c091827104b886971b6f9666f18" length="4423320" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Kl. 12:00: Undersøgelser under lup</title>
-   <description>Dagens vigtigste nyheder på 15 minutter.
-
-Vært: Morten Schnell Lauritzen.</description>
-   <itunes:duration>00:15:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 12:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-undersoegelser-under-lup-14842512432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f11fc2e199a1c531280bd/b320d12ac615a4283f9c833692c99ec29f4c84aa04c4108561f29857b115ef01" length="21717203" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 11:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2ebb1d7c48062c83e4e0/256f38baf06f86cf4a9133c43d7a581984d9d9781008b72cb023336849843bea" length="4443480" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 10:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/seneste-nyt-kl-10-00-14842510432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2845226d7452fb4d88d1/3e85917c5b5f34c03149a4c13aa6a9ec13b120b2c0db3a0d057f387f4674383d" length="4450392" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 09:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/seneste-nyt-kl-09-00-14842509432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2496226d7452fb4d6637/36f6c7a9ece3ca1f0134e9caa33c582d0ccaa7fc31f7b76c4112cf7c19429b6e" length="7320600" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 08:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a1b9b226d7452fb4d1366/d44c6dfaf9fbf8c2203853e7810dce512738b7647b3fa9c40271d8e4afa07028" length="7309656" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:06</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 07:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/seneste-nyt-kl-07-00-14842507432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a1a0a1d0c5769bdc04479/f968d00a01ef16b85cce4807020af1194d7a407b914f662058d60bd469284353" length="7349976" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:05:04</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 06:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/seneste-nyt-kl-06-00-14842506432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888be278e2f9b74435603ae/e3448689b669447d3c48c8d5a49b312eb97f5a28b73b5fafc5da40e62fbfb2a1" length="7304472" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 05:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
    <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 05:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/seneste-nyt-kl-05-00-14842505432</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888bd2b6e5a2991ecaa0fbf/845d03cf3344f983ab94af9b4db6b2b8fe4a9c2b98f3ef218743875ed6f56773" length="4471128" type="audio/mpeg"/>
+   <pubDate>Sat, 25 Oct 2025 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/seneste-nyt-kl-05-00-14842505436</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888bd006e5a2991ecaa0dea/530986f4382b2e10585411207f214456f34ba45a25657261f20117688f43c00f" length="4476888" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 04:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 04:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/seneste-nyt-kl-04-00-14842504431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e5961d7c48062c78b927/241528e297d5a0f639899048dd12ad48b466a57df1ce79df015908d38dd64ebe" length="4459608" type="audio/mpeg"/>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Sat, 25 Oct 2025 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/seneste-nyt-kl-04-00-14842504435</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e5971d7c48062c78b95e/c404addb3756933f29a8c258c5a9078e6c67a6f75a20e05124fae18fe028e674" length="4476312" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 03:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 03:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e4071d7c48062c78a98e/c030c62ddc03ad1f2cb9321d191fe741529027277a445e1ac8674e5800017777" length="4463640" type="audio/mpeg"/>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sat, 25 Oct 2025 03:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503435</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e4391d7c48062c78ac9d/ee8bc5301fb88d4aa74fe0e0440bfadbc230f99fefbf26fa4e6338c4a8f98ae9" length="4491864" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 02:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 02:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888dc3965218c0f2feff35d/a57ef03dc7635f4eef475211162978d98db9a40eb9649c780717ea9875cda5ca" length="4462488" type="audio/mpeg"/>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Sat, 25 Oct 2025 02:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502435</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888dc3e65218c0f2feff3b6/2c68d8793b25c94560b3d950547b0b3e0b93d9866d1fbf26eb24d1d6bc238dc3" length="4474584" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 01:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
    <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 01:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888cffb1d7c48062c77f702/7b23f60b556de5ddf7f2148701de4b4990615c2612372d133beb8af6add2f255" length="4469976" type="audio/mpeg"/>
+   <pubDate>Sat, 25 Oct 2025 01:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501435</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888cfed1d7c48062c77f64c/522fbd1d12d7caaf66a65310a6f6f0c9d257c38c2c3a57ddac481d78b6a742b6" length="4478616" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 00:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:05</itunes:duration>
-   <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d645de2818e2a03cc9d8/0ee125151ebdc910b48e9c53efcec6c93d37d7b921af43eeea40993775cbcf78" length="4464216" type="audio/mpeg"/>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524435</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d630301a80356e707749/a879ec5c0e55556c4f8ed0da9d81f5daabe9c2e12089949762532536a7822c26" length="4478616" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 23:00</title>
@@ -591,6 +445,200 @@ Vært: Erling Thisted.</description>
    <title>Seneste nyt kl. 23:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
    <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 23:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/seneste-nyt-kl-23-00-14842523432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c8f0301a80356e6ffb7a/0b8a01ad55af266e3bea15217e65bd95475024a7af94c4cf5465c78f1a519597" length="4465944" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 22:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 22:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202521/seneste-nyt-kl-22-00-14842522432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c811301a80356e6ff37a/a72691e48297856ce97bd99f9c0c90b7ee92606996a90de932a4d7da963296e3" length="4419864" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 21:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:03</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 21:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202520/seneste-nyt-kl-21-00-14842521432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c6e0301a80356e6fe85e/5dbb2ee7a8dfbe71a41e31c30bc3e99fe724f53e668cebfb207f7320b22d077b" length="4417560" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 20:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 20:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202519/seneste-nyt-kl-20-00-14842520432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b64d301a80356e6f52a0/dc633ca822ef590e7f2addd56be0a60041e0d89e218a7d48016ecb8c442ae0b6" length="4440600" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 19:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 19:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202518/seneste-nyt-kl-19-00-14842519432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b589de2818e2a03ba092/fec8e629fa381b5820f45736bd7a2d49c011ef0725af3430fe1d54a04fc2648d" length="4440600" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 18:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 18:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202517/seneste-nyt-kl-18-00-14842518432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895b334de2818e2a03b8b7d/e510a6f6418a38c327d618fe00b82fb4ea1a3eb752b4bdc73586d87c0e675a21" length="7314840" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 17:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202516/seneste-nyt-kl-17-00-14842517432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6894871f301a80356e64bace/0959333e4de85e877ba2dd8787346583af66840934026b2bcdeb744b16a03d8a" length="7318872" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 16:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202515/seneste-nyt-kl-16-00-14842516432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68948657301a80356e64b258/a252aafe19ee0f18e22a63b1bf4772f449c0e3efbfafa63861b67fd72499118e" length="7304472" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202514/seneste-nyt-kl-15-00-14842515432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68948486de2818e2a03168fb/b9a39db108887179641bb98653ebd99bf063707525c403df4813aac505b69396" length="4430808" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 14:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:03</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202513/seneste-nyt-kl-14-00-14842514432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f13deab10e7b0b689e6f4/9d69c36992c97825c18cff6edf398e25f2c9205d75070c501e43a0cf6ceface7" length="4410648" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 13:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 13:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202512/seneste-nyt-kl-13-00-14842513432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f1350ab10e7b0b689e14a/3a7d75fae0eff2bf4e14c434ca8b816a318f3c091827104b886971b6f9666f18" length="4423320" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Kl. 12:00: Undersøgelser under lup</title>
+   <description>Dagens vigtigste nyheder på 15 minutter.
+
+Vært: Morten Schnell Lauritzen.</description>
+   <itunes:duration>00:15:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 12:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202511/kl-12-00-undersoegelser-under-lup-14842512432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688f11fc2e199a1c531280bd/b320d12ac615a4283f9c833692c99ec29f4c84aa04c4108561f29857b115ef01" length="21717203" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 11:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202510/seneste-nyt-kl-11-00-14842511432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2ebb1d7c48062c83e4e0/256f38baf06f86cf4a9133c43d7a581984d9d9781008b72cb023336849843bea" length="4443480" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 10:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20259/seneste-nyt-kl-10-00-14842510432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2845226d7452fb4d88d1/3e85917c5b5f34c03149a4c13aa6a9ec13b120b2c0db3a0d057f387f4674383d" length="4450392" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 09:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20258/seneste-nyt-kl-09-00-14842509432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a2496226d7452fb4d6637/36f6c7a9ece3ca1f0134e9caa33c582d0ccaa7fc31f7b76c4112cf7c19429b6e" length="7320600" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 08:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20257/seneste-nyt-kl-08-00-14842508432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a1b9b226d7452fb4d1366/d44c6dfaf9fbf8c2203853e7810dce512738b7647b3fa9c40271d8e4afa07028" length="7309656" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:06</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 07:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20256/seneste-nyt-kl-07-00-14842507432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:688a1a0a1d0c5769bdc04479/f968d00a01ef16b85cce4807020af1194d7a407b914f662058d60bd469284353" length="7349976" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:05:04</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 06:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20255/seneste-nyt-kl-06-00-14842506432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888be278e2f9b74435603ae/e3448689b669447d3c48c8d5a49b312eb97f5a28b73b5fafc5da40e62fbfb2a1" length="7304472" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 05:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20254/seneste-nyt-kl-05-00-14842505432</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888bd2b6e5a2991ecaa0fbf/845d03cf3344f983ab94af9b4db6b2b8fe4a9c2b98f3ef218743875ed6f56773" length="4471128" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 04:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 04:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/seneste-nyt-kl-04-00-14842504431</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e5961d7c48062c78b927/241528e297d5a0f639899048dd12ad48b466a57df1ce79df015908d38dd64ebe" length="4459608" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 03:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 03:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503431</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e4071d7c48062c78a98e/c030c62ddc03ad1f2cb9321d191fe741529027277a445e1ac8674e5800017777" length="4463640" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 02:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 02:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502431</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888dc3965218c0f2feff35d/a57ef03dc7635f4eef475211162978d98db9a40eb9649c780717ea9875cda5ca" length="4462488" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 01:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 01:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501431</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888cffb1d7c48062c77f702/7b23f60b556de5ddf7f2148701de4b4990615c2612372d133beb8af6add2f255" length="4469976" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 00:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:05</itunes:duration>
+   <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524431</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d645de2818e2a03cc9d8/0ee125151ebdc910b48e9c53efcec6c93d37d7b921af43eeea40993775cbcf78" length="4464216" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 23:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:06</itunes:duration>
    <pubDate>Thu, 23 Oct 2025 23:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202522/seneste-nyt-kl-23-00-14842523434</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895c8bd3e2de7c7a33b7a6c/84df9bce17d4324a054b54a9476fe026ce9f1c0cc024668a7541316eab910c15" length="4479768" type="audio/mpeg"/>
@@ -780,46 +828,6 @@ Vært: Niels Christian Lang.</description>
    <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524433</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d61ede2818e2a03cc811/8869ee755a153a656c613240a6df15212a7e2882f3fea00de4b67dd25c0555ac" length="4491864" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 04:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Sat, 25 Oct 2025 04:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20253/seneste-nyt-kl-04-00-14842504435</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e5971d7c48062c78b95e/c404addb3756933f29a8c258c5a9078e6c67a6f75a20e05124fae18fe028e674" length="4476312" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 03:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:07</itunes:duration>
-   <pubDate>Sat, 25 Oct 2025 03:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503435</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e4391d7c48062c78ac9d/ee8bc5301fb88d4aa74fe0e0440bfadbc230f99fefbf26fa4e6338c4a8f98ae9" length="4491864" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 02:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Sat, 25 Oct 2025 02:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502435</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888dc3e65218c0f2feff3b6/2c68d8793b25c94560b3d950547b0b3e0b93d9866d1fbf26eb24d1d6bc238dc3" length="4474584" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 01:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Sat, 25 Oct 2025 01:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501435</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888cfed1d7c48062c77f64c/522fbd1d12d7caaf66a65310a6f6f0c9d257c38c2c3a57ddac481d78b6a742b6" length="4478616" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 00:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:06</itunes:duration>
-   <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524435</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d630301a80356e707749/a879ec5c0e55556c4f8ed0da9d81f5daabe9c2e12089949762532536a7822c26" length="4478616" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
