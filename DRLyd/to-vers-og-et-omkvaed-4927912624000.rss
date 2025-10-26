@@ -9,6 +9,17 @@ Vært: Anne Dorte Michelsen.
 Produceret for DR af Munck Studios København.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7b74c8e43b46d283ef6c4?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Søndag 26. oktober 2025</title>
+   <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
+Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
+Vært: Anne Dorte Michelsen.
+Produceret for DR af Munck Studios København.</description>
+   <itunes:duration>01:50:01</itunes:duration>
+   <pubDate>Sun, 26 Oct 2025 10:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed/soendag-26-oktober-2025-16122554437</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e4f8dbe20a8d56678faa1f/d43a971a9ddc4ce4eaf084150a0572e6dc95f0ec18ce9101fcdf4f6ebf12a525" length="158429828" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 25. oktober 2025</title>
    <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
 Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
@@ -348,17 +359,6 @@ Produceret for DR af Munck Studios København.</description>
    <pubDate>Sat, 31 May 2025 10:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed/loerdag-31-maj-2025-16122554226</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682cfcb6f65c9b85107a18d3/f27fdbb32bca99d36ccb9b0a20df058ba78882c177e03644593ca06ec3d2096d" length="168482180" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Søndag 25. maj. 2025</title>
-   <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
-Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
-Vært: Anne Dorte Michelsen.
-Produceret for DR af Munck Studios København.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Sun, 25 May 2025 10:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed/soendag-25-maj-2025-16122554217</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6825145e245624a1c07ea864/8bb499f5ef2a077487a98f9910c2f12fdfbf4b5331fc57cfdfede86e50b5e600" length="168481604" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
