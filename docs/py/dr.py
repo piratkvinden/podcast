@@ -138,9 +138,9 @@ async def fetch_all_series_data(existing_data):
                 image_url = None
                 image_assets = item.get('imageAssets', [])
                 for asset in image_assets:
-                    if asset.get('target') == 'Default':
+                    if asset.get('target') == 'Default' and asset.get('ratio') == '1:1':
                         urn_id = asset.get('id').split(':')[-1]
-                        image_url = f"https://asset.dr.dk/drlyd/images/urn:dr:radio:image:{urn_id}?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"
+                        image_url = f"https://asset.dr.dk/drlyd/images/urn:dr:radio:image:{urn_id}"
                         break
                 if not image_url and image_assets:
                     fallback_asset = image_assets[0]
