@@ -588,14 +588,6 @@ Vært: Morten Schnell Lauritzen.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d5f1a371c71222b4e2f3/897fcbfc090ecda8ebe63be2a101a014460d2dc07118b82bae6a171b341456fb" length="4464216" type="audio/mpeg"/>
   </item>
   <item>
-   <title>Seneste nyt kl. 00:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:07</itunes:duration>
-   <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524445</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d61e301a80356e707665/7fb9fe07f586271ba255cb9892fa3a3f2afd1041cb76ee3eb06afaeb8bf495bf" length="4491864" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 23:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
    <itunes:duration>00:03:05</itunes:duration>
@@ -788,6 +780,22 @@ Vært: Morten Schnell Lauritzen.</description>
    <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524441</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d5d8301a80356e707357/e3dc7fefcc93d41dac2c75ad7980f86a8b7a336ba78b23a723a1eb24df0192f3" length="4464792" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 01:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sat, 01 Nov 2025 01:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501445</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888cffc226d7452fb41983c/1d648b5fd1699a5ee56fe1f77d42c26d97c5bdf34e16284ad6f3b056b6e35b1f" length="4491864" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 00:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524445</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d61e301a80356e707665/7fb9fe07f586271ba255cb9892fa3a3f2afd1041cb76ee3eb06afaeb8bf495bf" length="4491864" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
