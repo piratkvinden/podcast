@@ -8,6 +8,16 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4415a52248c98a43c535d?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
+   <title>Lørdag 1. november 2025</title>
+   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+   <itunes:duration>01:45:00</itunes:duration>
+   <pubDate>Sat, 01 Nov 2025 12:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/loerdag-1-november-2025-15452532446</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6824a449c52b0cfd2b00a58a/6e192d98c6a0669be6cb9ba3aec0af323be2d16d41dea57457de04318d7f60bb" length="151201494" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Onsdag 29. oktober 2025</title>
    <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
 Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
@@ -316,16 +326,6 @@ Vært: Ole Tøpholm.</description>
    <pubDate>Wed, 04 Jun 2025 19:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/onsdag-4-jun-2025-15452533233</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683243712b555b20090cdb04/187e095bd20202802800394cecd6d26c17c75d0027bd2fb893c970ceba466bc4" length="17281494" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Lørdag 31. maj. 2025</title>
-   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-   <itunes:duration>01:45:00</itunes:duration>
-   <pubDate>Sat, 31 May 2025 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/loerdag-31-maj-2025-15452532226</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682cfcc54674ec5d02cfecde/dd674910529577219cb3fc53a4a8e9dfda0090e3c6ed1942d7b4ea8f02c13cec" length="151201494" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
