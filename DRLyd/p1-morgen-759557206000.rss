@@ -4,7 +4,16 @@
   <title>P1 Morgen</title>
   <link>https://www.dr.dk/lyd/p1/p1-morgen-759557206000</link>
   <description>Perspektiv, debat og et stærkt journalistisk fokus er kernen i P1 Morgen. Her bliver du klædt på fra morgenstunden med nyheder fra indland, udland, erhverv og kultur. Og du får masser af baggrund, analyse og aktuel samfundsdebat med på vejen.</description>
-  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc9052248c98a4403cb0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc9052248c98a4403cb0"/>
+  <item>
+   <title>Søndag 2. november 2025</title>
+   <description>Hvorfor inviterer vi sjældnere gæster hjem til os?  Hvad har reaktionerne i Israel været på udleveringen af de forkerte lig? Hvad skal Hakons nye bog lære os om et meningsfuldt arbejdsliv?   
+Dagens vært: Søren Carlsen.</description>
+   <itunes:duration>01:50:03</itunes:duration>
+   <pubDate>Sun, 02 Nov 2025 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/soendag-2-november-2025-11802533447</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68b89f5d560ec5b3137fe518/7a4cafc81a881b5fb9591b72eecf39399c328f19b59134e12d95f5a2c653d127" length="158479312" type="audio/mpeg"/>
+  </item>
   <item>
    <title>Lørdag 1. november 2025</title>
    <description>Hvorfor er Region Syddanmark vigtig for Venstre? Gør flere bortvisninger folkeskolen bedre? Og hvad handler dagens store demonstration i Serbien om?
@@ -285,15 +294,6 @@ Dagens vært: Søren Carlsen.</description>
    <pubDate>Sat, 04 Oct 2025 08:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/loerdag-4-oktober-2025-11802533406</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7a7711eb9035a4f4cb/93b26b3e62391a9fa6e1d79f2498e076b9e57ee002e465681d45ad981d195529" length="158459172" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Fredag 3. oktober 2025</title>
-   <description>Hvorfor er byggebranchen ikke et sted for 14-15 årige? Hvorfor straffes kokainsmuglere historisk hårdt? Bør den danske regering tage ansvar for nødhjælpsskibe på vej mod Gaza?
-Dagens værter: Niels Frederik Dybdal Rickers og Pernille Øhlenschlæger Rudbæk.</description>
-   <itunes:duration>02:45:01</itunes:duration>
-   <pubDate>Fri, 03 Oct 2025 06:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2025/fredag-3-oktober-2025-11802533405</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:686e9f7aa25b34b9458585cc/a48bb933594688db9577024078a6592fe65869a93bc32505bd1ae22f9b2db1a8" length="237649384" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
