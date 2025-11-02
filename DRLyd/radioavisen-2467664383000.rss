@@ -6,22 +6,6 @@
   <description>De seneste nyheder - døgnet rundt.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3d02da937a46b974f8ee0?im=AspectCrop%3D(336%2C336)%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D(336%2C336)"/>
   <item>
-   <title>Seneste nyt kl. 01:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:07</itunes:duration>
-   <pubDate>Sun, 02 Nov 2025 01:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501446</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888d0201d7c48062c77f8f0/d437b13284bcd576973f5de5bf44ca77f2bb9da39322155ffd5d2e447638d1cf" length="4491864" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 00:00</title>
-   <description>De seneste nyheder - døgnet rundt.</description>
-   <itunes:duration>00:03:07</itunes:duration>
-   <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524446</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d647301a80356e70786b/6e15bec19943b382b9a773d9e03186c0a2498f423ffeddd55f4814c2e1f8e14a" length="4491864" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 23:00</title>
    <description>De seneste nyheder - døgnet rundt.</description>
    <itunes:duration>00:03:05</itunes:duration>
@@ -796,6 +780,38 @@ Vært: Maria Dohn.</description>
    <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524444</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d646301a80356e707860/acec2d20806c0fede6473bdbee8ea1af085d39804ed11754d6a99f288091b906" length="4465944" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 03:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Sun, 02 Nov 2025 03:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20252/seneste-nyt-kl-03-00-14842503446</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888e42b1d7c48062c78abdc/bfe174751008aa868361eb91cf5cf1f349f2384ca6f42f16c07754c7c3e1bd76" length="4469976" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 02:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sun, 02 Nov 2025 02:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20251/seneste-nyt-kl-02-00-14842502446</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888dc3b226d7452fb4204df/cf096ca3c325fc8c68eb945c636917ce0ac643d04487879083ac524846e66bd4" length="4491864" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 01:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sun, 02 Nov 2025 01:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501446</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888d0201d7c48062c77f8f0/d437b13284bcd576973f5de5bf44ca77f2bb9da39322155ffd5d2e447638d1cf" length="4491864" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 00:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:07</itunes:duration>
+   <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524446</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d647301a80356e70786b/6e15bec19943b382b9a773d9e03186c0a2498f423ffeddd55f4814c2e1f8e14a" length="4491864" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
