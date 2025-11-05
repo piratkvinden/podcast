@@ -6,14 +6,6 @@
   <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e46ad8c039d56f04e3b57b"/>
   <item>
-   <title>Gys og skønhed</title>
-   <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Sat, 01 Nov 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/gys-og-skoenhed-12422463444</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/62910614bfce803ee0fbb7e3fc127a04deff6cc053c5856dbd545d7d0c943fae" length="168481611" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Poesi</title>
    <description>Glæden ved poesi i musik.  
 Vært: Katrine Ring.</description>
@@ -138,15 +130,6 @@ Vært: Minna Grooss.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e77923dffbb197776ed/ce13cab238469dd61ca7804e0dd3af2719dd9d7f0e92298ad8c5aece7983ebf0" length="168201642" type="audio/mpeg"/>
   </item>
   <item>
-   <title>Historier fra en anden tid</title>
-   <description>Historier fra en anden tid venter lige rundt om hjørnet, hvor de gemmer sig i forskellige former og musikalske udtryk. I aften springer de ud i skikkelse af Ravel, Guðnadóttir, Bach, Czocher og andre ukendte folkekomponister. 
-Vært: Minna Grooss.</description>
-   <itunes:duration>01:56:59</itunes:duration>
-   <pubDate>Tue, 07 Oct 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/historier-fra-en-anden-tid-12422563411</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9e762b77f3385e30a05a/146bd703a7b2410d6c5a0a9ac7b973a769772cdf38fef4f712c251ac4f27ec1f" length="168471804" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Månen er der et sted</title>
    <description>Nogle gange krum som en sabel, andre gange fuld.  Er der noget så magisk som fuldmånen med sit sølvskinnende skær, og selvfølgelig er kunstnere inspireret af månen. Hør musik af Richard Rodgers, Björk, Nathav og Fauré. 
 Vært: Tina Rømer.</description>
@@ -261,6 +244,14 @@ Vært: Minna Grooss.</description>
    <pubDate>Sat, 11 Oct 2025 03:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/nattens-aabne-ansigt-12422563261</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e6622ad5634992e72afaf3/0139d9302818bd1bb3bae8fe1d2643f6a5e3e6a21d54a4ec684a5b3570d4c494" length="168318480" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Gys og skønhed</title>
+   <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sat, 01 Nov 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/gys-og-skoenhed-12422463444</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/62910614bfce803ee0fbb7e3fc127a04deff6cc053c5856dbd545d7d0c943fae" length="168481611" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
