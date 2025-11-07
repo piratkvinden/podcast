@@ -6,23 +6,6 @@
   <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e46ad8c039d56f04e3b57c"/>
   <item>
-   <title>Novemberlys</title>
-   <description>Der skal noget til at finde det indre lys frem i november. Af og til kræver det en god forestillingsevne, andre gange kan det være noget udefrakommende, som f. eks Natsværmerens opløftende valg af musik. 
-Vært: Minna Grooss.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Thu, 06 Nov 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/novemberlys-12422463476</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfa6710a3ece45b17f/00df8b1802e742cbfeb1ccd90379faa8520a7f083561e404569a3abf5049bbae" length="168481575" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Gys og skønhed</title>
-   <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Sat, 01 Nov 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/gys-og-skoenhed-12422463444</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/62910614bfce803ee0fbb7e3fc127a04deff6cc053c5856dbd545d7d0c943fae" length="168481611" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Skrivende toner</title>
    <description>Musik kan inspirere én til mangt og meget - en ny plade er tænkt som inspiration til at skrive, men aftenens udgave af Natsværmeren når vidt omkring og byder også på dansk kormusik, overraskende klavertoner og alternativ filmmusik. Peter Albrechtsen guider gennem øregangen.</description>
    <itunes:duration>01:57:00</itunes:duration>
@@ -260,6 +243,23 @@ Vært: Minna Grooss.</description>
    <pubDate>Sat, 11 Oct 2025 03:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/nattens-aabne-ansigt-12422563261</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67e6622ad5634992e72afaf3/0139d9302818bd1bb3bae8fe1d2643f6a5e3e6a21d54a4ec684a5b3570d4c494" length="168318480" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Novemberlys</title>
+   <description>Der skal noget til at finde det indre lys frem i november. Af og til kræver det en god forestillingsevne, andre gange kan det være noget udefrakommende, som f. eks Natsværmerens opløftende valg af musik. 
+Vært: Minna Grooss.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Thu, 06 Nov 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/novemberlys-12422463476</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6733dedfa6710a3ece45b17f/00df8b1802e742cbfeb1ccd90379faa8520a7f083561e404569a3abf5049bbae" length="168481575" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Gys og skønhed</title>
+   <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sat, 01 Nov 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/gys-og-skoenhed-12422463444</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/62910614bfce803ee0fbb7e3fc127a04deff6cc053c5856dbd545d7d0c943fae" length="168481611" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
