@@ -2,8 +2,6 @@ name: Politiken
 on:
   schedule:
     - cron: '*/600 * * * *'  
-  push:  
-    branches: [main]
   workflow_dispatch: 
 
 jobs:
