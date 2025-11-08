@@ -108,6 +108,7 @@
         let politikenPodcastsData = [];
         let radio24syvPodcastsData = [];
         let podimoAudiobooksData = [];
+        let frihedsbrevetPodcastsData = [];
         let allAudiobooks = [];
         let episodesData = [];
         let currentFilteredEpisodes = [];
@@ -131,1211 +132,1301 @@
         let pendingSeek = 0;
         let currentEpisode = null;
         const audioPlayer = new Plyr('#audio', {
-         controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+          controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
         });
         audioPlayer.on('loadedmetadata', () => {
-         audioPlayer.currentTime = pendingSeek;
-         if ('mediaSession' in navigator) {
-         navigator.mediaSession.metadata = new MediaMetadata({
-         title: currentTitle,
-         artist: currentArtist,
-         album: currentAlbum,
-         artwork: [{
-         src: currentArtwork,
-         sizes: '512x512',
-         type: 'image/png'
-         }]
-         });
-         setMediaSessionPositionState(audioPlayer);
-         }
-         audioPlayer.play().catch(error => {
-         console.error('Playback failed:', error);
-         });
+          audioPlayer.currentTime = pendingSeek;
+          if ('mediaSession' in navigator) {
+            navigator.mediaSession.metadata = new MediaMetadata({
+              title: currentTitle,
+              artist: currentArtist,
+              album: currentAlbum,
+              artwork: [{
+                src: currentArtwork,
+                sizes: '512x512',
+                type: 'image/png'
+              }]
+            });
+            setMediaSessionPositionState(audioPlayer);
+          }
+          audioPlayer.play().catch(error => {
+            console.error('Playback failed:', error);
+          });
         });
         audioPlayer.on('timeupdate', () => {
-         setMediaSessionPositionState(audioPlayer);
-         handleTimeUpdate();
+          setMediaSessionPositionState(audioPlayer);
+          handleTimeUpdate();
         });
         audioPlayer.on('ended', () => {
-         if (currentEpisode) {
-         markEpisodeAsFinished(currentEpisode);
-         } else {}
-         playerDisplayEpisodes();
-         if (playerCurrentIndex !== -1) {
-         let nextIndex = playerCurrentIndex + 1;
-         if (playerFilterEpisodes) {
-         const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-         while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
-         nextIndex++;
-         }
-         }
-         if (nextIndex < playerEpisodesData.length) {
-         playerPlayEpisode(playerEpisodesData[nextIndex].link, playerEpisodesData[nextIndex].title);
-         playerCurrentIndex = nextIndex;
-         }
-         }
+          if (currentEpisode) {
+            markEpisodeAsFinished(currentEpisode);
+          } else {}
+          playerDisplayEpisodes();
+          if (playerCurrentIndex !== -1) {
+            let nextIndex = playerCurrentIndex + 1;
+            if (playerFilterEpisodes) {
+              const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
+              while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
+                nextIndex++;
+              }
+            }
+            if (nextIndex < playerEpisodesData.length) {
+              playerPlayEpisode(playerEpisodesData[nextIndex].link, playerEpisodesData[nextIndex].title);
+              playerCurrentIndex = nextIndex;
+            }
+          }
         });
         audioPlayer.on('seeked', () => {
-         if (audioPlayer.currentTime >= audioPlayer.duration - 0.5) {
-         if (currentEpisode) {
-         markEpisodeAsFinished(currentEpisode);
-         } else {}
-         playNextEpisode();
-         }
+          if (audioPlayer.currentTime >= audioPlayer.duration - 0.5) {
+            if (currentEpisode) {
+              markEpisodeAsFinished(currentEpisode);
+            } else {}
+            playNextEpisode();
+          }
         });
         audioPlayer.on('pause', handlePause);
+
         function setMediaSessionPositionState(player) {
-         if ('setPositionState' in navigator.mediaSession) {
-         navigator.mediaSession.setPositionState({
-         duration: player.duration || 0,
-         playbackRate: player.playbackRate || 1,
-         position: player.currentTime || 0
-         });
-         }
+          if ('setPositionState' in navigator.mediaSession) {
+            navigator.mediaSession.setPositionState({
+              duration: player.duration || 0,
+              playbackRate: player.playbackRate || 1,
+              position: player.currentTime || 0
+            });
+          }
         }
         if ('mediaSession' in navigator) {
-         navigator.mediaSession.setActionHandler('play', () => {
-         audioPlayer.play().then(() => {
-         setMediaSessionPositionState(audioPlayer);
-         });
-         });
-         navigator.mediaSession.setActionHandler('pause', () => {
-         audioPlayer.pause();
-         setMediaSessionPositionState(audioPlayer);
-         });
-         navigator.mediaSession.setActionHandler('seekto', (details) => {
-         const seekTime = details.seekTime || 0;
-         audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
-         setMediaSessionPositionState(audioPlayer);
-         });
-         navigator.mediaSession.setActionHandler('seekbackward', details => {
-         audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - (details.seekOffset || 10));
-         });
-         navigator.mediaSession.setActionHandler('seekforward', details => {
-         audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + (details.seekOffset || 10));
-         });
-         navigator.mediaSession.setActionHandler('nexttrack', playNextEpisode);
+          navigator.mediaSession.setActionHandler('play', () => {
+            audioPlayer.play().then(() => {
+              setMediaSessionPositionState(audioPlayer);
+            });
+          });
+          navigator.mediaSession.setActionHandler('pause', () => {
+            audioPlayer.pause();
+            setMediaSessionPositionState(audioPlayer);
+          });
+          navigator.mediaSession.setActionHandler('seekto', (details) => {
+            const seekTime = details.seekTime || 0;
+            audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
+            setMediaSessionPositionState(audioPlayer);
+          });
+          navigator.mediaSession.setActionHandler('seekbackward', details => {
+            audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - (details.seekOffset || 10));
+          });
+          navigator.mediaSession.setActionHandler('seekforward', details => {
+            audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + (details.seekOffset || 10));
+          });
+          navigator.mediaSession.setActionHandler('nexttrack', playNextEpisode);
         }
+
         function setAudioSource(audioUrl) {
-         audioPlayer.source = {
-         type: 'audio',
-         sources: [{
-         src: audioUrl,
-         type: 'audio/mp3'
-         }]
-         };
-         document.querySelector('.audio-player').style.display = 'block';
+          audioPlayer.source = {
+            type: 'audio',
+            sources: [{
+              src: audioUrl,
+              type: 'audio/mp3'
+            }]
+          };
+          document.querySelector('.audio-player').style.display = 'block';
+        }
+
+        function frihedsbrevetRssUrl(slug) {
+          const safe = slug.replace(/[^a-z0-9_-]/gi, '_');
+          return `https://raw.githubusercontent.com/piratkvinden/podcast/main/Frihedsbrevet/${safe}.rss`;
         }
         async function fetchRSSFeed(rssUrl) {
-         const response = await fetch(rssUrl);
-         if (!response.ok) throw new Error(`Netværksfejl: ${response.statusText}`);
-         return await response.text();
+          const response = await fetch(rssUrl);
+          if (!response.ok) throw new Error(`Netværksfejl: ${response.statusText}`);
+          return await response.text();
         }
+
         function parseRSSFeed(xmlText) {
-         const parser = new DOMParser();
-         const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-         if (xmlDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
-         const channel = xmlDoc.querySelector("channel");
-         if (!channel) throw new Error("Mulig fejl i RSS: Mangler hovedkanal i feed");
-         const items = xmlDoc.getElementsByTagName("item");
-         const episodes = [];
-         for (let item of items) {
-         const guid = item.querySelector("guid")?.textContent || '';
-         episodes.push({
-         title: item.querySelector("title")?.textContent || "(ingen titel)",
-         description: item.querySelector("description")?.textContent || "(ingen beskrivelse)",
-         pubDate: new Date(item.querySelector("pubDate")?.textContent),
-         date: '',
-         link: item.querySelector("enclosure")?.getAttribute("url") || '',
-         enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || '',
-         guid: guid
-         });
-         }
-         return episodes;
+          const parser = new DOMParser();
+          const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+          if (xmlDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
+          const channel = xmlDoc.querySelector("channel");
+          if (!channel) throw new Error("Mulig fejl i RSS: Mangler hovedkanal i feed");
+          const items = xmlDoc.getElementsByTagName("item");
+          const episodes = [];
+          for (let item of items) {
+            const guid = item.querySelector("guid")?.textContent || '';
+            episodes.push({
+              title: item.querySelector("title")?.textContent || "(ingen titel)",
+              description: item.querySelector("description")?.textContent || "(ingen beskrivelse)",
+              pubDate: new Date(item.querySelector("pubDate")?.textContent),
+              date: '',
+              link: item.querySelector("enclosure")?.getAttribute("url") || '',
+              enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || '',
+              guid: guid
+            });
+          }
+          return episodes;
         }
+
         function resetExpanded() {
-         const ec = document.querySelectorAll('.expanded');
-         ec.forEach(c => {
-         c.classList.remove('expanded');
-         });
+          const ec = document.querySelectorAll('.expanded');
+          ec.forEach(c => {
+            c.classList.remove('expanded');
+          });
         }
+
         function closePodcastModalWithoutBack() {
-         document.getElementById('podcastModal').style.display = 'none';
-         resetExpanded();
+          document.getElementById('podcastModal').style.display = 'none';
+          resetExpanded();
         }
+
         function closeEpisodeListModalWithoutBack() {
-         document.getElementById('episodeListModal').style.display = 'none';
-         document.getElementById('podcastModal').style.display = 'block';
-         resetExpanded();
+          document.getElementById('episodeListModal').style.display = 'none';
+          document.getElementById('podcastModal').style.display = 'block';
+          resetExpanded();
         }
+
         function closeSidebarWithoutBack() {
-         const sidebar = document.getElementById('playerSidebar');
-         const hamburger = document.querySelector('.hamburger');
-         sidebar.classList.remove('open');
-         hamburger.classList.remove('open');
+          const sidebar = document.getElementById('playerSidebar');
+          const hamburger = document.querySelector('.hamburger');
+          sidebar.classList.remove('open');
+          hamburger.classList.remove('open');
         }
         window.addEventListener('popstate', (event) => {
-         if (event.state && event.state.overlay) {
-         const overlay = event.state.overlay;
-         if (overlay === 'podcastModal') {
-         closePodcastModalWithoutBack();
-         } else if (overlay === 'episodeListModal') {
-         closeEpisodeListModalWithoutBack();
-         } else if (overlay === 'sidebar') {
-         closeSidebarWithoutBack();
-         }
-         }
+          if (event.state && event.state.overlay) {
+            const overlay = event.state.overlay;
+            if (overlay === 'podcastModal') {
+              closePodcastModalWithoutBack();
+            } else if (overlay === 'episodeListModal') {
+              closeEpisodeListModalWithoutBack();
+            } else if (overlay === 'sidebar') {
+              closeSidebarWithoutBack();
+            }
+          }
         });
         document.addEventListener('DOMContentLoaded', () => {
-         fetchAllData();
-         const podcastModal = document.getElementById('podcastModal');
-         const closeModalButton = document.getElementById('closeModal');
-         const episodeListModal = document.getElementById('episodeListModal');
-         podcastModal.addEventListener('click', function(event) {
-         if (event.target === document.getElementById('modalDescription')) {
-         event.target.classList.toggle('expanded');
-         }
-         });
-         document.body.addEventListener('click', (event) => {
-         if (event.target === podcastModal) {
-         closePodcastModalWithoutBack();
-         history.back();
-         resetExpanded();
-         } else if (event.target === episodeListModal) {
-         closeEpisodeListModalWithoutBack();
-         history.back();
-         resetExpanded();
-         } else if (event.target === closeModalButton) {
-         closePodcastModalWithoutBack();
-         history.back();
-         resetExpanded();
-         }
-         if (event.target.closest('.episode-item')) {
-         const episodeElement = event.target.closest('.episode-item');
-         if (!event.target.classList.contains('episode-description')) {
-         const episodeUrl = episodeElement.getAttribute('data-url') || episodeElement.dataset.enclosureUrl;
-         openPlayerSidebar(currentPodcast.rssLink).then(() => {
-         const index = playerEpisodesData.findIndex(ep => ep.link === episodeUrl);
-         if (index !== -1) {
-         playerCurrentIndex = index;
-         playerPlayEpisode(playerEpisodesData[index].link, playerEpisodesData[index].title);
-         }
-         });
-         }
-         }
-         if (event.target.closest('.episode-description')) {
-         const description = event.target.closest('.episode-description');
-         event.stopPropagation();
-         if (description.style.maxHeight) {
-         description.style.maxHeight = null;
-         description.classList.remove('expanded');
-         } else {
-         description.style.maxHeight = description.scrollHeight + "px";
-         description.classList.add('expanded');
-         }
-         }
-         const sidebar = document.getElementById('playerSidebar');
-         if (sidebar.classList.contains('open') && !event.target.closest('#playerSidebar') && !event.target.closest('.hamburger')) {
-         togglePlayerSidebar();
-         }
-         });
-         let episodeSearchDebounce;
-         document.getElementById('episodeSearchInput').addEventListener('input', function() {
-         clearTimeout(episodeSearchDebounce);
-         episodeSearchDebounce = setTimeout(() => {
-         const searchTerm = this.value.trim().toLowerCase();
-         const filteredEpisodes = currentEpisodes.filter(episode =>
-         episode.title.toLowerCase().includes(searchTerm) ||
-         episode.description.toLowerCase().includes(searchTerm) ||
-         episode.date.toLowerCase().includes(searchTerm)
-         );
-         renderEpisodes(filteredEpisodes, searchTerm);
-         }, 300);
-         });
-         document.getElementById('playAudiobookOnSite').addEventListener('click', async function(event) {
-         event.preventDefault();
-         if (currentItem) {
-         await openPlayerSidebar(currentItem);
-         const episode = playerEpisodesData[0];
-         playerCurrentIndex = 0;
-         playerPlayEpisode(episode.link, episode.title);
-         }
-         });
-         document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
-         event.preventDefault();
-         const downloadIcon = document.getElementById('downloadIcon');
-         const downloadButton = this;
-         const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
-         const author = currentItem.author || 'Unknown Author';
-         const mp3Link = this.href;
-         const year = currentItem.year_of_publication || 'Unknown Year';
-         const extension = mp3Link.split('.').pop() || 'mp3';
-         try {
-         downloadButton.disabled = true;
-         downloadButton.style.pointerEvents = 'none';
-         downloadIcon.innerHTML = `
+          fetchAllData();
+          const podcastModal = document.getElementById('podcastModal');
+          const closeModalButton = document.getElementById('closeModal');
+          const episodeListModal = document.getElementById('episodeListModal');
+          podcastModal.addEventListener('click', function(event) {
+            if (event.target === document.getElementById('modalDescription')) {
+              event.target.classList.toggle('expanded');
+            }
+          });
+          document.body.addEventListener('click', (event) => {
+            if (event.target === podcastModal) {
+              closePodcastModalWithoutBack();
+              history.back();
+              resetExpanded();
+            } else if (event.target === episodeListModal) {
+              closeEpisodeListModalWithoutBack();
+              history.back();
+              resetExpanded();
+            } else if (event.target === closeModalButton) {
+              closePodcastModalWithoutBack();
+              history.back();
+              resetExpanded();
+            }
+            if (event.target.closest('.episode-item')) {
+              const episodeElement = event.target.closest('.episode-item');
+              if (!event.target.classList.contains('episode-description')) {
+                const episodeUrl = episodeElement.getAttribute('data-url') || episodeElement.dataset.enclosureUrl;
+                openPlayerSidebar(currentPodcast.rssLink).then(() => {
+                  const index = playerEpisodesData.findIndex(ep => ep.link === episodeUrl);
+                  if (index !== -1) {
+                    playerCurrentIndex = index;
+                    playerPlayEpisode(playerEpisodesData[index].link, playerEpisodesData[index].title);
+                  }
+                });
+              }
+            }
+            if (event.target.closest('.episode-description')) {
+              const description = event.target.closest('.episode-description');
+              event.stopPropagation();
+              if (description.style.maxHeight) {
+                description.style.maxHeight = null;
+                description.classList.remove('expanded');
+              } else {
+                description.style.maxHeight = description.scrollHeight + "px";
+                description.classList.add('expanded');
+              }
+            }
+            const sidebar = document.getElementById('playerSidebar');
+            if (sidebar.classList.contains('open') && !event.target.closest('#playerSidebar') && !event.target.closest('.hamburger')) {
+              togglePlayerSidebar();
+            }
+          });
+          let episodeSearchDebounce;
+          document.getElementById('episodeSearchInput').addEventListener('input', function() {
+            clearTimeout(episodeSearchDebounce);
+            episodeSearchDebounce = setTimeout(() => {
+              const searchTerm = this.value.trim().toLowerCase();
+              const filteredEpisodes = currentEpisodes.filter(episode =>
+                episode.title.toLowerCase().includes(searchTerm) ||
+                episode.description.toLowerCase().includes(searchTerm) ||
+                episode.date.toLowerCase().includes(searchTerm)
+              );
+              renderEpisodes(filteredEpisodes, searchTerm);
+            }, 300);
+          });
+          document.getElementById('playAudiobookOnSite').addEventListener('click', async function(event) {
+            event.preventDefault();
+            if (currentItem) {
+              await openPlayerSidebar(currentItem);
+              const episode = playerEpisodesData[0];
+              playerCurrentIndex = 0;
+              playerPlayEpisode(episode.link, episode.title);
+            }
+          });
+          document.getElementById('playAudiobookDefault').addEventListener('click', async function(event) {
+            event.preventDefault();
+            const downloadIcon = document.getElementById('downloadIcon');
+            const downloadButton = this;
+            const podcastTitle = document.getElementById('modalTitle')?.textContent || 'Unknown Title';
+            const author = currentItem.author || 'Unknown Author';
+            const mp3Link = this.href;
+            const year = currentItem.year_of_publication || 'Unknown Year';
+            const extension = mp3Link.split('.').pop() || 'mp3';
+            try {
+              downloadButton.disabled = true;
+              downloadButton.style.pointerEvents = 'none';
+              downloadIcon.innerHTML = `
           <svg class="progress-circle" width="24" height="24" viewBox="0 0 24 24">
             <circle cx="12" cy="12" r="10" stroke="#444" stroke-width="2" fill="none"/>
             <circle class="progress" cx="12" cy="12" r="10" stroke="white" stroke-width="2" fill="none" stroke-dasharray="62.8" stroke-dashoffset="62.8" transform="rotate(-90 12 12)"/>
             <text id="progress-text" x="12" y="15" dominant-baseline="middle" text-anchor="middle" font-size="8" fill="white">0</text>
           </svg>
         `;
-         downloadIcon.classList.add('downloading');
-         const response = await fetch(mp3Link);
-         if (!response.ok) {
-         throw new Error(`Failed to fetch file: ${response.statusText}`);
-         }
-         const total = parseInt(response.headers.get('Content-Length'), 10);
-         const reader = response.body.getReader();
-         let received = 0;
-         let chunks = [];
-         while (true) {
-         const {
-         done,
-         value
-         } = await reader.read();
-         if (done) break;
-         chunks.push(value);
-         received += value.length;
-         if (total) {
-         const progress = (received / total) * 100;
-         const offset = 62.8 * (1 - progress / 100);
-         downloadIcon.querySelector('.progress').style.strokeDashoffset = offset;
-         downloadIcon.querySelector('#progress-text').textContent = Math.round(progress);
-         }
-         }
-         const blob = new Blob(chunks);
-         const blobUrl = URL.createObjectURL(blob);
-         const downloadLink = document.createElement('a');
-         downloadLink.href = blobUrl;
-         downloadLink.download = `${author} - ${podcastTitle} (${year}).${extension}`;
-         document.body.appendChild(downloadLink);
-         downloadLink.click();
-         document.body.removeChild(downloadLink);
-         URL.revokeObjectURL(blobUrl);
-         downloadIcon.classList.remove('downloading');
-         downloadIcon.classList.add('success');
-         downloadIcon.innerHTML = '';
-         downloadIcon.textContent = 'check_circle_outline';
-         } catch (error) {
-         console.error('Error downloading the file:', error);
-         alert('Kunne ikke downloade lydbogen.');
-         downloadIcon.classList.remove('downloading');
-         downloadIcon.innerHTML = '';
-         downloadIcon.textContent = 'download';
-         } finally {
-         downloadButton.disabled = false;
-         downloadButton.style.pointerEvents = 'auto';
-         }
-         });
-         document.getElementById('prev-page').addEventListener('click', () => playerChangePage(-1));
-         document.getElementById('next-page').addEventListener('click', () => playerChangePage(1));
-         document.getElementById('toggle-fully-listened').addEventListener('click', playerToggleEpisodeFilter);
-         const currentPageElement = document.getElementById('current-page');
-         currentPageElement.addEventListener('focus', () => setTimeout(() => document.execCommand('selectAll', false, null), 0));
-         document.getElementById('page-info').addEventListener('keypress', event => {
-         if (event.key === 'Enter') {
-         event.preventDefault();
-         const newPage = parseInt(currentPageElement.textContent, 10);
-         const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
-         if (!isNaN(newPage) && newPage >= 1 && newPage <= totalPages) {
-         playerCurrentPage = newPage;
-         playerChangePage(0);
-         } else {
-         currentPageElement.textContent = playerCurrentPage;
-         }
-         event.target.blur();
-         }
-         });
-         window.addEventListener('beforeunload', () => {
-         if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-         savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
-         }
-         });
+              downloadIcon.classList.add('downloading');
+              const response = await fetch(mp3Link);
+              if (!response.ok) {
+                throw new Error(`Failed to fetch file: ${response.statusText}`);
+              }
+              const total = parseInt(response.headers.get('Content-Length'), 10);
+              const reader = response.body.getReader();
+              let received = 0;
+              let chunks = [];
+              while (true) {
+                const {
+                  done,
+                  value
+                } = await reader.read();
+                if (done) break;
+                chunks.push(value);
+                received += value.length;
+                if (total) {
+                  const progress = (received / total) * 100;
+                  const offset = 62.8 * (1 - progress / 100);
+                  downloadIcon.querySelector('.progress').style.strokeDashoffset = offset;
+                  downloadIcon.querySelector('#progress-text').textContent = Math.round(progress);
+                }
+              }
+              const blob = new Blob(chunks);
+              const blobUrl = URL.createObjectURL(blob);
+              const downloadLink = document.createElement('a');
+              downloadLink.href = blobUrl;
+              downloadLink.download = `${author} - ${podcastTitle} (${year}).${extension}`;
+              document.body.appendChild(downloadLink);
+              downloadLink.click();
+              document.body.removeChild(downloadLink);
+              URL.revokeObjectURL(blobUrl);
+              downloadIcon.classList.remove('downloading');
+              downloadIcon.classList.add('success');
+              downloadIcon.innerHTML = '';
+              downloadIcon.textContent = 'check_circle_outline';
+            } catch (error) {
+              console.error('Error downloading the file:', error);
+              alert('Kunne ikke downloade lydbogen.');
+              downloadIcon.classList.remove('downloading');
+              downloadIcon.innerHTML = '';
+              downloadIcon.textContent = 'download';
+            } finally {
+              downloadButton.disabled = false;
+              downloadButton.style.pointerEvents = 'auto';
+            }
+          });
+          document.getElementById('prev-page').addEventListener('click', () => playerChangePage(-1));
+          document.getElementById('next-page').addEventListener('click', () => playerChangePage(1));
+          document.getElementById('toggle-fully-listened').addEventListener('click', playerToggleEpisodeFilter);
+          const currentPageElement = document.getElementById('current-page');
+          currentPageElement.addEventListener('focus', () => setTimeout(() => document.execCommand('selectAll', false, null), 0));
+          document.getElementById('page-info').addEventListener('keypress', event => {
+            if (event.key === 'Enter') {
+              event.preventDefault();
+              const newPage = parseInt(currentPageElement.textContent, 10);
+              const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
+              if (!isNaN(newPage) && newPage >= 1 && newPage <= totalPages) {
+                playerCurrentPage = newPage;
+                playerChangePage(0);
+              } else {
+                currentPageElement.textContent = playerCurrentPage;
+              }
+              event.target.blur();
+            }
+          });
+          window.addEventListener('beforeunload', () => {
+            if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
+              savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
+            }
+          });
         });
         async function fetchAllData() {
-         try {
-         const urls = [
-         'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
-         'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
-         'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/r8dio.json',
-         'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
-         'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/24syv.json',
-         'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json'
-         ];
-         [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData, radio24syvPodcastsData, podimoAudiobooksData] = await Promise.all(urls.map(fetchData));
-         allAudiobooks = podimoAudiobooksData.map(({
-         title,
-         description,
-         id,
-         url,
-         audio_url,
-         author,
-         narrator,
-         year_of_publication
-         }) => ({
-         text: title,
-         provider: author,
-         description,
-         url: `https://podimo.com/dk/shows/${id}`,
-         image: url,
-         mp3Link: audio_url,
-         author,
-         narrator: narrator ? narrator + ' · ' + year_of_publication : 'Ukendt oplæser · ' + year_of_publication,
-         year_of_publication
-         }));
-         } catch (error) {
-         console.error('Error fetching data:', error);
-         }
+          try {
+            const urls = [
+              'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/drlyd.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/podimo.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/r8dio.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/main/docs/politiken.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/24syv.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/podimo_audiobooks.json',
+              'https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/docs/frihedsbrevetDATA.json'
+            ];
+            [drPodcastsData, podimoPodcastsData, r8dioPodcastsData, politikenPodcastsData, radio24syvPodcastsData, podimoAudiobooksData, frihedsbrevetPodcastsData] = await Promise.all(urls.map(fetchData));
+            allAudiobooks = podimoAudiobooksData.map(({
+              title,
+              description,
+              id,
+              url,
+              audio_url,
+              author,
+              narrator,
+              year_of_publication
+            }) => ({
+              text: title,
+              provider: author,
+              description,
+              url: `https://podimo.com/dk/shows/${id}`,
+              image: url,
+              mp3Link: audio_url,
+              author,
+              narrator: narrator ? narrator + ' · ' + year_of_publication : 'Ukendt oplæser · ' + year_of_publication,
+              year_of_publication
+            }));
+          } catch (error) {
+            console.error('Error fetching data:', error);
+          }
         }
         async function fetchData(url) {
-         try {
-         const response = await fetch(url);
-         if (!response.ok) throw new Error(`Error fetching data from ${url}`);
-         return await response.json();
-         } catch (error) {
-         console.error(`Error fetching data from ${url}:`, error);
-         return [];
-         }
+          try {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`Error fetching data from ${url}`);
+            return await response.json();
+          } catch (error) {
+            console.error(`Error fetching data from ${url}:`, error);
+            return [];
+          }
         }
+
         function toggleMode() {
-         currentMode = currentMode === 'podcast' ? 'lydbog' : 'podcast';
-         document.getElementById('titleHeading').textContent = currentMode;
-         document.title = currentMode;
-         const toggleText = currentMode === 'podcast' ? 'hør Podimos lydbøger' : 'hør podcasts';
-         document.getElementById('helperText').innerHTML = `${toggleText} <a href="#" onclick="toggleMode()">her</a>`;
-         resultsContainer.innerHTML = '';
-         document.getElementById('podcastModal').style.display = 'none';
-         document.getElementById('episodeListModal').style.display = 'none';
-         const modalNarrator = document.getElementById('modalNarrator');
-         const podcastIcons = document.getElementById('podcastIcons');
-         const audiobookIcons = document.getElementById('audiobookIcons');
-         if (currentMode === 'podcast') {
-         modalNarrator.style.display = 'none';
-         podcastIcons.style.display = 'flex';
-         audiobookIcons.style.display = 'none';
-         } else {
-         modalNarrator.style.display = 'block';
-         podcastIcons.style.display = 'none';
-         audiobookIcons.style.display = 'flex';
-         }
-         const searchTerm = document.getElementById('searchInput').value.trim();
-         if (searchTerm.length >= 3) {
-         filterContent(searchTerm);
-         }
+          currentMode = currentMode === 'podcast' ? 'lydbog' : 'podcast';
+          document.getElementById('titleHeading').textContent = currentMode;
+          document.title = currentMode;
+          const toggleText = currentMode === 'podcast' ? 'hør Podimos lydbøger' : 'hør podcasts';
+          document.getElementById('helperText').innerHTML = `${toggleText} <a href="#" onclick="toggleMode()">her</a>`;
+          resultsContainer.innerHTML = '';
+          document.getElementById('podcastModal').style.display = 'none';
+          document.getElementById('episodeListModal').style.display = 'none';
+          const modalNarrator = document.getElementById('modalNarrator');
+          const podcastIcons = document.getElementById('podcastIcons');
+          const audiobookIcons = document.getElementById('audiobookIcons');
+          if (currentMode === 'podcast') {
+            modalNarrator.style.display = 'none';
+            podcastIcons.style.display = 'flex';
+            audiobookIcons.style.display = 'none';
+          } else {
+            modalNarrator.style.display = 'block';
+            podcastIcons.style.display = 'none';
+            audiobookIcons.style.display = 'flex';
+          }
+          const searchTerm = document.getElementById('searchInput').value.trim();
+          if (searchTerm.length >= 3) {
+            filterContent(searchTerm);
+          }
         }
+
         function clearSearch() {
-         const searchInput = document.getElementById('searchInput');
-         searchInput.value = '';
-         resultsContainer.innerHTML = '';
-         searchInput.focus();
+          const searchInput = document.getElementById('searchInput');
+          searchInput.value = '';
+          resultsContainer.innerHTML = '';
+          searchInput.focus();
         }
+
         function openModal(item) {
-         currentItem = item;
-         const modal = document.getElementById('podcastModal');
-         document.getElementById('modalTitle').textContent = item.text;
-         document.getElementById('modalProvider').textContent = item.provider;
-         document.getElementById('modalDescription').innerHTML = formatDescription(item.description);
-         if (currentMode === 'podcast') {
-         document.getElementById('copyRSSButton').onclick = () => {
-         copyMediaLink(item.rssLink);
-         closePodcastModalWithoutBack();
-         history.back();
-         };
-         const rssLinkUdenProtokol = item.rssLink.replace(/^https?:\/\//, '');
-         document.getElementById('openInAppLink').href = `podcast://${rssLinkUdenProtokol}`;
-         document.getElementById('playOnSite').onclick = () => openPlayerSidebar(item.rssLink);
-         document.getElementById('listEpisodes').onclick = async () => {
-         document.getElementById('podcastModal').style.display = 'none';
-         await openEpisodeListModal(item);
-         };
-         } else {
-         document.getElementById('modalNarrator').textContent = item.narrator || 'Ukendt oplæser';
-         document.getElementById('playAudiobookOnSite').href = item.mp3Link;
-         document.getElementById('playAudiobookDefault').href = item.mp3Link;
-         document.getElementById('copyMp3Link').onclick = () => {
-         copyMediaLink(item.mp3Link);
-         closePodcastModalWithoutBack();
-         history.back();
-         };
-         const downloadIcon = document.getElementById('downloadIcon');
-         downloadIcon.textContent = 'download';
-         downloadIcon.classList.remove('success', 'downloading');
-         }
-         modal.style.display = 'block';
-         history.pushState({
-         overlay: 'podcastModal'
-         }, '', '');
+          currentItem = item;
+          const modal = document.getElementById('podcastModal');
+          document.getElementById('modalTitle').textContent = item.text;
+          document.getElementById('modalProvider').textContent = item.provider;
+          document.getElementById('modalDescription').innerHTML = formatDescription(item.description);
+          if (currentMode === 'podcast') {
+            document.getElementById('copyRSSButton').onclick = () => {
+              copyMediaLink(item.rssLink);
+              closePodcastModalWithoutBack();
+              history.back();
+            };
+            const rssLinkUdenProtokol = item.rssLink.replace(/^https?:\/\//, '');
+            document.getElementById('openInAppLink').href = `podcast://${rssLinkUdenProtokol}`;
+            document.getElementById('playOnSite').onclick = () => openPlayerSidebar(item.rssLink);
+            document.getElementById('listEpisodes').onclick = async () => {
+              document.getElementById('podcastModal').style.display = 'none';
+              await openEpisodeListModal(item);
+            };
+          } else {
+            document.getElementById('modalNarrator').textContent = item.narrator || 'Ukendt oplæser';
+            document.getElementById('playAudiobookOnSite').href = item.mp3Link;
+            document.getElementById('playAudiobookDefault').href = item.mp3Link;
+            document.getElementById('copyMp3Link').onclick = () => {
+              copyMediaLink(item.mp3Link);
+              closePodcastModalWithoutBack();
+              history.back();
+            };
+            const downloadIcon = document.getElementById('downloadIcon');
+            downloadIcon.textContent = 'download';
+            downloadIcon.classList.remove('success', 'downloading');
+          }
+          modal.style.display = 'block';
+          history.pushState({
+            overlay: 'podcastModal'
+          }, '', '');
         }
+
         function copyMediaLink(link) {
-         navigator.clipboard.writeText(link).then(() => {
-         showToast(`${link}
+          navigator.clipboard.writeText(link).then(() => {
+            showToast(`${link}
 <span style="${greenStyle}">Link kopieret!</span>`);
-         }).catch(err => {
-         console.error('Failed to copy link:', err);
-         });
+          }).catch(err => {
+            console.error('Failed to copy link:', err);
+          });
         }
         async function openEpisodeListModal(podcast) {
-         if (currentMode !== 'podcast') return;
-         document.getElementById('spinnerOverlay').style.display = 'flex';
-         document.body.classList.add('blur');
-         try {
-         const episodeModal = document.getElementById('episodeListModal');
-         if (podcastCache[podcast.rssLink]) {
-         episodesData = podcastCache[podcast.rssLink];
-         } else {
-         const xmlText = await fetchRSSFeed(podcast.rssLink);
-         episodesData = parseRSSFeed(xmlText);
-         podcastCache[podcast.rssLink] = episodesData;
-         }
-         currentPodcast = podcast;
-         currentEpisodes = episodesData;
-         let esi = document.getElementById('episodeSearchInput');
-         esi.value = '';
-         if (!esi.hasAttribute('data-click-listener')) {
-         esi.addEventListener('click', function() {
-         esi.select();
-         });
-         esi.setAttribute('data-click-listener', 'true');
-         }
-         document.getElementById('modalPodcastTitle').textContent = podcast.text;
-         currentEpisodes.sort((a, b) => parseDate(a.pubDate) - parseDate(b.pubDate));
-         await renderEpisodes(currentEpisodes);
-         episodeModal.style.display = 'block';
-         history.pushState({
-         overlay: 'episodeListModal'
-         }, '', '');
-         } catch (error) {
-         console.error('Kunne ikke indlæse RSS-feed:', error);
-         } finally {
-         document.getElementById('spinnerOverlay').style.display = 'none';
-         document.body.classList.remove('blur');
-         }
+          if (currentMode !== 'podcast') return;
+          document.getElementById('spinnerOverlay').style.display = 'flex';
+          document.body.classList.add('blur');
+          try {
+            const episodeModal = document.getElementById('episodeListModal');
+            if (podcast.provider === 'Frihedsbrevet') {
+              const jsonKey = Object.keys(frihedsbrevetPodcastsData).find(k => frihedsbrevetPodcastsData[k].title === podcast.text);
+              if (!jsonKey) throw new Error('Podcast not found in Frihedsbrevet data');
+              const pod = frihedsbrevetPodcastsData[jsonKey];
+              episodesData = pod.episodes.map(ep => ({
+                title: ep.title,
+                description: ep.duration || '',
+                pubDate: new Date(ep.date.replace(/(\d{4})\s(\d{2})\s(\d{2})/, '$1-$2-$3')),
+                link: ep.stream_url,
+                guid: ep.uuid,
+                enclosure: ep.stream_url,
+                image: ep.image
+              }));
+              podcastCache[podcast.rssLink] = episodesData;
+            } else if (podcastCache[podcast.rssLink]) {
+              episodesData = podcastCache[podcast.rssLink];
+            } else {
+              const xmlText = await fetchRSSFeed(podcast.rssLink);
+              episodesData = parseRSSFeed(xmlText);
+              podcastCache[podcast.rssLink] = episodesData;
+            }
+            currentPodcast = podcast;
+            currentEpisodes = episodesData;
+            let esi = document.getElementById('episodeSearchInput');
+            esi.value = '';
+            if (!esi.hasAttribute('data-click-listener')) {
+              esi.addEventListener('click', function() {
+                esi.select();
+              });
+              esi.setAttribute('data-click-listener', 'true');
+            }
+            document.getElementById('modalPodcastTitle').textContent = podcast.text;
+            currentEpisodes.sort((a, b) => parseDate(a.pubDate) - parseDate(b.pubDate));
+            await renderEpisodes(currentEpisodes);
+            episodeModal.style.display = 'block';
+            history.pushState({
+              overlay: 'episodeListModal'
+            }, '', '');
+          } catch (error) {
+            console.error('Kunne ikke indlæse RSS-feed:', error);
+          } finally {
+            document.getElementById('spinnerOverlay').style.display = 'none';
+            document.body.classList.remove('blur');
+          }
         }
         const episodeObserver = new IntersectionObserver((entries) => {
-         entries.forEach(entry => {
-         if (entry.isIntersecting && episodeCurrentPage * ITEMS_PER_PAGE < currentFilteredEpisodes.length) {
-         episodeObserver.unobserve(entry.target);
-         episodeCurrentPage++;
-         renderEpisodes(currentFilteredEpisodes, '', episodeCurrentPage);
-         }
-         });
+          entries.forEach(entry => {
+            if (entry.isIntersecting && episodeCurrentPage * ITEMS_PER_PAGE < currentFilteredEpisodes.length) {
+              episodeObserver.unobserve(entry.target);
+              episodeCurrentPage++;
+              renderEpisodes(currentFilteredEpisodes, '', episodeCurrentPage);
+            }
+          });
         });
         const searchObserver = new IntersectionObserver((entries) => {
-         entries.forEach(entry => {
-         if (entry.isIntersecting && searchCurrentPage * ITEMS_PER_PAGE < currentSearchResults.length) {
-         searchObserver.unobserve(entry.target);
-         searchCurrentPage++;
-         renderSearchResults(currentSearchResults, searchCurrentPage);
-         }
-         });
+          entries.forEach(entry => {
+            if (entry.isIntersecting && searchCurrentPage * ITEMS_PER_PAGE < currentSearchResults.length) {
+              searchObserver.unobserve(entry.target);
+              searchCurrentPage++;
+              renderSearchResults(currentSearchResults, searchCurrentPage);
+            }
+          });
         });
         const highlightText = (text, term) => {
-         if (!term) return text;
-         const regex = new RegExp(`(${term})`, 'gi');
-         return text.replace(regex, '<strong>$1</strong>');
+          if (!term) return text;
+          const regex = new RegExp(`(${term})`, 'gi');
+          return text.replace(regex, '<strong>$1</strong>');
         };
+
         function createEpisodeElements(episodes, searchTerm) {
-         return episodes.map((episode) => {
-         const episodeItem = document.createElement('div');
-         episodeItem.classList.add('episode-item');
-         const highlightedTitle = highlightText(episode.title, searchTerm);
-         const highlightedDate = highlightText(formatDateToDDMMYYYY(episode.pubDate), searchTerm);
-         const processedDescription = episode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
-         const fullDescription = highlightText(processedDescription, searchTerm);
-         const collapsedDescription = highlightText(processedDescription, searchTerm);
-         episodeItem.innerHTML = `
+          return episodes.map((episode) => {
+            const episodeItem = document.createElement('div');
+            episodeItem.classList.add('episode-item');
+            const highlightedTitle = highlightText(episode.title, searchTerm);
+            const highlightedDate = highlightText(formatDateToDDMMYYYY(episode.pubDate), searchTerm);
+            const processedDescription = episode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
+            const fullDescription = highlightText(processedDescription, searchTerm);
+            const collapsedDescription = highlightText(processedDescription, searchTerm);
+            episodeItem.innerHTML = `
                 <div class="episode-header">
                     <span class="episode-title">${highlightedTitle}</span>
                     <span class="episode-date">${highlightedDate}</span>
                 </div>
                 <div class="episodelist-description">${collapsedDescription}</div>
             `;
-         episodeItem.dataset.enclosureUrl = episode.enclosure || episode.link;
-         const description = episodeItem.querySelector('.episodelist-description');
-         description.addEventListener('click', (event) => handleDescriptionClick(event, description, fullDescription, collapsedDescription));
-         return episodeItem;
-         });
+            episodeItem.dataset.enclosureUrl = episode.enclosure || episode.link;
+            const description = episodeItem.querySelector('.episodelist-description');
+            description.addEventListener('click', (event) => handleDescriptionClick(event, description, fullDescription, collapsedDescription));
+            return episodeItem;
+          });
         }
+
         function handleDescriptionClick(event, description, fullDescription, collapsedDescription) {
-         event.stopPropagation();
-         description.classList.toggle('expanded');
-         description.innerHTML = description.classList.contains('expanded') ?
-         `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>` :
-         collapsedDescription;
-         addDescriptionButtonListeners(description);
+          event.stopPropagation();
+          description.classList.toggle('expanded');
+          description.innerHTML = description.classList.contains('expanded') ?
+            `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>` :
+            collapsedDescription;
+          addDescriptionButtonListeners(description);
         }
+
         function addDescriptionButtonListeners(description) {
-         const playButton = description.querySelector('.play-button');
-         const copyButton = description.querySelector('.copy-button');
-         const audioUrl = description.closest('.episode-item').dataset.enclosureUrl;
-         if (playButton) {
-         playButton.addEventListener('click', (event) => {
-         event.stopPropagation();
-         openPlayerSidebar(currentPodcast.rssLink).then(() => {
-         const index = playerEpisodesData.findIndex(ep => ep.link === audioUrl);
-         if (index !== -1) {
-         playerCurrentIndex = index;
-         playerPlayEpisode(playerEpisodesData[index].link, playerEpisodesData[index].title);
-         }
-         });
-         });
-         }
-         if (copyButton) {
-         copyButton.addEventListener('click', (event) => {
-         event.stopPropagation();
-         navigator.clipboard.writeText(audioUrl).then(() => {
-         showToast(`${audioUrl}
+          const playButton = description.querySelector('.play-button');
+          const copyButton = description.querySelector('.copy-button');
+          const audioUrl = description.closest('.episode-item').dataset.enclosureUrl;
+          if (playButton) {
+            playButton.addEventListener('click', (event) => {
+              event.stopPropagation();
+              openPlayerSidebar(currentPodcast.rssLink).then(() => {
+                const index = playerEpisodesData.findIndex(ep => ep.link === audioUrl);
+                if (index !== -1) {
+                  playerCurrentIndex = index;
+                  playerPlayEpisode(playerEpisodesData[index].link, playerEpisodesData[index].title);
+                }
+              });
+            });
+          }
+          if (copyButton) {
+            copyButton.addEventListener('click', (event) => {
+              event.stopPropagation();
+              navigator.clipboard.writeText(audioUrl).then(() => {
+                showToast(`${audioUrl}
 <span style="${greenStyle}">Link kopieret!</span>`);
-         });
-         });
-         }
+              });
+            });
+          }
         }
+
         function formatDateToDDMMYYYY(dateString) {
-         const parsedDate = parseDate(dateString);
-         if (isNaN(parsedDate.getTime())) return "Ugyldig dato";
-         const day = String(parsedDate.getDate()).padStart(2, '0');
-         const month = String(parsedDate.getMonth() + 1).padStart(2, '0');
-         const year = parsedDate.getFullYear();
-         return `${day}/${month}/${year}`;
+          const parsedDate = parseDate(dateString);
+          if (isNaN(parsedDate.getTime())) return "Ugyldig dato";
+          const day = String(parsedDate.getDate()).padStart(2, '0');
+          const month = String(parsedDate.getMonth() + 1).padStart(2, '0');
+          const year = parsedDate.getFullYear();
+          return `${day}/${month}/${year}`;
         }
+
         function paginateAndRender(items, page, container, createElementsFn, observer) {
-         if (page === 1) container.innerHTML = '';
-         const start = (page - 1) * ITEMS_PER_PAGE;
-         const end = start + ITEMS_PER_PAGE;
-         const paginatedItems = items.slice(start, end);
-         const elements = createElementsFn(paginatedItems);
-         elements.forEach((element, index) => {
-         container.appendChild(element);
-         if (index === paginatedItems.length - 1 && paginatedItems.length === ITEMS_PER_PAGE) {
-         observer.observe(element);
-         }
-         });
+          if (page === 1) container.innerHTML = '';
+          const start = (page - 1) * ITEMS_PER_PAGE;
+          const end = start + ITEMS_PER_PAGE;
+          const paginatedItems = items.slice(start, end);
+          const elements = createElementsFn(paginatedItems);
+          elements.forEach((element, index) => {
+            container.appendChild(element);
+            if (index === paginatedItems.length - 1 && paginatedItems.length === ITEMS_PER_PAGE) {
+              observer.observe(element);
+            }
+          });
         }
         async function renderEpisodes(episodes, searchTerm = '', page = 1) {
-         const episodesContainer = document.getElementById('episodesContainer');
-         if (page === 1) {
-         episodesContainer.innerHTML = '';
-         episodeCurrentPage = 1;
-         }
-         if (searchTerm.length >= 3 || searchTerm === '') {
-         currentFilteredEpisodes = filterEpisodes(episodes, searchTerm);
-         paginateAndRender(currentFilteredEpisodes, page, episodesContainer, (paginated) => createEpisodeElements(paginated, searchTerm), episodeObserver);
-         if (page === 1 && currentFilteredEpisodes.length > 0) {
-         expandFirstEpisode(episodesContainer.children[0], currentFilteredEpisodes[0], searchTerm);
-         }
-         } else {
-         episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
-         }
+          const episodesContainer = document.getElementById('episodesContainer');
+          if (page === 1) {
+            episodesContainer.innerHTML = '';
+            episodeCurrentPage = 1;
+          }
+          if (searchTerm.length >= 3 || searchTerm === '') {
+            currentFilteredEpisodes = filterEpisodes(episodes, searchTerm);
+            paginateAndRender(currentFilteredEpisodes, page, episodesContainer, (paginated) => createEpisodeElements(paginated, searchTerm), episodeObserver);
+            if (page === 1 && currentFilteredEpisodes.length > 0) {
+              expandFirstEpisode(episodesContainer.children[0], currentFilteredEpisodes[0], searchTerm);
+            }
+          } else {
+            episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
+          }
         }
+
         function filterEpisodes(episodes, searchTerm) {
-         return episodes.filter(episode =>
-         episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-         episode.description.toLowerCase().includes(searchTerm.toLowerCase())
-         );
+          return episodes.filter(episode =>
+            episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            episode.description.toLowerCase().includes(searchTerm.toLowerCase())
+          );
         }
+
         function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
-         const firstDescription = firstElement.querySelector('.episodelist-description');
-         firstDescription.classList.add('expanded');
-         const processedDescription = firstEpisode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
-         const fullDescription = highlightText(processedDescription, searchTerm);
-         firstDescription.innerHTML = `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>`;
-         addDescriptionButtonListeners(firstDescription);
+          const firstDescription = firstElement.querySelector('.episodelist-description');
+          firstDescription.classList.add('expanded');
+          const processedDescription = firstEpisode.description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
+          const fullDescription = highlightText(processedDescription, searchTerm);
+          firstDescription.innerHTML = `${fullDescription}<div class="button-container"><button class="play-button"><i class="fas fa-play"></i></button><button class="copy-button"><i class="fas fa-copy"></i></button></div>`;
+          addDescriptionButtonListeners(firstDescription);
         }
         let sortOrderTitle = 'asc';
         let sortOrderDate = 'asc';
         const sortByTitle = document.getElementById('sortByTitle');
         const titleIcon = sortByTitle.querySelector('i');
         sortByTitle.addEventListener('click', () => {
-         const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-         return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
-         });
-         sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
-         titleIcon.classList.toggle('fa-sort-alpha-down');
-         titleIcon.classList.toggle('fa-sort-alpha-up');
-         const searchTerm = document.getElementById('episodeSearchInput').value;
-         renderEpisodes(sorted, searchTerm);
+          const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+            return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
+          });
+          sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
+          titleIcon.classList.toggle('fa-sort-alpha-down');
+          titleIcon.classList.toggle('fa-sort-alpha-up');
+          const searchTerm = document.getElementById('episodeSearchInput').value;
+          renderEpisodes(sorted, searchTerm);
         });
         const sortByDate = document.getElementById('sortByDate');
         const dateIcon = sortByDate.querySelector('i');
         sortByDate.addEventListener('click', () => {
-         const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-         const dateA = parseDate(a.pubDate);
-         const dateB = parseDate(b.pubDate);
-         return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
-         });
-         sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
-         const searchTerm = document.getElementById('episodeSearchInput').value;
-         renderEpisodes(sorted, searchTerm);
+          const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+            const dateA = parseDate(a.pubDate);
+            const dateB = parseDate(b.pubDate);
+            return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
+          });
+          sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
+          const searchTerm = document.getElementById('episodeSearchInput').value;
+          renderEpisodes(sorted, searchTerm);
         });
+
         function parseDate(dateString) {
-         const date = new Date(dateString);
-         if (isNaN(date.getTime())) {
-         console.error(`Invalid date format: ${dateString}`);
-         return new Date(0);
-         }
-         return date;
+          const date = new Date(dateString);
+          if (isNaN(date.getTime())) {
+            console.error(`Invalid date format: ${dateString}`);
+            return new Date(0);
+          }
+          return date;
         }
         document.querySelector('#episodeListModal .close').onclick = () => {
-         closeEpisodeListModalWithoutBack();
-         history.back();
+          closeEpisodeListModalWithoutBack();
+          history.back();
         };
+
         function formatDescription(description) {
-         let formattedDescription = description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
-         formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-         return formattedDescription;
+          let formattedDescription = description.replace(/<BR>/gi, '<br>').replace(/\n/g, '<br>');
+          formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+          return formattedDescription;
         }
+
         function showToast(message) {
-         document.body.classList.add('blur-background');
-         const toast = document.createElement('div');
-         toast.classList.add('toast');
-         toast.innerHTML = message;
-         document.body.appendChild(toast);
-         setTimeout(() => {
-         toast.remove();
-         document.body.classList.remove('blur-background');
-         }, 5000);
+          document.body.classList.add('blur-background');
+          const toast = document.createElement('div');
+          toast.classList.add('toast');
+          toast.innerHTML = message;
+          document.body.appendChild(toast);
+          setTimeout(() => {
+            toast.remove();
+            document.body.classList.remove('blur-background');
+          }, 5000);
         }
         async function filterContent(searchText) {
-         searchText = searchText.trim();
-         if (searchText.length === 0) {
-         resultsContainer.innerHTML = '';
-         return;
-         }
-         if (searchText.length < 3) {
-         resultsContainer.innerHTML = '<p style="text-align:center;">Indtast minimum 3 bogstaver for at søge</p>';
-         return;
-         }
-         if (currentMode === 'podcast') {
-         function normalizeText(text) {
-         return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '').trim();
-         }
-         const results = [];
-         const allData = [
-         ...drPodcastsData.map(({
-         name,
-         description,
-         program_url,
-         image
-         }) => ({
-         text: name,
-         provider: 'DR',
-         description,
-         url: program_url,
-         image,
-         rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/DRLyd/${program_url.split('/').pop()}.rss`
-         })),
-         ...podimoPodcastsData.map(({
-         title,
-         description,
-         id,
-         coverImageUrl
-         }) => ({
-         text: title,
-         provider: 'Podimo',
-         description,
-         url: `https://podimo.com/dk/shows/${id}`,
-         image: coverImageUrl,
-         rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
-         })),
-         ...r8dioPodcastsData.map(({
-         title,
-         content,
-         program_url,
-         image,
-         slug
-         }) => ({
-         text: title,
-         provider: 'r8Dio',
-         description: content,
-         url: program_url,
-         image,
-         rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
-         })),
-         ...politikenPodcastsData.map(({
-         title,
-         description,
-         program_url,
-         image,
-         id
-         }) => ({
-         text: title,
-         provider: 'Politiken',
-         description,
-         url: program_url,
-         image,
-         rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
-         })),
-         ...radio24syvPodcastsData.map(({
-         title,
-         description,
-         file_name,
-         image
-         }) => ({
-         text: title,
-         provider: 'Radio24syv',
-         description,
-         url: '#',
-         image,
-         rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/Radio24syv/${file_name}`
-         }))
-         ];
-         const normalizedSearchText = normalizeText(searchText);
-         results.push(...allData.filter(podcast => normalizeText(podcast.text).includes(normalizedSearchText)));
-         currentSearchResults = results;
-         } else {
-         function normalizeText(text) {
-         return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
-         }
-         const normalizedSearchText = normalizeText(searchText);
-         let newResults = allAudiobooks.filter(podcast =>
-         normalizeText(podcast.text).includes(normalizedSearchText) ||
-         normalizeText(podcast.author).includes(normalizedSearchText) ||
-         (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
-         );
-         newResults.sort((a, b) => {
-         const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText) ? 1 : 0;
-         const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText) ? 1 : 0;
-         const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText) ? 1 : 0;
-         const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText) ? 1 : 0;
-         const aNarratorMatch = (a.narrator && normalizeText(a.narrator).includes(normalizedSearchText)) ? 1 : 0;
-         const bNarratorMatch = (b.narrator && normalizeText(b.narrator).includes(normalizedSearchText)) ? 1 : 0;
-         if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
-         if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
-         return bNarratorMatch - aNarratorMatch;
-         });
-         currentSearchResults = newResults;
-         }
-         searchCurrentPage = 1;
-         renderSearchResults(currentSearchResults, searchCurrentPage);
+          searchText = searchText.trim();
+          if (searchText.length === 0) {
+            resultsContainer.innerHTML = '';
+            return;
+          }
+          if (searchText.length < 3) {
+            resultsContainer.innerHTML = '<p style="text-align:center;">Indtast minimum 3 bogstaver for at søge</p>';
+            return;
+          }
+          if (currentMode === 'podcast') {
+            function normalizeText(text) {
+              return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, '').trim();
+            }
+            const results = [];
+            const allData = [
+              ...drPodcastsData.map(({
+                name,
+                description,
+                program_url,
+                image
+              }) => ({
+                text: name,
+                provider: 'DR',
+                description,
+                url: program_url,
+                image,
+                rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/DRLyd/${program_url.split('/').pop()}.rss`
+              })),
+              ...podimoPodcastsData.map(({
+                title,
+                description,
+                id,
+                coverImageUrl
+              }) => ({
+                text: title,
+                provider: 'Podimo',
+                description,
+                url: `https://podimo.com/dk/shows/${id}`,
+                image: coverImageUrl,
+                rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Podimo/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+              })),
+              ...r8dioPodcastsData.map(({
+                title,
+                content,
+                program_url,
+                image,
+                slug
+              }) => ({
+                text: title,
+                provider: 'r8Dio',
+                description: content,
+                url: program_url,
+                image,
+                rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/r8dio/${slug}.rss`
+              })),
+              ...politikenPodcastsData.map(({
+                title,
+                description,
+                program_url,
+                image,
+                id
+              }) => ({
+                text: title,
+                provider: 'Politiken',
+                description,
+                url: program_url,
+                image,
+                rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/main/Politiken/${encodeURIComponent(id)}.rss`
+              })),
+              ...radio24syvPodcastsData.map(({
+                title,
+                description,
+                file_name,
+                image
+              }) => ({
+                text: title,
+                provider: 'Radio24syv',
+                description,
+                url: '#',
+                image,
+                rssLink: `https://raw.githubusercontent.com/piratkvinden/podcast/refs/heads/main/Radio24syv/${file_name}`
+              })),
+              ...Object.entries(frihedsbrevetPodcastsData).map(([key, pod]) => ({
+                text: pod.title,
+                provider: 'Frihedsbrevet',
+                description: pod.description,
+                url: pod.url,
+                image: pod.cover,
+                rssLink: frihedsbrevetRssUrl(key)
+              }))
+            ];
+            const normalizedSearchText = normalizeText(searchText);
+            results.push(...allData.filter(podcast => normalizeText(podcast.text).includes(normalizedSearchText)));
+            currentSearchResults = results;
+          } else {
+            function normalizeText(text) {
+              return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+            }
+            const normalizedSearchText = normalizeText(searchText);
+            let newResults = allAudiobooks.filter(podcast =>
+              normalizeText(podcast.text).includes(normalizedSearchText) ||
+              normalizeText(podcast.author).includes(normalizedSearchText) ||
+              (podcast.narrator && normalizeText(podcast.narrator).includes(normalizedSearchText))
+            );
+            newResults.sort((a, b) => {
+              const aTitleMatch = normalizeText(a.text).includes(normalizedSearchText) ? 1 : 0;
+              const bTitleMatch = normalizeText(b.text).includes(normalizedSearchText) ? 1 : 0;
+              const aAuthorMatch = normalizeText(a.author).includes(normalizedSearchText) ? 1 : 0;
+              const bAuthorMatch = normalizeText(b.author).includes(normalizedSearchText) ? 1 : 0;
+              const aNarratorMatch = (a.narrator && normalizeText(a.narrator).includes(normalizedSearchText)) ? 1 : 0;
+              const bNarratorMatch = (b.narrator && normalizeText(b.narrator).includes(normalizedSearchText)) ? 1 : 0;
+              if (aTitleMatch !== bTitleMatch) return bTitleMatch - aTitleMatch;
+              if (aAuthorMatch !== bAuthorMatch) return bAuthorMatch - aAuthorMatch;
+              return bNarratorMatch - aNarratorMatch;
+            });
+            currentSearchResults = newResults;
+          }
+          searchCurrentPage = 1;
+          renderSearchResults(currentSearchResults, searchCurrentPage);
         }
+
         function renderSearchResults(results, page = 1) {
-         if (page === 1) resultsContainer.innerHTML = '';
-         if (results.length === 0) {
-         resultsContainer.innerHTML = '<p style="text-align:center;">Ingen søgeresultater fundet</p>';
-         return;
-         }
-         const grid = resultsContainer.querySelector('.podcast-grid') || document.createElement('div');
-         if (page === 1) {
-         grid.classList.add('podcast-grid');
-         resultsContainer.appendChild(grid);
-         }
-         paginateAndRender(results, page, grid, (paginated) => {
-         return paginated.map(result => {
-         const card = document.createElement('div');
-         card.classList.add('podcast-card');
-         const img = document.createElement('img');
-         img.alt = result.text;
-         img.classList.add('podcast-cover');
-         if (result.image) cacheAndLoadImage(result.image, img);
-         const title = document.createElement('div');
-         title.textContent = result.text;
-         title.classList.add('podcast-title');
-         card.appendChild(img);
-         card.appendChild(title);
-         adjustTitleFontSize(card, title, result.text.length);
-         card.addEventListener('click', () => openModal(result));
-         return card;
-         });
-         }, searchObserver);
+          if (page === 1) resultsContainer.innerHTML = '';
+          if (results.length === 0) {
+            resultsContainer.innerHTML = '<p style="text-align:center;">Ingen søgeresultater fundet</p>';
+            return;
+          }
+          const grid = resultsContainer.querySelector('.podcast-grid') || document.createElement('div');
+          if (page === 1) {
+            grid.classList.add('podcast-grid');
+            resultsContainer.appendChild(grid);
+          }
+          paginateAndRender(results, page, grid, (paginated) => {
+            return paginated.map(result => {
+              const card = document.createElement('div');
+              card.classList.add('podcast-card');
+              const img = document.createElement('img');
+              img.alt = result.text;
+              img.classList.add('podcast-cover');
+              if (result.image) cacheAndLoadImage(result.image, img);
+              const title = document.createElement('div');
+              title.textContent = result.text;
+              title.classList.add('podcast-title');
+              card.appendChild(img);
+              card.appendChild(title);
+              adjustTitleFontSize(card, title, result.text.length);
+              card.addEventListener('click', () => openModal(result));
+              return card;
+            });
+          }, searchObserver);
         }
         async function openCache() {
-         return caches.open(CACHE_NAME);
+          return caches.open(CACHE_NAME);
         }
         async function getLRUCacheKeys() {
-         const cache = await openCache();
-         const requests = await cache.keys();
-         return requests.map(request => request.url);
+          const cache = await openCache();
+          const requests = await cache.keys();
+          return requests.map(request => request.url);
         }
         async function updateLRUCache(cacheKey) {
-         let cacheKeys = await getLRUCacheKeys();
-         cacheKeys = cacheKeys.filter(key => key !== cacheKey);
-         cacheKeys.push(cacheKey);
-         if (cacheKeys.length > MAX_CACHE_ITEMS) {
-         const oldestKey = cacheKeys.shift();
-         const cache = await openCache();
-         await cache.delete(oldestKey);
-         }
+          let cacheKeys = await getLRUCacheKeys();
+          cacheKeys = cacheKeys.filter(key => key !== cacheKey);
+          cacheKeys.push(cacheKey);
+          if (cacheKeys.length > MAX_CACHE_ITEMS) {
+            const oldestKey = cacheKeys.shift();
+            const cache = await openCache();
+            await cache.delete(oldestKey);
+          }
         }
         async function loadImageToCache(url, cacheKey, element) {
-         const cache = await openCache();
-         const cachedResponse = await cache.match(url);
-         if (cachedResponse) {
-         const blob = await cachedResponse.blob();
-         element.src = URL.createObjectURL(blob);
-         } else {
-         fetch(url).then(response => response.blob()).then(blob => {
-         element.src = URL.createObjectURL(blob);
-         const responseToCache = new Response(blob);
-         cache.put(url, responseToCache);
-         updateLRUCache(cacheKey);
-         }).catch(() => {
-         element.src = url;
-         });
-         }
+          const cache = await openCache();
+          const cachedResponse = await cache.match(url);
+          if (cachedResponse) {
+            const blob = await cachedResponse.blob();
+            element.src = URL.createObjectURL(blob);
+          } else {
+            fetch(url).then(response => response.blob()).then(blob => {
+              element.src = URL.createObjectURL(blob);
+              const responseToCache = new Response(blob);
+              cache.put(url, responseToCache);
+              updateLRUCache(cacheKey);
+            }).catch(() => {
+              element.src = url;
+            });
+          }
         }
+
         function cacheAndLoadImage(url, element) {
-         const cacheKey = `cachedImage:${url}`;
-         loadImageToCache(url, cacheKey, element);
+          const cacheKey = `cachedImage:${url}`;
+          loadImageToCache(url, cacheKey, element);
         }
+
         function adjustTitleFontSize(card, title, textLength) {
-         const containerWidth = card.offsetWidth;
-         const maxFontSize = 1;
-         const minFontSize = 0.5;
-         const optimalCharLength = 36;
-         let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
-         newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
-         title.style.fontSize = `${newFontSize}rem`;
+          const containerWidth = card.offsetWidth;
+          const maxFontSize = 1;
+          const minFontSize = 0.5;
+          const optimalCharLength = 36;
+          let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
+          newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
+          title.style.fontSize = `${newFontSize}rem`;
         }
         let debounceTimeout;
         document.getElementById('searchInput').addEventListener('input', function() {
-         clearTimeout(debounceTimeout);
-         debounceTimeout = setTimeout(() => {
-         filterContent(this.value);
-         }, 500);
+          clearTimeout(debounceTimeout);
+          debounceTimeout = setTimeout(() => {
+            filterContent(this.value);
+          }, 500);
         });
         document.getElementById('searchInput').addEventListener('keypress', function(event) {
-         if (event.key === 'Enter') this.blur();
+          if (event.key === 'Enter') this.blur();
         });
         document.getElementById('episodeSearchInput').addEventListener('keypress', function(event) {
-         if (event.key === 'Enter') this.blur();
+          if (event.key === 'Enter') this.blur();
         });
+
         function togglePlayerSidebar() {
-         const sidebar = document.getElementById('playerSidebar');
-         const hamburger = document.querySelector('.hamburger');
-         if (sidebar.classList.contains('open')) {
-         closeSidebarWithoutBack();
-         history.back();
-         } else {
-         sidebar.classList.add('open');
-         hamburger.classList.add('open');
-         history.pushState({
-         overlay: 'sidebar'
-         }, '', '');
-         }
+          const sidebar = document.getElementById('playerSidebar');
+          const hamburger = document.querySelector('.hamburger');
+          if (sidebar.classList.contains('open')) {
+            closeSidebarWithoutBack();
+            history.back();
+          } else {
+            sidebar.classList.add('open');
+            hamburger.classList.add('open');
+            history.pushState({
+              overlay: 'sidebar'
+            }, '', '');
+          }
         }
+
         function sanitizeString(str) {
-         return str.replace(/[&<>"'`]/g, (char) => {
-         const escapeChars = {
-         '&': '&amp;',
-         '<': '&lt;',
-         '>': '&gt;',
-         '"': '&quot;',
-         "'": '&#39;',
-         '`': '&#96;',
-         };
-         return escapeChars[char] || char;
-         });
+          return str.replace(/[&<>"'`]/g, (char) => {
+            const escapeChars = {
+              '&': '&amp;',
+              '<': '&lt;',
+              '>': '&gt;',
+              '"': '&quot;',
+              "'": '&#39;',
+              '`': '&#96;',
+            };
+            return escapeChars[char] || char;
+          });
         }
         async function openPlayerSidebar(itemOrUrl) {
-         document.getElementById('spinnerOverlay').style.display = 'flex';
-         try {
-         if (typeof itemOrUrl === 'string') {
-         playerRssUrl = itemOrUrl;
-         const xmlText = await fetchRSSFeed(playerRssUrl);
-         const parser = new DOMParser();
-         const rssDoc = parser.parseFromString(xmlText, 'application/xml');
-         if (rssDoc.querySelector('parsererror')) throw new Error('Ugyldigt XML-format');
-         const channel = rssDoc.querySelector('channel');
-         if (!channel) throw new Error('Ugyldig RSS: Mangler hovedkanal i feed');
-         playerPodTitle = sanitizeString(channel.querySelector('title')?.textContent || '(ingen titel)');
-         playerPodDesc = sanitizeString(channel.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
-         const itunesImage = channel.querySelector('itunes\\:image') || channel.querySelector('image');
-         playerPodArtwork = itunesImage?.getAttribute('href') || itunesImage?.querySelector('url')?.textContent || '';
-         const episodes = Array.from(channel.querySelectorAll('item'));
-         playerTotalEpisodes = episodes.length;
-         if (playerTotalEpisodes === 0) throw new Error('Ingen episoder fundet i RSS');
-         playerEpisodesData = episodes.map(episode => ({
-         title: sanitizeString(episode.querySelector('title')?.textContent || '(ingen titel)'),
-         description: sanitizeString(episode.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
-         pubDate: new Date(Date.parse(episode.querySelector('pubDate')?.textContent) || Date.now()),
-         link: episode.querySelector('enclosure')?.getAttribute('url') || '',
-         guid: episode.querySelector('guid')?.textContent || ''
-         })).filter(ep => ep.link);
-         playerEpisodesData.sort((a, b) => a.pubDate - b.pubDate);
-         } else {
-         playerRssUrl = '';
-         playerPodTitle = sanitizeString(itemOrUrl.text);
-         playerPodDesc = sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
-         playerPodArtwork = itemOrUrl.image;
-         playerEpisodesData = [{
-         title: sanitizeString(itemOrUrl.text),
-         description: sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
-         pubDate: new Date(itemOrUrl.year_of_publication, 0, 1),
-         link: itemOrUrl.mp3Link,
-         guid: '',
-         author: itemOrUrl.author,
-         year: itemOrUrl.year_of_publication,
-         narrator: itemOrUrl.narrator,
-         image: itemOrUrl.image,
-         isAudiobook: true
-         }];
-         playerTotalEpisodes = 1;
-         }
-         playerCurrentPage = 1;
-         playerDisplayEpisodes();
-         document.getElementById('podcast-info').style.display = 'block';
-         const sidebar = document.getElementById('playerSidebar');
-         if (!sidebar.classList.contains('open')) {
-         togglePlayerSidebar();
-         }
-         } catch (error) {
-         showToast(`Indlæsningsfejl: ${error.message}`);
-         console.error('Error loading podcast data:', error);
-         } finally {
-         document.getElementById('spinnerOverlay').style.display = 'none';
-         }
+          document.getElementById('spinnerOverlay').style.display = 'flex';
+          try {
+            if (typeof itemOrUrl === 'string') {
+              playerRssUrl = itemOrUrl;
+              const xmlText = await fetchRSSFeed(playerRssUrl);
+              const parser = new DOMParser();
+              const rssDoc = parser.parseFromString(xmlText, 'application/xml');
+              if (rssDoc.querySelector('parsererror')) throw new Error('Ugyldigt XML-format');
+              const channel = rssDoc.querySelector('channel');
+              if (!channel) throw new Error('Ugyldig RSS: Mangler hovedkanal i feed');
+              playerPodTitle = sanitizeString(channel.querySelector('title')?.textContent || '(ingen titel)');
+              playerPodDesc = sanitizeString(channel.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
+              const itunesImage = channel.querySelector('itunes\\:image') || channel.querySelector('image');
+              playerPodArtwork = itunesImage?.getAttribute('href') || itunesImage?.querySelector('url')?.textContent || '';
+              const episodes = Array.from(channel.querySelectorAll('item'));
+              playerTotalEpisodes = episodes.length;
+              if (playerTotalEpisodes === 0) throw new Error('Ingen episoder fundet i RSS');
+              playerEpisodesData = episodes.map(episode => ({
+                title: sanitizeString(episode.querySelector('title')?.textContent || '(ingen titel)'),
+                description: sanitizeString(episode.querySelector('description')?.textContent || '(ingen beskrivelse)').replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
+                pubDate: new Date(Date.parse(episode.querySelector('pubDate')?.textContent) || Date.now()),
+                link: episode.querySelector('enclosure')?.getAttribute('url') || '',
+                guid: episode.querySelector('guid')?.textContent || ''
+              })).filter(ep => ep.link);
+              playerEpisodesData.sort((a, b) => a.pubDate - b.pubDate);
+            } else {
+              if (itemOrUrl.provider === 'Frihedsbrevet') {
+                const jsonKey = Object.keys(frihedsbrevetPodcastsData).find(k => frihedsbrevetPodcastsData[k].title === itemOrUrl.text);
+                const pod = frihedsbrevetPodcastsData[jsonKey];
+                playerPodTitle = sanitizeString(pod.title);
+                playerPodDesc = sanitizeString(pod.description).replace(/\n/g, '<br>');
+                playerPodArtwork = pod.cover;
+                playerEpisodesData = pod.episodes.map(ep => ({
+                  title: ep.title,
+                  description: ep.duration || '',
+                  pubDate: new Date(ep.date.replace(/(\d{4})\s(\d{2})\s(\d{2})/, '$1-$2-$3')),
+                  link: ep.stream_url,
+                  guid: ep.uuid,
+                  image: ep.image
+                }));
+                playerTotalEpisodes = playerEpisodesData.length;
+                playerRssUrl = itemOrUrl.rssLink; 
+              } else {
+                playerRssUrl = '';
+                playerPodTitle = sanitizeString(itemOrUrl.text);
+                playerPodDesc = sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>');
+                playerPodArtwork = itemOrUrl.image;
+                playerEpisodesData = [{
+                  title: sanitizeString(itemOrUrl.text),
+                  description: sanitizeString(itemOrUrl.description).replace(/\n/g, '<br>').replace(/&lt;BR&gt;/gi, '<br>'),
+                  pubDate: new Date(itemOrUrl.year_of_publication, 0, 1),
+                  link: itemOrUrl.mp3Link,
+                  guid: '',
+                  author: itemOrUrl.author,
+                  year: itemOrUrl.year_of_publication,
+                  narrator: itemOrUrl.narrator,
+                  image: itemOrUrl.image,
+                  isAudiobook: true
+                }];
+                playerTotalEpisodes = 1;
+              }
+            }
+            playerCurrentPage = 1;
+            playerDisplayEpisodes();
+            document.getElementById('podcast-info').style.display = 'block';
+            const sidebar = document.getElementById('playerSidebar');
+            if (!sidebar.classList.contains('open')) {
+              togglePlayerSidebar();
+            }
+          } catch (error) {
+            showToast(`Indlæsningsfejl: ${error.message}`);
+            console.error('Error loading podcast data:', error);
+          } finally {
+            document.getElementById('spinnerOverlay').style.display = 'none';
+          }
         }
+
         function updatePodcastInfo() {
-         const podcastInfo = document.getElementById('podcast-info');
-         podcastInfo.innerHTML = playerCurrentPage === 1 ? `<h2>${playerPodTitle}</h2><p class="p">${playerPodDesc}</p>` : '';
+          const podcastInfo = document.getElementById('podcast-info');
+          podcastInfo.innerHTML = playerCurrentPage === 1 ? `<h2>${playerPodTitle}</h2><p class="p">${playerPodDesc}</p>` : '';
         }
+
         function getPlayerEpisodesToShow() {
-         const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-         let filteredData = playerEpisodesData;
-         if (playerFilterEpisodes) {
-         filteredData = playerEpisodesData.filter(ep => !finishedEpisodes.includes(getEpisodeKey(ep)));
-         }
-         const totalPages = Math.ceil(filteredData.length / PLAYER_ITEMS_PER_PAGE);
-         const startIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
-         return {
-         episodes: filteredData.slice(startIndex, startIndex + PLAYER_ITEMS_PER_PAGE),
-         totalPages
-         };
+          const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
+          let filteredData = playerEpisodesData;
+          if (playerFilterEpisodes) {
+            filteredData = playerEpisodesData.filter(ep => !finishedEpisodes.includes(getEpisodeKey(ep)));
+          }
+          const totalPages = Math.ceil(filteredData.length / PLAYER_ITEMS_PER_PAGE);
+          const startIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
+          return {
+            episodes: filteredData.slice(startIndex, startIndex + PLAYER_ITEMS_PER_PAGE),
+            totalPages
+          };
         }
+
         function playerDisplayEpisodes() {
-         updatePodcastInfo();
-         const {
-         episodes: episodesToShow,
-         totalPages
-         } = getPlayerEpisodesToShow();
-         document.getElementById('total-pages').textContent = totalPages;
-         document.getElementById('current-page').textContent = playerCurrentPage;
-         if (episodesToShow.length === 0 && playerCurrentPage > 1) {
-         playerCurrentPage--;
-         showToast('Ingen flere episoder på denne side');
-         return playerDisplayEpisodes();
-         }
-         const fragment = document.createDocumentFragment();
-         const currentlyPlaying = localStorage.getItem('currentlyPlaying');
-         episodesToShow.forEach(episode => {
-         const playingClass = episode.link === currentlyPlaying ? ' playing' : '';
-         const longTitleClass = episode.title.length > 30 ? ' long-title' : '';
-         const div = document.createElement('div');
-         div.className = `episode${playingClass}`;
-         div.dataset.url = episode.link;
-         div.dataset.title = episode.title.replace(/'/g, "\\'");
-         div.innerHTML = `
+          updatePodcastInfo();
+          const {
+            episodes: episodesToShow,
+            totalPages
+          } = getPlayerEpisodesToShow();
+          document.getElementById('total-pages').textContent = totalPages;
+          document.getElementById('current-page').textContent = playerCurrentPage;
+          if (episodesToShow.length === 0 && playerCurrentPage > 1) {
+            playerCurrentPage--;
+            showToast('Ingen flere episoder på denne side');
+            return playerDisplayEpisodes();
+          }
+          const fragment = document.createDocumentFragment();
+          const currentlyPlaying = localStorage.getItem('currentlyPlaying');
+          episodesToShow.forEach(episode => {
+            const playingClass = episode.link === currentlyPlaying ? ' playing' : '';
+            const longTitleClass = episode.title.length > 30 ? ' long-title' : '';
+            const div = document.createElement('div');
+            div.className = `episode${playingClass}`;
+            div.dataset.url = episode.link;
+            div.dataset.title = episode.title.replace(/'/g, "\\'");
+            div.innerHTML = `
             <div class="loading-spinner" style="display: none;"></div>
             <h4 class="player-episode-title${longTitleClass}">${episode.title}</h4>
             <p class="pub-date">${episode.isAudiobook ? episode.year : episode.pubDate.toLocaleDateString()}</p>
             <p class="episode-description">${episode.description}</p>
         `;
-         fragment.appendChild(div);
-         });
-         const podcastInfo = document.getElementById('podcast-info');
-         podcastInfo.appendChild(fragment);
-         attachPlayerEpisodeClickListeners();
-         attachDescriptionToggleListeners();
-         updatePaginationControls();
-         const pagination = document.getElementById('pagination-controls');
-         const podcastInfoElem = document.getElementById('podcast-info');
-         const toggleButton = document.getElementById('toggle-fully-listened');
-         const isAudiobook = playerEpisodesData.length > 0 && playerEpisodesData[0].isAudiobook;
-         toggleButton.style.display = isAudiobook ? 'none' : '';
-         if (totalPages <= 1 || playerTotalEpisodes === 0) {
-         pagination.style.display = 'none';
-         podcastInfoElem.style.maxHeight = 'calc(100% - 70px)';
-         if (!isAudiobook) {
-         toggleButton.style.bottom = '0px';
-         }
-         } else {
-         pagination.style.display = 'flex';
-         podcastInfoElem.style.maxHeight = 'calc(100% - 100px)';
-         if (!isAudiobook) {
-         toggleButton.style.bottom = '20px';
-         }
-         }
-         if (playerTotalEpisodes === 0) {
-         podcastInfo.innerHTML = '<p style="text-align:center;">Ingen episoder tilgængelig</p>';
-         }
+            fragment.appendChild(div);
+          });
+          const podcastInfo = document.getElementById('podcast-info');
+          podcastInfo.appendChild(fragment);
+          attachPlayerEpisodeClickListeners();
+          attachDescriptionToggleListeners();
+          updatePaginationControls();
+          const pagination = document.getElementById('pagination-controls');
+          const podcastInfoElem = document.getElementById('podcast-info');
+          const toggleButton = document.getElementById('toggle-fully-listened');
+          const isAudiobook = playerEpisodesData.length > 0 && playerEpisodesData[0].isAudiobook;
+          toggleButton.style.display = isAudiobook ? 'none' : '';
+          if (totalPages <= 1 || playerTotalEpisodes === 0) {
+            pagination.style.display = 'none';
+            podcastInfoElem.style.maxHeight = 'calc(100% - 70px)';
+            if (!isAudiobook) {
+              toggleButton.style.bottom = '0px';
+            }
+          } else {
+            pagination.style.display = 'flex';
+            podcastInfoElem.style.maxHeight = 'calc(100% - 100px)';
+            if (!isAudiobook) {
+              toggleButton.style.bottom = '20px';
+            }
+          }
+          if (playerTotalEpisodes === 0) {
+            podcastInfo.innerHTML = '<p style="text-align:center;">Ingen episoder tilgæelig</p>';
+          }
         }
+
         function updatePaginationControls() {
-         const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
-         document.getElementById('prev-page').disabled = playerCurrentPage === 1;
-         document.getElementById('next-page').disabled = playerCurrentPage === totalPages;
+          const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
+          document.getElementById('prev-page').disabled = playerCurrentPage === 1;
+          document.getElementById('next-page').disabled = playerCurrentPage === totalPages;
         }
+
         function playerChangePage(increment) {
-         playerCurrentPage = Math.max(1, Math.min(playerCurrentPage + increment, parseInt(document.getElementById('total-pages').textContent, 10)));
-         document.querySelectorAll('.episode').forEach(ep => ep.remove());
-         playerDisplayEpisodes();
+          playerCurrentPage = Math.max(1, Math.min(playerCurrentPage + increment, parseInt(document.getElementById('total-pages').textContent, 10)));
+          document.querySelectorAll('.episode').forEach(ep => ep.remove());
+          playerDisplayEpisodes();
         }
+
         function attachPlayerEpisodeClickListeners() {
-         document.querySelectorAll('.episode').forEach(episodeElement => {
-         episodeElement.addEventListener('click', event => {
-         if (!event.target.classList.contains('episode-description')) {
-         const episodeUrl = episodeElement.dataset.url;
-         const episodeTitle = episodeElement.dataset.title;
-         const spinner = episodeElement.querySelector('.loading-spinner');
-         spinner.style.display = 'block';
-         playerPlayEpisode(episodeUrl, episodeTitle);
-         }
-         });
-         });
+          document.querySelectorAll('.episode').forEach(episodeElement => {
+            episodeElement.addEventListener('click', event => {
+              if (!event.target.classList.contains('episode-description')) {
+                const episodeUrl = episodeElement.dataset.url;
+                const episodeTitle = episodeElement.dataset.title;
+                const spinner = episodeElement.querySelector('.loading-spinner');
+                spinner.style.display = 'block';
+                playerPlayEpisode(episodeUrl, episodeTitle);
+              }
+            });
+          });
         }
+
         function toggleDescription(event) {
-         event.stopPropagation();
-         const desc = event.target;
-         const isExpanded = desc.style.maxHeight;
-         desc.style.maxHeight = isExpanded ? null : `${desc.scrollHeight}px`;
-         desc.classList.toggle('expanded', !isExpanded);
-         desc.setAttribute('aria-expanded', !isExpanded);
+          event.stopPropagation();
+          const desc = event.target;
+          const isExpanded = desc.style.maxHeight;
+          desc.style.maxHeight = isExpanded ? null : `${desc.scrollHeight}px`;
+          desc.classList.toggle('expanded', !isExpanded);
+          desc.setAttribute('aria-expanded', !isExpanded);
         }
+
         function attachDescriptionToggleListeners() {
-         document.querySelectorAll('.episode-description, #podcast-info .p').forEach(desc => {
-         desc.addEventListener('click', toggleDescription);
-         desc.setAttribute('aria-expanded', 'false');
-         });
+          document.querySelectorAll('.episode-description, #podcast-info .p').forEach(desc => {
+            desc.addEventListener('click', toggleDescription);
+            desc.setAttribute('aria-expanded', 'false');
+          });
         }
+
         function playerToggleEpisodeFilter() {
-         playerFilterEpisodes = !playerFilterEpisodes;
-         localStorage.setItem('filterEpisodes', playerFilterEpisodes);
-         playerApplyToggleState('filter', playerFilterEpisodes);
-         playerDisplayEpisodes();
+          playerFilterEpisodes = !playerFilterEpisodes;
+          localStorage.setItem('filterEpisodes', playerFilterEpisodes);
+          playerApplyToggleState('filter', playerFilterEpisodes);
+          playerDisplayEpisodes();
         }
+
         function savePlaybackProgress(episodeUrl, currentTime) {
-         if (episodeUrl && currentTime > 0) {
-         localStorage.setItem(`playback-progress-${episodeUrl}`, currentTime);
-         }
+          if (episodeUrl && currentTime > 0) {
+            localStorage.setItem(`playback-progress-${episodeUrl}`, currentTime);
+          }
         }
+
         function getPlaybackProgress(episodeUrl) {
-         return parseFloat(localStorage.getItem(`playback-progress-${episodeUrl}`)) || 0;
+          return parseFloat(localStorage.getItem(`playback-progress-${episodeUrl}`)) || 0;
         }
+
         function getEpisodeKey(episode) {
-         const key = episode.isAudiobook ? episode.link : playerRssUrl + (episode.guid || episode.link);
-         return key;
+          const key = episode.isAudiobook ? episode.link : playerRssUrl + (episode.guid || episode.link);
+          return key;
         }
+
         function markEpisodeAsFinished(episode) {
-         const key = getEpisodeKey(episode);
-         const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-         if (!finishedEpisodes.includes(key)) {
-         finishedEpisodes.push(key);
-         localStorage.setItem('finishedEpisodes', JSON.stringify(finishedEpisodes));
-         playerDisplayEpisodes();
-         } else {}
+          const key = getEpisodeKey(episode);
+          const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
+          if (!finishedEpisodes.includes(key)) {
+            finishedEpisodes.push(key);
+            localStorage.setItem('finishedEpisodes', JSON.stringify(finishedEpisodes));
+            playerDisplayEpisodes();
+          } else {}
         }
+
         function playNextEpisode() {
-         if (playerCurrentIndex !== -1) {
-         let nextIndex = playerCurrentIndex + 1;
-         if (playerFilterEpisodes) {
-         const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-         while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
-         nextIndex++;
-         }
-         }
-         if (nextIndex < playerEpisodesData.length) {
-         playerPlayEpisode(playerEpisodesData[nextIndex].link, playerEpisodesData[nextIndex].title);
-         playerCurrentIndex = nextIndex;
-         } else {
-         const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
-         if (playerCurrentPage < totalPages) {
-         playerChangePage(1);
-         setTimeout(() => {
-         let firstIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
-         if (playerFilterEpisodes) {
-         const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
-         while (firstIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[firstIndex]))) {
-         firstIndex++;
-         }
-         }
-         if (firstIndex < playerEpisodesData.length) {
-         playerCurrentIndex = firstIndex;
-         playerPlayEpisode(playerEpisodesData[firstIndex].link, playerEpisodesData[firstIndex].title);
-         }
-         }, 200);
-         }
-         }
-         }
+          if (playerCurrentIndex !== -1) {
+            let nextIndex = playerCurrentIndex + 1;
+            if (playerFilterEpisodes) {
+              const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
+              while (nextIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[nextIndex]))) {
+                nextIndex++;
+              }
+            }
+            if (nextIndex < playerEpisodesData.length) {
+              playerPlayEpisode(playerEpisodesData[nextIndex].link, playerEpisodesData[nextIndex].title);
+              playerCurrentIndex = nextIndex;
+            } else {
+              const totalPages = parseInt(document.getElementById('total-pages').textContent, 10);
+              if (playerCurrentPage < totalPages) {
+                playerChangePage(1);
+                setTimeout(() => {
+                  let firstIndex = (playerCurrentPage - 1) * PLAYER_ITEMS_PER_PAGE;
+                  if (playerFilterEpisodes) {
+                    const finishedEpisodes = JSON.parse(localStorage.getItem('finishedEpisodes') || '[]');
+                    while (firstIndex < playerEpisodesData.length && finishedEpisodes.includes(getEpisodeKey(playerEpisodesData[firstIndex]))) {
+                      firstIndex++;
+                    }
+                  }
+                  if (firstIndex < playerEpisodesData.length) {
+                    playerCurrentIndex = firstIndex;
+                    playerPlayEpisode(playerEpisodesData[firstIndex].link, playerEpisodesData[firstIndex].title);
+                  }
+                }, 200);
+              }
+            }
+          }
         }
         async function playerPlayEpisode(episodeUrl, episodeTitle) {
-         if (playerIsChangingEpisode || !episodeUrl) return;
-         playerIsChangingEpisode = true;
-         if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-         savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
-         }
-         playerCurrentIndex = playerEpisodesData.findIndex(ep => ep.link === episodeUrl);
-         currentEpisode = playerEpisodesData[playerCurrentIndex];
-         if (currentEpisode) {
-         if (currentEpisode.isAudiobook) {
-         currentTitle = currentEpisode.title;
-         currentArtist = `${currentEpisode.author} · ${currentEpisode.year}`;
-         currentAlbum = `${currentEpisode.author} · ${currentEpisode.narrator}`;
-         currentArtwork = currentEpisode.image;
-         } else {
-         currentTitle = currentEpisode.title;
-         const formattedDate = formatDateToDDMMYYYY(currentEpisode.pubDate);
-         currentArtist = `${playerPodTitle} · ${formattedDate}`;
-         currentAlbum = playerPodTitle;
-         currentArtwork = playerPodArtwork;
-         }
-         }
-         const savedTime = getPlaybackProgress(episodeUrl);
-         pendingSeek = savedTime;
-         const episodeSpinner = document.querySelector(`.episode[data-url="${episodeUrl}"] .loading-spinner`);
-         setAudioSource(episodeUrl);
-         localStorage.setItem('currentlyPlaying', episodeUrl);
-         document.title = episodeTitle;
-         try {
-         await audioPlayer.play();
-         playerIsPlaying = true;
-         document.querySelectorAll('.episode').forEach(ep => ep.classList.remove('playing'));
-         document.querySelector(`.episode[data-url="${episodeUrl}"]`)?.classList.add('playing');
-         updateMediaSessionState();
-         } catch (error) {
-         showToast('Afsnit utilgængeligt');
-         } finally {
-         if (episodeSpinner) episodeSpinner.style.display = 'none';
-         playerIsChangingEpisode = false;
-         }
+          if (playerIsChangingEpisode || !episodeUrl) return;
+          playerIsChangingEpisode = true;
+          if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
+            savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
+          }
+          playerCurrentIndex = playerEpisodesData.findIndex(ep => ep.link === episodeUrl);
+          currentEpisode = playerEpisodesData[playerCurrentIndex];
+          if (currentEpisode) {
+            if (currentEpisode.isAudiobook) {
+              currentTitle = currentEpisode.title;
+              currentArtist = `${currentEpisode.author} · ${currentEpisode.year}`;
+              currentAlbum = `${currentEpisode.author} · ${currentEpisode.narrator}`;
+              currentArtwork = currentEpisode.image;
+            } else {
+              currentTitle = currentEpisode.title;
+              const formattedDate = formatDateToDDMMYYYY(currentEpisode.pubDate);
+              currentArtist = `${playerPodTitle} · ${formattedDate}`;
+              currentAlbum = playerPodTitle;
+              currentArtwork = playerPodArtwork;
+            }
+          }
+          const savedTime = getPlaybackProgress(episodeUrl);
+          pendingSeek = savedTime;
+          const episodeSpinner = document.querySelector(`.episode[data-url="${episodeUrl}"] .loading-spinner`);
+          setAudioSource(episodeUrl);
+          localStorage.setItem('currentlyPlaying', episodeUrl);
+          document.title = episodeTitle;
+          try {
+            await audioPlayer.play();
+            playerIsPlaying = true;
+            document.querySelectorAll('.episode').forEach(ep => ep.classList.remove('playing'));
+            document.querySelector(`.episode[data-url="${episodeUrl}"]`)?.classList.add('playing');
+            updateMediaSessionState();
+          } catch (error) {
+            showToast('Afsnit utilgængeligt');
+          } finally {
+            if (episodeSpinner) episodeSpinner.style.display = 'none';
+            playerIsChangingEpisode = false;
+          }
         }
+
         function handleTimeUpdate() {
-         const currentTime = audioPlayer.currentTime;
-         if (currentTime - playerLastTimeUpdate > TIME_UPDATE_INTERVAL && audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-         const src = audioPlayer.source.sources[0].src;
-         savePlaybackProgress(src, currentTime);
-         playerLastTimeUpdate = currentTime;
-         setMediaSessionPositionState(audioPlayer);
-         }
-         if (audioPlayer.duration > 0 && currentTime >= audioPlayer.duration - 0.5 && currentTime / audioPlayer.duration > 0.9) {
-         if (currentEpisode) {
-         markEpisodeAsFinished(currentEpisode);
-         } else {}
-         }
+          const currentTime = audioPlayer.currentTime;
+          if (currentTime - playerLastTimeUpdate > TIME_UPDATE_INTERVAL && audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
+            const src = audioPlayer.source.sources[0].src;
+            savePlaybackProgress(src, currentTime);
+            playerLastTimeUpdate = currentTime;
+            setMediaSessionPositionState(audioPlayer);
+          }
+          if (audioPlayer.duration > 0 && currentTime >= audioPlayer.duration - 0.5 && currentTime / audioPlayer.duration > 0.9) {
+            if (currentEpisode) {
+              markEpisodeAsFinished(currentEpisode);
+            } else {}
+          }
         }
+
         function handlePause() {
-         if (playerIsChangingEpisode) return;
-         if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
-         savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
-         }
-         playerIsPlaying = false;
-         setMediaSessionPositionState(audioPlayer);
+          if (playerIsChangingEpisode) return;
+          if (audioPlayer.source && audioPlayer.source.sources && audioPlayer.source.sources.length > 0) {
+            savePlaybackProgress(audioPlayer.source.sources[0].src, audioPlayer.currentTime);
+          }
+          playerIsPlaying = false;
+          setMediaSessionPositionState(audioPlayer);
         }
+
         function playerApplyToggleState(type, state) {
-         if (type === 'filter') {
-         document.getElementById('eye-icon').classList.toggle('fa-eye', !state);
-         document.getElementById('eye-icon').classList.toggle('fa-eye-slash', state);
-         document.getElementById('toggle-fully-listened').classList.toggle('toggle-fully-listened-filtered', state);
-         }
+          if (type === 'filter') {
+            document.getElementById('eye-icon').classList.toggle('fa-eye', !state);
+            document.getElementById('eye-icon').classList.toggle('fa-eye-slash', state);
+            document.getElementById('toggle-fully-listened').classList.toggle('toggle-fully-listened-filtered', state);
+          }
         }
+
         function updateMediaSessionState() {
-         if ('mediaSession' in navigator) {
-         navigator.mediaSession.playbackState = playerIsPlaying ? 'playing' : 'paused';
-         navigator.mediaSession.setPositionState({
-         duration: audioPlayer.duration || 0,
-         playbackRate: audioPlayer.playbackRate,
-         position: audioPlayer.currentTime
-         });
-         }
+          if ('mediaSession' in navigator) {
+            navigator.mediaSession.playbackState = playerIsPlaying ? 'playing' : 'paused';
+            navigator.mediaSession.setPositionState({
+              duration: audioPlayer.duration || 0,
+              playbackRate: audioPlayer.playbackRate,
+              position: audioPlayer.currentTime
+            });
+          }
         }
 </script>
 </body>
