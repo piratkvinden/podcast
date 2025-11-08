@@ -781,5 +781,21 @@ Vært: Morten Schnell Lauritzen.</description>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524452</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d5d9de2818e2a03cc54d/a80304717e324f5761be8b78792b102c3d27a66359af56bb709837fe68f848bc" length="4467672" type="audio/mpeg"/>
   </item>
+  <item>
+   <title>Seneste nyt kl. 01:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:04</itunes:duration>
+   <pubDate>Sat, 08 Nov 2025 01:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2025/seneste-nyt-kl-01-00-14842501455</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6888d0331d7c48062c77f9ee/efc12d2cd814bdcd4573bf80e89b87b295c1673b2f05b2cb270871e0a7a2b29b" length="4440024" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 00:00</title>
+   <description>De seneste nyheder - døgnet rundt.</description>
+   <itunes:duration>00:03:06</itunes:duration>
+   <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202523/seneste-nyt-kl-00-00-14842524455</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6895d61fde2818e2a03cc821/11c34d7a10f2bc82b86c74b2073c6ccddc0e27e0cb02b79b0e01a9eff6fa9108" length="4478040" type="audio/mpeg"/>
+  </item>
  </channel>
 </rss>
