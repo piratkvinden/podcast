@@ -6,6 +6,16 @@
   <description>Nyd et længere stykke klassisk musik i sin helhed.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67f9107e825d0da23aa2d3d3"/>
   <item>
+   <title>Saint-Saëns' Violinkoncert nr. 3</title>
+   <description>Nyd et længere stykke klassisk musik i sin helhed. 
+Jinjoo Cho, violin. Orkestret Appasionato. Dirigent: Mathieu Herzog. 
+Vært: Jens Cornelius.</description>
+   <itunes:duration>00:57:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 11:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/saint-saens-violinkoncert-nr-3-12422561463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a5761175376c1f57f34/f0eab0a93cdfda6babe3cd69282d1dd3495d0be6cd15275c559cb3706d5e9626" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Pagen og kongedatteren</title>
    <description>Nyd et længere stykke klassisk musik i sin helhed. 
 Robert Schumann: Pagen og kongedatteren. DR Symfoniorkestret &amp; DR Radiokoret. Solister: Hanne Fischer, Marianne Rørholm, m.fl. Dirigent: Michael Schønwandt. 
@@ -195,16 +205,6 @@ Vært: Jens Cornelius.</description>
    <pubDate>Wed, 15 Oct 2025 11:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/klaverkoncert-nr-5-af-moscheles-12422561423</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a907b626ea9bbfb13f2/42ee87415a7ac5735d4ae313802275cd8e51ba3b91f71cec10c877d90f3a7edf" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Dvoraks Symfoni nr. 6</title>
-   <description>Nyd et længere stykke klassisk musik i sin helhed. 
-Dvorak: Symfoni nr. 6. Bamberg Symfoniorkester. Dirigent: Jakub Hrusa.
-Vært: Jens Cornelius.</description>
-   <itunes:duration>00:57:00</itunes:duration>
-   <pubDate>Tue, 14 Oct 2025 11:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/vaerket/vaerket/dvoraks-symfoni-nr-6-12422561422</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68245a9061175376c1f5816f/a95c740698efa2497d1618a169bc296dbdce14bf8e973c5d89ccd3a522d6c21c" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>

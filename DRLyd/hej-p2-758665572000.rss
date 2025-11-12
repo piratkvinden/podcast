@@ -6,6 +6,16 @@
   <description>Hej P2 er programmet hvor du kan dele dine oplevelser, erfaringer og betragtninger ud fra dagens emne. Sammen kortlægger og undersøger vi kulturen stort som småt. Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68bfde0e1a33e0e6472a4641"/>
   <item>
+   <title>Religiøs musik</title>
+   <description>I dag gælder det religiøs musik. Hvad skal vi høre og hvorfor?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Cæcilie Iburg Printzlau.</description>
+   <itunes:duration>02:22:02</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/religioes-musik-12422530463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2def108f0a6b2ce27fd/cb7090820b6eb38b2b574beac5e7c02cc8f586f327f6e6184bc9f42db41a97ff" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Min yndlingstaske</title>
    <description>Hvilken taske er din favorit, og hvad har du med i den?  
 Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
@@ -194,16 +204,6 @@ Vært: Mette Greiffenberg.</description>
    <pubDate>Wed, 15 Oct 2025 08:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/hyggemad-12422530423</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2991e0a1c49e06560a9/730439184d66755afe699d1b2f97533b03bb0c10156ff106fd9448a11b78dd5d" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>En særlig hund</title>
-   <description>Hvilken hund glemmer du aldrig - og hvorfor?  
-Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk  
-Vært: Mette Greiffenberg.</description>
-   <itunes:duration>02:21:56</itunes:duration>
-   <pubDate>Tue, 14 Oct 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/en-saerlig-hund-12422530422</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2982b77f3385e30bd53/8cceab4ddfc4bd2182544b34abb5d636e5d8868e224612cd4ba9339830bc9d13" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
