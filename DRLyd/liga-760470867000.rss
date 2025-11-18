@@ -6,6 +6,15 @@
   <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb7"/>
   <item>
+   <title>Landskampen på P3</title>
+   <description>Årets vigtigste landskamp. Kommer Danmark til VM?
+Værter: Mikkel Nygaard og Morten Hausborg.</description>
+   <itunes:duration>03:00:00</itunes:duration>
+   <pubDate>Tue, 18 Nov 2025 20:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/landskampen-paa-p3-13652502472</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:691302ef3d1d95f2b20dc71d/507838fe42e5519a61ceda7208ca5d061e217ee74ce437b3b72fc66c238ee64a" length="259202016" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 15. november 2025</title>
    <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
    <itunes:duration>05:00:03</itunes:duration>
@@ -124,14 +133,6 @@
    <pubDate>Tue, 21 Oct 2025 18:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/tirsdag-21-oktober-2025-13652502432</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cbff994e0efd14f5096d9c/1859aa08c4f5019f9d792c05e924eb5d004de6675c4e9cc6114271457a6a2668" length="424924664" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Mandag 20. oktober 2025</title>
-   <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-   <itunes:duration>03:59:29</itunes:duration>
-   <pubDate>Mon, 20 Oct 2025 18:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/mandag-20-oktober-2025-13652502431</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cbff98fc6a9c7e39520f69/3a00974fa8d03507edcb2b866f48a6169178242b7fe44afb4870f2a3ba8bd407" length="344874488" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
