@@ -6,212 +6,84 @@
   <description>Hør seneste regionale nyheder fra P4 Syd.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c927bb2e9899b2c17bb7"/>
   <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbe37b626ea9bb289f96/1f7c844db8a1bca8d5d7de474f99c95296958c68b03cb8f6ed87bd367a2a2b77" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7d7b3140b1c1f3bdff6/ed24ba8878177ad53d8473d634cebbd310c7b175d19835eb8aa64aaeb4cb0b28" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f52b77f3385e30d39d/0f3e78659c22c16555c4a00dec3287a250e0f4cc7db160c26dca250ae123167f" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca1512b77f3385e30b463/0cf71f9a339c6b7591844f259ed602f3f6d15d2f9037b5da0ec03a02a7905acb" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0fc56338368d76919f/3be2d48c3d41e1979e0d890f85d201d00f8b12d829ab21cdaf2ed29817c1b8f8" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 16 Nov 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513467</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980fa75c4b58350e1620/760f66b740c94c9a079192672e4b74529b35f7e2ab2004d38cb2fe70a6bf7d86" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 17:30</title>
    <description>Seneste nyt kl. 17:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb0db2adbc356488a89/d2f428dfbfd3a324230566e8e84ea83ecff6ed38a2e85766c760d5ac5349152a" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb033571f23fac0380b/19b4ce4c8793b2425a955aabde739e28107c9fb6f1372bc460ef8c5ce9e3c637" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 16:30</title>
    <description>Seneste nyt kl. 16:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe132d7fa98b599fbaba/6150b5b6a4f336eda669786e31b68c9e005f1a37d88956550f99e5a703ebf471" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe027b626ea9bb28b251/323fcbbebbb1bd6f67d7bd0c18f3bce4de75e282979fdb899f39cf62520e2426" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 15:30</title>
    <description>Seneste nyt kl. 15:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afc907b626ea9bb28a57e/2f832104ad2bc195875d7b4b61cd25bbae3eba8942880fdd5365f30de505a84c" length="0" type="audio/x-m4a"/>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Fri, 14 Nov 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afcb061175376c122176a/a901d55bb1fedaff6c3db57f020015961df4c71b121ae6831d9e53939dc1bef8" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
    <description>Seneste nyt kl. 12:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbe57b626ea9bb289fa8/cbbd1f20fe3a274cadc4b2cfe5b28c5fd58698e292c0ad3cb7cf9a7f7ecadb2c" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afba833571f23fac0160d/d04d8da0f581cff1054044f4b049be4401ed5e0b708ae50828901001c60b8a60" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 11:30</title>
    <description>Seneste nyt kl. 11:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7d7b3140b1c1f3bdfff/e4e80efa8dc6c09f0ab6c7753c5a45e8f185d1af174d593b6ce356c49af6b502" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:01:59</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f5b3140b1c1f3bd214/e6c612aa6fdd714a1f154ef06c5a0a0b549ac447a298033ba4821a93d3346d56" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca1511e0a1c49e065581a/de5d1fccd01323b2ff658e2be72b3b2ed7b2c1a828b4760aa1879b2b08fc6187" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0fc56338368d7691a6/136660abae12b1996b168669c2c982b023a0761fb5cdcbd3cc73fe60631a84c1" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980f923dffbb19774982/f7e1042e6c27d2bccd99c4c6f1474aa14efb1ee1dcd1a743f5061dde2557eb24" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:30</title>
-   <description>Seneste nyt kl. 06:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 17 Nov 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512471</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c94859638c718cc176b46/1f194614f061c12b5da04fbc6b7f88784d967991d89836666c47b73399b8b6c8" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 17:30</title>
-   <description>Seneste nyt kl. 17:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb07b626ea9bb28c037/22c54a31c6c86fbfc66761f3f5295d2e853efaa69eaa01da435366ab92dc67cb" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:30</title>
-   <description>Seneste nyt kl. 16:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe027b626ea9bb28b24c/fd419080688623162118205785ee751f39c94283ed05b9eb9ba5d0e8b2d1540e" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:30</title>
-   <description>Seneste nyt kl. 15:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afc8f7b626ea9bb28a56a/500c230879ce8f08319edce90a79f1e186185b2d58245538029015f91563ceff" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbb67b626ea9bb289dd2/ea929559736baf6a695cdee2d71c66797fa5517d1f1fde47bf5282b7596322f4" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7dd1e0a1c49e06584f4/5425a9ea18d17d735cf4f9dee17f2fe4b4d619eebd6a4f47e61c97aab729929d" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7ddb3140b1c1f3be092/4f6a3fdd5209e88aa4e67f3fb6e366b76b24c172a34586186219bac5c8b5840d" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 10:30</title>
    <description>Seneste nyt kl. 10:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f4b3140b1c1f3bd1fb/a41e6ebe68cc98ab81528dd2fb4345c48a983eba8694625e7b09e91f05f3ccac" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f51e0a1c49e06576a7/5e3707f8ebfb5bc0164a4bd0d1609b9de8feecaca25a764c4559f232b1c59e5b" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 09:30</title>
    <description>Seneste nyt kl. 09:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca13ab3140b1c1f3bb0cc/682335f26d423894fd3441356d79b2ec9295565ace6b20fe0fd2e4e32cfee5e8" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca13ac56338368d76ae88/35fb5de64328d09234dad7425605a8b0904528d62aa489b00bf2b01fbccb61f7" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 08:30</title>
    <description>Seneste nyt kl. 08:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0e2b77f3385e3095a9/51fc1900757f38b16586f9e71031a50a8ead0e785073020ccde153eba93e4209" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0e923dffbb19776c49/8c41703bc6ab0054d86609618e120a3e4e3c9072326fe0e0ad3871ba2b24d99e" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 07:30</title>
    <description>Seneste nyt kl. 07:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980eb3140b1c1f3b6cb9/512464e5be846ba6552cbad7cab9c41f58ae0c360fdf497122124cb5082a0c70" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9824a75c4b58350e176b/78637ba8b1ffbbe2278a6dbe305a8949fc0c8ad78321411c9fe6d1a131a0a65b" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 06:30</title>
    <description>Seneste nyt kl. 06:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Wed, 12 Nov 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512463</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c948ab3140b1c1f3b5266/303a0ff643e5f301c048b7e0a43fa569ce74c460f1603faeca115b679016197a" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 14 Nov 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512465</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c94852b77f3385e3057ec/90054d600e610ea816de6b94228e1cdd5e3af76fdc9e0520f1a82ae9ad15e0f7" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 17:30</title>
@@ -470,84 +342,52 @@
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980e923dffbb1977495e/43cdbdac18e0b9f315ebbde91314d33c10d326af8371013da733ab6d8a51b759" length="0" type="audio/x-m4a"/>
   </item>
   <item>
-   <title>Seneste nyt kl. 17:30</title>
-   <description>Seneste nyt kl. 17:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb033571f23fac0380b/19b4ce4c8793b2425a955aabde739e28107c9fb6f1372bc460ef8c5ce9e3c637" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:30</title>
-   <description>Seneste nyt kl. 16:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe027b626ea9bb28b251/323fcbbebbb1bd6f67d7bd0c18f3bce4de75e282979fdb899f39cf62520e2426" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:30</title>
-   <description>Seneste nyt kl. 15:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afcb061175376c122176a/a901d55bb1fedaff6c3db57f020015961df4c71b121ae6831d9e53939dc1bef8" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 12:30</title>
    <description>Seneste nyt kl. 12:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afba833571f23fac0160d/d04d8da0f581cff1054044f4b049be4401ed5e0b708ae50828901001c60b8a60" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 16 Nov 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbe37b626ea9bb289f96/1f7c844db8a1bca8d5d7de474f99c95296958c68b03cb8f6ed87bd367a2a2b77" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 11:30</title>
    <description>Seneste nyt kl. 11:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7ddb3140b1c1f3be092/4f6a3fdd5209e88aa4e67f3fb6e366b76b24c172a34586186219bac5c8b5840d" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 16 Nov 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7d7b3140b1c1f3bdff6/ed24ba8878177ad53d8473d634cebbd310c7b175d19835eb8aa64aaeb4cb0b28" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 10:30</title>
    <description>Seneste nyt kl. 10:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f51e0a1c49e06576a7/5e3707f8ebfb5bc0164a4bd0d1609b9de8feecaca25a764c4559f232b1c59e5b" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 16 Nov 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f52b77f3385e30d39d/0f3e78659c22c16555c4a00dec3287a250e0f4cc7db160c26dca250ae123167f" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 09:30</title>
    <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca13ac56338368d76ae88/35fb5de64328d09234dad7425605a8b0904528d62aa489b00bf2b01fbccb61f7" length="0" type="audio/x-m4a"/>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 16 Nov 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca1512b77f3385e30b463/0cf71f9a339c6b7591844f259ed602f3f6d15d2f9037b5da0ec03a02a7905acb" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 08:30</title>
    <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0e923dffbb19776c49/8c41703bc6ab0054d86609618e120a3e4e3c9072326fe0e0ad3871ba2b24d99e" length="0" type="audio/x-m4a"/>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 16 Nov 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0fc56338368d76919f/3be2d48c3d41e1979e0d890f85d201d00f8b12d829ab21cdaf2ed29817c1b8f8" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 07:30</title>
    <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9824a75c4b58350e176b/78637ba8b1ffbbe2278a6dbe305a8949fc0c8ad78321411c9fe6d1a131a0a65b" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:30</title>
-   <description>Seneste nyt kl. 06:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Fri, 14 Nov 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512465</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c94852b77f3385e3057ec/90054d600e610ea816de6b94228e1cdd5e3af76fdc9e0520f1a82ae9ad15e0f7" length="0" type="audio/x-m4a"/>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 16 Nov 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513467</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980fa75c4b58350e1620/760f66b740c94c9a079192672e4b74529b35f7e2ab2004d38cb2fe70a6bf7d86" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 17:30</title>
@@ -628,6 +468,166 @@
    <pubDate>Thu, 13 Nov 2025 06:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512464</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c94996606cc65350d0ff8/102a0b1d72206201399ed9a92a842971d8a0ce51dbc3433b1dc1751a4f489061" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:30</title>
+   <description>Seneste nyt kl. 17:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb07b626ea9bb28c037/22c54a31c6c86fbfc66761f3f5295d2e853efaa69eaa01da435366ab92dc67cb" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:30</title>
+   <description>Seneste nyt kl. 16:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe027b626ea9bb28b24c/fd419080688623162118205785ee751f39c94283ed05b9eb9ba5d0e8b2d1540e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:30</title>
+   <description>Seneste nyt kl. 15:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afc8f7b626ea9bb28a56a/500c230879ce8f08319edce90a79f1e186185b2d58245538029015f91563ceff" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbb67b626ea9bb289dd2/ea929559736baf6a695cdee2d71c66797fa5517d1f1fde47bf5282b7596322f4" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7dd1e0a1c49e06584f4/5425a9ea18d17d735cf4f9dee17f2fe4b4d619eebd6a4f47e61c97aab729929d" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f4b3140b1c1f3bd1fb/a41e6ebe68cc98ab81528dd2fb4345c48a983eba8694625e7b09e91f05f3ccac" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca13ab3140b1c1f3bb0cc/682335f26d423894fd3441356d79b2ec9295565ace6b20fe0fd2e4e32cfee5e8" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0e2b77f3385e3095a9/51fc1900757f38b16586f9e71031a50a8ead0e785073020ccde153eba93e4209" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980eb3140b1c1f3b6cb9/512464e5be846ba6552cbad7cab9c41f58ae0c360fdf497122124cb5082a0c70" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:30</title>
+   <description>Seneste nyt kl. 06:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Wed, 12 Nov 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512463</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c948ab3140b1c1f3b5266/303a0ff643e5f301c048b7e0a43fa569ce74c460f1603faeca115b679016197a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:30</title>
+   <description>Seneste nyt kl. 17:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-17-30-14502522471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682affb0db2adbc356488a89/d2f428dfbfd3a324230566e8e84ea83ecff6ed38a2e85766c760d5ac5349152a" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:30</title>
+   <description>Seneste nyt kl. 16:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-16-30-14502521471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afe132d7fa98b599fbaba/6150b5b6a4f336eda669786e31b68c9e005f1a37d88956550f99e5a703ebf471" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:30</title>
+   <description>Seneste nyt kl. 15:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-15-30-14502519471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afc907b626ea9bb28a57e/2f832104ad2bc195875d7b4b61cd25bbae3eba8942880fdd5365f30de505a84c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-12-30-14502518471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:682afbe57b626ea9bb289fa8/cbbd1f20fe3a274cadc4b2cfe5b28c5fd58698e292c0ad3cb7cf9a7f7ecadb2c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-11-30-14502517471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca7d7b3140b1c1f3bdfff/e4e80efa8dc6c09f0ab6c7753c5a45e8f185d1af174d593b6ce356c49af6b502" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:01:59</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-10-30-14502516471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca5f5b3140b1c1f3bd214/e6c612aa6fdd714a1f154ef06c5a0a0b549ac447a298033ba4821a93d3346d56" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-09-30-14502515471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca1511e0a1c49e065581a/de5d1fccd01323b2ff658e2be72b3b2ed7b2c1a828b4760aa1879b2b08fc6187" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-08-30-14502514471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9d0fc56338368d7691a6/136660abae12b1996b168669c2c982b023a0761fb5cdcbd3cc73fe60631a84c1" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-07-30-14502513471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c980f923dffbb19774982/f7e1042e6c27d2bccd99c4c6f1474aa14efb1ee1dcd1a743f5061dde2557eb24" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:30</title>
+   <description>Seneste nyt kl. 06:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Mon, 17 Nov 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-syd-regionale-nyheder/p4-syd-regionale-nyheder/seneste-nyt-kl-06-30-14502512471</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c94859638c718cc176b46/1f194614f061c12b5da04fbc6b7f88784d967991d89836666c47b73399b8b6c8" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
