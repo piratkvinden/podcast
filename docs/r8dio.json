@@ -1499,7 +1499,13 @@
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/f5d7ab03-1d4c-4b2a-a499-b39900a29b60/image.jpg?t=1763459527&size=Medium",
     "slug": "niels-overgaard-alle",
     "program_url": "https://r8dio.dk/program/niels-overgaard-alle",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "Emil Simonsen",
+        "publishedAt": "2025-11-19T05:00:00.000Z",
+        "id": 2807
+      }
+    ]
   },
   {
     "title": "Absolut Gehør",
@@ -12261,6 +12267,11 @@
     "slug": "klunketid",
     "program_url": "https://r8dio.dk/program/klunketid",
     "episodes": [
+      {
+        "title": "Naser Khader",
+        "publishedAt": "2025-11-19T05:00:00.000Z",
+        "id": 2806
+      },
       {
         "title": "Jacob Weil",
         "publishedAt": "2025-11-12T05:00:00.000Z",
