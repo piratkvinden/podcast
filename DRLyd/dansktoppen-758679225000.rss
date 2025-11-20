@@ -8,6 +8,16 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4415a52248c98a43c535e"/>
   <item>
+   <title>Onsdag 19. november 2025</title>
+   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+   <itunes:duration>00:12:00</itunes:duration>
+   <pubDate>Wed, 19 Nov 2025 19:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/onsdag-19-november-2025-15452533473</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:689c3c58dc2d1a211da8e6e6/2b4fc26ba43a3ebc36ff3a291d5656c5f2c6ac1183665b22ff8d831a469aba2a" length="17281494" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 15. november 2025</title>
    <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
 Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
@@ -316,16 +326,6 @@ Vært: Ole Tøpholm.</description>
    <pubDate>Sat, 21 Jun 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/loerdag-21-jun-2025-15452532256</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6848ada3715313ce9ecc0378/c4fb433d5af14ab7fec2e534254c76395b1c2550a1e43a5288df891757f30edb" length="144068310" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Onsdag 18. jun. 2025</title>
-   <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-   <itunes:duration>00:12:00</itunes:duration>
-   <pubDate>Wed, 18 Jun 2025 19:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/onsdag-18-jun-2025-15452533253</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6844b936c01c3514d77a1a64/04dcd3eab8bdb8dd2a56699a27435141be2bf025aca102c97326ee8d86c7d069" length="17281494" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
