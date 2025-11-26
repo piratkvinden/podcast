@@ -6,6 +6,14 @@
   <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d6c95f338fec2052cfb7"/>
   <item>
+   <title>Onsdag 26. november 2025</title>
+   <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+   <itunes:duration>04:00:03</itunes:duration>
+   <pubDate>Wed, 26 Nov 2025 18:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/onsdag-26-november-2025-13652502483</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68e77122df10db2ff70d7f2d/be5a7e1387e4da72f94df216e1d9d7ad99ff56c91fe277c82dc0f4971f29d433" length="345685496" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Mandag 24. november 2025</title>
    <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
    <itunes:duration>04:00:03</itunes:duration>
@@ -117,14 +125,6 @@ Værter: Mikkel Nygaard og Morten Hausborg.</description>
    <pubDate>Sat, 01 Nov 2025 18:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/loerdag-1-november-2025-13652502446</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cc0411fc6a9c7e39523681/68044b9ee06c5d98e13ad6d65887b22c3d5eaad50015733ab14366aa9b02fa59" length="259285496" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Tirsdag 28. oktober 2025</title>
-   <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
-   <itunes:duration>03:55:04</itunes:duration>
-   <pubDate>Tue, 28 Oct 2025 18:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2025/tirsdag-28-oktober-2025-13652502442</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68cc0253fc6a9c7e3952262c/9deb6f52e71028300575ca2565aedf90386f26c6188bce40915e8098226c4f02" length="338518328" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
