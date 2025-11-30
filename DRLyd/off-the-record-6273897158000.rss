@@ -9,6 +9,15 @@ Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne
 Alt det, der gør det fedt at være musikfan!</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68342ccab55477aa47215e53"/>
   <item>
+   <title>Væk mig, når december er slut</title>
+   <description>P6' helt egen Grinch åbner juledøren på klem med alternative julesange, som ikke ligefrem lugter af brunkager og gran.
+Men der skal også være plads til den helt almindelige musik - især ovenpå en uge, hvor Roskilde Festival har hørt vores bønner!</description>
+   <itunes:duration>01:45:00</itunes:duration>
+   <pubDate>Sun, 30 Nov 2025 12:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/vaek-mig-naar-december-er-slut-16452521487</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68de8038983f96266a67a8dd/2bcf3c2e64e5c405bc83f064778fa38b332639eb1b23909a2edf7d55d26d6d50" length="151201603" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Ud med Oasis - ind med julen</title>
    <description>Det store Oasis-år er slut, og hvad så nu? De kalder det en pause, men meget tyder altså på, at vi ikke kan stole på noget som helst, de siger.
 Vi tager også det sidste kapitel i årets sidste omgang 'P6 Følger', men når et lys slukkes, så tændes der et nyt. Vi åbner julesæsonen på P6 lige nu!</description>
@@ -289,15 +298,6 @@ Men der bliver også gjort plads til spritny musik, som ikke er ren søndag. Bla
    <pubDate>Sun, 22 Jun 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/soendagstoner-og-nye-skaeringer-16452521257</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306357175b387554422196/e6be122263120a8c3cb556e66420c0428e7388eacedc6da0adb24559bdb12d9d" length="151201612" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Halvårsstatus og en vanvittig festivalplakat</title>
-   <description>Vi nærmer os afslutningen på første halvår af 2025, så i dag gør vi status på musikårets Q1 og Q2.
-Og så lægger et kontroversielt band op til en hed tanke om verdens bedste festival lineup.</description>
-   <itunes:duration>01:45:00</itunes:duration>
-   <pubDate>Sat, 21 Jun 2025 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/halvaarsstatus-og-en-vanvittig-festivalplakat-16452521256</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830635735191597f7db774b/3ff7ec108074a6fc50dc13a6680127956b27388bc4083c875f9f68cde342f7de" length="151201553" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
