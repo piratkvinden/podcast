@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>I Mine Ører</title>
+  <link>https://www.dr.dk/lyd/special-radio/i-mine-oerer-6640549099567</link>
+  <description>Du elsker at lytte til deres egne hits. Men hvad spiller egentlig i deres egne ører? Find ud af det, når en kendt dansk musiker deler ud af den musik de lytter til og elsker lige nu.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6911d41c732953ec6f138bd7"/>
+  <item>
+   <title>Alex Vargas</title>
+   <description>&quot;Jeg er en tuder...&quot; sådan siger Alex Vargas selv om sin måde at høre musik på. Og det passer! Kunstneren der selv brød lydmuren med hits som 'Solid Ground' og 'Shackled Up' afslører musikken, der fylder allermest i hans ører. Hør blandt andet, hvad han mener er den nye 'Crazy In Love', et voldsomt breakup-nummer og hvad der får tårerne til at til at trille midt på Vesterbro.
+Gæst: Alex Vargas
+Producer, tilrettelægger og klipper: Mads Gundersen
+Redaktør: Kasper Overby</description>
+   <itunes:duration>00:33:37</itunes:duration>
+   <pubDate>Tue, 02 Dec 2025 05:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/special-radio/i-mine-oerer/i-mine-oerer-1/alex-vargas-18452569001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:690239905f699d2ab1afdca4/5cd545b23432c24490f67f25297694169caa2056f2dc507fddbe0cd8638668d2" length="48424755" type="audio/mpeg"/>
+  </item>
+ </channel>
+</rss>
