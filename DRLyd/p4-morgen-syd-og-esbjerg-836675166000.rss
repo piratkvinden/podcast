@@ -6,6 +6,14 @@
   <description>Stå op med P4 Morgen Trekanten og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86ee6402b4153bee931"/>
   <item>
+   <title>Tirsdag 2. december 2025</title>
+   <description>Stå op med P4 Morgen Syd og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+   <itunes:duration>03:55:00</itunes:duration>
+   <pubDate>Tue, 02 Dec 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-morgen-syd-og-esbjerg/p4-morgen-syd-og-esbjerg/tirsdag-2-december-2025-14502520492</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c97a52b77f3385e306d15/5714e8796c2e750785c20d0ca2e9c7d842d387fcf6998798d3da9442d92cc9ea" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Mandag 1. december 2025</title>
    <description>Stå op med P4 Morgen Syd og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
    <itunes:duration>03:55:00</itunes:duration>
@@ -252,14 +260,6 @@
    <pubDate>Mon, 20 Oct 2025 06:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-morgen-syd-og-esbjerg/p4-morgen-syd-og-esbjerg/mandag-20-oktober-2025-14502520431</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c9792c56338368d76690f/937e813d5d6a68e1d097e3447b1d86adba5e1102741c019fbc18626d2beae009" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Fredag 17. oktober 2025</title>
-   <description>Stå op med P4 Morgen Trekanten og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-   <itunes:duration>03:55:00</itunes:duration>
-   <pubDate>Fri, 17 Oct 2025 06:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4syd/p4-morgen-syd-og-esbjerg/p4-morgen-syd-og-esbjerg/fredag-17-oktober-2025-14502520425</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c97a2923dffbb19774485/108d38b5d31d18c99cfbd46e7b1531a9b2e28a120aae01554b7246860191ef47" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
