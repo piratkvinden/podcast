@@ -6,6 +6,14 @@
   <description>Lyt til alle de seneste afsnit af Politikens podcasts</description>
   <itunes:image href="noimage"/>
   <item>
+   <title>Nederlagets historie holdes skjult i et aflåst rum i Udenrigsministeriet</title>
+   <description/>
+   <pubDate>Wed, 03 Dec 2025 11:37:59 +0000</pubDate>
+   <guid isPermaLink="false">10645808</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10645808.mp3?n=1764758279000&amp;source=app&amp;originArticleId=10645808&amp;premium=true" length="9053830" type="audio/mpeg"/>
+   <itunes:duration>09:25</itunes:duration>
+  </item>
+  <item>
    <title>Fra arkivet: Lær Marianne Larsen bedre at kende. Hvad inspirerer hendes digte? Og har hun altid en notesbog på sig?</title>
    <description>&lt;p&gt;At læse Marianne Larsens digte er som at træde ind i en have. Hun debuterede i lyrik-tidsskriftet Hvedekorn i 1969 og i bogform i 1971 med digtsamlingen ’Koncentrationer’. I dag modtager hun Politikens Frit Flet-pris, en lillesøsterpris til Politikens litteraturpris, for sin utrættelige indsats for nu i 50 år at have fornyet poesien og alligevel stadig være umiskendeligt den samme. Marianne Larsen har også netop vundet Kritikerprisen for sin seneste digtsamling ’Den morgen jeg tilfældigvis ikke var et insekt i september’.&lt;/p&gt;&lt;p&gt;I aften er der prisfest i Pressen, hvor vi fejrer Marianne Larsens poetiske forfatterskab. Indtil da kan du her lære hende bedre at kende og høre en række udvalgte digte læst op.&lt;/p&gt;&lt;p&gt;Lyt med.&lt;/p&gt;</description>
    <pubDate>Wed, 03 Dec 2025 09:59:10 +0000</pubDate>
@@ -14,7 +22,7 @@
    <itunes:duration>35:29</itunes:duration>
   </item>
   <item>
-   <title>Fra arkivet: Marianne Larsen er har været både barnlig og vidunderlig i 50 år</title>
+   <title>Fra arkivet: Marianne Larsen har været både barnlig og vidunderlig i 50 år</title>
    <description>&lt;p&gt;Digteren Marianne Larsen har en bibliografi der er mere omfattende end de fleste menukort. Siden debuten i 1971, ’Koncentrationer’, har udgivelserne sjældent haft mere end et par år mellem sig. Den nyeste hedder ’på en skala fra havblik til forestillinger om lettelsens suk’, og den og dens skaber handler denne uges Bogfolk om.&lt;/p&gt;
 &lt;p&gt;Vikarvært Felix Thorsen Katzenelson har besøg af forfatter, oversætter og kritiker Mathilde Moestrup. Hun har både læst og mødt Marianne Larsen, og giver en indflyvning i digterens bagkatalog. Sammen læser de Marianne Larsens nyeste, der, meget ’Larsensk’, barnligt leger med sproget. Her kan man ’grønme’ i stedet for at rødme, og man kan blive ’visnet slorslået til’ i smukke efterårsfarver. Og samtidig med at Marianne Larsen holder fast i 70’er-digtningens slagfærdighed, så er der ofte både kække smil og andre finurligheder at støde på.&lt;/p&gt;</description>
    <pubDate>Wed, 03 Dec 2025 09:59:09 +0000</pubDate>
@@ -815,22 +823,6 @@
    <itunes:duration>58:28</itunes:duration>
   </item>
   <item>
-   <title>»Jeg oplever, at det er eksploderet fuldstændigt. Det er kommet på steroider det seneste halvandet år«</title>
-   <description/>
-   <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
-   <guid isPermaLink="false">10619113</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619113.mp3?n=1762520460000&amp;source=app&amp;originArticleId=10619113&amp;premium=true" length="12144639" type="audio/mpeg"/>
-   <itunes:duration>12:39</itunes:duration>
-  </item>
-  <item>
-   <title>Fortællingen om unges sexkrise er afblæst</title>
-   <description/>
-   <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
-   <guid isPermaLink="false">10619114</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619114.mp3?n=1762520460000&amp;source=app&amp;originArticleId=10619114&amp;premium=true" length="8520097" type="audio/mpeg"/>
-   <itunes:duration>08:52</itunes:duration>
-  </item>
-  <item>
    <title>Han skulle bare undersøge en udtørret mose. Så gjorde han sit livs fund</title>
    <description/>
    <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
@@ -847,12 +839,28 @@
    <itunes:duration>06:47</itunes:duration>
   </item>
   <item>
+   <title>»Jeg oplever, at det er eksploderet fuldstændigt. Det er kommet på steroider det seneste halvandet år«</title>
+   <description/>
+   <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
+   <guid isPermaLink="false">10619113</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619113.mp3?n=1762520460000&amp;source=app&amp;originArticleId=10619113&amp;premium=true" length="12144639" type="audio/mpeg"/>
+   <itunes:duration>12:39</itunes:duration>
+  </item>
+  <item>
    <title>Beboer blev glemt i næsten et døgn kort inden sin død. Nu kaster sagen lange skygger ind i valgkampen</title>
    <description/>
    <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
    <guid isPermaLink="false">10619115</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619115.mp3?n=1762520460000&amp;source=app&amp;originArticleId=10619115&amp;premium=true" length="8284785" type="audio/mpeg"/>
    <itunes:duration>08:37</itunes:duration>
+  </item>
+  <item>
+   <title>Fortællingen om unges sexkrise er afblæst</title>
+   <description/>
+   <pubDate>Fri, 07 Nov 2025 14:01:00 +0000</pubDate>
+   <guid isPermaLink="false">10619114</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619114.mp3?n=1762520460000&amp;source=app&amp;originArticleId=10619114&amp;premium=true" length="8520097" type="audio/mpeg"/>
+   <itunes:duration>08:52</itunes:duration>
   </item>
   <item>
    <title>Engang var et bibliotek et sted, hvor du gik hen for at tale med et menneske</title>
@@ -895,20 +903,20 @@
    <itunes:duration>25:35</itunes:duration>
   </item>
   <item>
-   <title>Den slags oplevelser får du, hvis du rejser på skinner i landet, der opfandt den moderne togrejse</title>
-   <description/>
-   <pubDate>Wed, 05 Nov 2025 14:03:00 +0000</pubDate>
-   <guid isPermaLink="false">10619143</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619143.mp3?n=1762347780000&amp;source=app&amp;originArticleId=10619143&amp;premium=true" length="21944110" type="audio/mpeg"/>
-   <itunes:duration>22:51</itunes:duration>
-  </item>
-  <item>
    <title>Trump skaber rystelser 13.000 kilometer væk – og nu står en af verdens glemte kriser til at blive endnu værre</title>
    <description/>
    <pubDate>Wed, 05 Nov 2025 14:03:00 +0000</pubDate>
    <guid isPermaLink="false">10619145</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619145.mp3?n=1762347780000&amp;source=app&amp;originArticleId=10619145&amp;premium=true" length="27763773" type="audio/mpeg"/>
    <itunes:duration>28:55</itunes:duration>
+  </item>
+  <item>
+   <title>Den slags oplevelser får du, hvis du rejser på skinner i landet, der opfandt den moderne togrejse</title>
+   <description/>
+   <pubDate>Wed, 05 Nov 2025 14:03:00 +0000</pubDate>
+   <guid isPermaLink="false">10619143</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619143.mp3?n=1762347780000&amp;source=app&amp;originArticleId=10619143&amp;premium=true" length="21944110" type="audio/mpeg"/>
+   <itunes:duration>22:51</itunes:duration>
   </item>
   <item>
    <title>Sådan ser det ud, når Trump og Musks planer rammer i et hjørne af Afrika</title>
@@ -919,20 +927,20 @@
    <itunes:duration>25:34</itunes:duration>
   </item>
   <item>
-   <title>»Jeg forudser, at vi får flere børn med skolevægring«</title>
-   <description/>
-   <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
-   <guid isPermaLink="false">10619104</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619104.mp3?n=1762347600000&amp;source=app&amp;originArticleId=10619104&amp;premium=true" length="6133550" type="audio/mpeg"/>
-   <itunes:duration>06:23</itunes:duration>
-  </item>
-  <item>
    <title>En uhyggelig verdensstjerne besøger Danmark</title>
    <description/>
    <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
    <guid isPermaLink="false">10619106</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619106.mp3?n=1762347600000&amp;source=app&amp;originArticleId=10619106&amp;premium=true" length="6571571" type="audio/mpeg"/>
    <itunes:duration>06:50</itunes:duration>
+  </item>
+  <item>
+   <title>»Jeg forudser, at vi får flere børn med skolevægring«</title>
+   <description/>
+   <pubDate>Wed, 05 Nov 2025 14:00:00 +0000</pubDate>
+   <guid isPermaLink="false">10619104</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619104.mp3?n=1762347600000&amp;source=app&amp;originArticleId=10619104&amp;premium=true" length="6133550" type="audio/mpeg"/>
+   <itunes:duration>06:23</itunes:duration>
   </item>
   <item>
    <title>Ny undersøgelse af overgangsalderen: Eksperter troede ikke deres egne øjne</title>
@@ -951,6 +959,14 @@
    <itunes:duration>13:59</itunes:duration>
   </item>
   <item>
+   <title>Knapt er Netanyahu ude af krigen, før krav om fred truer</title>
+   <description/>
+   <pubDate>Mon, 03 Nov 2025 14:00:00 +0000</pubDate>
+   <guid isPermaLink="false">10619094</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619094.mp3?n=1762174800000&amp;source=app&amp;originArticleId=10619094&amp;premium=true" length="10181484" type="audio/mpeg"/>
+   <itunes:duration>10:36</itunes:duration>
+  </item>
+  <item>
    <title>Det er Felix' sidste tid: »Det er der, man har brug for, at velfærdssamfundet hjælper«</title>
    <description/>
    <pubDate>Mon, 03 Nov 2025 14:00:00 +0000</pubDate>
@@ -965,14 +981,6 @@
    <guid isPermaLink="false">10619092</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619092.mp3?n=1762174800000&amp;source=app&amp;originArticleId=10619092&amp;premium=true" length="8830222" type="audio/mpeg"/>
    <itunes:duration>09:11</itunes:duration>
-  </item>
-  <item>
-   <title>Knapt er Netanyahu ude af krigen, før krav om fred truer</title>
-   <description/>
-   <pubDate>Mon, 03 Nov 2025 14:00:00 +0000</pubDate>
-   <guid isPermaLink="false">10619094</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619094.mp3?n=1762174800000&amp;source=app&amp;originArticleId=10619094&amp;premium=true" length="10181484" type="audio/mpeg"/>
-   <itunes:duration>10:36</itunes:duration>
   </item>
   <item>
    <title>Hvor meget vil du ofre for udsigten fra dine vinduer?</title>
@@ -991,20 +999,20 @@
    <itunes:duration>13:33</itunes:duration>
   </item>
   <item>
-   <title>Hjaltes stemme føles ligegyldig: »Jeg gider ikke prøve længere«</title>
-   <description/>
-   <pubDate>Sun, 02 Nov 2025 13:59:00 +0000</pubDate>
-   <guid isPermaLink="false">10619087</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619087.mp3?n=1762088340000&amp;source=app&amp;originArticleId=10619087&amp;premium=true" length="7615215" type="audio/mpeg"/>
-   <itunes:duration>07:55</itunes:duration>
-  </item>
-  <item>
    <title>Søren slap uden om de absurd lange ventetider på adhd-hjælp. Det reddede familien</title>
    <description/>
    <pubDate>Sun, 02 Nov 2025 13:59:00 +0000</pubDate>
    <guid isPermaLink="false">10619086</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619086.mp3?n=1762088340000&amp;source=app&amp;originArticleId=10619086&amp;premium=true" length="10469040" type="audio/mpeg"/>
    <itunes:duration>10:54</itunes:duration>
+  </item>
+  <item>
+   <title>Hjaltes stemme føles ligegyldig: »Jeg gider ikke prøve længere«</title>
+   <description/>
+   <pubDate>Sun, 02 Nov 2025 13:59:00 +0000</pubDate>
+   <guid isPermaLink="false">10619087</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619087.mp3?n=1762088340000&amp;source=app&amp;originArticleId=10619087&amp;premium=true" length="7615215" type="audio/mpeg"/>
+   <itunes:duration>07:55</itunes:duration>
   </item>
   <item>
    <title>Hvilke bygninger får Ane Cortzen til at smile – og hvilke burde aldrig være blevet bygget?</title>
@@ -1023,6 +1031,14 @@
    <itunes:duration>26:24</itunes:duration>
   </item>
   <item>
+   <title>»En sindssyg ulighed«: Forsikrede borgere slipper helt uden om gigantisk adhd-kø</title>
+   <description/>
+   <pubDate>Sat, 01 Nov 2025 13:59:00 +0000</pubDate>
+   <guid isPermaLink="false">10619085</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10619085.mp3?n=1762001940000&amp;source=app&amp;originArticleId=10619085&amp;premium=true" length="8738271" type="audio/mpeg"/>
+   <itunes:duration>09:06</itunes:duration>
+  </item>
+  <item>
    <title>»Hvor skal folk nu gå hen og blive klædt ud som en hest?«</title>
    <description/>
    <pubDate>Sat, 01 Nov 2025 13:59:00 +0000</pubDate>
@@ -1037,14 +1053,6 @@
    <guid isPermaLink="false">10619080</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10619080.mp3?n=1762001940000&amp;source=app&amp;originArticleId=10619080&amp;premium=true" length="13592031" type="audio/mpeg"/>
    <itunes:duration>14:09</itunes:duration>
-  </item>
-  <item>
-   <title>»En sindssyg ulighed«: Forsikrede borgere slipper helt uden om gigantisk adhd-kø</title>
-   <description/>
-   <pubDate>Sat, 01 Nov 2025 13:59:00 +0000</pubDate>
-   <guid isPermaLink="false">10619085</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10619085.mp3?n=1762001940000&amp;source=app&amp;originArticleId=10619085&amp;premium=true" length="8738271" type="audio/mpeg"/>
-   <itunes:duration>09:06</itunes:duration>
   </item>
   <item>
    <title>Hun fordyber sig i nonneklostret</title>
@@ -2231,20 +2239,20 @@
    <itunes:duration>11:16</itunes:duration>
   </item>
   <item>
-   <title>1990'erne var den sidste store fest. Hvorfor gik det galt?</title>
-   <description/>
-   <pubDate>Mon, 22 Sep 2025 05:30:00 +0000</pubDate>
-   <guid isPermaLink="false">10552562</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10552562.mp3?n=1758511800000&amp;source=app&amp;originArticleId=10552562&amp;premium=true" length="7117843" type="audio/mpeg"/>
-   <itunes:duration>07:24</itunes:duration>
-  </item>
-  <item>
    <title>Er det kun Ikea, der er optaget af lige adgang til godt design?</title>
    <description/>
    <pubDate>Mon, 22 Sep 2025 05:30:00 +0000</pubDate>
    <guid isPermaLink="false">10555415</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10555415.mp3?n=1758511800000&amp;source=app&amp;originArticleId=10555415&amp;premium=true" length="7426715" type="audio/mpeg"/>
    <itunes:duration>07:44</itunes:duration>
+  </item>
+  <item>
+   <title>1990'erne var den sidste store fest. Hvorfor gik det galt?</title>
+   <description/>
+   <pubDate>Mon, 22 Sep 2025 05:30:00 +0000</pubDate>
+   <guid isPermaLink="false">10552562</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10552562.mp3?n=1758511800000&amp;source=app&amp;originArticleId=10552562&amp;premium=true" length="7117843" type="audio/mpeg"/>
+   <itunes:duration>07:24</itunes:duration>
   </item>
   <item>
    <title>Björn Borg – legenden der flygtede</title>
@@ -3695,20 +3703,20 @@
    <itunes:duration>12:07</itunes:duration>
   </item>
   <item>
-   <title>Ternet Ninja er så vigtig for Anders Matthesen, at han kunne få den tatoveret på armen</title>
-   <description/>
-   <pubDate>Sun, 17 Aug 2025 05:30:00 +0000</pubDate>
-   <guid isPermaLink="false">10512161</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10512161.mp3?n=1755401400000&amp;source=app&amp;originArticleId=10512161&amp;premium=true" length="29716479" type="audio/mpeg"/>
-   <itunes:duration>30:57</itunes:duration>
-  </item>
-  <item>
    <title>400 statsligt ansatte er flyttet ind. Gad vide, hvor mange af dem der vipper på stolene?</title>
    <description/>
    <pubDate>Sun, 17 Aug 2025 05:30:00 +0000</pubDate>
    <guid isPermaLink="false">10507552</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10507552.mp3?n=1755401400000&amp;source=app&amp;originArticleId=10507552&amp;premium=true" length="5915375" type="audio/mpeg"/>
    <itunes:duration>06:09</itunes:duration>
+  </item>
+  <item>
+   <title>Ternet Ninja er så vigtig for Anders Matthesen, at han kunne få den tatoveret på armen</title>
+   <description/>
+   <pubDate>Sun, 17 Aug 2025 05:30:00 +0000</pubDate>
+   <guid isPermaLink="false">10512161</guid>
+   <enclosure url="https://politiken.dk/_binary/podcast/10512161.mp3?n=1755401400000&amp;source=app&amp;originArticleId=10512161&amp;premium=true" length="29716479" type="audio/mpeg"/>
+   <itunes:duration>30:57</itunes:duration>
   </item>
   <item>
    <title>WEEKEND. Muzak af den rigtige gode slags. Højhuse af den knap så gode slags</title>
@@ -3997,14 +4005,6 @@
    <guid isPermaLink="false">10504257</guid>
    <enclosure url="https://politiken.dk/_binary/podcast/10504257.mp3?n=1754620200000&amp;source=app&amp;originArticleId=10504257&amp;premium=false" length="47003943" type="audio/mpeg"/>
    <itunes:duration>32:38</itunes:duration>
-  </item>
-  <item>
-   <title>'Musikmakker' om de 100 bedste danske sange (4): Den endelige top 10</title>
-   <description/>
-   <pubDate>Fri, 08 Aug 2025 04:00:00 +0000</pubDate>
-   <guid isPermaLink="false">10480108</guid>
-   <enclosure url="https://politiken.dk/_binary/podcast/10480108.mp3?n=1754618400000&amp;source=app&amp;originArticleId=10480108&amp;premium=false" length="52765510" type="audio/mpeg"/>
-   <itunes:duration>36:39</itunes:duration>
   </item>
  </channel>
 </rss>
