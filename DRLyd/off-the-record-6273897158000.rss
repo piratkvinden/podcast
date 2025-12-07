@@ -9,6 +9,15 @@ Vi tager temperaturen på det, der rører sig på rygtebørsen, på livescenerne
 Alt det, der gør det fedt at være musikfan!</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68342ccab55477aa47215e53"/>
   <item>
+   <title>Tid til noget nyt</title>
+   <description>Musikåret lakker mod enden, og det betyder alt muligt statistik på, hvad vi selv og alle andre har gået og lyttet til. Det dykker vi lidt ned i, og det giver også anledning til en omgang selvransagelse.
+Og så er det jo advent, så vi skal både have julekalender OG julemusik. Men mest bare den bedste musik her fra P6 - blandt andet nogle af dem, vi kan glæde os til på sommerens festivaler.</description>
+   <itunes:duration>01:45:00</itunes:duration>
+   <pubDate>Sun, 07 Dec 2025 12:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/tid-til-noget-nyt-16452521497</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68de8039ec3c25ed70767041/f6eef9c6cff6f779a853b19a728d3c3c0f3cff8e29182e4f23b2a18d3e7f816c" length="151202188" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Væk mig, når december er slut</title>
    <description>P6' helt egen Grinch åbner juledøren på klem med alternative julesange, som ikke ligefrem lugter af brunkager og gran.
 Men der skal også være plads til den helt almindelige musik - især ovenpå en uge, hvor Roskilde Festival har hørt vores bønner!</description>
@@ -289,15 +298,6 @@ Og så skifter farven ellers fra orange til grøn, for der er irsk overalt i kul
    <pubDate>Sat, 28 Jun 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/vi-traekker-i-orange-og-groen-16452521266</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306357bc0c69d54d9827b4/c136e7cf44f59d6a1c0832ec60a8ebd8056892a056a9ab7c7e759965a5201395" length="151201611" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Søndagstoner og nye skæringer</title>
-   <description>Vi tager den helt med ro i dag. Det er ikke kun søndag i kalenderen - men også i playlisten som bliver ren hyggenygge.
-Men der bliver også gjort plads til spritny musik, som ikke er ren søndag. Blandt andet fra en dynamisk duo, som både laver børn og skønne sange sammen!</description>
-   <itunes:duration>01:45:00</itunes:duration>
-   <pubDate>Sun, 22 Jun 2025 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/off-the-record/off-the-record/soendagstoner-og-nye-skaeringer-16452521257</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306357175b387554422196/e6be122263120a8c3cb556e66420c0428e7388eacedc6da0adb24559bdb12d9d" length="151201612" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
