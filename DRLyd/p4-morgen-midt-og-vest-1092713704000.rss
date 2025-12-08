@@ -6,6 +6,14 @@
   <description>Stå op med P4 Morgen Midt- og vestjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68627b7c84761efefa3e4f6c"/>
   <item>
+   <title>Mandag 8. december 2025</title>
+   <description>Stå op med P4 Morgen Midt- og vestjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+   <itunes:duration>03:55:00</itunes:duration>
+   <pubDate>Mon, 08 Dec 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-morgen-midt-og-vest/p4-morgen-midt-og-vest/mandag-8-december-2025-14202520501</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835abc978654e1d598118ee/2b57c8175151cef0c40862d00db199587546280c782874b82420013c1bfe0e18" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Fredag 5. december 2025</title>
    <description>Stå op med P4 Morgen Midt- og vestjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
    <itunes:duration>03:55:00</itunes:duration>
@@ -252,14 +260,6 @@
    <pubDate>Fri, 24 Oct 2025 06:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-morgen-midt-og-vest/p4-morgen-midt-og-vest/fredag-24-oktober-2025-14202520435</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835abcc53679be9eba66d00/f060b317a097f113191a694ed229bda40bd13c8875c83adafb8a16d9e18c123a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Torsdag 23. oktober 2025</title>
-   <description>Stå op med P4 Morgen Midt- og vestjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-   <itunes:duration>03:55:00</itunes:duration>
-   <pubDate>Thu, 23 Oct 2025 06:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4vest/p4-morgen-midt-og-vest/p4-morgen-midt-og-vest/torsdag-23-oktober-2025-14202520434</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b86e5f16b69830600506/fa5d7e9181cfcb51814e5cc24328d82eaae71a8535340d709b14a1cdc2b796db" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
