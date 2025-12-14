@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>International julemusikdag på P2</title>
+  <link>https://www.dr.dk/lyd/p2/international-julemusikdag-paa-p2-1609766437000</link>
+  <description>Hele Europa lytter med, når Den Europæiske Radiounion, EBU, traditionen tro sender en hel dag med julemusik. Hver time stiller vi om til et nyt land, der præsenterer julemusik med lokal farvning og lokale medvirkende. I år sender vi fra Portugal, Bulgarien, Holland, Sverige, Tyskland, Finland, Letland, Danmark, Island, Litauen og England. Årets danske bidrag er DR Vokalensemblets julekoncert, som transmitteres direkte fra Garnisons Kirke i København kl. 16.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:69369660fc35e717a3eb2815"/>
+  <item>
+   <title>København</title>
+   <description>Hele Europa lytter med, når Den Europæiske Radiounion, EBU, traditionen tro sender en hel dag med julemusik. Hver time stiller vi om til et nyt land, der præsenterer julemusik med lokal farvning og lokale medvirkende. I år har Danmark æren af at skyde løjerne igang med DR Vokalensemblets julekoncert kl. 9.00.</description>
+   <itunes:duration>01:00:00</itunes:duration>
+   <pubDate>Sun, 14 Dec 2025 09:00:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/international-julemusikdag-paa-p2/2025/koebenhavn-12422572001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6911e0ce3d1d95f2b203c160/ffd3d353c3aeacb860b4572d9c2bc687e0326badd628a0abb71dbc05407e5be8" length="86402189" type="audio/mpeg"/>
+  </item>
+ </channel>
+</rss>
