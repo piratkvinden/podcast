@@ -6,6 +6,14 @@
   <description>Stå op med P4 Morgen Østjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc8752248c98a4403c0e"/>
   <item>
+   <title>Mandag 15. december 2025</title>
+   <description>Stå op med P4 Morgen Østjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+   <itunes:duration>03:55:00</itunes:duration>
+   <pubDate>Mon, 15 Dec 2025 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-morgen-oestjylland/p4-morgen-oestjylland-2025/mandag-15-december-2025-14302520511</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5e55f16b698305fe626/820e1e165aa5ad8aaa54d2ffb309df208332a611fdccc4dcc45c12b037f4681b" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Fredag 12. december 2025</title>
    <description>Stå op med P4 Morgen Østjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
    <itunes:duration>03:55:00</itunes:duration>
@@ -252,14 +260,6 @@
    <pubDate>Fri, 31 Oct 2025 06:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-morgen-oestjylland/p4-morgen-oestjylland-2025/fredag-31-oktober-2025-14302520445</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5a75f16b698305fe1a7/f9dd79e4ade062e29e41bbc93f5050601fd9675ebf5da9b96e3faf421a09939b" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Torsdag 30. oktober 2025</title>
-   <description>Stå op med P4 Morgen Østjylland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-   <itunes:duration>03:55:00</itunes:duration>
-   <pubDate>Thu, 30 Oct 2025 06:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4aarhus/p4-morgen-oestjylland/p4-morgen-oestjylland-2025/torsdag-30-oktober-2025-14302520444</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b5d6b55477aa472c05ab/8ffecc4eb9dcb36fbddf12644590e3553510a8573a3633b0b5adb9f01b1b3e67" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
