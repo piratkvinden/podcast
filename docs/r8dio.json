@@ -1524,7 +1524,13 @@
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/4f8ad7cb-69d0-4119-bb81-b3b400ccc163/image.jpg?t=1765801535&size=Medium",
     "slug": "sku-det-vre-sjovt",
     "program_url": "https://r8dio.dk/program/sku-det-vre-sjovt",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "Hospitalsklovnen Henrik",
+        "publishedAt": "2025-12-16T05:00:00.000Z",
+        "id": 2897
+      }
+    ]
   },
   {
     "title": "Endnu mere pissefedt indhold på vej",
@@ -8700,6 +8706,11 @@
     "slug": "ugen-der-blev-spist",
     "program_url": "https://r8dio.dk/program/ugen-der-blev-spist",
     "episodes": [
+      {
+        "title": "Julespecial med Rene Fredensborg & Rasmus Bruun",
+        "publishedAt": "2025-12-16T05:00:00.000Z",
+        "id": 2898
+      },
       {
         "title": "Francis Cardenau",
         "publishedAt": "2025-12-02T08:39:06.137Z",
