@@ -1529,7 +1529,23 @@
     "image": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/3de36ddb-43cf-4dd5-98f3-b3b800a7b3df/image.jpg?t=1766139040&size=Medium",
     "slug": "strmudsigten",
     "program_url": "https://r8dio.dk/program/strmudsigten",
-    "episodes": []
+    "episodes": [
+      {
+        "title": "Strømudsigten d. 13 november",
+        "publishedAt": "2025-12-19T15:16:00.000Z",
+        "id": 2910
+      },
+      {
+        "title": "Strømudsigten d. 4 november",
+        "publishedAt": "2025-12-19T15:13:00.000Z",
+        "id": 2909
+      },
+      {
+        "title": "Strømudsigten d. 30 oktober ",
+        "publishedAt": "2025-12-19T15:10:00.000Z",
+        "id": 2908
+      }
+    ]
   },
   {
     "title": "Sku' det være sjovt?",
@@ -2258,6 +2274,11 @@
     "slug": "hukommelsesbanken",
     "program_url": "https://r8dio.dk/program/hukommelsesbanken",
     "episodes": [
+      {
+        "title": "Jul på hukommelsen",
+        "publishedAt": "2025-12-19T14:38:08.600Z",
+        "id": 2907
+      },
       {
         "title": "Sylvester taler ud",
         "publishedAt": "2025-12-12T14:21:50.327Z",
