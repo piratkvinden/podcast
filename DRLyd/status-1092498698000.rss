@@ -6,6 +6,15 @@
   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e7ef898e43b46d284061a0"/>
   <item>
+   <title>Søndag 21. december 2025</title>
+   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
+Vært: Jonas Hansen.</description>
+   <itunes:duration>02:57:00</itunes:duration>
+   <pubDate>Sun, 21 Dec 2025 14:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-21-december-2025-16452525517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68de8057ec3c25ed707671d3/0fdd16c8a1486c70344141dc85360a8c2b5446b4c102cd13acbb446b50917164" length="254881995" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 20. december 2025</title>
    <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
 Vært: Jonas Hansen.</description>
@@ -283,15 +292,6 @@ Vært: Jonas Hansen.</description>
    <pubDate>Sat, 30 Aug 2025 14:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/loerdag-30-aug-2025-16452525356</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68551771de5d5eb0ff636d6e/06f41eef8aff095fc325ff5e4e184d884388a55e11df5486456b76a771912d9f" length="254881995" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Søndag 24. aug. 2025</title>
-   <description>Status samler op på ugens højdepunkter fra musikkens og P6's verden.
-Vært: Jonas Hansen.</description>
-   <itunes:duration>02:57:00</itunes:duration>
-   <pubDate>Sun, 24 Aug 2025 14:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p6beat/status/status/soendag-24-aug-2025-16452525347</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68551771047dbd9ded014ae5/47999b2a1ad1a015956830a7c34667abfd7b36a9a0bd8781099b8a095c58a404" length="254881419" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
