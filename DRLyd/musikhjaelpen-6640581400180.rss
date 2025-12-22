@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>Musikhjælpen</title>
+  <link>https://www.dr.dk/lyd/p3/musikhjaelpen-6640581400180</link>
+  <description>Vært: Marie Hobitz.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86d2222ea4246b8340d"/>
+  <item>
+   <title>med Peter Ingemann</title>
+   <description>Står du i en stram situation? Frygt ej! Marie Hobitz har allieret sig med en række prominente gæster og sammen åbner de op for den musikalske førstehjælpskasse og finder det helt rigtige nummer, som hjælper dig videre på din vej.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Mon, 22 Dec 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikhjaelpen/musikhjaelpen/med-peter-ingemann-13332505301</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:691472213d1d95f2b21a4bcb/1982c8c466e325c6770fd0bd33d5b7bfbba91a2ccc42e899022edbf9571abd5b" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
+</rss>
