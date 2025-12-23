@@ -5761,5 +5761,13 @@
     "description": "Værter: Julie Berthelsen, Gry Mathiesen og Kasper Harboe.",
     "program_url": "https://www.dr.dk/lyd/p4/knas-og-quiz-846809670000",
     "series_hash": "urn:dr:radio:series:6001740e6c12863ced19ed4b"
+  },
+  {
+    "name": "Blind date",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/blinddate",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:69450ff2424d2364ef68e31f",
+    "description": "Hvad sker der, når to fremmede med forskellig baggrund og overbevisning lukkes ind i et radiostudie uden en vært? I Blind date har vi inviteret to personer til en samtale. De ved hverken, hvem de skal møde, eller hvad de skal tale om, før døren til studiet går i. Over fem udsendelser undersøger programmet, hvad der sker, når forskellighed får plads, og om et fælles tredje kan opstå, når vi træder ud af de bobler, vi lever i.",
+    "program_url": "https://www.dr.dk/lyd/p1/blind-date-6640600213888",
+    "series_hash": "urn:dr:radio:series:693160104f22de874e1278c4"
   }
 ]
