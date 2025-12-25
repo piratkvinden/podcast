@@ -7,15 +7,6 @@
 &quot;Det vi hører&quot; er den ultimative klassiske playliste skabt af nogle af Danmarks mest alsidige musikkendere.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6808dda7786127a087286632"/>
   <item>
-   <title>Musik i stemning og billeder</title>
-   <description>Ser du billeder for dig, når du lytter til musik? Eller oplever du følelser og stemninger? Jeg gør begge dele og præsenterer her noget af min yndlingsmusik. Bl.a. hele Rachmaninovs 2. klaverkoncert og satser af Bach, Satie, Anders Koppel, Astor Piazzolla og mange flere. 
-Vært: Iben Mogensen.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Sun, 07 Dec 2025 16:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/iben-mogensen/musik-i-stemning-og-billeder-12422581861</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:691dd936a90450d1bd6f5134/7a716d62891d00723839a07656388d2e52219b71988b6a914c88aeb148be7c0d" length="168482186" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Super Nice Enemy &amp; Bach til enhver tid</title>
    <description>I dagens udsendelse skal vi høre jazzmusikere spille klassisk musik. For er der i virkeligheden den store forskel? Og så tager vi en tur til Rusland og ser &quot;fjenden&quot; i øjnene. 
 Vært: Frederik Korfix.</description>
@@ -128,6 +119,15 @@ Vært: Minna Grooss.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68c28bc5f60b2373bdcdb110/02c3c688a3a7050eea2e4911a6c8e196f63e86e6467ed660d0a928cbff7153bf" length="168482183" type="audio/mpeg"/>
   </item>
   <item>
+   <title>Musik i stemning og billeder</title>
+   <description>Ser du billeder for dig, når du lytter til musik? Eller oplever du følelser og stemninger? Jeg gør begge dele og præsenterer her noget af min yndlingsmusik. Bl.a. hele Rachmaninovs 2. klaverkoncert og satser af Bach, Satie, Anders Koppel, Astor Piazzolla og mange flere. 
+Vært: Iben Mogensen.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sun, 07 Dec 2025 16:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/iben-mogensen/musik-i-stemning-og-billeder-12422581861</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:691dd936a90450d1bd6f5134/7a716d62891d00723839a07656388d2e52219b71988b6a914c88aeb148be7c0d" length="168482186" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Musik fra den reneste klare kilde</title>
    <description>Musik kan lyde som kildevand fra den reneste klare kilde. Filmkomponisten Ennio Morricone har noget af det. Den danske fløjtenist Michala Petri har også noget af det. Og i Stravinskijs musik til balletten Ildfuglen bliver der tændt en ild som kan være svær at styre. Lyt med, når jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri.
 Vært: Max Fage-Pedersen.</description>
@@ -180,6 +180,15 @@ Vært: Max Fage-Pedersen.</description>
    <pubDate>Mon, 30 Jun 2025 16:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/skoven-stjernerne-og-havet-om-natten-12422481882</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66774b847e073b9ab6650e8f/a58ef0e2578d7e2ce82ba137f28c9a56ec82d42233a5053beab9951792a21c9f" length="165602183" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Den klassiske musik smider tøjet!&quot;</title>
+   <description>I dette afsnit vover vi pelsen og træder ind i musikkens mest intime rum, instrumentalsonaten, hvor små skift i energien, et stjålent blik eller et tilbageholdt åndedræt gør hele forskellen. Ole Bartholin Kiilerich sætter ord på, hvorfor musikken ikke kommer fra noderne, men fra det intime samspil mellem personligheder.
+Vært: Ole Bartholin Kiilerich.</description>
+   <itunes:duration>01:49:24</itunes:duration>
+   <pubDate>Sun, 26 Oct 2025 16:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/den-klassiske-musik-smider-toejet-12422381863</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65120553fe487a3d0a9a4cab/533b80ec444be70e4e9520f3c6e71dd818c5443f0f82e48c9a682c4962194b30" length="157549132" type="audio/mpeg"/>
   </item>
   <item>
    <title>Lyt til højre, lyt til venstre</title>
@@ -264,15 +273,6 @@ Vært: Malena Rønnow.</description>
    <pubDate>Tue, 01 Jul 2025 16:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/malena-roennow/hoejt-at-flyve-12422581802</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6827051ace0a44e41e724df9/c7f896f5fd66e337131a2dc97763dbaf51d45c2399f981149038dfa5799fd7b0" length="165603325" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Den klassiske musik smider tøjet!&quot;</title>
-   <description>I dette afsnit vover vi pelsen og træder ind i musikkens mest intime rum, instrumentalsonaten, hvor små skift i energien, et stjålent blik eller et tilbageholdt åndedræt gør hele forskellen. Ole Bartholin Kiilerich sætter ord på, hvorfor musikken ikke kommer fra noderne, men fra det intime samspil mellem personligheder.
-Vært: Ole Bartholin Kiilerich.</description>
-   <itunes:duration>01:49:24</itunes:duration>
-   <pubDate>Sun, 26 Oct 2025 16:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/den-klassiske-musik-smider-toejet-12422381863</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65120553fe487a3d0a9a4cab/533b80ec444be70e4e9520f3c6e71dd818c5443f0f82e48c9a682c4962194b30" length="157549132" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
