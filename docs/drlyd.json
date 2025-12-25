@@ -5809,5 +5809,13 @@
     "description": "Sammen med lytterne puster vi ud efter julen, åbner de sidste gaver og gør dig klar til julefrokosten senere. \nSamtidig med, at den sidste hygge bliver vredet ud af julen, så sørger dine værter også for at give dig dagens vigtigste historier og overblikket over trafikken.",
     "program_url": "https://www.dr.dk/lyd/p4/p4-morgen-god-jul-6097044918000",
     "series_hash": "urn:dr:radio:series:675e0f09831daf9b37fc6d4c"
+  },
+  {
+    "name": "Det bedste fra DRs Juleshow",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-bedste-fra-drs-juleshow",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:691b27790f451c13cb5aa3a0",
+    "description": "Vært: Søren Hansen.",
+    "program_url": "https://www.dr.dk/lyd/p5/det-bedste-fra-drs-juleshow-2142807049000",
+    "series_hash": "urn:dr:radio:series:600172c66c12863ced19e93b"
   }
 ]

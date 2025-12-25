@@ -1,9 +1,17 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Det bedste fra DRs Juleshow</title>
-    <link>https://www.dr.dk/lyd/p5/det-bedste-fra-drs-juleshow-2142807049000</link>
-    <description>Vært: Søren Hansen.</description>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:675cbd905523e022853d3cba.jpg"/>
-  </channel>
+ <channel>
+  <title>Det bedste fra DRs Juleshow</title>
+  <link>https://www.dr.dk/lyd/p5/det-bedste-fra-drs-juleshow-2142807049000</link>
+  <description>Vært: Søren Hansen.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:691b27790f451c13cb5aa3a0"/>
+  <item>
+   <title>Torsdag 25. december 2025</title>
+   <description>Vært: Søren Hansen.</description>
+   <itunes:duration>01:50:00</itunes:duration>
+   <pubDate>Thu, 25 Dec 2025 10:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-bedste-fra-drs-juleshow/det-bedste-fra-drs-juleshow/torsdag-25-december-2025-15452576524</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693ab5eaaf5ce965642c2447/6e7700a4b95efd7473c32400741cdf25cf8fd1fc36b788fef3f1c669d28acd1f" length="158405980" type="audio/mpeg"/>
+  </item>
+ </channel>
 </rss>
