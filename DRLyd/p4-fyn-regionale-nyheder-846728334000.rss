@@ -6,54 +6,6 @@
   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c92452248c98a4390048"/>
   <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b971d37c69cd66576fae/82f02ed9fa4830d56c28273884d8552645ca15d526fb7e8b47ed77c8468393a1" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac4d53679be9eba67113/d01b24fd884fb1beff8b4f79444cc0022627a4630d12d8c5366bf7b9baf76996" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a82fbd7f09b343f736e0/9f6c3387367b73715d874dca723b166fd871843a83bdf818cbd8d55ccefc7ff0" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a960b55477aa472ba19b/8ddae00556299e23ba4785998361d03f84d438de3d4a57a083f4986bef63d897" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599a1fe5ec8521a274019/9b955474197f2d74eb30506a4b10892db1401540eaf212ff6a413d46e93fbf92" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507523</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835965ee17707e24dd84594/ebc04be29c2e405553001b0eb3ddd2d563ce0d4f4a1c0c5c90b8d2e2312a1b82" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 17:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:03:00</itunes:duration>
@@ -393,6 +345,54 @@
    <title>Seneste nyt kl. 12:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b971d37c69cd66576fae/82f02ed9fa4830d56c28273884d8552645ca15d526fb7e8b47ed77c8468393a1" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac4d53679be9eba67113/d01b24fd884fb1beff8b4f79444cc0022627a4630d12d8c5366bf7b9baf76996" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a82fbd7f09b343f736e0/9f6c3387367b73715d874dca723b166fd871843a83bdf818cbd8d55ccefc7ff0" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a960b55477aa472ba19b/8ddae00556299e23ba4785998361d03f84d438de3d4a57a083f4986bef63d897" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599a1fe5ec8521a274019/9b955474197f2d74eb30506a4b10892db1401540eaf212ff6a413d46e93fbf92" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507523</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835965ee17707e24dd84594/ebc04be29c2e405553001b0eb3ddd2d563ce0d4f4a1c0c5c90b8d2e2312a1b82" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
+   <itunes:duration>00:02:00</itunes:duration>
    <pubDate>Thu, 25 Dec 2025 12:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512524</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9525f16b69830600fad/d75e9b9f2f3aa901a61eef2511a5372693eb537f8a7c849938b8e49a933aff4c" length="0" type="audio/x-m4a"/>
@@ -521,49 +521,49 @@
    <title>Seneste nyt kl. 12:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b971dc1fbc0f1f77cafd/63278982b83046f7758acebb7e580f6ff7a51e9ff88e02d6c6332d2a51811b75" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b951b55477aa472c2dfc/7a6871b621c8bdc6eed436b82295328c3a2f69d242f2d0b22fc79c94425cf8d5" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 11:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835abf9201ef8d0fa8facef/b3d0bd71b7722bc684a6e500d13e039a311049dfa56ec1d1cc6803f93ddf1f5e" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac4d78654e1d59811cf8/98bcd2340267670958732df2c74c4a00598f1efcfb9bce8a2b7d94f71231d600" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 10:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a8f65f16b698305f73f0/3758e80128bd515c3d6bfe422635e6876c9cd187ec66f77c324001c62a38d438" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a7f6b55477aa472b9231/5a1fe6a53eb65c32a67b17fd0e3aac35c56b1d5aaba5b6dd4349cab24a79bb46" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 09:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b6d5f16b698305f17fc/ff4b7f171dcc2623590988c194d7a99f2703556d63efd253640a75196f43ebc8" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b7ebd7f09b343f6e3a8/118e6c80b2bdda8434d17429e5f55e3056955e6dd12533f053c85d4c6e3170da" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 08:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599b35f16b698305f052d/bb490e721b24a3de7580a729653eb705f2354b76616344b48fad26a08f5b87ff" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599a15f16b698305f0472/6b8a802e7f17a9be92466e312a2b5863bb7b8bfb3d29eea3420335ed76f53b1d" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 07:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Fri, 26 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507525</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835966fe17707e24dd8463c/6a72fa41f762c35e3591ca0f038cb134e1176aca4606c646e5855ee84b919b94" length="0" type="audio/x-m4a"/>
+   <pubDate>Sun, 21 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507517</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835967efe5ec8521a272753/7ac14f97aae17861f50a31b67896319b8832c27deb86d1d2f721dc6614b3d65c" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
@@ -617,49 +617,49 @@
    <title>Seneste nyt kl. 12:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b951b55477aa472c2dfc/7a6871b621c8bdc6eed436b82295328c3a2f69d242f2d0b22fc79c94425cf8d5" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-12-30-14602512525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b971dc1fbc0f1f77cafd/63278982b83046f7758acebb7e580f6ff7a51e9ff88e02d6c6332d2a51811b75" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 11:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835ac4d78654e1d59811cf8/98bcd2340267670958732df2c74c4a00598f1efcfb9bce8a2b7d94f71231d600" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-11-30-14602511525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835abf9201ef8d0fa8facef/b3d0bd71b7722bc684a6e500d13e039a311049dfa56ec1d1cc6803f93ddf1f5e" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 10:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a7f6b55477aa472b9231/5a1fe6a53eb65c32a67b17fd0e3aac35c56b1d5aaba5b6dd4349cab24a79bb46" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-10-30-14602510525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835a8f65f16b698305f73f0/3758e80128bd515c3d6bfe422635e6876c9cd187ec66f77c324001c62a38d438" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 09:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b7ebd7f09b343f6e3a8/118e6c80b2bdda8434d17429e5f55e3056955e6dd12533f053c85d4c6e3170da" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-09-30-14602509525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68359b6d5f16b698305f17fc/ff4b7f171dcc2623590988c194d7a99f2703556d63efd253640a75196f43ebc8" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 08:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599a15f16b698305f0472/6b8a802e7f17a9be92466e312a2b5863bb7b8bfb3d29eea3420335ed76f53b1d" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-08-30-14602508525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683599b35f16b698305f052d/bb490e721b24a3de7580a729653eb705f2354b76616344b48fad26a08f5b87ff" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 07:30</title>
    <description>Hør seneste regionale nyheder fra P4 Fyn.</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 21 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507517</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835967efe5ec8521a272753/7ac14f97aae17861f50a31b67896319b8832c27deb86d1d2f721dc6614b3d65c" length="0" type="audio/x-m4a"/>
+   <pubDate>Fri, 26 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4fyn/p4-fyn-regionale-nyheder/p4-fyn-regionale-nyheder-2025/seneste-nyt-kl-07-30-14602507525</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835966fe17707e24dd8463c/6a72fa41f762c35e3591ca0f038cb134e1176aca4606c646e5855ee84b919b94" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
