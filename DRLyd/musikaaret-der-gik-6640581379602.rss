@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>Musikåret der gik</title>
+  <link>https://www.dr.dk/lyd/p3/musikaaret-der-gik-6640581379602</link>
+  <description>Alt det bedste fra musikåret 2025. Musikken, oplevelserne og overraskelserne!</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86d2222ea4246b8340d"/>
+  <item>
+   <title>Lørdag 27. december 2025</title>
+   <description>Alt det bedste fra musikåret 2025. Musikken, oplevelserne og overraskelserne!
+Værter: Nynne Givskov og Ena Cosovic.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sat, 27 Dec 2025 12:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/musikaaret-der-gik/musikaaret-der-gik/loerdag-27-december-2025-13332505201</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69146f8c3d1d95f2b21a2f6f/82681a6bc0f855ec34978eecaafd606b4f2e558a55d9003737c14dc0d90902b6" length="0" type="audio/x-m4a"/>
+  </item>
+ </channel>
+</rss>
