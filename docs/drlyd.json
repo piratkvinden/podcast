@@ -5833,5 +5833,21 @@
     "description": "Julian Svejgaard gør status og tager dig med gennem årets musikalske højdepunkter, trends og tendenser, højdespringere på streaming og P8 samt de nye navne i soul og jazz, der er sprunget ud fra undergrundens muld. Kort sagt: Lyden af 2025.",
     "program_url": "https://www.dr.dk/lyd/p8jazz/lyden-af-2025-6640607822252",
     "series_hash": "urn:dr:radio:series:6924455cb766c1c0b9be4e72"
+  },
+  {
+    "name": "Stjernekaster",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/stjernekaster",
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:69257d930e36ecb4d6c85865",
+    "description": "Julen er forbi, og det er tid til at samle kræfter til et nyt år. Og hvad er bedre til at gøre dette, end at lytte til den blide jazz og bedste soul fra året der er gået? Tænd for P8 JAZZ og en Stjernekaster i radiofonisk selskab med Karen Rosenberg. \nVært og tilrettelægger: Karen Rosenberg.\nRedaktør: Kasper Christensen.",
+    "program_url": "https://www.dr.dk/lyd/p8jazz/stjernekaster-5052133090000",
+    "series_hash": "urn:dr:radio:series:657e2daf0e1699aaee7f2bc4"
+  },
+  {
+    "name": "Godt nytår",
+    "url": null,
+    "image": "https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86db3613283fa42d016",
+    "description": "Værter: Tilde Bang og Goodluck Casper.",
+    "program_url": "https://www.dr.dk/lyd/p6beat/godt-nytaar-6640670049686",
+    "series_hash": "urn:dr:radio:series:69452400df247982758a70d8"
   }
 ]
