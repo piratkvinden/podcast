@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>Konfetti</title>
+  <link>https://www.dr.dk/lyd/p5/konfetti-6053036982000</link>
+  <description>Vært: Ole Tøpholm.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:6499a86eb3613283fa42d019"/>
+  <item>
+   <title>Onsdag 31. december 2025</title>
+   <description>Her får du de største hits til en festlig aften med alle minderne fra både Dansk Melodi Grand Prix og Eurovision Song Contest. Du får masser af anekdoter, højdepunkter og historiske øjeblikke fra DR's arkiver. Vi skal genhøre alle de store sange, der har præget Danmark og Europa fra 50'erne og frem til i dag. 
+Vært: Ole Tøpholm.</description>
+   <itunes:duration>05:45:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 18:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/konfetti/konfetti/onsdag-31-december-2025-15452575013</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6915bfaf3d1d95f2b2257d22/424a0d2c1807a839ba345509f7ee3598ce359eefccb0f169d5b8b404855e619b" length="496802169" type="audio/mpeg"/>
+  </item>
+ </channel>
+</rss>
