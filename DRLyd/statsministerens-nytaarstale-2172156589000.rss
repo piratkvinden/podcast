@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <channel>
+  <title>Statsministerens nytårstale</title>
+  <link>https://www.dr.dk/lyd/p2/statsministerens-nytaarstale-2172156589000</link>
+  <description>Statsministeren holder sin årlige nytårstale.</description>
+  <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:69382de9af5ce96564143e08"/>
+  <item>
+   <title>Statsministerens nytårstale</title>
+   <description>Statsministeren holder sin årlige nytårstale.</description>
+   <itunes:duration>00:16:00</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 17:59:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/statsministerens-nytaarstale/statsministerens-nytaarstale-2026/statsministerens-nytaarstale-11802620001</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69382de8b73064306f1f5b07/94917ae2dd99248b0fbdd5b8faa6dc70bed0456972c0599580cc7006d8ae78c3" length="23041975" type="audio/mpeg"/>
+  </item>
+ </channel>
+</rss>
