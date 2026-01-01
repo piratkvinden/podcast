@@ -167,50 +167,6 @@ Vært: Katrine Ring.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83c8b06e9777528375f/e99833ffe3a4ed4b27d3d8b3fc989a514ae81a84f667a3031e90d7db835d4b7b" length="57637676" type="audio/mpeg"/>
   </item>
   <item>
-   <title>Juleaften</title>
-   <description>Lyden af bjældeklang, korsang og rensdyrs klove i den dybe sne. 
-Vært: Katrine Ring.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Wed, 24 Dec 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/juleaften-12422363516</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6578e7127d4bbce15c295783/15576e0c5b307478170d2552183d245da891942ab4e3af1e461d2bc6ad8d440e" length="168482007" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>December Dilemma</title>
-   <description>Er der stjerner på himlen, sne på jorden og frost i luften? Det er ikke altid sådan virkeligheden ser ud. Men sådan er det i Natsværmeren.
-Vært: Katrine Ring.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Sat, 13 Dec 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/december-dilemma-12422363492</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65612e23f45ff2392852f74b/846c04dda091e7b5d08ff4c0f41b7b74fdc64ea2f6de57f1f58368bcb3bb421c" length="168481514" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Tid</title>
-   <description>Tid forsvinder, tid trækker ud og så er der den evindelige gentagelse med time efter time. 
-Vært: Katrine Ring.</description>
-   <itunes:duration>01:56:54</itunes:duration>
-   <pubDate>Tue, 16 Dec 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/tid-12422363434</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:652c63dc7c64928637e48053/8712dd0ad1d53d84c460f9dfbc1a2414154ee50efad4b7e70b4ea07297663743" length="168350125" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Melankoli med mere</title>
-   <description>Fra hymner om minearbejdere over smuk kormusik til islandsk melankoli og genfortolkede godnatviser. Natsværmeren er denne gang noget af en lydrejse - Peter Albrechtsen er guide gennem øregangene.</description>
-   <itunes:duration>01:56:59</itunes:duration>
-   <pubDate>Sat, 06 Dec 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/melankoli-med-mere-12422363423</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6521d857366a37fe075b9559/73ddd9be03fc5b326e42dc6b08179db38a18a9e849e632dd5ce460844214b25e" length="168468876" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>All night long</title>
-   <description>Musik til ordmættede hverdagsøre.
-Vært: Minna Grooss.</description>
-   <itunes:duration>01:56:59</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/all-night-long-12422363402</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:650e1181247ca482b5069b7e/fa1782793c814ef3249ecb71899786bfc4d0b2c38de516829282087bdba25c36" length="168476223" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Nytår!</title>
    <description>Mens vi venter på det nye år. 
 Vært: Katrine Ring.</description>
@@ -282,6 +238,59 @@ Vært: Tina Rømer.</description>
    <pubDate>Mon, 22 Dec 2025 03:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/soiree-12422463224</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664a77a4ba058cded2fa54f5/25497f821b97840c8f352dc57fdaea7c54a673a8b08fb472e636f163fd23af61" length="168482177" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Juleaften</title>
+   <description>Lyden af bjældeklang, korsang og rensdyrs klove i den dybe sne. 
+Vært: Katrine Ring.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Wed, 24 Dec 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/juleaften-12422363516</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6578e7127d4bbce15c295783/15576e0c5b307478170d2552183d245da891942ab4e3af1e461d2bc6ad8d440e" length="168482007" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>December Dilemma</title>
+   <description>Er der stjerner på himlen, sne på jorden og frost i luften? Det er ikke altid sådan virkeligheden ser ud. Men sådan er det i Natsværmeren.
+Vært: Katrine Ring.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Sat, 13 Dec 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/december-dilemma-12422363492</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65612e23f45ff2392852f74b/846c04dda091e7b5d08ff4c0f41b7b74fdc64ea2f6de57f1f58368bcb3bb421c" length="168481514" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Tid</title>
+   <description>Tid forsvinder, tid trækker ud og så er der den evindelige gentagelse med time efter time. 
+Vært: Katrine Ring.</description>
+   <itunes:duration>01:56:54</itunes:duration>
+   <pubDate>Tue, 16 Dec 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/tid-12422363434</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:652c63dc7c64928637e48053/8712dd0ad1d53d84c460f9dfbc1a2414154ee50efad4b7e70b4ea07297663743" length="168350125" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Melankoli med mere</title>
+   <description>Fra hymner om minearbejdere over smuk kormusik til islandsk melankoli og genfortolkede godnatviser. Natsværmeren er denne gang noget af en lydrejse - Peter Albrechtsen er guide gennem øregangene.</description>
+   <itunes:duration>01:56:59</itunes:duration>
+   <pubDate>Sat, 06 Dec 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/melankoli-med-mere-12422363423</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6521d857366a37fe075b9559/73ddd9be03fc5b326e42dc6b08179db38a18a9e849e632dd5ce460844214b25e" length="168468876" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>All night long</title>
+   <description>Musik til ordmættede hverdagsøre.
+Vært: Minna Grooss.</description>
+   <itunes:duration>01:56:59</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/all-night-long-12422363402</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:650e1181247ca482b5069b7e/fa1782793c814ef3249ecb71899786bfc4d0b2c38de516829282087bdba25c36" length="168476223" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>På kanten af nyt, og dog</title>
+   <description>Tiden går som den plejer i samme tempo, hverken du eller jeg er blevet forandret siden i går. Så skulle det da lige være din sindstilstand, der kan pege i alle retninger alt efter, hvilken nytårsaften du har krydset. Natsværmeren tager dig blidt i hånden. 
+Vært: Minna Grooss.</description>
+   <itunes:duration>01:56:51</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/paa-kanten-af-nyt-og-dog-12422563013</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6943d4c52e0ce5f0a40cc868/8967145c6c886a5fc882890254ba2d64682840b68733eacdc776826aa049acb9" length="168269647" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
