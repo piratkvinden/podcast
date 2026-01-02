@@ -202,23 +202,6 @@ Vært: Katrine Ring.</description>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6765f83c8b06e9777528375f/e99833ffe3a4ed4b27d3d8b3fc989a514ae81a84f667a3031e90d7db835d4b7b" length="57637676" type="audio/mpeg"/>
   </item>
   <item>
-   <title>Lyden af 2025</title>
-   <description>2025 har været endnu et smukt musikår. Vært Peter Albrechtsen spiller en række af sine favoritter fra året, der er gået.</description>
-   <itunes:duration>01:57:02</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2026/lyden-af-2025-12422663014</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b3595b73064306f3c9b50/aeeaba00b5ccd2702c45893446c9fab09c77ecb90ce7085b09f5434a8efd96a9" length="168545989" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>På kanten af nyt, og dog</title>
-   <description>Tiden går som den plejer i samme tempo, hverken du eller jeg er blevet forandret siden i går. Så skulle det da lige være din sindstilstand, der kan pege i alle retninger alt efter, hvilken nytårsaften du har krydset. Natsværmeren tager dig blidt i hånden. 
-Vært: Minna Grooss.</description>
-   <itunes:duration>01:56:51</itunes:duration>
-   <pubDate>Thu, 01 Jan 2026 03:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/paa-kanten-af-nyt-og-dog-12422563013</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6943d4c52e0ce5f0a40cc868/8967145c6c886a5fc882890254ba2d64682840b68733eacdc776826aa049acb9" length="168269647" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Nytår!</title>
    <description>Mens vi venter på det nye år. 
 Vært: Katrine Ring.</description>
@@ -290,6 +273,23 @@ Vært: Tina Rømer.</description>
    <pubDate>Mon, 22 Dec 2025 03:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/soiree-12422463224</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664a77a4ba058cded2fa54f5/25497f821b97840c8f352dc57fdaea7c54a673a8b08fb472e636f163fd23af61" length="168482177" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lyden af 2025</title>
+   <description>2025 har været endnu et smukt musikår. Vært Peter Albrechtsen spiller en række af sine favoritter fra året, der er gået.</description>
+   <itunes:duration>01:57:02</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2026/lyden-af-2025-12422663014</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b3595b73064306f3c9b50/aeeaba00b5ccd2702c45893446c9fab09c77ecb90ce7085b09f5434a8efd96a9" length="168545989" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>På kanten af nyt, og dog</title>
+   <description>Tiden går som den plejer i samme tempo, hverken du eller jeg er blevet forandret siden i går. Så skulle det da lige være din sindstilstand, der kan pege i alle retninger alt efter, hvilken nytårsaften du har krydset. Natsværmeren tager dig blidt i hånden. 
+Vært: Minna Grooss.</description>
+   <itunes:duration>01:56:51</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 03:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2025/paa-kanten-af-nyt-og-dog-12422563013</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6943d4c52e0ce5f0a40cc868/8967145c6c886a5fc882890254ba2d64682840b68733eacdc776826aa049acb9" length="168269647" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
