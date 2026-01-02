@@ -6,6 +6,15 @@
   <description>Drømmer du om en morgenblid begyndelse, så står P2 parat. Vi vækker dig med lyden af den klassiske musik, alt det skønne, og vi garanterer en rolig start på dagen med masser af musikalsk medvind.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68c021bd1e226ed5abeb5278"/>
   <item>
+   <title>Torsdag 1. januar 2026</title>
+   <description>Drømmer du om en morgenblid begyndelse, så står P2 parat. Vi vækker dig med lyden af den klassiske musik, alt det skønne, og vi garanterer en rolig start på dagen med masser af musikalsk medvind.
+Vært: Rie Koch.</description>
+   <itunes:duration>01:21:51</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 07:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-morgen/klassisk-morgen/torsdag-1-januar-2026-12422638014</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2519b73064306f3bf6ed/99e82b37a80075c672b62b67e8f707e721e8a517109789a4e15af58ace524bb1" length="117870161" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Onsdag 31. december 2025</title>
    <description>Drømmer du om en morgenblid begyndelse, så står P2 parat. Vi vækker dig med lyden af den klassiske musik, al det skønne, og vi garanterer en rolig start på dagen med masser af musikalsk medvind.
 Vært: Claus Berthelsen.</description>
@@ -184,15 +193,6 @@ Vært: Tina Rømer.</description>
    <pubDate>Thu, 04 Dec 2025 06:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-morgen/klassisk-morgen/torsdag-4-december-2025-12422538494</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c7240923dffbb19763c6f/c7067ffc1701fcf6a13e5c3a096066f1936485104acd803b48334503d17f91f8" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Torsdag 1. januar 2026</title>
-   <description>Drømmer du om en morgenblid begyndelse, så står P2 parat. Vi vækker dig med lyden af den klassiske musik, alt det skønne, og vi garanterer en rolig start på dagen med masser af musikalsk medvind.
-Vært: Rie Koch.</description>
-   <itunes:duration>01:21:51</itunes:duration>
-   <pubDate>Thu, 01 Jan 2026 07:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-morgen/klassisk-morgen/torsdag-1-januar-2026-12422638014</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2519b73064306f3bf6ed/99e82b37a80075c672b62b67e8f707e721e8a517109789a4e15af58ace524bb1" length="117870161" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
