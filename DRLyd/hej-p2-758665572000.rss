@@ -6,6 +6,16 @@
   <description>Hej P2 er programmet hvor du kan dele dine oplevelser, erfaringer og betragtninger ud fra dagens emne. Sammen kortlægger og undersøger vi kulturen stort som småt. Vi giver dit input radiovinger, hvis du skriver til HejP2@dr.dk.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68bfde0e1a33e0e6472a4641"/>
   <item>
+   <title>Mørke stemmer</title>
+   <description>Vi dyrker de mørke stemmer i den klassiske musik, både de mandlige og de kvindelige. Hvad skal vi høre og hvorfor?  
+Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
+Vært: Benedikte Bové.</description>
+   <itunes:duration>01:24:14</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/moerke-stemmer-12422630015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2863af5ce96564306aae/5e079ef313bd7bbd6c58c53242dcd6d87f56e0ae2111313d991a4f89d1f6dc0e" length="121301384" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Højdepunkter</title>
    <description>I dag bliver Hej P2 ikke sendt live, så du kan ikke skrive ind. Til gengæld sender vi et mix af højdepunkter fra Hej P2.  
 Værter: Malene Wichmann.</description>
@@ -183,26 +193,6 @@ Vært: Cæcilie Iburg Printzlau.</description>
    <pubDate>Fri, 05 Dec 2025 08:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/brocher-og-manchetknapper-12422530495</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2a42e64822ed59473e8/ae6ef8b92e6b0ff8cd1e8e1a137b7b5167684996759ed09c7c18f67f5be05a1a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Varme drikke</title>
-   <description>Hvad putter du i koppen når det er koldt udenfor?  
-Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk  
-Vært: Cæcilie Iburg Printzlau.</description>
-   <itunes:duration>02:22:03</itunes:duration>
-   <pubDate>Thu, 04 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2025/varme-drikke-12422530494</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681ca2a31e0a1c49e0656104/e5fc2f1df69477b37b6a2487b36dc8fe0ee06a95f4829c38074c201a17658380" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Mørke stemmer</title>
-   <description>Vi dyrker de mørke stemmer i den klassiske musik, både de mandlige og de kvindelige. Hvad skal vi høre og hvorfor?  
-Vi giver dit input radiovinger hvis du skriver til hejp2@dr.dk 
-Vært: Benedikte Bové.</description>
-   <itunes:duration>01:24:14</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/hej-p2/hej-p2-2026/moerke-stemmer-12422630015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2863af5ce96564306aae/5e079ef313bd7bbd6c58c53242dcd6d87f56e0ae2111313d991a4f89d1f6dc0e" length="121301384" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
