@@ -7,6 +7,16 @@
 Vært:</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3fb09203efd78fa8c3bb5"/>
   <item>
+   <title>Torsdag 1. januar 2026</title>
+   <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
+Helt værk: Mozarts Klaverkoncert nr. 13 i C-dur med Katrine Gislinge og Stenhammarkvartetten. 
+Vært: Malena Rønnow.</description>
+   <itunes:duration>01:53:57</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 14:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2026/torsdag-1-januar-2026-12422636014</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2e04af5ce9656430a0e7/88eceb7e88c1a0e3d7cdc3df9b1a07d057b9603b733f365e0032c1ed4768cc60" length="164099380" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Onsdag 31. december 2025</title>
    <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
 Vært: Frederik Korfix.</description>
@@ -125,17 +135,6 @@ Vært: Malena Rønnow.</description>
    <pubDate>Fri, 26 Dec 2025 14:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2024/klassisk-julemix-12422436517</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:675a1ab2a94f4a15b97ad777/ea59be65d56b93f04ef2f941be4c3856362e23cbbb430f58d7e875cf56a4a1e0" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Klassisk Julemix</title>
-   <description>I Klassisk Julemix får du den perfekte playliste til din decemberdag. Mix'et kan med fordel bruges til klejnebagning, til juleindkøb eller til afslapning i julelysets skær. 
-Klassisk Julemix kan streames via DR Lyd eller nydes hver eftermiddag i din radio. 
-Helt værk: Julekantate af Telemann - Schmecket und sehet unsres Gottes Freundlichkeit - sunget og spillet af Kölner Akademiet med kor og solister, under ledelse af Michael Alexander Willens. 
-Vært: Max Fage-Pedersen.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Wed, 03 Dec 2025 14:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2024/klassisk-julemix-12422436515</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6757785d826a6ff7e0d86483/57d951231d0d0c5fe8b328498758d292b0efca62145351964b406fd9a232df45" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Klassisk Julemix</title>
@@ -289,16 +288,6 @@ Vært: Max Fage-Pedersen.</description>
    <pubDate>Tue, 16 Dec 2025 14:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2024/klassisk-julemix-12422436487</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:673e6af3034fbe8eda2417b0/ee66d67b81cfa3fceee2df3764f8079691830b63aaed39129e8e29f5b5475540" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Torsdag 1. januar 2026</title>
-   <description>Brug et mix af klassisk musik til en tur i skoven, til transporttid eller bare til en pause. P2 giver dig et godt mix, som kan streames via DR Lyd eller nydes hver eftermiddag i din radio.
-Helt værk: Mozarts Klaverkoncert nr. 13 i C-dur med Katrine Gislinge og Stenhammarkvartetten. 
-Vært: Malena Rønnow.</description>
-   <itunes:duration>01:53:57</itunes:duration>
-   <pubDate>Thu, 01 Jan 2026 14:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-mix/klassisk-mix-2026/torsdag-1-januar-2026-12422636014</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2e04af5ce9656430a0e7/88eceb7e88c1a0e3d7cdc3df9b1a07d057b9603b733f365e0032c1ed4768cc60" length="164099380" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>

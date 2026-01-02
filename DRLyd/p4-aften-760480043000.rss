@@ -7,6 +7,16 @@
 www.dr.dk/lyd/p4</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e433be682019fd19874e72"/>
   <item>
+   <title>Torsdag 1. januar 2026</title>
+   <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
+Vært: Anders Bisgaard. 
+www.dr.dk/lyd/p4</description>
+   <itunes:duration>03:55:00</itunes:duration>
+   <pubDate>Thu, 01 Jan 2026 18:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2026/torsdag-1-januar-2026-13652670014</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69318833b5054f05106fc584/2b1f21bf3a722219242e37233fe882175d214cc37bb41f2ef1804010eb0a6294" length="338401586" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Onsdag 31. december 2025</title>
    <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
 Vært: Torben Møller.
@@ -35,16 +45,6 @@ www.dr.dk/lyd/p4</description>
    <pubDate>Mon, 29 Dec 2025 18:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/mandag-29-december-2025-13652570011</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693177ddf813fbba90b29bba/556bd623ec938cf61d3f9632adf90a2abf7b3ac78b5b5689e5e087191c85aac3" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Søndag 28. december 2025</title>
-   <description>Samarbejde er nøgleordet i P4 Aften. For det er her, P4's lyttere supplerer playlisten, så programmet bliver et fælles projekt. Underholdende lytterhistorier, gode og overraskende sangvalg og ikke mindst P4's fantastiske musik udgør og skaber P4 Aften.
-Vært: Britt Berglund.
-www.dr.dk/lyd/p4</description>
-   <itunes:duration>03:57:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 18:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4/p4-aften/p4-aften-2025/soendag-28-december-2025-13652570527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6931718cf813fbba90b2661d/3fbe5f67a88e1bd0c66a18810928cc4c87a4cc8e8e1f736f8301d2601718d2c7" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
