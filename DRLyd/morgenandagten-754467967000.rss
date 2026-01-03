@@ -6,6 +6,20 @@
   <description>Hver dag direkte fra Københavns Domkirke.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68bfdfb7703bf1714843996c"/>
   <item>
+   <title>Fredag 2. januar 2026</title>
+   <description>Præludium: Johann Sebastian Bach: Das alte Jahr vergangen ist
+Fra det G.T.:	Salme 90, 5-12
+Salme: 712 &quot;Vær velkommen, Herrens år&quot;
+Fra det N.T.: Matthæusevangeliet 6, 8b-13
+Korvers: Carl Nielsen: Forunderligt at sige (Tekst: N.F.S. Grundtvig 1837)
+Salme: 716 &quot;Guds godhed vil vi prise&quot;
+Postludium: Georg Dietrich Leyding: Guds godhed vil vi prise</description>
+   <itunes:duration>00:24:56</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 08:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/fredag-2-januar-2026-11042605015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69302e974f22de874e08007c/abccd91583b4d7748a881d24ff07dcf9cb157461e8ceb6e70a19a3c43f44409d" length="35920366" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Onsdag 31. december 2025</title>
    <description>Præludium:	Johann Sebastian Bach: In dulci jubilo
 Davidssalme: Salme 90, 1-4
@@ -312,20 +326,6 @@ Postludium: Christa Rakich: Veni, veni, Emmanuel</description>
    <pubDate>Thu, 04 Dec 2025 08:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2025/torsdag-4-december-2025-11042505494</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68274c6c61175376c1099f9f/168841b53e86069064323c306824265ba0b6a197d772d0c10685d384b5043498" length="36037284" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Fredag 2. januar 2026</title>
-   <description>Præludium: Johann Sebastian Bach: Das alte Jahr vergangen ist
-Fra det G.T.:	Salme 90, 5-12
-Salme: 712 &quot;Vær velkommen, Herrens år&quot;
-Fra det N.T.: Matthæusevangeliet 6, 8b-13
-Korvers: Carl Nielsen: Forunderligt at sige (Tekst: N.F.S. Grundtvig 1837)
-Salme: 716 &quot;Guds godhed vil vi prise&quot;
-Postludium: Georg Dietrich Leyding: Guds godhed vil vi prise</description>
-   <itunes:duration>00:24:56</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 08:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2026/fredag-2-januar-2026-11042605015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69302e974f22de874e08007c/abccd91583b4d7748a881d24ff07dcf9cb157461e8ceb6e70a19a3c43f44409d" length="35920366" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
