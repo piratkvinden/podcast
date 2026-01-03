@@ -6,14 +6,6 @@
   <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e5d860d5634992e7275725"/>
   <item>
-   <title>Lørdag 3. januar 2026</title>
-   <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
-   <itunes:duration>02:57:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 06:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn/p4-weekend-koebenhavn-2026/loerdag-3-januar-2026-14802640016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6932a70df813fbba90bccc03/146a7e5cb61390cf9c71d3a03f3d63a524656522989738d060354a991378209e" length="254881516" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Søndag 28. december 2025</title>
    <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
    <itunes:duration>02:57:00</itunes:duration>
@@ -220,6 +212,14 @@
    <pubDate>Sat, 04 Oct 2025 06:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn/p4-weekend-koebenhavn/loerdag-4-oktober-2025-14802540406</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68495b7c864cf94f951c5327/7bcd046bf2ff0d8c631f560192071e72e57b17fad679942bc176b0997895616c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Lørdag 3. januar 2026</title>
+   <description>I P4 Weekend København har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+   <itunes:duration>02:57:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 06:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4kbh/p4-weekend-koebenhavn/p4-weekend-koebenhavn-2026/loerdag-3-januar-2026-14802640016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6932a70df813fbba90bccc03/146a7e5cb61390cf9c71d3a03f3d63a524656522989738d060354a991378209e" length="254881516" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
