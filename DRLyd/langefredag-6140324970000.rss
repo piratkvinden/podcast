@@ -6,14 +6,6 @@
   <description>God is a DJ. Emil Lange er også en DJ. Tilfældigt? Det tror vi næppe, men i hvert fald kan din fredag godt blive højere, vildere og lidt.. længere.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6d59d8e43b46d283944ca"/>
   <item>
-   <title>Fredag 2. januar 2026</title>
-   <description>God is a DJ. Emil Lange er også en DJ. Tilfældigt? Det tror vi næppe, men i hvert fald kan din fredag godt blive højere, vildere og lidt.. længere.</description>
-   <itunes:duration>01:57:00</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 16:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/langefredag/langefredag/fredag-2-januar-2026-13332618015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693160f2ab1506d5aeb61ce5/9a7bc05053299303057286272f6a085d3c8634db710a80c8966da04d55ec598c" length="168482060" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Onsdag 31. december 2025</title>
    <description>God is a DJ. Emil Lange er også en DJ. Tilfældigt? Det tror vi næppe, men i hvert fald kan din fredag godt blive højere, vildere og lidt.. længere.</description>
    <itunes:duration>02:00:00</itunes:duration>
@@ -156,6 +148,14 @@
    <pubDate>Fri, 22 Aug 2025 07:00:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p3/langefredag/langefredag/tilbage-fra-ferie-13332518345</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68400e455f16b69830a472ce/7f3b9f1b22f193b75182a5d6d54635a0625329edf023ea1bc86ada9cb10dd74c" length="173509964" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Fredag 2. januar 2026</title>
+   <description>God is a DJ. Emil Lange er også en DJ. Tilfældigt? Det tror vi næppe, men i hvert fald kan din fredag godt blive højere, vildere og lidt.. længere.</description>
+   <itunes:duration>01:57:00</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 16:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p3/langefredag/langefredag/fredag-2-januar-2026-13332618015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693160f2ab1506d5aeb61ce5/9a7bc05053299303057286272f6a085d3c8634db710a80c8966da04d55ec598c" length="168482060" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
