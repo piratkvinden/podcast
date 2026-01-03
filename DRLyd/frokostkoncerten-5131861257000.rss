@@ -7,15 +7,6 @@
 Velbekomme.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:68bfddd2703bf171484380b6"/>
   <item>
-   <title>Pianisten Alexandre Tharaud</title>
-   <description>Pianisten Alexandre Tharaud giver en koncert i Wigmore Hall i et soloprogram, der bevæger sig fra Mozarts klaversonate i A-dur til franske chansons og improvisationer inspireret af Poulenc, Brel, Trenet og nyere fransk musik. Et klaverportræt af Paris. 
-Vært: Magnus Larsson.</description>
-   <itunes:duration>00:57:01</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 13:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten-2026/pianisten-alexandre-tharaud-12422635015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2bb3ab13616ad97b9dec/2dc88391a58065e3bfea37512b4f976a61e5e691984806f96ca476573c1c9626" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
    <title>Mahlers 1. symfoni</title>
    <description>Prags Symfoniorkester spiller Gustav Mahlers 1. symfoni dirigeret af Tomás Netopil ved hans tiltrædelseskoncert i Smetana-salen i Prag. En tidlig symfoni, hvor Mahler forener naturstemninger, folkelige elementer og dramatisk spændvidde i et stort symfonisk forløb. 
 Vært: Magnus Larsson.</description>
@@ -163,6 +154,15 @@ Vært: Magnus Larsson.</description>
    <pubDate>Mon, 22 Dec 2025 13:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten-2025/tjajkovskijs-aarstiderne-12422535293</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681c756f923dffbb19765818/4305b2c2ba9b2bc49a5016fef998e2eca5dcb66820b17c96b22fad4f4afed0c5" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Pianisten Alexandre Tharaud</title>
+   <description>Pianisten Alexandre Tharaud giver en koncert i Wigmore Hall i et soloprogram, der bevæger sig fra Mozarts klaversonate i A-dur til franske chansons og improvisationer inspireret af Poulenc, Brel, Trenet og nyere fransk musik. Et klaverportræt af Paris. 
+Vært: Magnus Larsson.</description>
+   <itunes:duration>00:57:01</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 13:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/frokostkoncerten/frokostkoncerten-2026/pianisten-alexandre-tharaud-12422635015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693b2bb3ab13616ad97b9dec/2dc88391a58065e3bfea37512b4f976a61e5e691984806f96ca476573c1c9626" length="0" type="audio/x-m4a"/>
   </item>
  </channel>
 </rss>
