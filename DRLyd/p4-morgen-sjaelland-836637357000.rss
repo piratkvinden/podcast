@@ -6,14 +6,6 @@
   <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e4dc8dc755587518300a39"/>
   <item>
-   <title>Fredag 2. januar 2026</title>
-   <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
-   <itunes:duration>03:55:00</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 06:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/fredag-2-januar-2026-14702620015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693c00efdd230788a87f8443/369d1cc1bf699df90dbc5f12951af9b0f1e1d0bba89ca5096b12d72a59f263eb" length="338401531" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Tirsdag 30. december 2025</title>
    <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
    <itunes:duration>03:55:00</itunes:duration>
@@ -268,6 +260,14 @@
    <pubDate>Thu, 13 Nov 2025 06:05:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/torsdag-13-november-2025-14702520464</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:683577735f16b698305dfe39/4118498f5cba95714cdaac413649bd067f0c52853e3425b7e5538a86e960db82" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Fredag 2. januar 2026</title>
+   <description>Stå op med P4 Morgen Sjælland og få dagens vigtigste nyheder serveret med god musik til morgenkaffen. Her har vi altid øjnene på vejen, vejret og verden, så du kan komme godt i gang med din dag.</description>
+   <itunes:duration>03:55:00</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 06:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-morgen-sjaelland/p4-morgen-sjaelland/fredag-2-januar-2026-14702620015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693c00efdd230788a87f8443/369d1cc1bf699df90dbc5f12951af9b0f1e1d0bba89ca5096b12d72a59f263eb" length="338401531" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
