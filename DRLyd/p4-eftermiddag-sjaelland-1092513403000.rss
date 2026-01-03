@@ -6,6 +6,14 @@
   <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e40921226a8a5d24027228"/>
   <item>
+   <title>Fredag 2. januar 2026</title>
+   <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
+   <itunes:duration>01:55:00</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 16:05:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/fredag-2-januar-2026-14702630015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693c06e4b73064306f444d3f/b1d8dd5a984203bcf9640f955d774bd75e333334a1e146da0969f20dd17d8654" length="165601478" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Tirsdag 30. december 2025</title>
    <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
    <itunes:duration>02:57:00</itunes:duration>
@@ -260,14 +268,6 @@
    <pubDate>Wed, 12 Nov 2025 15:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/onsdag-12-november-2025-14702530463</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68357881b55477aa472a2c8d/2e289b35425e4a8f4f06267e08bcca67af67a6ccba940543895f6028ee60dec6" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Fredag 2. januar 2026</title>
-   <description>P4 Eftermiddag Sjælland er dit soundtrack til en god tur hjem. Vi er både din vejviser i trafikken og i den dag, der er ved at være gået.</description>
-   <itunes:duration>01:55:00</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 16:05:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4sjaelland/p4-eftermiddag-sjaelland/p4-eftermiddag-sjaelland/fredag-2-januar-2026-14702630015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:693c06e4b73064306f444d3f/b1d8dd5a984203bcf9640f955d774bd75e333334a1e146da0969f20dd17d8654" length="165601478" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
