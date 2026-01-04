@@ -8,6 +8,16 @@
 Vært: Jørgen de Mylius.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e6e4588b2e4877edcf62dc"/>
   <item>
+   <title>Lørdag 3. januar 2026</title>
+   <description>De gode historier og fantastiske hits, med omdrejningspunkt i
+80'erne.
+Vært: Jørgen de Mylius.</description>
+   <itunes:duration>01:54:04</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 16:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/eldorado/eldorado-2026/loerdag-3-januar-2026-15452624016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936b4408a7db5ac6517c867/643a367e640401a2a05df27c0165665341f0795aa6b986e13656dd834b8724ae" length="164263952" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Lørdag 27. december 2025</title>
    <description>De gode historier og fantastiske hits, med omdrejningspunkt i
 80'erne.
@@ -206,16 +216,6 @@ Vært: Jørgen de Mylius.</description>
    <pubDate>Sat, 16 Aug 2025 16:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p5/eldorado/eldorado/loerdag-16-aug-2025-15452524336</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6824a124eb2a3af3ddee7e8e/13fcf5cb1d7648b7464ef02ac6841c2ae502e846cadb4d38c2133b03a226a277" length="164265104" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Lørdag 3. januar 2026</title>
-   <description>De gode historier og fantastiske hits, med omdrejningspunkt i
-80'erne.
-Vært: Jørgen de Mylius.</description>
-   <itunes:duration>01:54:04</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 16:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p5/eldorado/eldorado-2026/loerdag-3-januar-2026-15452624016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936b4408a7db5ac6517c867/643a367e640401a2a05df27c0165665341f0795aa6b986e13656dd834b8724ae" length="164263952" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
