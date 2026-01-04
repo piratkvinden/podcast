@@ -6,180 +6,84 @@
   <description>Hør seneste regionale nyheder fra P4 Bornholm.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3c92abb2e9899b2c17c91"/>
   <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182eb052e78b6ec4170a7/fc5808210c0a4915ff66c5308a875369537ccf2b4a03951feca0fc52b59d6c85" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817ca0451cdf26d9c227/303934151ddcfc8fa822cb13110e23b3d997e9d5103473516d047029d407ea4e" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1e9/ced80676d41a58374ad2ebf8e6fc0f384f26be3740e78e34339dc61a4e83b2a2" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bda35191597f7dbafce/107ddc539fcd690676928b1d4e341e5b3ca063cff2d168d227c8de40bb2e4981" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305df919464da63263a188/e44c18a6e6f76d57a26a998baeb1ae350cb115589bc149e013925aa05fe3d034" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sun, 28 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507527</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fd935191597f7daf59b/d64c30ea1303194aa4d55cb35a074b9c2132144e3fc5809f1aea8f028182344e" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
    <title>Seneste nyt kl. 17:30</title>
    <description>Seneste nyt kl. 17:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-17-30-14902517012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418e7d052e78b6ec41c952/c8e4d91bd9012cc554184fff2e4d199b553cc07c1db4b845dd16cc8aed35ac46" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-17-30-14902517011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418e8f052e78b6ec41cb11/89107dd9c36ef2ae952a9e08d2998c0ab0afb9c0bf55477b9a09c243209f8a8b" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 16:30</title>
    <description>Seneste nyt kl. 16:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-16-30-14902516012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418cf4a0451cdf26da1499/cfcced9e4f6b626473df41a323600e2b1b32a081609bafa5ff1815e532d05092" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-16-30-14902516011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418cf4052e78b6ec41bc0b/583cb538e8c2dc4837f938f5cf09d7bd1920cd3aec024c908de8540800a660a7" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 15:30</title>
    <description>Seneste nyt kl. 15:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-15-30-14902515012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841867d052e78b6ec418a0b/c510e1a1e47e5967783eccecce05a2b30e7126784192f934900e8107a301a066" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-15-30-14902515011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418671052e78b6ec418912/39ea54d00e4d4992d69fd49d1ad4f2b582a36a6c5ae149abf10df3f3e5a253a3" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
    <description>Seneste nyt kl. 12:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182f2052e78b6ec41715c/a3796207c677c460d1296429d343d7dae2a4ef95856858efc74db3bf061bcfd3" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182f21e62b894ffee1602/1ed1409cfeda8ec49352678d702f1521ca9fcd6979fbf4b04ef520aad2af8e19" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 11:30</title>
    <description>Seneste nyt kl. 11:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817ca0451cdf26d9c23f/47060490286c26a6b449bbc1294d0963f104cd322c7c5efc54997cac4cba0f37" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817c052e78b6ec416194/4300351f33518ab38248e2c9b08363bcc79e784aa3e7051f078805367d5dbffe" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 10:30</title>
    <description>Seneste nyt kl. 10:30</description>
    <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1f3/290675650da1abf488859c9b5f8d2bf3fe9f7eb7fef59e64023d2f86d6d5f672" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1ee/474c0e24bca6bbdb79dfde18c2106c9d45c6286820c9959a86d5dff3cf554c82" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 09:30</title>
    <description>Seneste nyt kl. 09:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bb735191597f7dbad36/9d5068141cdb7fccaa2873e9502d9b35cfc34fba74c236cf65f454103a48ce94" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bdd35191597f7dbb00b/048041cfc0af1aa1ad3dfcf7e82c08f3ce6a9950e93c190f13db8bdabab487f7" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 08:30</title>
    <description>Seneste nyt kl. 08:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305dd8745c445518aa0b8a/8e615c4ab3dd2054350ad2c3e31a5379280b7481bb363b5236e72fe0ee3699fd" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305df935191597f7db53e9/c630dff994172ea773a44f89c484fbb3c056f7be6f1fe22f0c0e9cb5b590264a" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 07:30</title>
    <description>Seneste nyt kl. 07:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fa535191597f7daf14a/22a7dc41ac6ada85d0c3fc6bd1eb82fae84b2e584ff7037eb909f092c07e45ca" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fcabc0c69d54d97ac1c/dcc5a956651dacf460dc7780bd18993e9d7d76d22d62f28dc34575f13a8c2667" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 06:30</title>
    <description>Seneste nyt kl. 06:30</description>
    <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Tue, 30 Dec 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-06-30-14902506012</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830496435191597f7dabede/1af18428ea9fac3e015bdf1d14557bc57272904c65ab447c3ca329c649ecbf71" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cd59c01c3514d76d2de6/cf8689f671fbb311a5f894e37235ed4e821e3c62af170dc0983b9412347cc7b6" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cca250790136dd30c381/57f6ed99d3a0db48b1dbf09dfd308841af6ba26c85c98fa8530a834e13f7a55c" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cbf350790136dd30bf3e/5f6b2900803edd7d28291aa1b36414e991fe45c45a38154bac9ac0e7ae10a2c3" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68429b8d052e78b6ec48cdbc/6b1edadc0631bac15f2f92d5ff6a93ee047beee28e5f239e74ba28b9c2fced85" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68429a8faa20285ecb59bc7e/ced2823d2906e64bf75bba20569cdf07eea035f24c8f3f36694931621a05cad0" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Wed, 31 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507528</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842997d510aaca93ec7a2da/2c7d00c5e15717b5fde9900c377b5fb4fe190629b50c548e16c5a0a48d6b18cf" length="0" type="audio/x-m4a"/>
+   <pubDate>Mon, 29 Dec 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-06-30-14902506011</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830496935191597f7dabf61/a2766e756fb4fd415f81778b3f372daebb47a90e8cee192bc4cc469a2348804d" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>
@@ -438,6 +342,230 @@
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305df9ec4088ab33618df4/a7f7c308a8714015afa029dc1f21ac4f5e0f68554c94aa48ecb0bfefd29e1357" length="0" type="audio/x-m4a"/>
   </item>
   <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182eb052e78b6ec4170a7/fc5808210c0a4915ff66c5308a875369537ccf2b4a03951feca0fc52b59d6c85" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817ca0451cdf26d9c227/303934151ddcfc8fa822cb13110e23b3d997e9d5103473516d047029d407ea4e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1e9/ced80676d41a58374ad2ebf8e6fc0f384f26be3740e78e34339dc61a4e83b2a2" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bda35191597f7dbafce/107ddc539fcd690676928b1d4e341e5b3ca063cff2d168d227c8de40bb2e4981" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305df919464da63263a188/e44c18a6e6f76d57a26a998baeb1ae350cb115589bc149e013925aa05fe3d034" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sun, 28 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507527</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fd935191597f7daf59b/d64c30ea1303194aa4d55cb35a074b9c2132144e3fc5809f1aea8f028182344e" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cd59c01c3514d76d2de6/cf8689f671fbb311a5f894e37235ed4e821e3c62af170dc0983b9412347cc7b6" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cca250790136dd30c381/57f6ed99d3a0db48b1dbf09dfd308841af6ba26c85c98fa8530a834e13f7a55c" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842cbf350790136dd30bf3e/5f6b2900803edd7d28291aa1b36414e991fe45c45a38154bac9ac0e7ae10a2c3" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68429b8d052e78b6ec48cdbc/6b1edadc0631bac15f2f92d5ff6a93ee047beee28e5f239e74ba28b9c2fced85" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68429a8faa20285ecb59bc7e/ced2823d2906e64bf75bba20569cdf07eea035f24c8f3f36694931621a05cad0" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Wed, 31 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507528</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6842997d510aaca93ec7a2da/2c7d00c5e15717b5fde9900c377b5fb4fe190629b50c548e16c5a0a48d6b18cf" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902612016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ad88fc35e717a3ec482f/3d70fc79e255682e663a51c09c4d53e835045d50ec3f9775b7e7e0dcaef0ea5a" length="2881321" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902611016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ac5d3168f8cb3d8b88e5/1b8007dc1f22f4a582dbe9c89894ee5fb42159d965e29c9503597d0ec8df5684" length="2881897" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902610016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ab59fc35e717a3ec21ea/d018695d889cc4c041aec16271a411b612686083a73a394eb3a50c50bb47222f" length="2881897" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902609016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936aa6e3168f8cb3d8b6d06/b53aebae26d9ee061cbe9be9ce2e25c4456b4f216a015cdeb36260f758696bb7" length="2881897" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902608016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936a4fbfc35e717a3ebd79c/43aa661fdc9b7c2fbe7ca14199e7cede284ad91cbf9a23e6683539a5f432b3e9" length="2881897" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902607016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69369f85fc35e717a3eb9d5c/8c82e3a6fc30ce44e3f672070143c85665c4292c29bc1d8cfdbb61de8cb7aab3" length="2881321" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 17:30</title>
+   <description>Seneste nyt kl. 17:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 17:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-17-30-14902517012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418e7d052e78b6ec41c952/c8e4d91bd9012cc554184fff2e4d199b553cc07c1db4b845dd16cc8aed35ac46" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 16:30</title>
+   <description>Seneste nyt kl. 16:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 16:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-16-30-14902516012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418cf4a0451cdf26da1499/cfcced9e4f6b626473df41a323600e2b1b32a081609bafa5ff1815e532d05092" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 15:30</title>
+   <description>Seneste nyt kl. 15:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 15:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-15-30-14902515012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841867d052e78b6ec418a0b/c510e1a1e47e5967783eccecce05a2b30e7126784192f934900e8107a301a066" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 12:30</title>
+   <description>Seneste nyt kl. 12:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 12:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182f2052e78b6ec41715c/a3796207c677c460d1296429d343d7dae2a4ef95856858efc74db3bf061bcfd3" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 11:30</title>
+   <description>Seneste nyt kl. 11:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 11:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817ca0451cdf26d9c23f/47060490286c26a6b449bbc1294d0963f104cd322c7c5efc54997cac4cba0f37" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 10:30</title>
+   <description>Seneste nyt kl. 10:30</description>
+   <itunes:duration>00:02:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 10:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1f3/290675650da1abf488859c9b5f8d2bf3fe9f7eb7fef59e64023d2f86d6d5f672" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 09:30</title>
+   <description>Seneste nyt kl. 09:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 09:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bb735191597f7dbad36/9d5068141cdb7fccaa2873e9502d9b35cfc34fba74c236cf65f454103a48ce94" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 08:30</title>
+   <description>Seneste nyt kl. 08:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305dd8745c445518aa0b8a/8e615c4ab3dd2054350ad2c3e31a5379280b7481bb363b5236e72fe0ee3699fd" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 07:30</title>
+   <description>Seneste nyt kl. 07:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 07:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fa535191597f7daf14a/22a7dc41ac6ada85d0c3fc6bd1eb82fae84b2e584ff7037eb909f092c07e45ca" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
+   <title>Seneste nyt kl. 06:30</title>
+   <description>Seneste nyt kl. 06:30</description>
+   <itunes:duration>00:03:00</itunes:duration>
+   <pubDate>Tue, 30 Dec 2025 06:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-06-30-14902506012</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830496435191597f7dabede/1af18428ea9fac3e015bdf1d14557bc57272904c65ab447c3ca329c649ecbf71" length="0" type="audio/x-m4a"/>
+  </item>
+  <item>
    <title>Seneste nyt kl. 17:30</title>
    <description>Seneste nyt kl. 17:30</description>
    <itunes:duration>00:03:00</itunes:duration>
@@ -516,134 +644,6 @@
    <pubDate>Fri, 02 Jan 2026 06:30:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-06-30-14902606015</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936a051fc35e717a3eba751/3de54947237a2931a4414a1c72ca315c42ba3b0dbf46755435f8c76954418ec0" length="4321321" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 17:30</title>
-   <description>Seneste nyt kl. 17:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 17:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-17-30-14902517011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418e8f052e78b6ec41cb11/89107dd9c36ef2ae952a9e08d2998c0ab0afb9c0bf55477b9a09c243209f8a8b" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 16:30</title>
-   <description>Seneste nyt kl. 16:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 16:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-16-30-14902516011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418cf4052e78b6ec41bc0b/583cb538e8c2dc4837f938f5cf09d7bd1920cd3aec024c908de8540800a660a7" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 15:30</title>
-   <description>Seneste nyt kl. 15:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 15:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-15-30-14902515011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68418671052e78b6ec418912/39ea54d00e4d4992d69fd49d1ad4f2b582a36a6c5ae149abf10df3f3e5a253a3" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902512011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:684182f21e62b894ffee1602/1ed1409cfeda8ec49352678d702f1521ca9fcd6979fbf4b04ef520aad2af8e19" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902511011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6841817c052e78b6ec416194/4300351f33518ab38248e2c9b08363bcc79e784aa3e7051f078805367d5dbffe" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902510011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830737f331075f5c307c1ee/474c0e24bca6bbdb79dfde18c2106c9d45c6286820c9959a86d5dff3cf554c82" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902509011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68306bdd35191597f7dbb00b/048041cfc0af1aa1ad3dfcf7e82c08f3ce6a9950e93c190f13db8bdabab487f7" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902508011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68305df935191597f7db53e9/c630dff994172ea773a44f89c484fbb3c056f7be6f1fe22f0c0e9cb5b590264a" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902507011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:68304fcabc0c69d54d97ac1c/dcc5a956651dacf460dc7780bd18993e9d7d76d22d62f28dc34575f13a8c2667" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 06:30</title>
-   <description>Seneste nyt kl. 06:30</description>
-   <itunes:duration>00:03:00</itunes:duration>
-   <pubDate>Mon, 29 Dec 2025 06:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-06-30-14902506011</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6830496935191597f7dabf61/a2766e756fb4fd415f81778b3f372daebb47a90e8cee192bc4cc469a2348804d" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 12:30</title>
-   <description>Seneste nyt kl. 12:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 12:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-12-30-14902612016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ad88fc35e717a3ec482f/3d70fc79e255682e663a51c09c4d53e835045d50ec3f9775b7e7e0dcaef0ea5a" length="2881321" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 11:30</title>
-   <description>Seneste nyt kl. 11:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 11:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-11-30-14902611016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ac5d3168f8cb3d8b88e5/1b8007dc1f22f4a582dbe9c89894ee5fb42159d965e29c9503597d0ec8df5684" length="2881897" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 10:30</title>
-   <description>Seneste nyt kl. 10:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 10:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-10-30-14902610016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936ab59fc35e717a3ec21ea/d018695d889cc4c041aec16271a411b612686083a73a394eb3a50c50bb47222f" length="2881897" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 09:30</title>
-   <description>Seneste nyt kl. 09:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 09:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-09-30-14902609016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936aa6e3168f8cb3d8b6d06/b53aebae26d9ee061cbe9be9ce2e25c4456b4f216a015cdeb36260f758696bb7" length="2881897" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 08:30</title>
-   <description>Seneste nyt kl. 08:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-08-30-14902608016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6936a4fbfc35e717a3ebd79c/43aa661fdc9b7c2fbe7ca14199e7cede284ad91cbf9a23e6683539a5f432b3e9" length="2881897" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Seneste nyt kl. 07:30</title>
-   <description>Seneste nyt kl. 07:30</description>
-   <itunes:duration>00:02:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 07:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4bornholm/p4-bornholm-regionale-nyheder/p4-bornholm-regionale-nyheder/seneste-nyt-kl-07-30-14902607016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69369f85fc35e717a3eb9d5c/8c82e3a6fc30ce44e3f672070143c85665c4292c29bc1d8cfdbb61de8cb7aab3" length="2881321" type="audio/mpeg"/>
   </item>
   <item>
    <title>Seneste nyt kl. 12:30</title>

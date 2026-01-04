@@ -7,6 +7,14 @@
 Siesta byder på 45 minutters musikmix i en udvalgt stemning, så du kan plukke det mix, der passer til din pause.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e3e1f98936e4f519ad9831"/>
   <item>
+   <title>Fredag 2. januar 2026</title>
+   <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning.</description>
+   <itunes:duration>00:45:02</itunes:duration>
+   <pubDate>Fri, 02 Jan 2026 12:15:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/fredag-2-januar-2026-12422633015</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69416177695fcbe0fa0ba5ad/a68308c734184af5fa0b76f9dbc7be9e1b57116431ae00da7b91083203a9f4a5" length="64868293" type="audio/mpeg"/>
+  </item>
+  <item>
    <title>Mandag 22. december 2025</title>
    <description>Siesta er i rolig mandagsstemning. Til dig der har brug for at starte dagen roligt eller få pulsen ned og slappe af. Tag nogle dybe vejrtrækninger til den rolige musik.
 Vært: Carsten Wolf Andersen.</description>
@@ -68,15 +76,6 @@ Vært: Claus Berthelsen.</description>
    <pubDate>Mon, 08 Dec 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/mandag-8-december-2025-12422533501</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cbcd0923dffbb1978492e/8574589ab9549ceb61a097ab114e52e1e5df4365817433292c54cfd2ce920066" length="64872375" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Fredag 5. december 2025</title>
-   <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning.
-Vært: Carsten Wolf Andersen.</description>
-   <itunes:duration>00:45:00</itunes:duration>
-   <pubDate>Fri, 05 Dec 2025 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/fredag-5-december-2025-12422533495</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cbf0ba75c4b58350f2528/08fa600f445bf41cb5646be7e952d3d4cb17a7ecfdfb9c95856bf1e65a7d5c9a" length="0" type="audio/x-m4a"/>
   </item>
   <item>
    <title>Tirsdag 14. oktober 2025</title>
@@ -149,14 +148,6 @@ Vært: Claus Berthelsen.</description>
    <pubDate>Wed, 31 Dec 2025 12:15:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/onsdag-13-august-2025-12422533333</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cbd7f923dffbb19784e65/dff539912d6699e994c35c2be2ba3330725a9ba2dd71aa44f36c2925f9b163f9" length="0" type="audio/x-m4a"/>
-  </item>
-  <item>
-   <title>Fredag 2. januar 2026</title>
-   <description>Siesta er fuld af musik der klinger optimistisk, med ukuelig tro på det hele i en glædesfuld tone. Siesta til den perfekte fredagsstemning.</description>
-   <itunes:duration>00:45:02</itunes:duration>
-   <pubDate>Fri, 02 Jan 2026 12:15:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/siesta/siesta/fredag-2-januar-2026-12422633015</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69416177695fcbe0fa0ba5ad/a68308c734184af5fa0b76f9dbc7be9e1b57116431ae00da7b91083203a9f4a5" length="64868293" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
