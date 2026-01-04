@@ -6,22 +6,6 @@
   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e78d178b2e4877edd3b4e6"/>
   <item>
-   <title>Lørdag 3. januar 2026</title>
-   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-   <itunes:duration>01:25:03</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 08:30:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2026/loerdag-3-januar-2026-12422632601</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69415299b73064306f7377d0/d9e2915d1f4cf2b45bbaf1f7b77ce9f5a2a9ba0229294bc8b67010440bcbcf18" length="122487260" type="audio/mpeg"/>
-  </item>
-  <item>
-   <title>Lørdag 3. januar 2026</title>
-   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
-   <itunes:duration>00:57:01</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 07:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2026/loerdag-3-januar-2026-12422632016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694150ae695fcbe0fa0b0f0c/389a5b9410a2948a683143609735d5f6d2e92b72ebf6c2346284fe520dee9a1a" length="82114268" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Søndag 28. december 2025</title>
    <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
    <itunes:duration>01:52:02</itunes:duration>
@@ -140,6 +124,30 @@
    <pubDate>Sat, 06 Dec 2025 07:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2025/loerdag-6-december-2025-12422532496</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:681cb27a9d746747fa4d3b8e/34b7d266b56562274461e4af8bc3c03645a7aac9b8ab11e1f5cd177e146dc642" length="67752284" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Søndag 4. januar 2026</title>
+   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
+   <itunes:duration>01:52:04</itunes:duration>
+   <pubDate>Sun, 04 Jan 2026 07:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2026/soendag-4-januar-2026-12422632017</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694150aeab13616ad9b0ee1a/d73a822c1737f1e91e9c74f893043fca0c0c2906ff20f1d8400724f9b7d430ef" length="161394908" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 3. januar 2026</title>
+   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
+   <itunes:duration>01:25:03</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 08:30:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2026/loerdag-3-januar-2026-12422632601</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:69415299b73064306f7377d0/d9e2915d1f4cf2b45bbaf1f7b77ce9f5a2a9ba0229294bc8b67010440bcbcf18" length="122487260" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 3. januar 2026</title>
+   <description>Nyd weekendens rolige morgenstund i selskab med den klassiske musik og din morgenvært Rie Koch.</description>
+   <itunes:duration>00:57:01</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 07:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p2/klassisk-weekend/klassisk-weekend-2026/loerdag-3-januar-2026-12422632016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:694150ae695fcbe0fa0b0f0c/389a5b9410a2948a683143609735d5f6d2e92b72ebf6c2346284fe520dee9a1a" length="82114268" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>

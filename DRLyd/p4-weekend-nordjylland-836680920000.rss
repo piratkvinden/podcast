@@ -6,14 +6,6 @@
   <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
   <itunes:image href="https://asset.dr.dk/drlyd/images/urn:dr:radio:image:67e5d850d5634992e727560b"/>
   <item>
-   <title>Lørdag 3. januar 2026</title>
-   <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
-   <itunes:duration>02:57:00</itunes:duration>
-   <pubDate>Sat, 03 Jan 2026 06:03:00 +0000</pubDate>
-   <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-weekend-nordjylland/p4-weekend-nordjylland/loerdag-3-januar-2026-14102640016</guid>
-   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6942a44aab13616ad9bc3ccf/c0ccb3affebda8a788d7b1a603ab21faa1954762c1554ac48fce36607946a5de" length="254881517" type="audio/mpeg"/>
-  </item>
-  <item>
    <title>Søndag 28. december 2025</title>
    <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
    <itunes:duration>02:57:00</itunes:duration>
@@ -220,6 +212,14 @@
    <pubDate>Sat, 04 Oct 2025 06:03:00 +0000</pubDate>
    <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-weekend-nordjylland/p4-weekend-nordjylland/loerdag-4-oktober-2025-14102540406</guid>
    <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6835b9e42056b79e0666f630/083b9f643fd2d3a2ad628fbe29335f515478875c4823f10309e7e825599d8211" length="254881517" type="audio/mpeg"/>
+  </item>
+  <item>
+   <title>Lørdag 3. januar 2026</title>
+   <description>I P4 Weekend Nordjylland har vi god tid til at vågne, til at nyde musikken sammen og til at forstå, hvad der er sket i løbet af ugen - så du er klar til en dejlig fridag med familien.</description>
+   <itunes:duration>02:57:00</itunes:duration>
+   <pubDate>Sat, 03 Jan 2026 06:03:00 +0000</pubDate>
+   <guid isPermaLink="false">https://www.dr.dk/lyd/p4nord/p4-weekend-nordjylland/p4-weekend-nordjylland/loerdag-3-januar-2026-14102640016</guid>
+   <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6942a44aab13616ad9bc3ccf/c0ccb3affebda8a788d7b1a603ab21faa1954762c1554ac48fce36607946a5de" length="254881517" type="audio/mpeg"/>
   </item>
  </channel>
 </rss>
